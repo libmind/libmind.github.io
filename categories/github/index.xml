@@ -1,0 +1,34 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Github - 分类 - libmind</title>
+        <link>/categories/github/</link>
+        <description>Github - 分类 - libmind</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 15 Mar 2022 13:30:50 &#43;0800</lastBuildDate><atom:link href="/categories/github/" rel="self" type="application/rss+xml" /><item>
+    <title>如何接收Pull Request</title>
+    <link>/merge_pull_request/</link>
+    <pubDate>Tue, 15 Mar 2022 13:30:50 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/merge_pull_request/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/doraemonj.github.io/pics/guide_003_pull_request.png" referrerpolicy="no-referrer">
+            </div>自建图书馆第2步：注册Github Pages]]></description>
+</item><item>
+    <title>如何注册Github Pages</title>
+    <link>/create_github_pages/</link>
+    <pubDate>Mon, 14 Mar 2022 16:04:50 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/create_github_pages/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/doraemonj.github.io/pics/guide_002_create_github_pages.png" referrerpolicy="no-referrer">
+            </div>自建图书馆第2步：注册Github Pages]]></description>
+</item><item>
+    <title>如何注册Github帐号</title>
+    <link>/create_github_account/</link>
+    <pubDate>Sun, 13 Mar 2022 16:14:50 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/create_github_account/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/doraemonj.github.io/pics/guide_001_create_github_account.png" referrerpolicy="no-referrer">
+            </div>自建图书馆第1步：拥有Github帐号]]></description>
+</item></channel>
+</rss>

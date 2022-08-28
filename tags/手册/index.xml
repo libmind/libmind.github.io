@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>手册 - 标签 - libmind</title>
+        <link>/tags/%E6%89%8B%E5%86%8C/</link>
+        <description>手册 - 标签 - libmind</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 04 Feb 2022 10:07:48 &#43;0800</lastBuildDate><atom:link href="/tags/%E6%89%8B%E5%86%8C/" rel="self" type="application/rss+xml" /><item>
+    <title>Calibre 快速入门指南</title>
+    <link>/calibre_quick_start/</link>
+    <pubDate>Fri, 04 Feb 2022 10:07:48 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/calibre_quick_start/</guid>
+    <description><![CDATA[Calibre Quick Start Guide]]></description>
+</item></channel>
+</rss>

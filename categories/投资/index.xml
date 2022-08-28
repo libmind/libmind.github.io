@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>投资 - 分类 - libmind</title>
+        <link>/categories/%E6%8A%95%E8%B5%84/</link>
+        <description>投资 - 分类 - libmind</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 05 Jun 2022 23:40:34 &#43;0800</lastBuildDate><atom:link href="/categories/%E6%8A%95%E8%B5%84/" rel="self" type="application/rss+xml" /><item>
+    <title>清算：华尔街的民族志</title>
+    <link>/liquidated/</link>
+    <pubDate>Sun, 05 Jun 2022 23:40:34 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/liquidated/</guid>
+    <description><![CDATA[Liquidated: AN ETHNOGRAPHY OF WALL STREET]]></description>
+</item><item>
+    <title>血流成河</title>
+    <link>/blood_in_the_streets/</link>
+    <pubDate>Mon, 07 Feb 2022 10:07:48 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/blood_in_the_streets/</guid>
+    <description><![CDATA[Blood in the Streets: Investment Profits in a Word Gone Mad]]></description>
+</item></channel>
+</rss>

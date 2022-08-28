@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>society - 标签 - libmind</title>
+        <link>/tags/society/</link>
+        <description>society - 标签 - libmind</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 06 Jul 2022 18:03:18 &#43;0800</lastBuildDate><atom:link href="/tags/society/" rel="self" type="application/rss+xml" /><item>
+    <title>社会的发现</title>
+    <link>/the_discovery_of_society/</link>
+    <pubDate>Wed, 06 Jul 2022 18:03:18 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/the_discovery_of_society/</guid>
+    <description><![CDATA[The Discovery of society]]></description>
+</item></channel>
+</rss>
