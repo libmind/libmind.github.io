@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Pull Request - 标签 - libmind</title>
+        <link>/tags/pull-request/</link>
+        <description>Pull Request - 标签 - libmind</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 15 Mar 2022 13:30:50 &#43;0800</lastBuildDate><atom:link href="/tags/pull-request/" rel="self" type="application/rss+xml" /><item>
+    <title>如何接收Pull Request</title>
+    <link>/merge_pull_request/</link>
+    <pubDate>Tue, 15 Mar 2022 13:30:50 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/merge_pull_request/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/doraemonj.github.io/pics/guide_003_pull_request.png" referrerpolicy="no-referrer">
+            </div>自建图书馆第2步：注册Github Pages]]></description>
+</item></channel>
+</rss>

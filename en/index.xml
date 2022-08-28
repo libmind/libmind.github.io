@@ -1,0 +1,79 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>libmind</title>
+        <link>/en/</link>
+        <description>libmind</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 06 Jul 2022 22:49:36 &#43;0800</lastBuildDate>
+            <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>The End of History and the Last Man</title>
+    <link>/en/the_end_of_history_and_the_last_man/</link>
+    <pubDate>Wed, 06 Jul 2022 22:49:36 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/the_end_of_history_and_the_last_man/</guid>
+    <description><![CDATA[历史的终结和最后的人]]></description>
+</item><item>
+    <title>An essay concerning human understanding</title>
+    <link>/en/an_essay_concerning_human_understanding/</link>
+    <pubDate>Wed, 06 Jul 2022 22:13:56 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/an_essay_concerning_human_understanding/</guid>
+    <description><![CDATA[人类理解论]]></description>
+</item><item>
+    <title>The Discovery of society</title>
+    <link>/en/the_discovery_of_society/</link>
+    <pubDate>Wed, 06 Jul 2022 18:03:18 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/the_discovery_of_society/</guid>
+    <description><![CDATA[社会的发现]]></description>
+</item><item>
+    <title>Liquidated: AN ETHNOGRAPHY OF WALL STREET</title>
+    <link>/en/liquidated/</link>
+    <pubDate>Sun, 05 Jun 2022 23:39:08 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/liquidated/</guid>
+    <description><![CDATA[清算：华尔街的民族志]]></description>
+</item><item>
+    <title>Six Translation Examples of E-book</title>
+    <link>/en/six_other_ebook_translation_examples/</link>
+    <pubDate>Sat, 21 May 2022 09:32:00 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/six_other_ebook_translation_examples/</guid>
+    <description><![CDATA[Mass production of translations like mass printing]]></description>
+</item><item>
+    <title>The Housing Boom and Bust</title>
+    <link>/en/the_housing_boom_and_bust/</link>
+    <pubDate>Sun, 06 Mar 2022 13:00:48 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/the_housing_boom_and_bust/</guid>
+    <description><![CDATA[房地产的繁荣与萧条]]></description>
+</item><item>
+    <title>Understanding Media: The Extension</title>
+    <link>/en/understanding_media/</link>
+    <pubDate>Sun, 06 Mar 2022 13:00:48 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/understanding_media/</guid>
+    <description><![CDATA[《理解媒体》英文原版]]></description>
+</item><item>
+    <title>Make it Stick</title>
+    <link>/en/make_it_stick/</link>
+    <pubDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/make_it_stick/</guid>
+    <description><![CDATA[让所学与你相关：学有所成的科学]]></description>
+</item><item>
+    <title>How to Ask Questions: The Smart Way</title>
+    <link>/en/how_to_ask_questions/</link>
+    <pubDate>Tue, 15 Feb 2022 13:38:16 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/how_to_ask_questions/</guid>
+    <description><![CDATA[提问的智慧]]></description>
+</item><item>
+    <title>Blood in the Streets</title>
+    <link>/en/blood_in_the_streets/</link>
+    <pubDate>Mon, 07 Feb 2022 10:07:48 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/blood_in_the_streets/</guid>
+    <description><![CDATA[血流成河：在疯狂的世界中获利]]></description>
+</item></channel>
+</rss>

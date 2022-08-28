@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>skill - 标签 - libmind</title>
+        <link>/tags/skill/</link>
+        <description>skill - 标签 - libmind</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</lastBuildDate><atom:link href="/tags/skill/" rel="self" type="application/rss+xml" /><item>
+    <title>让所学和你相关</title>
+    <link>/make_it_stick/</link>
+    <pubDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/make_it_stick/</guid>
+    <description><![CDATA[Make it Stick: The Science of Successful Learning]]></description>
+</item></channel>
+</rss>

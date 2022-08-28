@@ -1,1 +1,0 @@
-# libmind.github.io
