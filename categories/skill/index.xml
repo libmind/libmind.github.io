@@ -1,28 +1,28 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>skill - 分类 - libmind</title>
+        <title>skill - Category - libmind</title>
         <link>/categories/skill/</link>
-        <description>skill - 分类 - libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</lastBuildDate><atom:link href="/categories/skill/" rel="self" type="application/rss+xml" /><item>
-    <title>让所学和你相关</title>
+        <description>skill - Category - libmind</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</lastBuildDate><atom:link href="/categories/skill/" rel="self" type="application/rss+xml" /><item>
+    <title>Make it Stick</title>
     <link>/make_it_stick/</link>
     <pubDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</pubDate>
-    <author>作者</author>
+    <author>Author</author>
     <guid>/make_it_stick/</guid>
-    <description><![CDATA[Make it Stick: The Science of Successful Learning]]></description>
+    <description><![CDATA[让所学与你相关：学有所成的科学]]></description>
 </item><item>
-    <title>提问的智慧</title>
+    <title>How to Ask Questions: The Smart Way</title>
     <link>/how_to_ask_questions/</link>
     <pubDate>Tue, 15 Feb 2022 13:38:16 &#43;0800</pubDate>
-    <author>作者</author>
+    <author>Author</author>
     <guid>/how_to_ask_questions/</guid>
-    <description><![CDATA[How to Ask Questions: The Smart Way]]></description>
+    <description><![CDATA[提问的智慧]]></description>
 </item><item>
-    <title>Calibre 快速入门指南</title>
+    <title>Calibre Quick Start Guide</title>
     <link>/calibre_quick_start/</link>
     <pubDate>Fri, 04 Feb 2022 10:07:48 &#43;0800</pubDate>
-    <author>作者</author>
+    <author>Author</author>
     <guid>/calibre_quick_start/</guid>
-    <description><![CDATA[Calibre Quick Start Guide]]></description>
+    <description><![CDATA[Calibre 快速入门指南]]></description>
 </item></channel>
 </rss>

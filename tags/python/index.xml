@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Python - Tag - libmind</title>
+        <link>/tags/python/</link>
+        <description>Python - Tag - libmind</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 21 May 2022 09:32:00 &#43;0800</lastBuildDate><atom:link href="/tags/python/" rel="self" type="application/rss+xml" /><item>
+    <title>Six Translation Examples of E-book</title>
+    <link>/six_other_ebook_translation_examples/</link>
+    <pubDate>Sat, 21 May 2022 09:32:00 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/six_other_ebook_translation_examples/</guid>
+    <description><![CDATA[Mass production of translations like mass printing]]></description>
+</item></channel>
+</rss>

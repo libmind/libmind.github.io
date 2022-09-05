@@ -2,512 +2,600 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/categories/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/categories/</loc><lastmod>2022-09-03T18:43:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/categories/"
+                        href="/categories/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/categories/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="de"
+                        href="/de/categories/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/categories/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/categories/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="/ru/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/categories/"
+                    href="/zh-cn/categories/"
                     /></url><url>
-            <loc>/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/</loc><lastmod>2022-09-03T18:43:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/"
+                        href="/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="de"
+                        href="/de/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="/ru/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/"
+                    href="/zh-cn/"
                     /></url><url>
-            <loc>/posts/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/posts/</loc><lastmod>2022-09-03T18:43:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/posts/"
+                        href="/posts/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/posts/"
+                    href="/zh-cn/posts/"
                     /></url><url>
-            <loc>/tags/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/</loc><lastmod>2022-09-03T18:43:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/"
+                        href="/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="de"
+                        href="/de/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="/ru/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/"
+                    href="/zh-cn/tags/"
                     /></url><url>
-            <loc>/tags/%E5%8E%86%E5%8F%B2/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/%E5%8E%86%E5%8F%B2/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/the_end_of_history_and_the_last_man/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/%E6%80%9D%E8%80%83/</loc><lastmod>2022-09-03T18:43:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/zh-cn/categories/%E6%80%9D%E8%80%83/</loc><lastmod>2022-09-03T18:43:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/zh-cn/think_again/</loc><lastmod>2022-09-03T18:43:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/the_end_of_history_and_the_last_man/"
+                        href="/think_again/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/think_again/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/the_end_of_history_and_the_last_man/"
+                    href="/zh-cn/think_again/"
                     /></url><url>
-            <loc>/an_essay_concerning_human_understanding/</loc><lastmod>2022-07-06T22:13:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/about/</loc><lastmod>2022-07-13T09:52:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/an_essay_concerning_human_understanding/"
+                        href="/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/an_essay_concerning_human_understanding/"
+                    href="/zh-cn/about/"
                     /></url><url>
-            <loc>/tags/%E7%90%86%E8%A7%A3/</loc><lastmod>2022-07-06T22:13:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/%E7%90%86%E8%A7%A3/</loc><lastmod>2022-07-06T22:13:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/society/</loc><lastmod>2022-07-06T18:03:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/%E5%8E%86%E5%8F%B2/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/zh-cn/categories/%E5%8E%86%E5%8F%B2/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/zh-cn/the_end_of_history_and_the_last_man/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/society/"
+                        href="/the_end_of_history_and_the_last_man/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/society/"
+                    href="/zh-cn/the_end_of_history_and_the_last_man/"
                     /></url><url>
-            <loc>/categories/society/</loc><lastmod>2022-07-06T18:03:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/an_essay_concerning_human_understanding/</loc><lastmod>2022-07-06T22:13:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/categories/society/"
+                        href="/an_essay_concerning_human_understanding/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/categories/society/"
+                    href="/zh-cn/an_essay_concerning_human_understanding/"
                     /></url><url>
-            <loc>/the_discovery_of_society/</loc><lastmod>2022-07-06T18:03:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/%E7%90%86%E8%A7%A3/</loc><lastmod>2022-07-06T22:13:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/zh-cn/categories/%E7%90%86%E8%A7%A3/</loc><lastmod>2022-07-06T22:13:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/zh-cn/tags/society/</loc><lastmod>2022-07-06T18:03:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/the_discovery_of_society/"
+                        href="/tags/society/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/the_discovery_of_society/"
+                    href="/zh-cn/tags/society/"
                     /></url><url>
-            <loc>/tags/capital/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/categories/society/</loc><lastmod>2022-07-06T18:03:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/capital/"
+                        href="/categories/society/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/capital/"
+                    href="/zh-cn/categories/society/"
                     /></url><url>
-            <loc>/tags/investment/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/the_discovery_of_society/</loc><lastmod>2022-07-06T18:03:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/investment/"
+                        href="/the_discovery_of_society/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/investment/"
+                    href="/zh-cn/the_discovery_of_society/"
                     /></url><url>
-            <loc>/categories/%E6%8A%95%E8%B5%84/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/capital/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/categories/%E6%8A%95%E8%B5%84/"
+                        href="/tags/capital/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/categories/%E6%8A%95%E8%B5%84/"
+                    href="/zh-cn/tags/capital/"
                     /></url><url>
-            <loc>/liquidated/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/investment/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/liquidated/"
+                        href="/tags/investment/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/liquidated/"
+                    href="/zh-cn/tags/investment/"
                     /></url><url>
-            <loc>/tags/%E8%B5%84%E6%9C%AC/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/categories/%E6%8A%95%E8%B5%84/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/%E8%B5%84%E6%9C%AC/"
+                        href="/categories/%E6%8A%95%E8%B5%84/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/%E8%B5%84%E6%9C%AC/"
+                    href="/zh-cn/categories/%E6%8A%95%E8%B5%84/"
                     /></url><url>
-            <loc>/categories/%E8%B5%84%E6%9C%AC/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/liquidated/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/categories/%E8%B5%84%E6%9C%AC/"
+                        href="/liquidated/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/categories/%E8%B5%84%E6%9C%AC/"
+                    href="/zh-cn/liquidated/"
                     /></url><url>
-            <loc>/tags/github/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/github/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/pull-request/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/merge_pull_request/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/git/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/github-pages/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/create_github_pages/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/github-account/</loc><lastmod>2022-03-13T16:14:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/create_github_account/</loc><lastmod>2022-03-13T16:14:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/boom/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/%E8%B5%84%E6%9C%AC/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/boom/"
+                        href="/tags/%E8%B5%84%E6%9C%AC/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/boom/"
+                    href="/zh-cn/tags/%E8%B5%84%E6%9C%AC/"
                     /></url><url>
-            <loc>/tags/media/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/categories/%E8%B5%84%E6%9C%AC/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/media/"
+                        href="/categories/%E8%B5%84%E6%9C%AC/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/media/"
+                    href="/zh-cn/categories/%E8%B5%84%E6%9C%AC/"
                     /></url><url>
-            <loc>/categories/media/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/github/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/zh-cn/categories/github/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/zh-cn/tags/pull-request/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/zh-cn/merge_pull_request/</loc><lastmod>2022-03-15T13:30:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/zh-cn/tags/git/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/zh-cn/tags/github-pages/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/zh-cn/create_github_pages/</loc><lastmod>2022-03-14T16:04:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/zh-cn/tags/github-account/</loc><lastmod>2022-03-13T16:14:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/zh-cn/create_github_account/</loc><lastmod>2022-03-13T16:14:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/zh-cn/tags/boom/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/categories/media/"
+                        href="/tags/boom/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/categories/media/"
+                    href="/zh-cn/tags/boom/"
                     /></url><url>
-            <loc>/tags/real-estate/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/media/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/real-estate/"
+                        href="/tags/media/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/real-estate/"
+                    href="/zh-cn/tags/media/"
                     /></url><url>
-            <loc>/categories/real-estate/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/thomas-sowell/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/categories/media/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/thomas-sowell/"
+                        href="/categories/media/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/thomas-sowell/"
+                    href="/zh-cn/categories/media/"
                     /></url><url>
-            <loc>/tags/%E5%AA%92%E4%BD%93/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/real-estate/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/%E5%AA%92%E4%BD%93/"
+                        href="/tags/real-estate/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/%E5%AA%92%E4%BD%93/"
+                    href="/zh-cn/tags/real-estate/"
                     /></url><url>
-            <loc>/categories/%E5%AA%92%E4%BD%93/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/categories/real-estate/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/zh-cn/tags/thomas-sowell/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/categories/%E5%AA%92%E4%BD%93/"
+                        href="/tags/thomas-sowell/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/categories/%E5%AA%92%E4%BD%93/"
+                    href="/zh-cn/tags/thomas-sowell/"
                     /></url><url>
-            <loc>/tags/%E6%88%BF%E5%9C%B0%E4%BA%A7/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/%E5%AA%92%E4%BD%93/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/%E6%88%BF%E5%9C%B0%E4%BA%A7/"
+                        href="/tags/%E5%AA%92%E4%BD%93/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/%E6%88%BF%E5%9C%B0%E4%BA%A7/"
+                    href="/zh-cn/tags/%E5%AA%92%E4%BD%93/"
                     /></url><url>
-            <loc>/the_housing_boom_and_bust/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/categories/%E5%AA%92%E4%BD%93/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/the_housing_boom_and_bust/"
+                        href="/categories/%E5%AA%92%E4%BD%93/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/the_housing_boom_and_bust/"
+                    href="/zh-cn/categories/%E5%AA%92%E4%BD%93/"
                     /></url><url>
-            <loc>/understanding_media/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/%E6%88%BF%E5%9C%B0%E4%BA%A7/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/understanding_media/"
+                        href="/tags/%E6%88%BF%E5%9C%B0%E4%BA%A7/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/understanding_media/"
+                    href="/zh-cn/tags/%E6%88%BF%E5%9C%B0%E4%BA%A7/"
                     /></url><url>
-            <loc>/tags/learn/</loc><lastmod>2022-02-18T11:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/the_housing_boom_and_bust/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/learn/"
+                        href="/the_housing_boom_and_bust/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/learn/"
+                    href="/zh-cn/the_housing_boom_and_bust/"
                     /></url><url>
-            <loc>/categories/learning/</loc><lastmod>2022-02-18T11:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/understanding_media/</loc><lastmod>2022-03-06T13:00:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/categories/learning/"
+                        href="/understanding_media/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/categories/learning/"
+                    href="/zh-cn/understanding_media/"
                     /></url><url>
-            <loc>/tags/self-learning/</loc><lastmod>2022-02-18T11:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/learn/</loc><lastmod>2022-02-18T11:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/self-learning/"
+                        href="/tags/learn/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/self-learning/"
+                    href="/zh-cn/tags/learn/"
                     /></url><url>
-            <loc>/tags/skill/</loc><lastmod>2022-02-18T11:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/categories/learning/</loc><lastmod>2022-02-18T11:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/skill/"
+                        href="/categories/learning/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/skill/"
+                    href="/zh-cn/categories/learning/"
                     /></url><url>
-            <loc>/categories/skill/</loc><lastmod>2022-02-18T11:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/self-learning/</loc><lastmod>2022-02-18T11:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/categories/skill/"
+                        href="/tags/self-learning/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/categories/skill/"
+                    href="/zh-cn/tags/self-learning/"
                     /></url><url>
-            <loc>/tags/%E5%AD%A6%E4%B9%A0/</loc><lastmod>2022-02-18T11:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/skill/</loc><lastmod>2022-02-18T11:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/%E5%AD%A6%E4%B9%A0/"
+                        href="/tags/skill/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/%E5%AD%A6%E4%B9%A0/"
+                    href="/zh-cn/tags/skill/"
                     /></url><url>
-            <loc>/make_it_stick/</loc><lastmod>2022-02-18T11:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/categories/skill/</loc><lastmod>2022-02-18T11:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/make_it_stick/"
+                        href="/categories/skill/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/make_it_stick/"
+                    href="/zh-cn/categories/skill/"
                     /></url><url>
-            <loc>/tags/ask/</loc><lastmod>2022-02-15T13:38:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/%E5%AD%A6%E4%B9%A0/</loc><lastmod>2022-02-18T11:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/ask/"
+                        href="/tags/%E5%AD%A6%E4%B9%A0/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/ask/"
+                    href="/zh-cn/tags/%E5%AD%A6%E4%B9%A0/"
                     /></url><url>
-            <loc>/tags/eric-s.-raymond/</loc><lastmod>2022-02-15T13:38:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/make_it_stick/</loc><lastmod>2022-02-18T11:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/eric-s.-raymond/"
+                        href="/make_it_stick/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/eric-s.-raymond/"
+                    href="/zh-cn/make_it_stick/"
                     /></url><url>
-            <loc>/tags/question/</loc><lastmod>2022-02-15T13:38:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/ask/</loc><lastmod>2022-02-15T13:38:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/question/"
+                        href="/tags/ask/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/question/"
+                    href="/zh-cn/tags/ask/"
                     /></url><url>
-            <loc>/tags/rick-moen/</loc><lastmod>2022-02-15T13:38:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/eric-s.-raymond/</loc><lastmod>2022-02-15T13:38:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/rick-moen/"
+                        href="/tags/eric-s.-raymond/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/rick-moen/"
+                    href="/zh-cn/tags/eric-s.-raymond/"
                     /></url><url>
-            <loc>/categories/%E6%8A%80%E8%83%BD/</loc><lastmod>2022-02-15T13:38:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/question/</loc><lastmod>2022-02-15T13:38:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/categories/%E6%8A%80%E8%83%BD/"
+                        href="/tags/question/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/categories/%E6%8A%80%E8%83%BD/"
+                    href="/zh-cn/tags/question/"
                     /></url><url>
-            <loc>/tags/%E6%8F%90%E9%97%AE/</loc><lastmod>2022-02-15T13:38:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/rick-moen/</loc><lastmod>2022-02-15T13:38:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/%E6%8F%90%E9%97%AE/"
+                        href="/tags/rick-moen/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/%E6%8F%90%E9%97%AE/"
+                    href="/zh-cn/tags/rick-moen/"
                     /></url><url>
-            <loc>/how_to_ask_questions/</loc><lastmod>2022-02-15T13:38:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/categories/%E6%8A%80%E8%83%BD/</loc><lastmod>2022-02-15T13:38:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/how_to_ask_questions/"
+                        href="/categories/%E6%8A%80%E8%83%BD/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/how_to_ask_questions/"
+                    href="/zh-cn/categories/%E6%8A%80%E8%83%BD/"
                     /></url><url>
-            <loc>/blood_in_the_streets/</loc><lastmod>2022-02-07T10:07:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/%E6%8F%90%E9%97%AE/</loc><lastmod>2022-02-15T13:38:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/blood_in_the_streets/"
+                        href="/tags/%E6%8F%90%E9%97%AE/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/blood_in_the_streets/"
+                    href="/zh-cn/tags/%E6%8F%90%E9%97%AE/"
                     /></url><url>
-            <loc>/tags/calibre/</loc><lastmod>2022-02-04T10:07:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/how_to_ask_questions/</loc><lastmod>2022-02-15T13:38:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/calibre/"
+                        href="/how_to_ask_questions/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/calibre/"
+                    href="/zh-cn/how_to_ask_questions/"
                     /></url><url>
-            <loc>/calibre_quick_start/</loc><lastmod>2022-02-04T10:07:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/blood_in_the_streets/</loc><lastmod>2022-02-07T10:07:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/calibre_quick_start/"
+                        href="/blood_in_the_streets/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/calibre_quick_start/"
+                    href="/zh-cn/blood_in_the_streets/"
                     /></url><url>
-            <loc>/tags/handbook/</loc><lastmod>2022-02-04T10:07:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/calibre/</loc><lastmod>2022-02-04T10:07:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/handbook/"
+                        href="/tags/calibre/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/handbook/"
+                    href="/zh-cn/tags/calibre/"
                     /></url><url>
-            <loc>/tags/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</loc><lastmod>2022-02-04T10:07:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/calibre_quick_start/</loc><lastmod>2022-02-04T10:07:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/"
+                        href="/calibre_quick_start/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/"
+                    href="/zh-cn/calibre_quick_start/"
                     /></url><url>
-            <loc>/tags/%E6%89%8B%E5%86%8C/</loc><lastmod>2022-02-04T10:07:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/handbook/</loc><lastmod>2022-02-04T10:07:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/%E6%89%8B%E5%86%8C/"
+                        href="/tags/handbook/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/%E6%89%8B%E5%86%8C/"
+                    href="/zh-cn/tags/handbook/"
                     /></url><url>
-            <loc>/tags/bank/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</loc><lastmod>2022-02-04T10:07:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/bank/"
+                        href="/tags/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/bank/"
+                    href="/zh-cn/tags/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/"
                     /></url><url>
-            <loc>/tags/banker/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/%E6%89%8B%E5%86%8C/</loc><lastmod>2022-02-04T10:07:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/banker/"
+                        href="/tags/%E6%89%8B%E5%86%8C/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/banker/"
+                    href="/zh-cn/tags/%E6%89%8B%E5%86%8C/"
                     /></url><url>
-            <loc>/categories/capital/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/bank/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/categories/capital/"
+                        href="/tags/bank/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/categories/capital/"
+                    href="/zh-cn/tags/bank/"
                     /></url><url>
-            <loc>/tags/captital/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/banker/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/captital/"
+                        href="/tags/banker/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/captital/"
+                    href="/zh-cn/tags/banker/"
                     /></url><url>
-            <loc>/tags/combine/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/categories/capital/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/combine/"
+                        href="/categories/capital/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/combine/"
+                    href="/zh-cn/categories/capital/"
                     /></url><url>
-            <loc>/tags/invest/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/captital/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/invest/"
+                        href="/tags/captital/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/invest/"
+                    href="/zh-cn/tags/captital/"
                     /></url><url>
-            <loc>/tags/money/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/combine/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/money/"
+                        href="/tags/combine/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/money/"
+                    href="/zh-cn/tags/combine/"
                     /></url><url>
-            <loc>/categories/money/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/invest/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/categories/money/"
+                        href="/tags/invest/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/categories/money/"
+                    href="/zh-cn/tags/invest/"
                     /></url><url>
-            <loc>/other_peoples_money/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/money/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/other_peoples_money/"
+                        href="/tags/money/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/other_peoples_money/"
+                    href="/zh-cn/tags/money/"
                     /></url><url>
-            <loc>/tags/%E9%92%B1/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/categories/money/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/%E9%92%B1/"
+                        href="/categories/money/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/tags/%E9%92%B1/"
+                    href="/zh-cn/categories/money/"
+                    /></url><url>
+            <loc>/zh-cn/other_peoples_money/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/other_peoples_money/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/zh-cn/other_peoples_money/"
+                    /></url><url>
+            <loc>/zh-cn/tags/%E9%92%B1/</loc><lastmod>2022-02-01T15:55:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/tags/%E9%92%B1/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/zh-cn/tags/%E9%92%B1/"
                     /></url></urlset>

@@ -1,606 +1,531 @@
-# 提问的智慧
+# How to Ask Questions: The Smart Way
 
 
-译者：王刚
+## Disclaimer
 
-## 弃权申明
+Many project websites link to this document in their sections on how to get help. That's fine, it's the use we intended — but if you are a webmaster creating such a link for your project page, please display prominently near the link notice that *we are not a help desk for your project!*
 
-许多项目的网站在如何取得帮助的部分链接了本文，这没有关系，也正是我们想要的。但如果你是该项目生成此链接的网管，请在链接附近显著位置注明：我们不提供该项目的服务支持！
+We have learned the hard way that without such a notice, we will repeatedly be pestered by idiots who think having published this document makes it our job to solve all the world's technical problems.
 
-我们已经领教了没有此说明带来的痛苦，我们将不停地被一些白痴纠缠，他们认为既然我们发布了本文，那么我们就有责任解决世上所有的技术问题。
+If you're reading this document because you need help, and you walk away with the impression you can get it directly from the authors of this document, *you* are one of the idiots we are talking about. Don't ask *us* questions. We'll just ignore you. We are here to show you how to get help from people who actually know about the software or hardware you're dealing with, but 99.9% of the time that will not be us. Unless you know for *certain* that one of the authors is an expert on what you're dealing with, leave us alone and everybody will be happier.
 
-如果你是因为需要帮助正在阅读本文，然后就带着可以直接从作者那取得帮助的印象离开，那么 你 就不幸成了我们所说的白痴之一。 别向 我们 提问，我们不会理睬的。 我们只是在这教你如何从那些真正懂得你软硬件问题的人那里取得帮助，但 99.9％ 的时间我们不会是那些人。除非你非常地 确定 本文的作者是你遇到问题方面的专家，请不要打搅，这样大家都更开心一点。
+## Introduction
 
-## 引言
+In the world of [hackers](http://www.catb.org/~esr/faqs/hacker-howto.html), the kind of answers you get to your technical questions depends as much on the way you ask the questions as on the difficulty of developing the answer. This guide will teach you how to ask questions in a way more likely to get you a satisfactory answer.
 
-在 黑客 的世界里，你所提技术问题的解答很大程度上取决于你提问的方式与解决此问题的难度，本文将教你如何提问才更有可能得到满意的答复。
+Now that use of open source has become widespread, you can often get as good answers from other, more experienced users as from hackers. This is a Good Thing; users tend to be just a little bit more tolerant of the kind of failures newbies often have. Still, treating experienced users like hackers in the ways we recommend here will generally be the most effective way to get useful answers out of them, too.
 
-开源程序的应用已经很广，你通常可以从其他更有经验的用户而不是黑客那里得到解答。这是好事，他们一般对新手常有的毛病更容忍一点。然而，使用我们推荐的方法，象对待黑客那样对待这些有经验的用户，通常能最有效地得到问题的解答。
+The first thing to understand is that hackers actually like hard problems and good, thought-provoking questions about them. If we didn't, we wouldn't be here. If you give us an interesting question to chew on we'll be grateful to you; good questions are a stimulus and a gift. Good questions help us develop our understanding, and often reveal problems we might not have noticed or thought about otherwise. Among hackers, “Good question!” is a strong and sincere compliment.
 
-第一件需要明白的事是：『黑客喜欢难题和激发思考的好问题』。假如不是这样，我们也不会写本文了。如果你能提出一个有趣的问题让我们咀嚼玩味，我们会感激你。好问题是种激励与礼物，帮助我们发展认知，揭示没有注意或想到的问题。在黑客中，『好问题！』 是非常热烈而真挚的赞许。
+Despite this, hackers have a reputation for meeting simple questions with what looks like hostility or arrogance. It sometimes looks like we're reflexively rude to newbies and the ignorant. But this isn't really true.
 
-此外，黑客还有遇到简单问题就表现出敌视或傲慢的名声。有时，我们看起来还对新手和愚蠢的家伙有条件反射式的无礼，但事情并不真是这样。
+What we are, unapologetically, is hostile to people who seem to be unwilling to think or to do their own homework before asking questions. People like that are time sinks — they take without giving back, and they waste time we could have spent on another question more interesting and another person more worthy of an answer. We call people like this “losers” (and for historical reasons we sometimes spell it “lusers”).
 
-我们只是毫无歉意地敌视那些提问前不愿思考、不做自己家庭作业的人。这种人就象时间无底洞──他们只知道索取，不愿意付出，他们浪费了时间，这些时间本可用于其它更有趣的问题或更值得回答的人。我们将这种人叫做 『失败者（loser）』 （由于历史原因，我们有时将『loser』拼写为『lusers』 。）
+We realize that there are many people who just want to use the software we write, and who have no interest in learning technical details. For most people, a computer is merely a tool, a means to an end; they have more important things to do and lives to live. We acknowledge that, and don't expect everyone to take an interest in the technical matters that fascinate us. Nevertheless, our style of answering questions is tuned for people who *do* take such an interest and are willing to be active participants in problem-solving. That's not going to change. Nor should it; if it did, we would become less effective at the things we do best.
 
-我们意识到许多人只是想使用我们写的软件，他们对学习技术细节没有兴趣。对大多数人而言，计算机只是种工具，是种达到目的的手段而已。他们有自己的生活并且有更要紧的事要做，我们承认这点，也从不指望每个人都对这些让我们着迷的技术问题感兴趣。不过，我们回答问题的风格是为了适应那些真正对此有兴趣并愿意主动参与解决问题的人，这一点不会变，也不该变。如果连这都变了，我们就会在自己能做得最好的事情上不再那么犀利。
+We're (largely) volunteers. We take time out of busy lives to answer questions, and at times we're overwhelmed with them. So we filter ruthlessly. In particular, we throw away questions from people who appear to be losers in order to spend our question-answering time more efficiently, on winners.
 
-我们（大多数）是自愿者， 从自己繁忙的生活中抽时间来回答问题，有时会力不从心。因此，我们会毫不留情地滤除问题，特别是那些看起来象是失败者提的，以便更有效地把回答问题的时间留给那些胜利者。
+If you find this attitude obnoxious, condescending, or arrogant, check your assumptions. We're not asking you to genuflect to us — in fact, most of us would love nothing more than to deal with you as an equal and welcome you into our culture, if you put in the effort required to make that possible. But it's simply not efficient for us to try to help people who are not willing to help themselves. It's OK to be ignorant; it's not OK to play stupid.
 
-如果你认为这种态度令人反感、以施惠者自居或傲慢自大，请检查你的假设，我们并未要求你屈服──事实上，假如你做了该做的努力，我们中的大多数将非常乐意平等地与你交流，并欢迎你接纳我们的文化。试图去帮助那些不愿自救的人对我们简直没有效率。不懂没有关系，但愚蠢地做事不行。
+So, while it isn't necessary to already be technically competent to get attention from us, it *is* necessary to demonstrate the kind of attitude that leads to competence — alert, thoughtful, observant, willing to be an active partner in developing a solution. If you can't live with this sort of discrimination, we suggest you pay somebody for a commercial support contract instead of asking hackers to personally donate help to you.
 
-所以，你不必在技术上很在行才能吸引我们的注意，但你 必须 表现出能引导你在行的姿态──机敏、有想法、善于观察、乐于主动参与问题的解决。如果你做不到这些使你与众不同的事情，我们建议你付钱跟别人签商业服务合同，而不是要求黑客无偿帮助。
+If you decide to come to us for help, you don't want to be one of the losers. You don't want to seem like one, either. The best way to get a rapid and responsive answer is to ask it like a person with smarts, confidence, and clues who just happens to need help on one particular problem.
 
-如果你决定向我们求助，你不会想成为一名失败者，你也不想被看成一个失败者。得到快速有效回答的最好方法是使提问者看起来象个聪明、自信和有想法的人，并且暗示只是碰巧在某一特别问题上需要帮助。
+(Improvements to this guide are welcome. You can mail suggestions to [esr@thyrsus.com](mailto:esr@thyrsus.com) or [respond-auto@linuxmafia.com](mailto:respond-auto@linuxmafia.com). Note however that this document is not intended to be a general guide to [netiquette](http://www.ietf.org/rfc/rfc1855.txt), and we will generally reject suggestions that are not specifically related to eliciting useful answers in a technical forum.)
 
-（欢迎对本文指正，可以将建议发至 [esr@thyrsus.com](mailto:esr@thyrsus.com) 或 [respond-auto@linuxmafia.com](mailto:respond-auto@linuxmafia.com)。 请注意，本文不想成为一般性的 网络礼仪 指南，我一般会拒绝那些与引出技术论坛中有用的回答不特别相关的建议。）
+## Before You Ask
 
-## 提问前
+Before asking a technical question by e-mail, or in a newsgroup, or on a website chat board, do the following:
 
-在通过电邮、新闻组或论坛提技术问题以前，做以下事情：
+1. Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
+2. Try to find an answer by searching the Web.
+3. Try to find an answer by reading the manual.
+4. Try to find an answer by reading a FAQ.
+5. Try to find an answer by inspection or experimentation.
+6. Try to find an answer by asking a skilled friend.
+7. If you're a programmer, try to find an answer by reading the source code.
 
-- 尝试在你准备提问论坛的历史文档中搜索答案
-- 尝试搜索互联网以找到答案
-- 尝试阅读手册以找到答案
-- 尝试阅读『常见问题文档』（FAQ）以找到答案
-- 尝试自己检查或试验以找到答案
-- 尝试请教懂行的朋友以找到答案
-- 如果你是程序员，尝试阅读源代码以找到答案
+When you ask your question, display the fact that you have done these things first; this will help establish that you're not being a lazy sponge and wasting people's time. Better yet, display what you have *learned* from doing these things. We like answering questions for people who have demonstrated they can learn from the answers.
 
-提问时，请先表明你已做了上述事情，这将有助于建立你不是寄生虫与浪费别人时间的印象。最好再表述你从中学到的东西 ，我们喜欢回答那些表现出能从答案中学习的人。
+Use tactics like doing a Google search on the text of whatever error message you get (searching [Google groups](http://groups.google.com/) as well as Web pages). This might well take you straight to fix documentation or a mailing list thread answering your question. Even if it doesn't, saying “I googled on the following phrase but didn't get anything that looked promising” is a good thing to do in e-mail or news postings requesting help, if only because it records what searches won't help. It will also help to direct other people with similar problems to your thread by linking the search terms to what will hopefully be your problem and resolution thread.
 
-运用某些策略，比如用谷歌（Google）搜索你遇到的各种错误提示（既搜索谷歌论坛，也搜索网页）， 这样很可能直接就找到了解决问题的文档或邮件列表线索。 即使没有结果，在邮件列表或新闻组寻求帮助时提一句『我在谷歌中搜过下列句子，但没有找到什么有用的东西』 也是件好事，至少它表明了搜索引擎不能提供哪些帮助。将搜索关键词与你的问题及可能的解决方案联系起来，还有助于引导其他有类似问题的人。
+Take your time. Do not expect to be able to solve a complicated problem with a few seconds of Googling. Read and understand the FAQs, sit back, relax and give the problem some thought before approaching experts. Trust us, they will be able to tell from your questions how much reading and thinking you did, and will be more willing to help if you come prepared. Don't instantly fire your whole arsenal of questions just because your first search turned up no answers (or too many).
 
-别着急，不要指望几秒钟的谷歌搜索就能解决一个复杂的问题。读一下常见问题文档。在向专家提问之前，先向后靠靠放松一下，再思考一下问题。相信我们，他们能从你的提问看出你做了多少阅读与思考，如果你是有备而来，将更有可能得到解答。不要将所有问题一股脑抛出，只因你的第一次搜索没有结果（或者结果太多）。
+Prepare your question. Think it through. Hasty-sounding questions get hasty answers, or none at all. The more you do to demonstrate that having put thought and effort into solving your problem before seeking help, the more likely you are to actually get help.
 
-认真地思考，准备好你的问题。轻率的提问只能得到轻率的回答，或者压根没有。在提问时，你越是表现出在此前做过思考与努力去解决自己的问题，你越有可能得到真正的帮助。
+Beware of asking the wrong question. If you ask one that is based on faulty assumptions, J. Random Hacker is quite likely to reply with a uselessly literal answer while thinking “Stupid question...”, and hoping the experience of getting what you asked for rather than what you needed will teach you a lesson.
 
-注意别提错问题。如果提问基于错误的假设，某黑客多半会一边想 『愚蠢的问题……』，一边按将错就错的答案回复你，并且希望这种只是得到你自己『问的问题』而非真正所需的解答，给你一个教训。
+Never assume you are *entitled* to an answer. You are not; you aren't, after all, paying for the service. You will earn an answer, if you earn it, by asking a substantial, interesting, and thought-provoking question — one that implicitly contributes to the experience of the community rather than merely passively demanding knowledge from others.
 
-永远不要假设你『有资格』得到解答。你没有这种资格，毕竟你没有为此服务付费。如果你能够提出有内容、有趣和激励思考的问题──那种毫无疑问能够向社区贡献经验，而不仅仅是消极地要求从别人那获取知识的问题，你将『挣到』答案。
+On the other hand, making it clear that you are able and willing to help in the process of developing the solution is a very good start. “Would someone provide a pointer?”, “What is my example missing?”, and “What site should I have checked?” are more likely to get answered than “Please post the exact procedure I should use.” because you're making it clear that you're truly willing to complete the process if someone can just point you in the right direction.
 
-另一方面，表明你有能力也乐意参与问题的解决是个很好的开端。『有没有人能指个方向？』，我这还差点什么？』，『我应该查哪个网站？』，通常要比 『请给出我可以用的完整步骤』更容易得到回复，因为你表明了只要有人能指个方向，你就很乐意完成剩下的过程。
+## When You Ask
 
-## 提问时
+### Choose your forum carefully
 
-### 仔细挑选论坛
+Be sensitive in choosing where you ask your question. You are likely to be ignored, or written off as a loser, if you:
 
-要对在哪提问留心，如果你做了下述事情，多半会被一笔勾销或被看成『失败者』：
+- post your question to a forum where it's off topic
+- post a very elementary question to a forum where advanced technical questions are expected, or vice-versa
+- cross-post to too many different newsgroups
+- post a personal e-mail to somebody who is neither an acquaintance of yours nor personally responsible for solving your problem
 
-- 张贴与论坛主题无关的问题
-- 在面向高级技术问题的论坛上张贴肤浅的问题，或者反之。
-- 在太多不同的新闻组同时张贴
-- 给既非熟人也没有义务解决你问题的人发送你私人的电邮
+Hackers blow off questions that are inappropriately targeted in order to try to protect their communications channels from being drowned in irrelevance. You don't want this to happen to you.
 
-为保护通信的渠道不被无关的东西淹没，黑客会除掉那些没有找对地方的问题，你不会想让这种事落到自己头上的。
+The first step, therefore, is to find the right forum. Again, Google and other Web-searching methods are your friend. Use them to find the project webpage most closely associated with the hardware or software giving you difficulties. Usually it will have links to a FAQ (Frequently Asked Questions) list, and to project mailing lists and their archives. These mailing lists are the final places to go for help, if your own efforts (including *reading* those FAQs you found) do not find you a solution. The project page may also describe a bug-reporting procedure, or have a link to one; if so, follow it.
 
-因此，第一步是找对论坛。谷歌和其它搜索引擎还是你的朋友，可以用它们搜索你遇到困难的软硬件问题最相关的项目网站。那里通常都有项目的常见问题（FAQ）、邮件列表及文档的链接。如果你的努力（包括 阅读 FAQ）都没有结果，这些邮件列表就是最后能取得帮助的地方。项目的网站也许还有报告bug的流程或链接，如果是这样，去看看。
+Shooting off an e-mail to a person or forum which you are not familiar with is risky at best. For example, do not assume that the author of an informative webpage wants to be your free consultant. Do not make optimistic guesses about whether your question will be welcome — if you're unsure, send it elsewhere, or refrain from sending it at all.
 
-向陌生的人或论坛发送邮件极有可能是在冒险。譬如，不要假设一个内容丰富的网页的作者想充当你的免费顾问，不要对你的问题是否会受到欢迎做太乐观的估计──如果你不确定，向别处发或者压根别发。
+When selecting a Web forum, newsgroup or mailing list, don't trust the name by itself too far; look for a FAQ or charter to verify your question is on-topic. Read some of the back traffic before posting so you'll get a feel for how things are done there. In fact, it's a very good idea to do a keyword search for words relating to your problem on the newsgroup or mailing list archives before you post. It may find you an answer, and if not it will help you formulate a better question.
 
-在选择论坛、新闻组或邮件列表时，别太相信名字，先看看 FAQ 或者许可书以明确你的问题是否切题。发贴前先翻翻已有的帖子，这样可以让你感受一下那里行事的方式。事实上，张贴前在新闻组或邮件列表的历史文档中搜索与你问题相关的关键词是个极好的主意，也许就找到答案了。即使没有，也能帮助你归纳出更好的问题。
+Don't shotgun-blast all the available help channels at once, that's like yelling and irritates people. Step through them softly.
 
-别象机关枪似的一次性『扫射』所有的帮助渠道，这就象大喊大叫一样会令人不快，温柔地一个一个来。
+Know what your topic is! One of the classic mistakes is asking questions about the Unix or Windows programming interface in a forum devoted to a language or library or tool portable across both. If you don't understand why this is a blunder, you'd be best off not asking any questions at all until you get it.
 
-要弄懂主题！最典型的错误之一是在某种致立于跨平台可移植的语言、库或工具的论坛中提关于 Unix 或 Windows 操作系统程序接口的问题。如果你不明白为什么这是大错，最好在搞清楚概念前什么也别问。
+In general, questions to a well-selected public forum are more likely to get useful answers than equivalent questions to a private one. There are multiple reasons for this. One is simply the size of the pool of potential respondents. Another is the size of the audience; hackers would rather answer questions that educate many people than questions serving only a few.
 
-一般来说，在仔细挑选的公共论坛中提问比在私有论坛中提同样的问题更容易得到有用的回答。有几个道理支持这点，一是看潜在的回复者有多少，二是看论坛的参与者有多少，黑客更愿回答能启发多数人的问题。
-
-可以理解，老练的黑客和一些流行软件的作者正在承受过多的不当消息。就象那根最后压垮骆驼背的稻草一样，你的加入也有可能使情况走向极端──已经好几次了，一些流行软件的作者退出了对自己软件的支持，因为伴随而来的涌入其私人邮箱的垃圾邮件变得无法忍受。
+Understandably, skilled hackers and authors of popular software are already receiving more than their fair share of mis-targeted messages. By adding to the flood, you could in extreme cases even be the straw that breaks the camel's back — quite a few times, contributors to popular projects have withdrawn their support because collateral damage in the form of useless e-mail traffic to their personal accounts became unbearable.
 
 ### Stack Overflow
 
-**在Stack Exchange上搜索，然后提问**
+Search, *then* ask on Stack Exchange
 
-近年来，Stack Exchange网站社区已经成为回答技术和其他问题的主要资源，甚至是许多开源项目的首选论坛。
+In recent years, the Stack Exchange community of sites has emerged as a major resource for answering technical and other questions and is even the preferred forum for many open-source projects.
 
-在查看Stack Exchange之前，先从谷歌搜索开始；谷歌对其进行实时索引。很有可能已经有人问过类似的问题了，而Stack Exchange网站往往在搜索结果的顶部附近。如果你通过谷歌没有找到任何东西，可以在与你的问题最相关的特定网站上再次搜索（见下文）。**用标签搜索可以帮助缩小搜索结果的范围。**
+Start with a Google search before looking at Stack Exchange; Google indexes it in real time. There's a very good chance someone has already asked a similar question, and the Stack Exchange sites are often near the top of the search results. If you didn't find anything through Google, search again on the specific site most relevant to your question (see below). **Searching with tags can help narrow down the results.**
 
-如果你仍然没有找到任何东西，就把你的问题发布到与你的问题最相关的网站上。**使用格式化工具，特别是代码，并添加与你的问题内容相关的标签**（特别是你有问题的编程语言、操作系统或库的名称）。如果评论者要求你提供更多的信息，请编辑你的主帖以包括这些信息。如果任何答案是有帮助的，请点击向上的箭头给它投票；如果一个答案给出了你的问题的解决方案，请点击投票箭头下的复选，接受它是正确的。
+If you still didn't find anything, post your question on the *one* site where it's most on-topic. **Use the formatting tools, especially for code, and add tags that are related to the substance of your question** (particularly the name of the programming language, operating system, or library you're having trouble with). If a commenter asks you for more information, edit your main post to include it. If any answer is helpful, click the up arrow to upvote it; if an answer gives a solution to your problem, click the check under the voting arrows to accept it as correct.
 
-Stack Exchange已经发展到[超过100个网站](http://stackexchange.com/sites)，但这里是最有可能的候选人。
+Stack Exchange has grown to [over 100 sites](http://stackexchange.com/sites), but here are the most likely candidates:
 
-- Super User 针对有关通用计算的问题。如果你的问题不是关于你只能通过网络连接交谈的代码或程序，它可能会被放在这里。
-- Stack Overflow是关于编程的问题。
-- Server Fault是关于服务器和网络管理的问题。
+- Super User is for questions about general-purpose computing. If your question isn't about code or programs that you talk to only over a network connection, it probably goes here.
+- Stack Overflow is for questions about programming.
+- Server Fault is for questions about server and network administration.
 
-有几个项目有自己的特定网站，包括Android、Ubuntu、TeX/LaTeX和SharePoint。查看Stack Exchange网站的最新列表。
+Several projects have their own specific sites, including Android, Ubuntu, TeX/LaTeX, and SharePoint. Check the Stack Exchange site for an up-to-date list.
 
-### 面向新手的论坛和互联网中继聊天（IRC）通常响应最快
+### Web and IRC forums
 
-本地的用户组织或者你所用的 Linux 发行版也许正在宣传新手取得帮助的论坛或 IRC 通道（在一些非英语国家，新手论坛很可能还是邮件列表），这些地方是开始提问的好去处，特别是当你觉得遇到的也许只是相对简单或者很普通的问题时。经过宣传的 IRC 通道是公开邀请提问的地方，通常可以得到实时的回复。
+Your local user group, or your Linux distribution, may advertise a Web forum or IRC channel where newbies can get help. (In non-English-speaking countries newbie forums are still more likely to be mailing lists.) These are good first places to ask, especially if you think you may have tripped over a relatively simple or common problem. An advertised IRC channel is an open invitation to ask questions there and often get answers in real time.
 
-事实上，如果出问题的程序来自某发行版（这很常见），最好先去该发行版的论坛或邮件列表中提问，再到程序本身的项目论坛或邮件列表，（否则）该项目的黑客可能仅仅回复『用我们的 代码』。
+In fact, if you got the program that is giving you problems from a Linux distribution (as is common today), it may be better to ask in the distro's forum/list before trying the program's project forum/list. The project's hackers may just say, “use *our* build”.
 
-在任何论坛发贴以前，先看看有没有搜索功能。如果有，就试着用问题的几个关键词搜索一下，也许就有帮助。如果在此之前你已做过全面的网页搜索（你应该这样去做），还是再搜索一下论坛，搜索引擎有可能没来得及索引此论坛的全部内容。
+Before posting to any Web forum, check if it has a Search feature. If it does, try a couple of keyword searches for something like your problem; it just might help. If you did a general Web search before (as you should have), search the forum anyway; your Web-wide search engine might not have all of this forum indexed recently.
 
-通过论坛或 IRC 通道提供项目的用户支持有增长的趋势，电子邮件交流则更多地为项目开发者保留。所以先在论坛或 IRC 中寻求与该项目相关的帮助。
+There is an increasing tendency for projects to do user support over a Web forum or IRC channel, with e-mail reserved more for development traffic. So look for those channels first when seeking project-specific help.
 
-### 第二步，使用项目的邮件列表
+In IRC, it's probably best not to dump a long problem description on the channel first thing; some people interpret this as channel-flooding. Best to utter a one-line problem description in a way pitched to start a conversation on the channel.
 
-当某个项目存在开发者邮件列表时，要向列表而不是其中的个别成员提问，即使你确信他能最好地回答你的问题。查一查项目的文档和主页，找到项目的邮件列表并使用它。采用这种办法有几个很好的理由：
+### As a second step, use project mailing lists
 
-- 向个别开发者提的问题（如果）足够好，也将对整个项目组有益。相反，如果你认为自己的问题对整个项目组来说太愚蠢，这也不能成为骚扰个别开发者的理由。
-- 向列表提问可以分散开发者的负担，个别开发者（尤其是项目领导）也许太忙以至于没法回答你的问题。
-- 大多数邮件列表都要存档，那些存档将被搜索引擎索引，如果你向列表提问并得到解答，将来其它人可以通过网页搜索找到你的问题和答案，也就不用再次发问了。
-- 如果某些问题经常被问到，开发者可以利用此信息改进文档或软件本身，以使其更清楚。如果只是私下提问，就没有人能看到最常见问题的完整场景。
+When a project has a development mailing list, write to the mailing list, not to individual developers, even if you believe you know who can best answer your question. Check the documentation of the project and its homepage for the address of a project mailing list, and use it. There are several good reasons for this policy:
 
-如果一个项目既有 『用户』 也有『开发者』（或 『黑客』）邮件列表或论坛，而你又不摆弄那些代码，向『用户』列表或论坛提问。不要假设自己会在开发者列表中受到欢迎，那些人多半会遭受你的噪音干扰。
+- Any question good enough to be asked of one developer will also be of value to the whole group. Contrariwise, if you suspect your question is too dumb for a mailing list, it's not an excuse to harass individual developers.
+- Asking questions on the list distributes load among developers. The individual developer (especially if he's the project leader) may be too busy to answer your questions.
+- Most mailing lists are archived and the archives are indexed by search engines. If you ask your question on-list and it is answered, a future querent could find your question and the answer on the Web instead of asking it again.
+- If certain questions are seen to be asked often, developers can use that information to improve the documentation or the software itself to be less confusing. But if those questions are asked in private, nobody has the complete picture of what questions are asked most often.
 
-然而，如果你 确信你的问题不一般，而且在『用户』 列表或论坛中几天都没有回复，可以试试『开发者』列表或论坛。建议你在张贴前最好先暗暗地观察几天,至少看看最近几天保存的帖子,以了解那的行事方式（事实上这是参与任何私有或半私有列表的好主意）
+If a project has both a “user” and a “developer” (or “hacker”) mailing list or Web forum, and you are not hacking on the code, ask in the “user” list/forum. Do not assume that you will be welcome on the developer list, where they're likely to experience your question as noise disrupting their developer traffic.
 
-如果你找不到一个项目的邮件列表，而只能查到项目维护者的地址，只管向其发信。即便在这种情况下，也别假设（项目）邮件列表不存在。在你的电子邮件中陈述你已经试过但没有找到合适的邮件列表，也提及你不反对将自己的邮件转发给他人（许多人认为，即使没什么秘密，私人电子邮件也不应该被公开。通过允许将你的电子邮件转发他人，你给了相应人员处置你邮件的选择）。
+However, if you are *sure* your question is non-trivial, and you get no answer in the “user” list/forum for several days, try the “developer” one. You would be well advised to lurk there for a few daysor at least review the last few days of archived messages, to learn the local folkways before posting (actually this is good advice on any private or semi-private list).
 
-### 使用有意义且明确的主题
+If you cannot find a project's mailing list address, but only see the address of the maintainer of the project, go ahead and write to the maintainer. But even in that case, don't assume that the mailing list doesn't exist. Mention in your e-mail that you tried and could not find the appropriate mailing list. Also mention that you don't object to having your message forwarded to other people. (Many people believe that private e-mail should remain private, even if there is nothing secret in it. By allowing your message to be forwarded you give your correspondent a choice about how to handle your e-mail.)
 
-在邮件列表、新闻组或论坛中，主题是你在五十个或更少的字以内吸引有资格专家注意的黄金机会，不要用诸如 『请帮我』 （更别提大写的 『请帮我！！！！』，这种主题的消息会被条件反射式地删掉）之类的唠叨浪费机会。不要用你痛苦的深度来打动我们，相反，要在这点空间中使用超级简明扼要的问题描述。
+### Use meaningful, specific subject headers
 
-使用主题的好惯例是『对象──偏差』（式的描述），许多技术支持组织就是这样做的。在『对象』部分指明是哪一个或哪一组东西有问题，在『偏差』部分则描述与期望的行为不一致的地方。
+On mailing lists, newsgroups or Web forums, the subject header is your golden opportunity to attract qualified experts' attention in around 50 characters or fewer. Don't waste it on babble like “Please help me” (let alone “PLEASE HELP ME!!!!”; messages with subjects like that get discarded by reflex). Don't try to impress us with the depth of your anguish; use the space for a super-concise problem description instead.
 
-- 愚蠢：
-> 救命啊！我的笔记本视频工作不正常！
+One good convention for subject headers, used by many tech support organizations, is “object - deviation”. The “object” part specifies what thing or group of things is having a problem, and the “deviation” part describes the deviation from expected behavior.
 
-- 明智：
-> X.org 6.8.1 扭曲鼠标光标，MV1005 型号的某显卡芯片组
+- **Stupid:**
 
-- 更明智：
-> 使用 MV1005 型号的某显卡芯片组在 X.org 6.8.1 的鼠标光标被扭曲
+  HELP! Video doesn't work properly on my laptop!
 
-编写 『对象-偏差』式描述的过程有助于你组织对问题的细致思考。是什么被影响了？仅仅是鼠标光标或者还有其它图形？只在 X.org 中出现？或只是在其 6.8.1 版中？是针对某显卡芯片组？或者只是其中的 MV1005 型号？一个黑客只需描一眼就能够立即明白什么是你遇到的问题，什么是你自己的问题。
+- **Smart:**
 
-更一般地，想象一下在一个只显示主题的文档索引中查找。让你的主题更好地反映问题，可以使下一个搜索类似问题的人能够在文档中直接就找到答案的线索，而不用再次发贴提问。
+  X.org 6.8.1 misshapen mouse cursor, Fooware MV1005 vid. chipset
 
-如果你想在回复中提问，确保改变主题以表明你是在问一个问题，一个主题象 `Re: 测试` 或者 `Re: 新bug` 的消息不太可能引起足够的注意。同时，将回复中与新主题不甚相关的引用内容尽量删除。
+- **Smarter:**
 
-对于列表消息，不要直接点击回复（按钮）来开始一个全新的线索，这将限制你的观众。有些邮件阅读程序，比如 mutt，允许用户按线索排序并通过折叠线索来隐藏消息，这样做的人永远看不到你发的消息。
+  X.org 6.8.1 mouse cursor on Fooware MV1005 vid. chipset - is misshapen
 
-仅仅改变主题还不够。mutt 和其它一些邮件阅读程序还要检查邮件头主题以外的其它信息，以便为其指定线索，所以宁可发一个全新的邮件。
+The process of writing an “object-deviation” description will help you organize your thinking about the problem in more detail. What is affected? Just the mouse cursor or other graphics too? Is this specific to the X.org version of X? To version 6.8.1? Is this specific to Fooware video chipsets? To model MV1005? A hacker who sees the result can immediately understand what it is that you are having a problem with *and* the problem you are having, at a glance.
 
-在论坛，因为消息与特定的线索紧密结合，并且通常在线索之外不可见，好的提问方式略有不同，通过回复提问并不要紧。不是所有论坛都允许在回复中出现分离的主题，而且这样做了基本上没有人会去看。不过，通过回复提问本身就是令人怀疑的做法，因为它们只会被正在查看该线索的人读到。所以，除非你只想在该线索当前活跃的人群中提问，还是另起炉灶比较好。
+More generally, imagine looking at the index of an archive of questions, with just the subject lines showing. Make your subject line reflect your question well enough that the next person searching the archive with a question similar to yours will be able to follow the thread to an answer rather than posting the question again.
 
-### 使问题容易回复
+If you ask a question in a reply, be sure to change the subject line to indicate that you're asking a question. A Subject line that looks like “Re: test” or “Re: new bug” is less likely to attract useful amounts of attention. Also, pare quotation of previous messages to the minimum consistent with cluing in new readers.
 
-以『`请向……回复`』来结束问题多半会使你得不到回答。如果你觉得花几秒钟在邮件客户端设置一下回复地址都麻烦，我们也觉得花几秒钟考虑你的问题更麻烦。如果你的邮件客户端程序不支持这样做，换个好点的；如果是操作系统不支持所有这种邮件客户端程序，也换个好点的。
+Do not simply hit reply to a list message in order to start an entirely new thread. This will limit your audience. Some mail readers, like mutt, allow the user to sort by thread and then hide messages in a thread by folding the thread. Folks who do that will never see your message.
 
-在论坛，要求通过电子邮件回复是完全无礼的，除非你确信回复的信息也许是敏感的（而且有人会为了某些未知的原因，只让你而不是整个论坛知道答案）。如果你只是想在有人回复线索时得到电子邮件提醒，可以要求论坛发送。几乎所有论坛都支持诸如`留意本线索`、`有回复发送邮件`等功能。
+Changing the subject is not sufficient. Mutt, and probably other mail readers, looks at other information in the e-mail's headers to assign it to a thread, not the subject line. Instead start an entirely new e-mail.
 
-### 用清晰、语法、拼写正确的语句书写
+On Web forums the rules of good practice are slightly different, because messages are usually much more tightly bound to specific discussion threads and often invisible outside those threads. Changing the subject when asking a question in reply is not essential. Not all forums even allow separate subject lines on replies, and nearly nobody reads them when they do. However, asking a question in a reply is a dubious practice in itself, because it will only be seen by those who are watching this thread. So, unless you are sure you *want* to ask only the people currently active in the thread, start a new one.
 
-经验告诉我们，粗心与草率的作者通常也粗心与草率地思考和编程（我敢打赌）。为这些粗心与草率的思考者回答问题没有什么好处，我们宁可将时间花在其它地方。
+### Make it easy to reply
 
-清楚、良好地表达你的问题非常重要。如果你觉得这样做麻烦，我们也觉得注意（你的问题）麻烦。花点额外的精力斟酌一下字句，用不着太僵硬或正式──事实上，黑客文化很看重能准确地使用非正式、俚语和幽默的语句。但它 必须 很准确，而且有迹象表明你是在思考和关注问题。
+Finishing your query with “Please send your reply to... ” makes it quite unlikely you will get an answer. If you can't be bothered to take even the few seconds required to set up a correct Reply-To header in your mail agent, we can't be bothered to take even a few seconds to think about your problem. If your mail program doesn't permit this, [get a better mail program](http://linuxmafia.com/faq/Mail/muas.html). If your operating system doesn't support any e-mail programs that permit this, get a better operating system.
 
-正确地拼写、使用标点和大小写，不要将 `its` 混淆为 `it's`，`loose` 搞成 `lose` 或者将 『discrete』 弄成 『discreet』。不要全部用大写，这会被视为无礼的大声嚷嚷 （全部小写也好不到哪去，因为不易阅读。Alan Cox [注：著名黑客，Linux 内核的重要参与者] 他也许可以这样做，但你不行。）
+In Web forums, asking for a reply by e-mail is outright rude, unless you believe the information may be sensitive (and somebody will, for some unknown reason, let you but not the whole forum know it). If you want an e-mail copy when somebody replies in the thread, request that the Web forum send it; this feature is supported almost everywhere under options like “watch this thread”, “send e-mail on answers”, etc.
 
-一般而言，如果你写得象个半文盲似的傻子，多半得不到理睬。也不要使用即时通讯中的简写，如将 `you` 简化为 `u` 会使你看起来象一个为了节约二次击键的半文盲式的傻子。更糟的是，如果象个小孩似地鬼画桃符那绝对是在找死，可以肯定没人会理你（或者最多是给你一大堆指责与挖苦）。
+### Write in clear, grammatical, correctly-spelled language
 
-如果在非母语论坛提问，你的拼写与语法错误会得到有限的宽容，但懒惰完全不会被容忍（是的，我们通常看得出其中的差别）。同时，除非你知道回复者使用的语言，请使用英语书写。繁忙的黑客一般会直接删除用他们看不懂语言写的消息。在互联网上英语是工作语言，用英语书写可以将你的问题不被阅读就被直接删除的可能性降到最低。
+We've found by experience that people who are careless and sloppy writers are usually also careless and sloppy at thinking and coding (often enough to bet on, anyway). Answering questions for careless and sloppy thinkers is not rewarding; we'd rather spend our time elsewhere.
 
-如果你用英语书写但它是你的第二语言，最好提醒潜在的回复者语言上可能的困难以便绕过这个问题，比如：
+So expressing your question clearly and well is important. If you can't be bothered to do that, we can't be bothered to pay attention. Spend the extra effort to polish your language. It doesn't have to be stiff or formal — in fact, hacker culture values informal, slangy and humorous language used with precision. But it has to *be* precise; there has to be some indication that you're thinking and paying attention.
 
-- 英语不是我的母语，请谅解拼写错误。
-- 如果您使用某某语言，请电邮/私聊我，也许我需要您的协助翻译我的问题。
-- 对于这个技术术语本身我很熟悉，但对于它的一些俚语或习惯表达方式就不太明白了。
-- 我已经同时用某某语及英语提问，如果您使用两者之一回复，我很乐意翻译。
+Spell, punctuate, and capitalize correctly. Don't confuse “its” with “it's”, “loose” with “lose”, or “discrete” with “discreet”. Don't TYPE IN ALL CAPS; this is read as shouting and considered rude. (All-smalls is only slightly less annoying, as it's difficult to read. Alan Cox can get away with it, but you can't.)
 
-### 使用易于读取且标准的文件格式发送问题
+More generally, if you write like a semi-literate boob you will very likely be ignored. So don't use instant-messaging shortcuts. Spelling "you" as "u" makes you look like a semi-literate boob to save two entire keystrokes. Worse: writing like a l33t script kiddie hax0r is the absolute kiss of death and guarantees you will receive nothing but stony silence (or, at best, a heaping helping of scorn and sarcasm) in return.
 
-如果你人为地将问题搞得难以阅读，它多半会被忽略，人们更愿读易懂的问题，所以：
+If you are asking questions in a forum that does not use your native language, you will get a limited amount of slack for spelling and grammar errors — but no extra slack at all for laziness (and yes, we can usually spot that difference). Also, unless you know what your respondent's languages are, write in English. Busy hackers tend to simply flush questions in languages they don't understand, and English is the working language of the Internet. By writing in English you minimize your chances that your question will be discarded unread.
 
-- 使用纯文本而不是 HTML（超文本标注语言）（ 关闭HTML 并不难）
-- 使用 MIME（多用途互联网邮件扩展）附件通常没有问题，前提是真正有内容（譬如附带的源文件或补丁），而不仅仅是邮件客户端程序生成的模板（譬如只是消息内容的拷贝）。
-- 不要发送整段只是单行句子但多次折回的邮件（这使得回复部分内容非常困难）。设想你的读者是在80个字符宽的文本终端阅读邮件，设置你的行折回点小于 80 列。
-- 但是，也不要用任何固定列折回数据（譬如日志文件拷贝或会话记录）。数据应该原样包含，使回复者确信他们看到的是与你看到的一样的东西。
-- 在英语论坛中，不要使用'Quoted-Printable' MIME 编码发送消息。这种编码对于张贴非 ASCII 语言可能是必须的，但很多邮件程序并不支持。当它们分断时，那些文本中四处散布的 『=20』符号既难看也分散注意力，甚至有可能破坏内容的语意。
-- 永远不要指望黑客们阅读使用封闭的专用格式编写的文档，诸如微软公司的 Word 或 Excel 文件等。大多数黑客对此的反应就象有人将还在冒热气的猪粪倒在你门口时你的反应一样。即使他们能够处理，也很厌恶这么做。
-- 如果你从使用视窗的电脑发送电子邮件，关闭问题颇多的微软『Smart Quotes』（智能引用）功能（在『工具』 -> 『自动纠正选项』的『输入时自动格式化』下去掉聪明引用的选框），以免在你的邮件中到处散布垃圾字符。
-- 在论坛，勿滥用『表情符号』和『HTML』功能(当它们提供时)。一两个表情符号通常没有问题，但花哨的彩色文本倾向于使人认为你是个无能之辈。过滥地使用表情符号、色彩和字体会使你看来象个傻笑的小姑娘。这通常不是个好主意，除非你只是对性而不是有用的回复更有兴趣。
-- 如果你使用图形用户界面的邮件客户端程序(如网景公司的 Messenger、微软公司的 Outlook 或者其它类似的)，注意它们的缺省配置不一定满足这些要求。大多数这类程序有基于菜单的`查看源码`命令，用它来检查发送文件夹中的消息，以确保发送的是没有多余杂质的纯文本文件。
+If you are writing in English but it is a second language for you, it is good form to alert potential respondents to potential language difficulties and options for getting around them. Examples:
 
-### 描述问题应准确且有内容
+- English is not my native language; please excuse typing errors.
+- If you speak $LANGUAGE, please email/PM me; I may need assistance translating my question.
+- I am familiar with the technical terms, but some slang expressions and idioms are difficult for me.
+- I've posted my question in $LANGUAGE and English. I'll be glad to translate responses, if you only use one or the other.
 
-- 仔细、清楚地描述问题的症状
+### Send questions in accessible, standard formats
 
-- 描述问题发生的环境：主机、操作系统、应用程序，任何相关的环境，提供销售商的发行版和版本号，如：『Fedora Core 7』、『Slackware 9.1』等……
+If you make your question artificially hard to read, it is more likely to be passed over in favor of one that isn't. So:
 
-- 描述提问前做过的研究及其理解。
+- Send plain text mail, not HTML. (It's not hard to [turn off HTML](http://www.birdhouse.org/etc/evilmail.html).)
+- MIME attachments are usually OK, but only if they are real content (such as an attached source file or patch), and not merely boilerplate generated by your mail client (such as another copy of your message).
+- Don't send e-mail in which entire paragraphs are single multiply-wrapped lines. (This makes it too difficult to reply to just part of the message.) Assume that your respondents will be reading mail on 80-character-wide text displays and set your line wrap accordingly, to something less than 80.
+- However, do *not* wrap data (such as log file dumps or session transcripts) at any fixed column width. Data should be included as-is, so respondents can have confidence that they are seeing what you saw.
+- Don't send MIME Quoted-Printable encoding to an English-language forum. This encoding can be necessary when you're posting in a language ASCII doesn't cover, but many e-mail agents don't support it. When they break, all those =20 glyphs scattered through the text are ugly and distracting — or may actively sabotage the semantics of your text.
+- Never, *ever* expect hackers to be able to read closed proprietary document formats like Microsoft Word or Excel. Most hackers react to these about as well as you would to having a pile of steaming pig manure dumped on your doorstep. Even when they can cope, they resent having to do so.
+- If you're sending e-mail from a Windows machine, turn off Microsoft's problematic “Smart Quotes” feature (From Tools > AutoCorrect Options, clear the smart quotes checkbox under AutoFormat As You Type.). This is so you'll avoid sprinkling garbage characters through your mail.
+- In Web forums, do not abuse “smiley” and “HTML” features (when they are present). A smiley or two is usually OK, but colored fancy text tends to make people think you are lame. Seriously overusing smileys and color and fonts will make you come off like a giggly teenage girl, which is not generally a good idea unless you are more interested in sex than answers.
 
-- 描述提问前为确定问题而采取的诊断步骤。
+If you're using a graphical-user-interface mail client such as Netscape Messenger, MS Outlook, or their ilk, beware that it may violate these rules when used with its default settings. Most such clients have a menu-based “View Source” command. Use this on something in your sent-mail folder, verifying sending of plain text without unnecessary attached crud.
 
-- 描述最近对计算机或软件配置的任何相关改变。
+### Be precise and informative about your problem
 
-- 如果可能，提供在可控环境下重现问题的方法。
+- Describe the symptoms of your problem or bug carefully and clearly.
+- Describe the environment in which it occurs (machine, OS, application, whatever). Provide your vendor's distribution and release level (e.g.: “Fedora Core 7”, “Slackware 9.1”, etc.).
+- Describe the research you did to try and understand the problem before you asked the question.
+- Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
+- Describe any possibly relevant recent changes in your computer or software configuration.
+- If at all possible, provide a way to *reproduce the problem in a controlled environment*.
 
+Do the best you can to anticipate the questions a hacker will ask, and answer them in advance in your request for help.
 
-尽最大努力预测黑客会提到的问题，并提前备好答案。
+Giving hackers the ability to reproduce the problem in a controlled environment is especially important if you are reporting something you think is a bug in code. When you do this, your odds of getting a useful answer and the speed with which you are likely to get that answer both improve tremendously.
 
-如果你认为是代码有问题，向黑客提供在可控环境下重现问题的方法尤其重要。当你这么做时，得到有用且及时回复的可能性将大大增加。
+Simon Tatham has written an excellent essay entitled [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html). I strongly recommend that you read it.
 
-[西蒙.泰瑟姆（Simon Tatham）](http://www.chiark.greenend.org.uk/~sgtatham/)写过一篇《[如何有效报告bug》](http://www.chiark.greenend.org.uk/~sgtatham/bugs-tw.html)的文章，我强烈推荐各位阅读。
+### Volume is not precision
 
-### 量不在多，精炼则灵
+You need to be precise and informative. This end is not served by simply dumping huge volumes of code or data into a help request. If you have a large, complicated test case that is breaking a program, try to trim it and make it as small as possible.
 
-你应该（写得）精炼且有内容，简单地将一大堆代码或数据罗列在求助消息中达不到目的。如果你有一个很大且复杂的测试样例让程序崩溃，尝试将其裁剪得越小越好。
+This is useful for at least three reasons. One: being seen to invest effort in simplifying the question makes it more likely you'll get an answer, Two: simplifying the question makes it more likely you'll get a *useful* answer. Three: In the process of refining your bug report, you may develop a fix or workaround yourself.
 
-至少有三个理由支持这点。第一，让别人看到你在努力简化问题使你更有可能得到回复。第二，简化问题使你更有可能得到 `有用的` 回复。第三，在提纯bug报告的过程中，你可能自己就找到了解决办法或权宜之计。
+### Don't rush to claim that you have found a bug
 
-### 别急于宣称找到bug
+When you are having problems with a piece of software, don't claim you have found a bug unless you are very, *very* sure of your ground. Hint: unless you can provide a source-code patch that fixes the problem, or a regression test against a previous version that demonstrates incorrect behavior, you are probably not sure enough. This applies to webpages and documentation, too; if you have found a documentation “bug”, you should supply replacement text and which pages it should go on.
 
-当你在一个软件中遇到问题，除非你 非常、非常 的有根据，不要动辄声称找到了bug。提示：除非你能提供解决问题的源代码补丁，或者对前一版本的回归测试表现出不正确的行为，否则你都多半不够完全确信。对于网页和文档也如此，如果你（声称）发现了文档的『bug』，你应该能提供相应位置的替代文本。
+Remember, there are many other users that are not experiencing your problem. Otherwise you would have learned about it while reading the documentation and searching the Web (you did do that before complaining, [didn't you](http://www.catb.org/~esr/faqs/smart-questions.html#before)?). This means that very probably it is you who are doing something wrong, not the software.
 
-记住，还有许多其它用户并未经历你遇到的问题，否则你在阅读文档或搜索网页时就应该发现了。这也意味着很有可能是你弄错了，而不是软件本身有问题。
+The people who wrote the software work very hard to make it work as well as possible. If you claim you have found a bug, you'll be impugning their competence, which may offend some of them even if you are correct. It's especially undiplomatic to yell “bug” in the Subject line.
 
-编写软件的人总是非常辛苦地使它尽可能完美。如果你声称找到了bug，也就置疑了他们的能力，即使你是对的，也有可能会使其中的部分人感到不快。（此外，）在主题中嚷嚷『bug』也是特别不老练的。
+When asking your question, it is best to write as though you assume *you* are doing something wrong, even if you are privately pretty sure you have found an actual bug. If there really is a bug, you will hear about it in the answer. Play it so the maintainers will want to apologize to you if the bug is real, rather than so that you will owe them an apology if you have messed up.
 
-提问时，即使你私下非常确信已经发现一个真正的bug，最好写得象是你做错了什么。如果真的有bug，你会在回复中看到这点。这样做的话，如果真有虫子，维护者就会向你道歉，这总比你弄砸了然后欠别人一个道歉要强。
+### Grovelling is not a substitute for doing your homework
 
-### 低声下气代替不了做自己的家庭作业
+Some people who get that they shouldn't behave rudely or arrogantly, demanding an answer, retreat to the opposite extreme of grovelling. “I know I'm just a pathetic newbie loser, but...”. This is distracting and unhelpful. It's especially annoying when it's coupled with vagueness about the actual problem.
 
-有些人明白他们不应该粗鲁或傲慢地行事并要求得到答复，但他们退到相反的低声下气的极端：『我知道我只是个可怜的新丁，一个失败者，但……』。这既使人困扰，也没有用，当伴随着对实际问题含糊的描述时还特别令人反感。
+Don't waste your time, or ours, on crude primate politics. Instead, present the background facts and your question as clearly as you can. That is a better way to position yourself than by grovelling.
 
-别用低级灵长类动物的办法浪费你我的时间，相反，尽可能清楚地描述背景情况和你的问题，这比低声下气更好地摆正了你的位置。
+Sometimes Web forums have separate places for newbie questions. If you feel you do have a newbie question, just go there. But don't grovel there either.
 
-有时，论坛设有单独的初学者提问版面，如果你真的认为遇到了肤浅的问题，到那去就是了，但一样别低声下气。
+### Describe the problem's symptoms, not your guesses
 
-### 描述问题症状而不是猜测
+It's not useful to tell hackers what you think is causing your problem. (If your diagnostic theories were such hot stuff, would you be consulting others for help?) So, make sure you're telling them the raw symptoms of what goes wrong, rather than your interpretations and theories. Let them do the interpretation and diagnosis. If you feel it's important to state your guess, clearly label it as such and describe why that answer isn't working for you.
 
-告诉黑客是什么导致了问题是没用的（如果你的诊断理论是了不起的东西，你还会向别人咨询求助吗？）。所以，确保只是告诉他们问题的原始症状，而不是你的解释和理论，让他们来解释和诊断。如果你认为陈述自己的猜测很重要，应清楚地说明这只是你的猜测并描述为什么它们不起作用。
+- **Stupid:**
 
-愚蠢：
-> 我在编译内核时接连遇到 SIG11 错误，怀疑主板上的某根电路丝断了，找到它们的最好办法是什么？
+  I'm getting back-to-back SIG11 errors on kernel compiles, and suspect a hairline crack on one of the motherboard traces. What's the best way to check for those?
 
-明智：
-> 我组装的电脑（K6/233 CPU、FIC-PA2007 主板[威盛 Apollo VP2 芯片组]、Corsair PC133 SDRAM 256Mb 内存）最近在开机 20 分钟左右、做内核编译时频繁地报 SIG11 错，但在头 20 分钟内从不出问题。重启动不会复位时钟，但整夜关机会。更换所有内存未解决问题，相关的典型编译会话日志附后。
+- **Smart:**
 
-由于以上这点许多人似乎难以掌握，这里有句话可以提醒你：『所有的诊断专家都来自密苏里州』。美国国务院的官方座右铭则是『让我看看』（出自国会议员威勒德.D.范迪弗［Willard D. Vandiver］在1899年时的讲话， 他说：『我来自一个出产玉米、棉花、牛蒡和民主党人的国家，滔滔雄辩既不能说服我，也不会让我满意。我来自密苏里州，你必须让我看看。』）针对诊断者而言，这并不是怀疑，而只是一种真实而有用的需求，以便让他们看到与你看到的原始证据尽可能一致的东西，而不是你的猜测与总结。（所以，）让我们看看。
+  My home-built K6/233 on an FIC-PA2007 motherboard (VIA Apollo VP2 chipset) with 256MB Corsair PC133 SDRAM starts getting frequent SIG11 errors about 20 minutes after power-on during the course of kernel compiles, but never in the first 20 minutes. Rebooting doesn't restart the clock, but powering down overnight does. Swapping out all RAM didn't help. The relevant part of a typical compile session log follows.
 
-### 按时间先后罗列问题症状
+Since the preceding point seems to be a tough one for many people to grasp, here's a phrase to remind you: "All diagnosticians are from Missouri." That US state's official motto is "Show me" (earned in 1899, when Congressman Willard D. Vandiver said "I come from a country that raises corn and cotton and cockleburs and Democrats, and frothy eloquence neither convinces nor satisfies me. I'm from Missouri. You've got to show me.") In diagnosticians' case, it's not a matter of skepticism, but rather a literal, functional need to see whatever is as close as possible to the same raw evidence that you see, rather than your surmises and summaries. Show us.
 
-刚出问题之前发生的事情通常包含有解决问题最有效的线索。所以，记录中应准确地描述你、电脑和软件在崩溃前都做了什么。在命令行处理的情况下，有会话日志（如运行脚本工具生成的）并引用相关的若干（如20）行记录会非常有帮助。
+### Describe your problem's symptoms in chronological order
 
-如果崩溃的程序有诊断选项（如-v详述开关），试着选择这些能在记录中增加排错信息的选项。记住，『多』不等于『好』。试着选取适当的排错级别以便提供有用的信息而不是将阅读者淹没在垃圾中。
+The clues most useful in figuring out something that went wrong often lie in the events immediately prior. So, your account should describe precisely what you did, and what the machine and software did, leading up to the blowup. In the case of command-line processes, having a session log (e.g., using the script utility) and quoting the relevant twenty or so lines is very useful.
 
-如果你的记录很长（如超过四段），在开头简述问题随后按时间先后罗列详细过程也许更有用。这样，黑客在读你的记录时就知道该注意哪些内容了。
+If the program that blew up on you has diagnostic options (such as -v for verbose), try to select options that will add useful debugging information to the transcript. Remember that more is not necessarily better; try to choose a debug level that will inform rather than drowning the reader in junk.
 
-### 描述目标而不是过程
+If your account ends up being long (more than about four paragraphs), it might be useful to succinctly state the problem up top, then follow with the chronological tale. That way, hackers will know what to watch for in reading your account.
 
-如果你想弄清楚如何做某事（而不是报告一个bug），在开头就描述你的目标，然后才陈述遇到问题的特定步骤。
+### Describe the goal, not the step
 
-经常出现这种情况，寻求技术帮助的人在脑袋里有个更高层次的目标，他们在自以为能达到目标的特定道路上被卡住了，然后跑来问该怎么走，但没有意识到这条路本身有问题，结果要费很大的劲才能通过。
+If you are trying to find out how to do something (as opposed to reporting a bug), begin by describing the goal. Only then describe the particular step towards it that you are blocked on.
 
-愚蠢：
+Often, people who need technical help have a high-level goal in mind and get stuck on what they think is one particular path towards the goal. They come for help with the step, but don't realize that the path is wrong. It can take substantial effort to get past this.
 
-> 我怎样才能让某图形程序的颜色拾取器取得十六进制的 RGB 值？
+- **Stupid:**
 
-明智：
+  How do I get the color-picker on the FooDraw program to take a hexadecimal RGB value?
 
-> 我正试着用自己选定数值的颜色替换一幅图片的色表，我现在知道的唯一方法是编辑每个表槽，但却无法让某图形程序的颜色拾取器取得十六进制的 RGB 值。
+- **Smart:**
 
-第二种提法是明智的，它使得建议采用更合适的工具以完成任务的回复成为可能。
+  I'm trying to replace the color table on an image with values of my choosing. Right now the only way I can see to do this is by editing each table slot, but I can't get FooDraw's color picker to take a hexadecimal RGB value.
 
-### 别要求私下回复电邮
+The second version of the question is smart. It allows an answer that suggests a tool better suited to the task.
 
-黑客们认为问题的解决过程应该公开、透明，此过程中如果更有才能的人注意到不完整或者不当之处，最初的回复才能够、也应该被纠正。同时，作为回复者也因为能力和学识被其它同行看到而得到某种回报。
+### Don't ask people to reply by private e-mail
 
-当你要求私下回复时，此过程和回报都被中止。别这样做，让 回复者 来决定是否私下回答──如果他真这么做了，通常是因为他认为问题编写太差或者太肤浅，以至于对其它人毫无意义。
+Hackers believe solving problems should be a public, transparent process during which a first try at an answer can and should be corrected if someone more knowledgeable notices that it is incomplete or incorrect. Also, helpers get some of their reward for being respondents from being seen to be competent and knowledgeable by their peers.
 
-对这条规则存在一条有限的例外，如果你确信提问可能会引来大量雷同的回复时，那么『向我发电邮，我将为论坛归纳这些回复』将是神奇的句子。试着将邮件列表或新闻组从洪水般雷同的回复中解救出来是非常有礼貌的──但你必须信守诺言。
+When you ask for a private reply, you are disrupting both the process and the reward. Don't do this. It's the *respondent's* choice whether to reply privately — and if he or she does, it's usually because he or she thinks the question is too ill-formed or obvious to be interesting to others.
 
-### 提问应明确
+There is one limited exception to this rule. If you think the question is such that you are likely to get many answers that are all closely similar, then the magic words are “e-mail me and I'll summarize the answers for the group”. It is courteous to try and save the mailing list or newsgroup a flood of substantially identical postings — but you have to keep the promise to summarize.
 
-漫无边际的问题通常也被视为没有明确限制的时间无底洞。最有可能给你有用答案的人通常也是最忙的人（假如只是因为他们承担了太多工作的话），这些人对于没有止境的时间无底洞极其敏感，所以他们也倾向于讨厌那些漫无边际的问题。
+### Be explicit about your question
 
-如果你明确了想让回复者做的事（如指点方向、发送代码、检查补丁或其它），你更有可能得到有用的回复。（因为）这样可以让他们集中精力并间接地设定了他们为帮助你需要花费的时间和精力上限，这很好。
+Open-ended questions tend to be perceived as open-ended time sinks. Those people most likely to be able to give you a useful answer are also the busiest people (if only because they take on the most work themselves). People like that are allergic to open-ended time sinks, thus they tend to be allergic to open-ended questions.
 
-要想理解专家生活的世界，可以这样设想：**那里有丰富的专长资源但稀缺的响应时间。你暗中要求他们奉献的时间越少，你越有可能从这些真正懂行也真正很忙的专家那里得到解答。**
+You are more likely to get a useful response if you are explicit about what you want respondents to do (provide pointers, send code, check your patch, whatever). This will focus their effort and implicitly put an upper bound on the time and energy a respondent must allocate to helping you. This is good.
 
-所以限定你的问题以使专家回答时需要付出的时间最少──这通常与简化问题还不太一样。举个例，『请问可否指点一下哪有好一点的 X 解释？』通常要比『请解释一下 X』明智。如果你的代码不运行了，通常请别人看看哪有问题比叫他们帮你改正更明智。
+To understand the world the experts live in, think of expertise as an abundant resource and time to respond as a scarce one. The less of a time commitment you implicitly ask for, the more likely you are to get an answer from someone really good and really busy.
 
-### 关于代码的问题
+So it is useful to frame your question to minimize the time commitment required for an expert to field it — but this is often not the same thing as simplifying the question. Thus, for example, “Would you give me a pointer to a good explanation of X?” is usually a smarter question than “Would you explain X, please?”. If you have some malfunctioning code, it is usually smarter to ask for someone to explain what's wrong with it than it is to ask someone to fix it.
 
-别要求他人给你出问题的代码排错而不提及应该从何入手。张贴几百行的代码，然后说一声『它不能运行』会让你得不到理睬。只贴几十行代码，然后说下面这句话，那才最有可能让你得到回复：『在第七行以后，本应该显示XXX……，但实际出现的却是YYY……』
+### When asking about code
 
-最精确描述代码问题的方法是提供一个能展示问题的最小测试样例。什么是最小测试样例？它是对问题的展现，只需要刚好能够重现非预期行为的代码即可。如何生成一个最小测试样例？如果你知道哪一行或哪一段代码会产生问题，将其复制并提供刚好够用的外围支撑代码以构成一个完整的样例（够用是指源码刚好能被编译器、解释器或任何处理它的程序所接受）。如果你不能将问题缩小到特定的段落，复制源码并去除那些与问题无关的代码段。你能提供的最小测试样例越小越好（参见『量不在多，精炼则灵』那段 ）。
+Don't ask others to debug your broken code without giving a hint what sort of problem they should be searching for. Posting a few hundred lines of code, saying "it doesn't work", will get you ignored. Posting a dozen lines of code, saying "after line 7 I was expecting to see <x>, but <y> occurred instead" is much more likely to get you a response.
 
-生成一个非常小的最小测试样例并不总是可能，但尽力去做是很好的锻练，这有可能帮助你找到需要自己解决的问题。即使你找不到，黑客们喜欢看到你努力过，这将使他们更合作。
+The most effective way to be precise about a code problem is to provide a minimal bug-demonstrating test case. What's a minimal test case? It's an illustration of the problem; just enough code to exhibit the undesirable behavior and no more. How do you make a minimal test case? If you know what line or section of code is producing the problematic behavior, make a copy of it and add just enough supporting code to produce a complete example (i.e. enough that the source is acceptable to the compiler/interpreter/whatever application processes it). If you can't narrow it down to a particular section, make a copy of the source and start removing chunks that don't affect the problematic behavior. The smaller your minimal test case is, the better (see [the section called “Volume is not precision”](http://www.catb.org/~esr/faqs/smart-questions.html#volume)).
 
-如果你只是想让别人帮忙审一下代码，在最开头就要说出来，并且一定要提到你认为哪一部分特别需要关注以及为什么。
+Generating a really small minimal test case will not always be possible, but trying to is good discipline. It may help you learn what you need to solve the problem on your own — and even when it doesn't, hackers like to see that you have tried. It will make them more cooperative.
 
-### 别张贴家庭作业式的问题
+If you simply want a code review, say as much up front, and be sure to mention what areas you think might particularly need review and why.
 
-黑客们善于发现『家庭作业』式的问题。我们中的大多数人已经做了自己的家庭作业，那是该你 做的，以便从里面学到东西。问一下提示没有关系，但不是要求完整的解决方案。
+### Don't post homework questions
 
-如果你怀疑自己碰到了一个家庭作业式的问题，但仍然无法解决，试试在用户组、论坛或（作为最后一招）在项目的『用户』邮件列表或论坛中提问。尽管黑客们会看出来，一些老用户也许仍会给你提示。
+Hackers are good at spotting homework questions; most of us have done them ourselves. Those questions are for *you* to work out, so that you will learn from the experience. It is OK to ask for hints, but not for entire solutions.
 
-### 删除无意义的要求
+If you suspect you have been passed a homework question, but can't solve it anyway, try asking in a user group forum or (as a last resort) in a “user” list/forum of a project. While the hackers *will* spot it, some of the advanced users may at least give you a hint.
 
-抵制这种诱惑，即在求助消息末尾加上诸如『有人能帮我吗？』或『有没有答案？』之类在语义上毫无意义的东西。第一，如果问题描述还不完整，这些附加的东西最多也只能是多余的。第二，因为它们是多余的，黑客们会认为这些东西烦人──就很有可能用逻辑上无误但打发人的回复，诸如『是的，你可以得到帮助』和『不，没有给你的帮助』。
+### Prune pointless queries
 
-一般来说，避免提『是或否』类型的问题，除非你想得到 『是或否』类型的回答。
+Resist the temptation to close your request for help with semantically-null questions like “Can anyone help me?” or “Is there an answer?” First: if you've written your problem description halfway competently, such tacked-on questions are at best superfluous. Second: because they are superfluous, hackers find them annoying — and are likely to return logically impeccable but dismissive answers like “Yes, you can be helped” and “No, there is no help for you.”
 
-### 不要把问题标记为『紧急』，即使对你而言的确如此
+In general, asking yes-or-no questions is a good thing to avoid unless you want a [yes-or-no answer](http://homepage.ntlworld.com./jonathan.deboynepollard/FGA/questions-with-yes-or-no-answers.html).
 
-这是你的问题，不是我们的。宣称『紧急』极有可能事与愿违：大多数黑客会直接删除这种消息，他们认为这是怀有无礼和自私的企图，却想得到即时与特殊的关照。而且『紧急』或其它有类似含义的主题有可能触发垃圾过滤规则，潜在的回复者可能永远看不到你的问题！
+### Don't flag your question as “Urgent”, even if it is for you
 
-有一点点局部的例外，如果你是在一些知名度很高、会使黑客们激动的地方使用程序，也许值得这样去做。在这种情况下，如果你有期限压力，也很有礼貌地提到这点，人们也许会有足够的兴趣快一点回答。
+That's your problem, not ours. Claiming urgency is very likely to be counter-productive: most hackers will simply delete such messages as rude and selfish attempts to elicit immediate and special attention. Furthermore, the word 'Urgent' (and other similar attempts to grab attention in the subject line) often triggers spam filters - your intended recipients might never see it at all!
 
-当然，这是非常冒险的，因为黑客们对什么是令人激动的标准多半与你的不同。譬如从国际空间站这样张贴没有问题，但代表感觉良好的慈善或政治原因这样做几乎肯定不行。事实上，张贴诸如『紧急：帮我救救这个毛绒绒的小海豹！』肯定会被黑客回避或光火，即使他们认为毛绒绒的小海豹很重要。
+There is one semi-exception. It can be worth mentioning if you're using the program in some high-profile place, one that the hackers will get excited about; in such a case, if you're under time pressure, and you say so politely, people may get interested enough to answer faster.
 
-如果你觉得这不可思议，再把剩下的内容多读几遍，直到弄懂了再发贴也不迟。
+This is a very risky thing to do, however, because the hackers' metric for what is exciting probably differs from yours. Posting from the International Space Station would qualify, for example, but posting on behalf of a feel-good charitable or political cause would almost certainly not. In fact, posting “Urgent: Help me save the fuzzy baby seals!” will reliably get you shunned or flamed even by hackers who think fuzzy baby seals are important.
 
-### 礼貌总是有益的
+If you find this mysterious, re-read the rest of this how-to repeatedly until you understand it before posting anything at all.
 
-礼貌一点，使用 `请` 和 `谢谢你的关注` 或者 `谢谢你的关照`，让别人明白你感谢他们无偿花时间帮助你。
+### Courtesy never hurts, and sometimes helps
 
-坦率地讲，这一点没有语法正确、文字清晰、准确、有内容和避免使用专用格式重要（同时也不能替代它们）。黑客们一般宁可读有点唐突但技术鲜明的bug报告，而不是那种有礼但含糊的报告。（如果这点让你不解，记住我们是按问题能教我们什么来评价它的）
+Be courteous. Use “Please” and “Thanks for your attention” or “Thanks for your consideration”. Make it clear you appreciate the time people spend helping you for free.
 
-然而，如果你已经谈清楚了技术问题，客气一点肯定会增加你得到有用回复的机会。
+To be honest, this isn't as important as (and cannot substitute for) being grammatical, clear, precise and descriptive, avoiding proprietary formats etc.; hackers in general would rather get somewhat brusque but technically sharp bug reports than polite vagueness. (If this puzzles you, remember that we value a question by what it teaches us.)
 
-（我们必须指出，本文唯一受到一些老黑客认真反对的地方是以前曾经推荐过的『提前谢了』，一些黑客认为这隐含着事后不用再感谢任何人的暗示。我们的建议是要么先说 `提前谢了`，事后 再 对回复者表示感谢，要么换种方式表达，譬如用 `谢谢你的关注` 或 `谢谢你的关照`）。
+However, if you've got your technical ducks in a row, politeness does increase your chances of getting a useful answer.
 
-### 问题解决后追加一条简要说明
+(We must note that the only serious objection we've received from veteran hackers to this HOWTO is with respect to our previous recommendation to use “Thanks in advance”. Some hackers feel this connotes an intention not to thank anybody afterwards. Our recommendation is to either say “Thanks in advance” first *and* thank respondents afterwards, or express courtesy in a different way, such as by saying “Thanks for your attention” or “Thanks for your consideration”.)
 
-问题解决后向所有帮助过的人追加一条消息，让他们知道问题是如何解决的并再次感谢。如果问题在邮件列表或新闻组中受到广泛关注，在那里追加此消息比较恰当。
+### Follow up with a brief note on the solution
 
-最理想的方式是向最初提问的线索回复此消息，并在主题中包含 `已解决`、`已搞定` 或其它同等含义的明显标记。在人来人往的邮件列表里，一个看见线索 `问题 X` 和 `问题 X-已解决` 的潜在回复者就明白不用再浪费时间了（除非他个人觉得『问题 X』有趣），因此可以利用此时间去解决其它问题。
+Send a note after the problem has been solved to all who helped you; let them know how it came out and thank them again for their help. If the problem attracted general interest in a mailing list or newsgroup, it's appropriate to post the followup there.
 
-追加的消息用不着太长或太复杂，一句简单的『你好──是网线坏了！谢谢大家──比尔』就比什么都没有要强。事实上，除非解决问题的技术真正高深，一条简短而亲切的总结比长篇大论要好。说明是什么行动解决了问题，用不着重演整个排错的故事。
+Optimally, the reply should be to the thread started by the original question posting, and should have ‘FIXED’, ‘RESOLVED’ or an equally obvious tag in the subject line. On mailing lists with fast turnaround, a potential respondent who sees a thread about “Problem X” ending with “Problem X - FIXED” knows not to waste his/her time even reading the thread (unless (s)he personally finds Problem X interesting) and can therefore use that time solving a different problem.
 
-对于有深度的问题，张贴排错历史的摘要是合适的。描述问题的最终状态，说明是什么解决了问题，在此之后 才指明可以避免的弯路。应避免的弯路部分应放在正确的解决方案和其它总结材料之后，而不要将此消息搞成侦探推理小说。列出那些帮助过你的名字，那样你会交到朋友的。
+Your followup doesn't have to be long and involved; a simple “Howdy — it was a failed network cable! Thanks, everyone. - Bill” would be better than nothing. In fact, a short and sweet summary is better than a long dissertation unless the solution has real technical depth. Say what action solved the problem, but you need not replay the whole troubleshooting sequence.
 
-除了有礼貌、有内容以外，这种类型的追帖将帮助其他人在邮件列表、新闻组或论坛文档中搜索到真正解决你问题的方案，从而也让他们受益。
+For problems with some depth, it is appropriate to post a summary of the troubleshooting history. Describe your final problem statement. Describe what worked as a solution, and indicate avoidable blind alleys *after that*. The blind alleys should come after the correct solution and other summary material, rather than turning the follow-up into a detective story. Name the names of people who helped you; you'll make friends that way.
 
-最后，此类追帖还让每位参与协助的人因问题的解决而产生一种满足感。如果你自己不是技术专家或黑客，相信我们，这种感觉对于你寻求帮助的老手和专家是非常重要的。问题叙述到最后不知所终总是令人沮丧的，黑客们痒痒地渴望它们被解决。`挠痒痒` 为你挣到的信誉将对你下次再次张贴提问非常非常的有帮助。
+Besides being courteous and informative, this sort of followup will help others searching the archive of the mailing-list/newsgroup/forum to know exactly which solution helped you and thus may also help them.
 
-考虑一下怎样才能避免他人将来也遇到类似的问题，问问自己编一份文档或 FAQ 补丁会不会有帮助，如果是的话就将补丁发给维护者。
+Last, and not least, this sort of followup helps everybody who assisted feel a satisfying sense of closure about the problem. If you are not a techie or hacker yourself, trust us that this feeling is very important to the gurus and experts you tapped for help. Problem narratives that trail off into unresolved nothingness are frustrating things; hackers itch to see them resolved. The goodwill that scratching that itch earns you will be very, very helpful to you next time you need to pose a question.
 
-在黑客中，这种`良好的后继行动`实际上比传统的礼貌更重要，也是你善待他人而赢得声誉的方式，这是非常有价值的财富。
+Consider how you might be able to prevent others from having the same problem in the future. Ask yourself if a documentation or FAQ patch would help, and if the answer is yes send that patch to the maintainer.
 
-## 如何解读回答
+Among hackers, this sort of good followup behavior is actually more important than conventional politeness. It's how you get a reputation for playing well with others, which can be a very valuable asset.
 
-### 『读读该死的手册』（RTFM）和『搜搜该死的网络』（STFW）：如何明白你已完全搞砸
+## How To Interpret Answers
 
-有一个古老而神圣的传统：如果你收到 `读读该死的手册`（RTFM：Read The Fucking Manual） 的回复，发信人认为你应该去『读读该死的手册』。他或她多半是对的，去读一下吧。
+### RTFM and STFW: How To Tell You've Seriously Screwed Up
 
-『读读该死的手册』（RTFM）有个年轻一点的亲戚，如果你收到『搜搜该死的网络』（STFW：Searched The Fucking Web）的回复，发信人认为你应该『搜搜该死的网络』。那人多半也是对的，去搜一下吧。(更温和一点的说法是『[谷歌是你的朋友](http://lmgtfy.com/)』)
+There is an ancient and hallowed tradition: if you get a reply that reads “RTFM”, the person who sent it thinks you should have Read The Fucking Manual. He or she is almost certainly right. Go read it.
 
-在论坛，你也可能被要求去搜索论坛的文档。事实上，有人甚至可能热心地为你提供以前解决此问题的线索。但不要依赖这种关照，提问前应该先搜索一下文档。
+RTFM has a younger relative. If you get a reply that reads “STFW”, the person who sent it thinks you should have Searched The Fucking Web. He or she is almost certainly right. Go search it. (The milder version of this is when you are told “Google is your friend!”)
 
-通常，叫你搜索的人已经打开了能解决你问题的手册或网页，正在一边看一边敲键盘。这些回复意味着他认为：
+In Web forums, you may also be told to search the forum archives. In fact, someone may even be so kind as to provide a pointer to the previous thread where this problem was solved. But do not rely on this consideration; do your archive-searching before asking.
 
-- 第一，你要的信息很容易找到。
-- 第二，自已找要比别人喂到嘴里能学得更多。
+Often, the person telling you to do a search has the manual or the web page with the information you need open, and is looking at it as he or she types. These replies mean that the responder thinks (a) the information you need is easy to find, and (b) you will learn more if you seek out the information than if you have it spoon-fed to you.
 
-你不应该觉得这样就被冒犯了，按黑客的标准，回复者没有不理你就是在向你表示某种尊敬，你反而应该感谢他热切地想帮助你。
+You shouldn't be offended by this; by hacker standards, your respondent is showing you a rough kind of respect simply by not ignoring you. You should instead be thankful for this grandmotherly kindness.
 
-### 如果还不明白……
+### If you don't understand...
 
-如果你看不懂回答，不要马上回复一个要求说明的消息，先试试那些最初提问时用过的相同工具（如手册、FAQ、网页、懂行的朋友等）试着搞懂回答。如果还是需要说明，展现你已经明白的。
+If you don't understand the answer, do not immediately bounce back a demand for clarification. Use the same tools that you used to try and answer your original question (manuals, FAQs, the Web, skilled friends) to understand the answer. Then, if you still need to ask for clarification, exhibit what you have learned.
 
-譬如，假如我告诉你：『看起来象是某输入项有问题，你需要清除它』，接着是个 不好 的回帖：『什么是某输入项？』。而这是一个很好的跟帖：『是的，我读了手册，某某输入项只在 -z 和 -p 开关中被提到，但都没有涉及到如何清除它们，你指的是哪一个，还是我弄错了什么？』
+For example, suppose I tell you: “It sounds like you've got a stuck zentry; you'll need to clear it.” Then: here's a *bad* followup question: “What's a zentry?” Here's a *good* followup question: “OK, I read the man page and zentries are only mentioned under the -z and -p switches. Neither of them says anything about clearing zentries. Is it one of these or am I missing something here?”
 
-### 对待无礼
+### Dealing with rudeness
 
-很多黑客圈子中看似无礼的行为并不是存心冒犯。相反，它是直接了当、一针见血式的交流风格，这种风格对于更关注解决问题、而不是使别人感觉舒服而混乱的人是很自然的。
+Much of what looks like rudeness in hacker circles is not intended to give offense. Rather, it's the product of the direct, cut-through-the-bullshit communications style that is natural to people who are more concerned about solving problems than making others feel warm and fuzzy.
 
-如果你觉得被冒犯了，试着平静地反应。如果有人真的做了过格的事，邮件列表、新闻组或论坛中的前辈多半会招呼他。如果这没有发生而你却光火了，那么你发火对象的言语可能在黑客社区中看起来是正常的，而你将被视为有错的一方，这将伤害到你获取信息或帮助的机会。
+When you perceive rudeness, try to react calmly. If someone is really acting out, it is very likely a senior person on the list or newsgroup or forum will call him or her on it. If that *doesn't* happen and you lose your temper, it is likely that the person you lose it at was behaving within the hacker community's norms and *you* will be considered at fault. This will hurt your chances of getting the information or help you want.
 
-另一方面，你会偶而真的碰到无礼和无聊的言行。与上述相反，对真正的冒犯者狠狠地打击、用犀利的语言将其驳得体无完肤都是可以接受的。然而，在行事之前一定要非常非常的有根据。纠正无礼的言论与开始一场毫无意义的口水战只有一线之隔，黑客们自己莽撞地越线的情况并不鲜见。如果你是新手或外来者，避开这种莽撞的机会并不高。如果你想得到的是信息而不是消磨时光，这时最好不要把手放在键盘上以免冒险。
+On the other hand, you will occasionally run across rudeness and posturing that is quite gratuitous. The flip-side of the above is that it is acceptable form to slam real offenders quite hard, dissecting their misbehavior with a sharp verbal scalpel. Be very, very sure of your ground before you try this, however. The line between correcting an incivility and starting a pointless flamewar is thin enough that hackers themselves not infrequently blunder across it; if you are a newbie or an outsider, your chances of avoiding such a blunder are low. If you're after information rather than entertainment, it's better to keep your fingers off the keyboard than to risk this.
 
-（有些人断言很多黑客都有轻度的自闭症或阿斯伯格综合症，缺少用于润滑人类社会『正常』交往所需的脑回路。这既可能是真也可能是假。如果你自己不是黑客，兴许你认为我们脑袋有问题还能帮助你应付我们的古怪行为。只管这么干好了，我们不在乎。我们喜欢现在这个样子，并且一般都对病号标记有站得住脚的怀疑。）
+(Some people assert that many hackers have a mild form of autism or Asperger's Syndrome, and are actually missing some of the brain circuitry that lubricates “normal” human social interaction. This may or may not be true. If you are not a hacker yourself, it may help you cope with our eccentricities if you think of us as being brain-damaged. Go right ahead. We won't care; we *like* being whatever it is we are, and generally have a healthy skepticism about clinical labels.)
 
-在下一节，我们会谈到另一个问题，当你行为不当时会受到的『冒犯』。
+Jeff Bigler's observations about [tact filters](http://www.mit.edu/~jcb/tact.html) are also relevant and worth reading.
 
-## 别象失败者那样反应
+In the next section, we'll talk about a different issue; the kind of “rudeness” you'll see when *you* misbehave.
 
-在黑客社区的论坛中有那么几次你可能会搞砸──以本文描述或类似的方式。你会被示众是如何搞砸的，也许言语中还会带点颜色。
+## On Not Reacting Like A Loser
 
-这种事发生以后，你能做的最糟糕的事莫过于哀嚎你的遭遇、宣称被口头攻击、要求道歉、高声尖叫、憋闷气、威胁诉诸法律、向其雇主报怨、忘了关马桶盖等等。相反，你该这样去做：
+Odds are you'll screw up a few times on hacker community forums — in ways detailed in this article, or similar. And you'll be told exactly how you screwed up, possibly with colourful asides. In public.
 
-熬过去，这很正常。事实上，它是有益健康与恰当的。
+When this happens, the worst thing you can do is whine about the experience, claim to have been verbally assaulted, demand apologies, scream, hold your breath, threaten lawsuits, complain to people's employers, leave the toilet seat up, etc. Instead, here's what you do:
 
-社区的标准不会自己维持，它们是通过参与者积极而 公开 地执行来维持的。不要哭嚎所有的批评都应该通过私下的邮件传送，这不是事情运作的方式。当有人评论你的一个说法有误或者提出不同看法时，坚持声称受到个人攻击也毫无益处，这些都是失败者的态度。
+Get over it. It's normal. In fact, it's healthy and appropriate.
 
-也有其它的黑客论坛，受过高礼节要求的误导，禁止参与者张贴任何对别人帖子挑毛病的消息，并声称『如果你不想帮助用户就闭嘴』。有思路的参与者纷纷离开的结果只会使它们变成了毫无意义的唠叨与无用的技术论坛。
+Community standards do not maintain themselves: They're maintained by people actively applying them, visibly, *in public*. Don't whine that all criticism should have been conveyed via private e-mail: That's not how it works. Nor is it useful to insist you've been personally insulted when someone comments that one of your claims was wrong, or that his views differ. Those are loser attitudes.
 
-你喜欢那种夸张的『友谊』，还是『有用』？你来二选一吧。
+There have been hacker forums where, out of some misguided sense of hyper-courtesy, participants are banned from posting any fault-finding with another's posts, and told “Don't say anything if you're unwilling to help the user.” The resulting departure of clueful participants to elsewhere causes them to descend into meaningless babble and become useless as technical forums.
 
-记着：当黑客说你搞砸了，并且（无论多么刺耳地）告诉你别再这样做时，他正在为关心你和他的社区而行动。对他而言，不理你并将你从他的生活中滤除要容易得多。如果你无法做到感谢，至少要有点尊严，别大声哀嚎，也别因为自己是个有戏剧性超级敏感的灵魂和自以为有资格的新来者，就指望别人象对待脆弱的洋娃娃那样对你。
+Exaggeratedly “friendly” (in that fashion) or useful: Pick one.
 
-有时候，即使你没有搞砸（或者只是别人想象你搞砸了）， 有些人也会无缘无故地攻击你本人。在这种情况下，报怨倒是真的会把问题搞砸。
+Remember: When that hacker tells you that you've screwed up, and (no matter how gruffly) tells you not to do it again, he's acting out of concern for (1) you and (2) his community. It would be much easier for him to ignore you and filter you out of his life. If you can't manage to be grateful, at least have a little dignity, don't whine, and don't expect to be treated like a fragile doll just because you're a newcomer with a theatrically hypersensitive soul and delusions of entitlement.
 
-这些找茬者要么是毫无办法但自以为是专家的不中用家伙，要么就是测试你是否真会搞砸的心理专家。其它读者要么不理睬，要么用自己的方式对付他们。这些找茬者在给自己找麻烦，这点你不用操心。
+Sometimes people will attack you personally, flame without an apparent reason, etc., even if you don't screw up (or have only screwed up in their imagination). In this case, complaining is the way to *really* screw up.
 
-也别让自己卷入口水战，大多数口水战最好不要理睬──当然，是在你核实它们只是口水战、没有指出你搞砸的地方，而且没有巧妙地将问题真正的答案藏于其中之后（这也是可能的）。
+These flamers are either lamers who don't have a clue but believe themselves to be experts, or would-be psychologists testing whether you'll screw up. The other readers either ignore them, or find ways to deal with them on their own. The flamers' behavior creates problems for themselves, which don't have to concern you.
 
-## 提问禁忌
+Don't let yourself be drawn into a flamewar, either. Most flames are best ignored — after you've checked whether they are really flames, not pointers to the ways in which you have screwed up, and not cleverly ciphered answers to your real question (this happens as well).
 
-下面是些典型的愚蠢问题和黑客不回答它们时的想法。
+## Questions Not To Ask
 
-- 问：我到哪可以找到某程序或 X 资源？
+Here are some classic stupid questions, and what hackers are thinking when they don't answer them.
 
-- 问：我怎样用 X 做 Y？
+- Q: [Where can I find program or resource X?](http://www.catb.org/~esr/faqs/smart-questions.html#idm551)
+- Q: [How can I use X to do Y?](http://www.catb.org/~esr/faqs/smart-questions.html#idm557)
+- Q: [How can I configure my shell prompt?](http://www.catb.org/~esr/faqs/smart-questions.html#idm562)
+- Q: [Can I convert an AcmeCorp document into a TeX file using the Bass-o-matic file converter?](http://www.catb.org/~esr/faqs/smart-questions.html#idm568)
+- Q: [My {program, configuration, SQL statement} doesn't work](http://www.catb.org/~esr/faqs/smart-questions.html#idm573)
+- Q: [I'm having problems with my Windows machine. Can you help?](http://www.catb.org/~esr/faqs/smart-questions.html#idm585)
+- Q: [My program doesn't work. I think system facility X is broken.](http://www.catb.org/~esr/faqs/smart-questions.html#idm592)
+- Q: [I'm having problems installing Linux or X. Can you help?](http://www.catb.org/~esr/faqs/smart-questions.html#idm597)
+- Q: [How can I crack root/steal channel-ops privileges/read someone's e-mail?](http://www.catb.org/~esr/faqs/smart-questions.html#idm606)
 
-- 问：如何配置我的 shell 提示？
+| **Q:** | Where can I find program or resource X?                      |
+| ------ | ------------------------------------------------------------ |
+| **A:** | The same place I'd find it, fool — at the other end of a web search. Ghod, doesn't everybody know how to use [Google](http://www.google.com/) yet? |
+| **Q:** | How can I use X to do Y?                                     |
+| **A:** | If what you want is to do Y, you should ask that question without pre-supposing the use of a method that may not be appropriate. Questions of this form often indicate a person who is not merely ignorant about X, but confused about what problem Y they are solving and too fixated on the details of their particular situation. It is generally best to ignore such people until they define their problem better. |
+| **Q:** | How can I configure my shell prompt?                         |
+| **A:** | If you're smart enough to ask this question, you're smart enough to [RTFM](http://www.catb.org/~esr/faqs/smart-questions.html#rtfm) and find out yourself. |
+| **Q:** | Can I convert an AcmeCorp document into a TeX file using the Bass-o-matic file converter? |
+| **A:** | Try it and see. If you did that, you'd (a) learn the answer, and (b) stop wasting my time. |
+| **Q:** | My {program, configuration, SQL statement} doesn't work      |
+| **A:** | This is not a question, and I'm not interested in playing Twenty Questions to pry your actual question out of you — I have better things to do. On seeing something like this, my reaction is normally of one of the following:do you have anything else to add to that?oh, that's too bad, I hope you get it fixed.and this has exactly what to do with me? |
+| **Q:** | I'm having problems with my Windows machine. Can you help?   |
+| **A:** | Yes. Throw out that Microsoft trash and install an open-source operating system like Linux or BSD.Note: you *can* ask questions related to Windows machines if they are about a program that does have an official Windows build, or interacts with Windows machines (i.e., Samba). Just don't be surprised by the reply that the problem is with Windows and not the program, because Windows is so broken in general that this is very often the case. |
+| **Q:** | My program doesn't work. I think system facility X is broken. |
+| **A:** | While it is possible that you are the first person to notice an obvious deficiency in system calls and libraries heavily used by hundreds or thousands of people, it is rather more likely that you are utterly clueless. Extraordinary claims require extraordinary evidence; when you make a claim like this one, you must back it up with clear and exhaustive documentation of the failure case. |
+| **Q:** | I'm having problems installing Linux or X. Can you help?     |
+| **A:** | No. I'd need hands-on access to your machine to troubleshoot this. Go ask your local Linux user group for hands-on help. (You can find a list of user groups [here](http://www.linux.org/groups/index.html).)Note: questions about installing Linux may be appropriate if you're on a forum or mailing list about a particular distribution, and the problem is with *that* distro; or on local user groups forums. In this case, be sure to describe the exact details of the failure. But do careful searching first, with "linux" and *all* suspicious pieces of hardware. |
+| **Q:** | How can I crack root/steal channel-ops privileges/read someone's e-mail? |
+| **A:** | You're a lowlife for wanting to do such things and a moron for asking a hacker to help you. |
 
-- 问：我可以用 Bass-o-matic 文件转换工具将 AcmeCorp 文档转为 TeX 格式吗？
+## Good and Bad Questions
 
-- 问：我的{程序、配置、SQL 语句}不运行了
+Finally, I'm going to illustrate how to ask questions in a smart way by example; pairs of questions about the same problem, one asked in a stupid way and one in a smart way.
 
-- 问：我的视窗电脑出问题了，你能帮忙吗？
+- **Stupid:** Where can I find out stuff about the Foonly Flurbamatic?
 
-- 问：我的程序不运行了，我认为系统工具X有问题
+  > This question just begs for ["STFW"](http://www.catb.org/~esr/faqs/smart-questions.html#rtfm) as a reply.
 
-- 问：我安装 Linux 或 X 遇到困难，你能帮忙吗？
+- **Smart:** I used Google to try to find “Foonly Flurbamatic 2600” on the Web, but I got no useful hits. Can I get a pointer to programming information on this device?
 
-- 问：我如何才能破解超级用户口令/盗取通道操作员的特权/查看某人的电子邮件？
+  > This one has already STFWed, and sounds like there might be a real problem.
 
-------
+- **Stupid:** I can't get the code from project foo to compile. Why is it broken?
 
-问：
+  > The querent assumes that somebody else screwed up. Arrogant git...
 
-> 我到哪可以找到某程序或 X 资源？
+- **Smart:** The code from project foo doesn't compile under Nulix version 6.2. I've read the FAQ, but it doesn't have anything in it about Nulix-related problems. Here's a transcript of my compilation attempt; is it something I did?
 
-答：
+  > The querent has specified the environment, read the FAQ, is showing the error, and is not assuming his problems are someone else's fault. This one might be worth some attention.
 
-> 在我找到它的同样地方，笨蛋──在网页搜索引擎上。上帝啊，难道还有人不知道如何用谷歌吗？
+- **Stupid:** I'm having problems with my motherboard. Can anybody help?
 
-问：
+  > J. Random Hacker's response to this is likely to be “Right. Do you need burping and diapering, too?” followed by a punch of the delete key.
 
-> 我怎样用 X 做 Y？
+- **Smart:** I tried X, Y, and Z on the S2464 motherboard. When that didn't work, I tried A, B, and C. Note the curious symptom when I tried C. Obviously the florbish is grommicking, but the results aren't what one might expect. What are the usual causes of grommicking on Athlon MP motherboards? Anybody got ideas for more tests I can run to pin down the problem?
 
-答：
+  > This person, on the other hand, seems worthy of an answer. He/she has exhibited problem-solving intelligence rather than passively waiting for an answer to drop from on high.
 
-> 如果你想解决的是 Y，提问时别给出可能并不恰当的方法。这种问题说明提问者不但对 X 完全无知，也对要解决的 Y 问题糊涂，还被特定形势禁锢了思维。等他们把问题弄好再说。
+In the last question, notice the subtle but important difference between demanding “Give me an answer” and “Please help me figure out what additional diagnostics I can run to achieve enlightenment.”
 
-问：
+In fact, the form of that last question is closely based on a real incident that happened in August 2001 on the linux-kernel mailing list (lkml). I (Eric) was the one asking the question that time. I was seeing mysterious lockups on a Tyan S2462 motherboard. The list members supplied the critical information I needed to solve them.
 
-> 如何配置我的 shell 提示？
+By asking the question in the way I did, I gave people something to chew on; I made it easy and attractive for them to get involved. I demonstrated respect for my peers' ability and invited them to consult with me as a peer. I also demonstrated respect for the value of their time by telling them the blind alleys I had already run down.
 
-答：
+Afterwards, when I thanked everyone and remarked how well the process had worked, an lkml member observed that he thought it had worked not because I'm a “name” on that list, but because I asked the question in the proper form.
 
-> 如果你有足够的智慧提这个问题，你也该有足够的智慧去 『读读该死的手册』（RTFM），然后自己去找出来。
+Hackers are in some ways a very ruthless meritocracy; I'm certain he was right, and that if I *had* behaved like a sponge I would have been flamed or ignored no matter who I was. His suggestion that I write up the whole incident as instruction to others led directly to the composition of this guide.
 
-问：
+## If You Can't Get An Answer
 
-> 我可以用 Bass-o-matic 文件转换工具将 AcmeCorp 文档转为 TeX 格式吗？
+If you can't get an answer, please don't take it personally that we don't feel we can help you. Sometimes the members of the asked group may simply not know the answer. No response is not the same as being ignored, though admittedly it's hard to spot the difference from outside.
 
-答：
+In general, simply re-posting your question is a bad idea. This will be seen as pointlessly annoying. Have patience: the person with your answer may be in a different time-zone and asleep. Or it may be that your question wasn't well-formed to begin with.
 
-> 试试就知道了。如果你试过，你既知道了答案，又不用浪费我的时间了。
+There are other sources of help you can go to, often sources better adapted to a novice's needs.
 
-问：
+There are many online and local user groups who are enthusiasts about the software, even though they may never have written any software themselves. These groups often form so that people can help each other and help new users.
 
-> 我的程序、配置、SQL 语句……不运行了
+There are also plenty of commercial companies you can contract with for help, both large and small. Don't be dismayed at the idea of having to pay for a bit of help! After all, if your car engine blows a head gasket, chances are you would take it to a repair shop and pay to get it fixed. Even if the software didn't cost you anything, you can't expect that support to always come for free.
 
-答：
+For popular software like Linux, there are at least 10,000 users per developer. It's just not possible for one person to handle the support calls from over 10,000 users. Remember that even if you have to pay for support, you are still paying much less than if you had to buy the software as well (and support for closed-source software is usually more expensive and less competent than support for open-source software).
 
-> 这不是一个问题，我也没有兴趣去猜你有什么问题──我有更要紧的事要做。看到这种东西，我的反应一般如下：
+## How To Answer Questions in a Helpful Way
 
-- > 你还有什么补充吗？
-- > 噢，太糟了，希望你能搞定。
-- > 这跟我究竟有什么关系？
+*Be gentle.* Problem-related stress can make people seem rude or stupid even when they're not.
 
-问：
+*Reply to a first offender off-line.* There is no need of public humiliation for someone who may have made an honest mistake. A real newbie may not know how to search archives or where the FAQ is stored or posted.
 
-> 我的Windows电脑出问题了，你能帮忙吗？
+*If you don't know for sure, say so!* A wrong but authoritative-sounding answer is worse than none at all. Don't point anyone down a wrong path simply because it's fun to sound like an expert. Be humble and honest; set a good example for both the querent and your peers.
 
-答：
+*If you can't help, don't hinder.* Don't make jokes about procedures that could trash the user's setup — the poor sap might interpret these as instructions.
 
-> 是的，把Windows垃圾删了，装个象 Linux 或 BSD 的开源操作系统吧。
+*Ask probing questions to elicit more details.* If you're good at this, the querent will learn something — and so might you. Try to turn the bad question into a good one; remember we were all newbies once.
 
-注意：如果程序有官方的视窗版或者与视窗有交互(如 Samba)，你 可以 问与视窗相关的问题，只是别对问题是由视窗操作系统而不是程序本身造成的回复感到惊讶，因为Windows一般来说太差，这种说法一般都成立。
+While muttering RTFM is sometimes justified when replying to someone who is just a lazy slob, a pointer to documentation (even if it's just a suggestion to google for a key phrase) is better.
 
-问：
+*If you're going to answer the question at all, give good value.* Don't suggest kludgy workarounds when somebody is using the wrong tool or approach. Suggest good tools. Reframe the question.
 
-> 我的程序不运行了，我认为系统工具 X 有问题
+Answer the actual question! If the querent has been so thorough as to do his or her research and has included in the query that X, Y, Z, A, B, and C have already been tried without good result, it is supremely unhelpful to respond with “Try A or B,” or with a link to something that only says, “Try X, Y, Z, A, B, or C.”.
 
-答：
+*Help your community learn from the question.* When you field a good question, ask yourself “How would the relevant documentation or FAQ have to change so that nobody has to answer this again?” Then send a patch to the document maintainer.
 
-> 你完全有可能是第一个注意到被成千上万用户反复使用的系统调用与库文件有明显缺陷的人，更有可能的是你完全没有根据。不同凡响的说法需要不同凡响的证据，当你这样声称时，你必须有清楚而详尽的缺陷说明文档作后盾。
+If you did research to answer the question, *demonstrate your skills rather than writing as though you pulled the answer out of your butt.* Answering one good question is like feeding a hungry person one meal, but teaching them research skills by example is showing them how to grow food for a lifetime.
 
-问：
+## Related Resources
 
-> 我安装 Linux 或 X 遇到困难，你能帮忙吗？
+If you need instruction in the basics of how personal computers, Unix, and the Internet work, see [The Unix and Internet Fundamentals HOWTO](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/).
 
-答：
+When you release software or write patches for software, try to follow the guidelines in the [Software Release Practice HOWTO](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html).
 
-> 不行，我需要亲手操作你的电脑才能帮你排错，去向当地的 Linux 用户组寻求方便的帮助（你可以在`这里`找到用户组列表）
+## Acknowledgements
 
-注意：如果安装问题与某 Linux 发行版有关，在针对 它 的邮件列表、论坛或本地用户组织中提问也许是恰当的。此时，应描述问题的准确细节。在此之前，先用 『linux』和 所有 被怀疑的硬件 [作关键词] 仔细搜索。
-
-问：
-
-> 我如何才能破解超级用户口令/盗取通道操作员的特权/查看某人的电子邮件？
-
-答：
-
-> 想做这种事情说明你是个卑劣的家伙，想让黑客教你做这种事情说明你是个白痴。
-
-## 好问题与坏问题
-
-最后，我将通过举例来演示提问的智慧。同样的问题两种提法，一种愚蠢，另一种明智。
-
-愚蠢：我在哪能找到关于 Foonly Flurbamatic 设备的东西？
-
-> 这个问题在乞求得到 『搜搜该死的网络』（STFW） 式的回复。
-
-明智： 我用谷歌搜索过『Foonly Flurbamatic 2600』，但没有找到什么有用的，有谁知道在哪能找到这种设备的编程信息？
-
-> 这个人已经搜索过网络了，而且听起来他可能真的遇到了问题。
-
-愚蠢： 我不能编译某项目的源代码，它为什么这么破？
-
-> 提问者假设是别人搞砸了，太自大了。
-
-明智： 某项目的源代码不能在某 Linux 6.2 版下编译。我读了常见问题文档，但其中没有与某 Linux 相关的内容。这是编译时的记录，我做错了什么吗？
-
-> 提问者已经指明了运行环境，读了常见问题文档（FAQ），列出了错误，也没有假设问题是别人的过错，这家伙值得注意。
-
-愚蠢： 我的主板有问题，谁能帮我？
-
-> 某黑客对此的反应可能是：『是的，还需要帮你拍背和换尿布吗？』，然后是敲下删除键。
-
-明智： 我在 S2464 主板上试过 X、Y 和 Z，当它们都失败后，又试了 A、B 和 C。注意我试 C 时的奇怪症状，显然某某东西正在做某某事情，这不是期望的行为。通常在 Athlon MP 主板上导致某某事情的原因是什么？有谁知道我还能再试点什么以确定问题？
-
-> 相反地，这个人看来值得回答。他或她展现了解决问题的能力而不是坐等天上掉馅饼。
-
-在最后那个问题中，注意『给我一个回答』与『请帮我看看我还能再做点什么测试以得到启发』之间细微但重要的差别。
-
-事实上，最后那个问题基本上源于 2001 年 8 月 Linux 内核邮件列表（lkml）上的真实事件，是我（Eric）当时提了那个问题，我发现 Tyan S2462 主板有神秘的死机现象，邮件列表成员给我提供了解决此问题的关键信息。
-
-通过这种提问方式，我给了别人可以咀嚼玩味的东西。我设法使之对参与者既轻松又有吸引力，也表明了对同行能力的尊敬并邀请他们与我一起协商。通过告诉他们我已经走过的弯路，我还表明了对他们宝贵时间的尊重。
-
-事后，当我感谢大家并评论这次良好的经历时，一个 Linux 内核邮件列表的成员谈到，他认为我得到答案并不是因为我的名字挂在列表上，而只是因为我正确的提问方式。
-
-黑客们在某种方面是非常不留情面的精英分子。我想在这事上他是对的，如果我表现得像个不劳而获的寄生虫，不管我是谁都会被忽略或斥责。他建议将整个事件作为对其它人提问的指导，这直接导致了本文的编写。
-
-## 如果得不到回答
-
-如果得不到回答，请不要认为我们不想帮你，有时只是因为被问到的小组成员的确不知道答案。没有回复不等于不被理睬，当然必须承认从外面很难看出两者的差别。
-
-一般而言，直接将问题再张贴一次不好，这会被视为毫无意义的骚扰。耐心一点，知道你问题答案的人可能生活在不同的时区，有可能正在睡觉，也有可能你的问题一开始就没有组织好。
-
-还有其它资源可以寻求帮助，通常是在一些面向新手的资源中。
-
-有许多在线与本地的用户组织，虽然它们自己不编写任何软件，但是对软件很热心。这些用户组通常因互助和帮助新手而形成。
-
-还有众多大小商业公司提供签约支持服务，别因为要付点钱才有支持就感到沮丧！毕竟，如果你车子的汽缸垫烧了，你多半还得花钱找个修理店把它弄好。即使软件没花你一分钱，你总不能指望服务支持都是免费的。
-
-像 Linux 这样流行的软件，每个开发者至少有一万个以上的用户，一个人不可能应付这么多用户的服务要求。记住，即使你必须付费才能得到支持，也比你还得额外花钱买软件要少得多。而且对封闭源代码软件的服务支持与开源软件相比通常还要贵一点，也要差一点。
-
-## 如何更好地回答
-
-态度和善一点。问题带来的压力常使人显得无礼或愚蠢，其实并不是这样。
-
-对初犯者私下回复。 对那些坦诚犯错之人没有必要当众羞辱，一个真正的新手也许连怎么搜索或在哪找 FAQ 都不知道。
-
-**如果你不确定，一定要说出来！** 一个听起来权威的错误回复比没有还要糟，别因为听起来象个专家好玩就给别人乱指路。要谦虚和诚实，给提问者与同行都树个好榜样。
-
-**如果帮不了忙，别妨碍。** 不要在具体步骤上开玩笑，那样也许会毁了用户的安装──有些可怜的呆瓜会把它当成真的指令。
-
-探索性的反问以引出更多的细节。 如果你做得好，提问者可以学到点东西──你也可以。试试将很差的问题转变成好问题，别忘了我们都曾是新手。
-
-尽管对那些懒虫报怨一声『读读该死的手册』（RTFM）是正当的，指出文档的位置（即使只是建议做个谷歌关键词搜索）会更好。
-
-如果你决意回答，给出好的答案。 当别人正在用错误的工具或方法时别建议笨拙的权宜之计，应推荐更好的工具，重新组织问题。
-
-请回答真正的问题！如果提问者已经做了自己该做的研究，并且说明尝试过` X，Y，Z，A，B 与 C` 都没有得到想要的結果，那么回复 `试试 A 或 B` 或者给出一个内容为 `试一下 X，Y，Z，A，B 或 C` 的链接将极其无益！
-
-帮助你的社区从中学习。当回复一个好问题时，问问自己 `如何修改相关文件或 FAQ 文档以免再次解答同样的问题？`，接着再向文档维护者发一份补丁。
-
-如果你是在研究一番后才做出的回答，展现你的技巧而不是直接端出结果。毕竟『授人以鱼，不如授人以渔』。
-
-## 相关资源
-
-如果需要个人电脑、Unix 和互联网如何工作的基础知识，参阅 [Unix 和互联网工作的基本原理](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/)。
-
-当你发布软件或补丁时，试着按 [软件发布实践](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html) 操作。
-
-## 鸣谢
-
-伊夫林.米切尔（Evelyn Mitchell）贡献了一些愚蠢问题例子并启发了编写`如何更好地回答问题`这一节，米哈伊尔.罗门迪克（Mikhail Ramendik）贡献了一些特别有价值的建议和改进。
-
-
-
-[原文链接](http://www.catb.org/~esr/faqs/smart-questions.html)
+Evelyn Mitchell contributed some example stupid questions and inspired the “How To Give A Good Answer” section. Mikhail Ramendik contributed some particularly valuable suggestions for improvements.

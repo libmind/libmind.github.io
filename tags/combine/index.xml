@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>combine - 标签 - libmind</title>
+        <title>combine - Tag - libmind</title>
         <link>/tags/combine/</link>
-        <description>combine - 标签 - libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 01 Feb 2022 15:55:29 &#43;0800</lastBuildDate><atom:link href="/tags/combine/" rel="self" type="application/rss+xml" /><item>
-    <title>别人的钱</title>
+        <description>combine - Tag - libmind</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 01 Feb 2022 15:55:29 &#43;0800</lastBuildDate><atom:link href="/tags/combine/" rel="self" type="application/rss+xml" /><item>
+    <title>Other People&#39;s Money: and How the Bankers Use it</title>
     <link>/other_peoples_money/</link>
     <pubDate>Tue, 01 Feb 2022 15:55:29 &#43;0800</pubDate>
-    <author>作者</author>
+    <author>Author</author>
     <guid>/other_peoples_money/</guid>
-    <description><![CDATA[Other People&rsquo;s Money: and How the Bankers Use it]]></description>
+    <description><![CDATA[别人的钱 —— 银行家如何使用它？]]></description>
 </item></channel>
 </rss>

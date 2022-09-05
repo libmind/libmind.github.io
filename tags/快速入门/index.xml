@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>快速入门 - 标签 - libmind</title>
+        <title>快速入门 - Tag - libmind</title>
         <link>/tags/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</link>
-        <description>快速入门 - 标签 - libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 04 Feb 2022 10:07:48 &#43;0800</lastBuildDate><atom:link href="/tags/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/" rel="self" type="application/rss+xml" /><item>
-    <title>Calibre 快速入门指南</title>
+        <description>快速入门 - Tag - libmind</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 04 Feb 2022 10:07:48 &#43;0800</lastBuildDate><atom:link href="/tags/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/" rel="self" type="application/rss+xml" /><item>
+    <title>Calibre Quick Start Guide</title>
     <link>/calibre_quick_start/</link>
     <pubDate>Fri, 04 Feb 2022 10:07:48 &#43;0800</pubDate>
-    <author>作者</author>
+    <author>Author</author>
     <guid>/calibre_quick_start/</guid>
-    <description><![CDATA[Calibre Quick Start Guide]]></description>
+    <description><![CDATA[Calibre 快速入门指南]]></description>
 </item></channel>
 </rss>
