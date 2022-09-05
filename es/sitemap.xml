@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/es/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/es/categories/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/categories/"
@@ -31,7 +31,7 @@
                     hreflang="es"
                     href="/es/categories/"
                     /></url><url>
-            <loc>/es/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/es/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/"
@@ -60,7 +60,43 @@
                     hreflang="es"
                     href="/es/"
                     /></url><url>
-            <loc>/es/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/es/tags/piensa/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/es/categories/piensa/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/es/think_again/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/think_again/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/think_again/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/think_again/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="es"
+                    href="/es/think_again/"
+                    /></url><url>
+            <loc>/es/posts/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/posts/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/posts/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="es"
+                    href="/es/posts/"
+                    /></url><url>
+            <loc>/es/tags/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/tags/"

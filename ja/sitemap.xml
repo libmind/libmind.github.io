@@ -66,6 +66,10 @@
                         href="/posts/"
                         /><xhtml:link
                         rel="alternate"
+                        hreflang="es"
+                        href="/es/posts/"
+                        /><xhtml:link
+                        rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/posts/"
                         /><xhtml:link
@@ -108,6 +112,10 @@
                         rel="alternate"
                         hreflang="en"
                         href="/think_again/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/think_again/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
