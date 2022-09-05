@@ -1,21 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>资本 - 标签 - libmind</title>
+        <title>资本 - Tag - libmind</title>
         <link>/tags/%E8%B5%84%E6%9C%AC/</link>
-        <description>资本 - 标签 - libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 05 Jun 2022 23:40:34 &#43;0800</lastBuildDate><atom:link href="/tags/%E8%B5%84%E6%9C%AC/" rel="self" type="application/rss+xml" /><item>
-    <title>清算：华尔街的民族志</title>
+        <description>资本 - Tag - libmind</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Jun 2022 23:39:08 &#43;0800</lastBuildDate><atom:link href="/tags/%E8%B5%84%E6%9C%AC/" rel="self" type="application/rss+xml" /><item>
+    <title>Liquidated: AN ETHNOGRAPHY OF WALL STREET</title>
     <link>/liquidated/</link>
-    <pubDate>Sun, 05 Jun 2022 23:40:34 &#43;0800</pubDate>
-    <author>作者</author>
+    <pubDate>Sun, 05 Jun 2022 23:39:08 &#43;0800</pubDate>
+    <author>Author</author>
     <guid>/liquidated/</guid>
-    <description><![CDATA[Liquidated: AN ETHNOGRAPHY OF WALL STREET]]></description>
+    <description><![CDATA[清算：华尔街的民族志]]></description>
 </item><item>
-    <title>血流成河</title>
+    <title>Blood in the Streets</title>
     <link>/blood_in_the_streets/</link>
     <pubDate>Mon, 07 Feb 2022 10:07:48 &#43;0800</pubDate>
-    <author>作者</author>
+    <author>Author</author>
     <guid>/blood_in_the_streets/</guid>
-    <description><![CDATA[Blood in the Streets: Investment Profits in a Word Gone Mad]]></description>
+    <description><![CDATA[血流成河：在疯狂的世界中获利]]></description>
 </item></channel>
 </rss>

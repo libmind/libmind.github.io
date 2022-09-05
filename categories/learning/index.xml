@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>learning - 分类 - libmind</title>
+        <title>learning - Category - libmind</title>
         <link>/categories/learning/</link>
-        <description>learning - 分类 - libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</lastBuildDate><atom:link href="/categories/learning/" rel="self" type="application/rss+xml" /><item>
-    <title>让所学和你相关</title>
+        <description>learning - Category - libmind</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</lastBuildDate><atom:link href="/categories/learning/" rel="self" type="application/rss+xml" /><item>
+    <title>Make it Stick</title>
     <link>/make_it_stick/</link>
     <pubDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</pubDate>
-    <author>作者</author>
+    <author>Author</author>
     <guid>/make_it_stick/</guid>
-    <description><![CDATA[Make it Stick: The Science of Successful Learning]]></description>
+    <description><![CDATA[让所学与你相关：学有所成的科学]]></description>
 </item></channel>
 </rss>

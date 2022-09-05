@@ -1,0 +1,85 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>全部藏书 - libmind</title>
+        <link>/zh-cn/posts/</link>
+        <description>全部藏书 | libmind</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 03 Sep 2022 18:43:49 &#43;0800</lastBuildDate><atom:link href="/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>重新思考</title>
+    <link>/zh-cn/think_again/</link>
+    <pubDate>Sat, 03 Sep 2022 18:43:49 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/zh-cn/think_again/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/doraemonj.github.io/pics/think_again_long.png" referrerpolicy="no-referrer">
+            </div>了解你所未知事物的力量]]></description>
+</item><item>
+    <title>历史的终结和最后的人</title>
+    <link>/zh-cn/the_end_of_history_and_the_last_man/</link>
+    <pubDate>Wed, 06 Jul 2022 22:49:36 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/zh-cn/the_end_of_history_and_the_last_man/</guid>
+    <description><![CDATA[The End of History and the Last Man]]></description>
+</item><item>
+    <title>人类理解论</title>
+    <link>/zh-cn/an_essay_concerning_human_understanding/</link>
+    <pubDate>Wed, 06 Jul 2022 22:13:56 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/zh-cn/an_essay_concerning_human_understanding/</guid>
+    <description><![CDATA[An essay concerning human understanding]]></description>
+</item><item>
+    <title>社会的发现</title>
+    <link>/zh-cn/the_discovery_of_society/</link>
+    <pubDate>Wed, 06 Jul 2022 18:03:18 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/zh-cn/the_discovery_of_society/</guid>
+    <description><![CDATA[The Discovery of society]]></description>
+</item><item>
+    <title>清算：华尔街的民族志</title>
+    <link>/zh-cn/liquidated/</link>
+    <pubDate>Sun, 05 Jun 2022 23:40:34 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/zh-cn/liquidated/</guid>
+    <description><![CDATA[Liquidated: AN ETHNOGRAPHY OF WALL STREET]]></description>
+</item><item>
+    <title>如何接收Pull Request</title>
+    <link>/zh-cn/merge_pull_request/</link>
+    <pubDate>Tue, 15 Mar 2022 13:30:50 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/zh-cn/merge_pull_request/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/doraemonj.github.io/pics/guide_003_pull_request.png" referrerpolicy="no-referrer">
+            </div>自建图书馆第2步：注册Github Pages]]></description>
+</item><item>
+    <title>如何注册Github Pages</title>
+    <link>/zh-cn/create_github_pages/</link>
+    <pubDate>Mon, 14 Mar 2022 16:04:50 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/zh-cn/create_github_pages/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/doraemonj.github.io/pics/guide_002_create_github_pages.png" referrerpolicy="no-referrer">
+            </div>自建图书馆第2步：注册Github Pages]]></description>
+</item><item>
+    <title>如何注册Github帐号</title>
+    <link>/zh-cn/create_github_account/</link>
+    <pubDate>Sun, 13 Mar 2022 16:14:50 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/zh-cn/create_github_account/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/doraemonj.github.io/pics/guide_001_create_github_account.png" referrerpolicy="no-referrer">
+            </div>自建图书馆第1步：拥有Github帐号]]></description>
+</item><item>
+    <title>房地产的繁荣与萧条</title>
+    <link>/zh-cn/the_housing_boom_and_bust/</link>
+    <pubDate>Sun, 06 Mar 2022 13:00:48 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/zh-cn/the_housing_boom_and_bust/</guid>
+    <description><![CDATA[The Housing Boom and Bust]]></description>
+</item><item>
+    <title>理解媒体</title>
+    <link>/zh-cn/understanding_media/</link>
+    <pubDate>Sun, 06 Mar 2022 13:00:48 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/zh-cn/understanding_media/</guid>
+    <description><![CDATA[Understanding Media: The Extension]]></description>
+</item></channel>
+</rss>
