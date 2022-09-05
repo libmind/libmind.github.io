@@ -3,7 +3,16 @@
         <title>libmind</title>
         <link>/de/</link>
         <description>libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>de</language>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Mon, 05 Sep 2022 14:21:53 &#43;0800</lastBuildDate>
             <atom:link href="/de/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>Neu denken</title>
+    <link>/de/think_again/</link>
+    <pubDate>Mon, 05 Sep 2022 14:21:53 &#43;0800</pubDate>
+    <author>Autor</author>
+    <guid>/de/think_again/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/libmind.github.io/img/b90_think_again/think_again_long_de.png" referrerpolicy="no-referrer">
+            </div>Woher wir wissen, was wirklich wahr ist]]></description>
+</item></channel>
 </rss>

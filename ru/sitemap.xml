@@ -2,6 +2,35 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>/ru/about/</loc><lastmod>2022-09-04T17:04:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/about/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/about/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="de"
+                        href="/de/about/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/about/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/about/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/about/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="ru"
+                    href="/ru/about/"
+                    /></url><url>
             <loc>/ru/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"

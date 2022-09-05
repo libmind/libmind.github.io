@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/de/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/de/categories/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/categories/"
@@ -31,7 +31,7 @@
                     hreflang="de"
                     href="/de/categories/"
                     /></url><url>
-            <loc>/de/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/de/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/"
@@ -60,7 +60,51 @@
                     hreflang="de"
                     href="/de/"
                     /></url><url>
-            <loc>/de/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/de/tags/nachdenken/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/de/categories/nachdenken/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/de/think_again/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/think_again/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/think_again/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/think_again/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/think_again/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="/de/think_again/"
+                    /></url><url>
+            <loc>/de/posts/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/posts/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/posts/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/posts/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="/de/posts/"
+                    /></url><url>
+            <loc>/de/tags/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/tags/"
@@ -88,4 +132,33 @@
                     rel="alternate"
                     hreflang="de"
                     href="/de/tags/"
+                    /></url><url>
+            <loc>/de/about/</loc><lastmod>2022-09-04T17:04:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/about/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/about/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/about/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/about/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="/ru/about/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/about/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="/de/about/"
                     /></url></urlset>

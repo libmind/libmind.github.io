@@ -13,6 +13,6 @@
 
 - 网站： libmind.com
 - Mixin messenger: 29273
-- MIxin 机器人: 7000104144 （机器猫 · 译站）
+- MIxin 机器人: 7000104144
 - Twitter: ChrisHowardaka
 - 邮箱: chrishowardaka@gmail.com
