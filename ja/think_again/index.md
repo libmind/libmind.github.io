@@ -1,7 +1,17 @@
 # 考え直せ
 
 
+1
 
+![图片](/../think_again_long.png)
+
+2
+
+![图片](/../think_again_long.png)
+
+3
+
+![Book title, Think Again, Subtitle, The Power of Knowing What You Don't Know, author, Adam Grant, imprint, Viking](static/img/b90_think_again/think_again_long.png)
 
 # **また、アダム・グラントが**
 
