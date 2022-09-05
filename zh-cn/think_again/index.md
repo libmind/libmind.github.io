@@ -3,17 +3,15 @@
 
 重新思考
 
-亚当-格兰特的作品
+亚当·格兰特的作品
 
-奉献与索取
+《奉献与索取》
 
-原创作品
+《离经叛道》
 
-选项B
+《B选项》
 
-
-
-![Book title, Think Again, Subtitle, The Power of Knowing What You Don't Know, author, Adam Grant, imprint, Viking](https://cammel-yang.github.io/my_books/b90_think_again/images/000032.jpg)
+![Book title, Think Again, Subtitle, The Power of Knowing What You Don't Know, author, Adam Grant, imprint, Viking](https://libmind.github.io/img/b90_think_again/images/000032.jpg)
 
 
 
@@ -117,7 +115,7 @@ pid_prh_5.6.1_c0_r0
 
 序言
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 在一次颠簸的飞行后，15名男子从蒙大拿州的天空中坠落。他们不是跳伞运动员。他们是跳烟囱的人：精锐的野地消防员跳伞去扑灭前一天由闪电引发的森林火灾。在几分钟内，他们将为自己的生命而赛跑。
 
@@ -137,7 +135,7 @@ pid_prh_5.6.1_c0_r0
 
 ------
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 当人们思考心理健康需要什么时，首先想到的通常是智力。你越聪明，你能解决的问题就越复杂，而且，你解决这些问题的速度就越快。智力在传统上被认为是思考和学习的能力。然而，在一个动荡的世界里，还有一套认知技能可能更重要：重新思考和解除学习的能力。
 
@@ -167,7 +165,7 @@ pid_prh_5.6.1_c0_r0
 
 ------
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 当曼恩沟的野火向他们袭来时，跳烟囱的人不得不做出决定。在一个理想的世界里，他们会有足够的时间来暂停，分析情况，评估他们的选择。由于大火在后面不到100码的地方肆虐，没有机会停下来思考。"在一场大火中，没有时间，也没有大树，老板和船员可以坐在树荫下就爆炸进行柏拉图式的对话，"学者和前消防员诺曼-麦克林在《*年轻人与火*》中写道，他的获奖的灾难纪实。"如果苏格拉底是曼恩沟火灾的工头，他和他的队员们在坐在那里考虑问题时就会被火化。
 
@@ -199,7 +197,7 @@ pid_prh_5.6.1_c0_r0
 
 你可能没有携带斧头或铲子，但你确实有一些你经常使用的认知工具。它们可能是你知道的东西，你做的假设，或你持有的观点。其中一些不仅仅是你工作的一部分，它们是你自我意识的一部分。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000029.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000029.jpg)
 
 考虑到一群学生，他们建立了被称为哈佛大学的第一个在线社交网络。在他们到达大学之前，他们已经在一个 "电子小组 "中连接了超过八分之一的入学新生。但他们一到剑桥，就放弃了这个网络并将其关闭。五年后，马克-扎克伯格在同一个校园里创办了Facebook。
 
@@ -241,7 +239,7 @@ pid_prh_5.6.1_c0_r0
 
 ## 一位牧师、一位检察官、一位政治家和一位科学家走进你的心灵
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 >   没有变化就不可能有进步；而那些不能改变思想的人就不能改变任何东西。
 >
@@ -293,13 +291,13 @@ pid_prh_5.6.1_c0_r0
 
 在接下来的一年里，控制组的初创企业平均收入不到300美元。而科学思维组的初创企业平均收入超过12,000美元。他们带来收入的速度是原来的两倍多，而且也更快地吸引了客户。为什么？对照组的企业家们倾向于坚持他们原来的战略和产品。他们太容易宣扬自己过去决策的优点，抨击其他选择的缺点，并通过迎合赞成现有方向的顾问而进行政治活动。相比之下，那些被教导要像科学家一样思考的企业家们，其转向的频率要高两倍以上。当他们的假设不被支持时，他们知道是时候重新思考他们的商业模式了。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000037.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000037.jpg)
 
 这些结果令人惊讶的是，我们通常庆祝伟大的企业家和领导人思想坚定、目光敏锐。他们应该是信念的典范：果断和确定。然而，证据显示，，当企业高管在比赛中为产品定价时，最好的战略家实际上是缓慢和不确定的。就像细心的科学家一样，他们慢慢来，这样他们就可以灵活地改变他们的想法。*我开始觉得果断被高估了......但我保留改变主意的权利。*
 
 就像你不需要成为专业的科学家来进行推理一样，作为一个专业的科学家并不能保证有人会使用他们训练的工具。当科学家们把他们喜欢的理论当作福音，把深思熟虑的批评当作亵渎时，他们就变成了传教士。当他们允许自己的观点被人气而不是准确性所左右时，他们就会转向政治家的领域。当他们一心想要揭穿和诋毁而不是发现时，他们就进入了检察官模式。爱因斯坦用他的相对论颠覆了物理学，然后反对量子革命。"为了惩罚我对权威的蔑视，命运让我自己成为了权威。"有时，即使是伟大的科学家也需要更像科学家的思维。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000043.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000043.jpg)
 
 在成为智能手机先驱的数十年前，迈克-拉扎里迪斯就被公认为是一个科学神童。在中学时，他因在科学展上建造太阳能电池板而成为当地新闻，并因读完公共图书馆的所有科学书籍而获奖。如果你打开他的八年级年鉴，你会看到一幅漫画，显示迈克是一个疯狂的科学家，头上有闪电射出。
 
@@ -331,7 +329,7 @@ pid_prh_5.6.1_c0_r0
 
 我已经尽力以科学家的模式来写这本书。* 我是一名教师，不是一名传教士。我无法忍受政治，我希望十年的终身教授生涯已经治愈了我曾经觉得要安抚听众的任何诱惑力。虽然我在检察官模式下度过了更多的时间，但我决定在法庭上我更愿意当法官。我不期望你同意我的所有想法。我的希望是，你会被我*的*想法所吸引--这里所涉及的研究、故事和想法会引导你对自己的想法进行一些反思。毕竟，学习的目的不是为了确认我们的信仰；而是为了发展我们的信仰。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000023.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000023.jpg)
 
 我的一个信念是，我们不应该在任何情况下都保持开放的心态。在有些情况下，说教、起诉和政治可能是有意义的。也就是说，我认为我们大多数人都会从更多时间的开放中受益，因为正是在科学家模式下，我们获得了精神上的灵活性。
 
@@ -345,7 +343,7 @@ pid_prh_5.6.1_c0_r0
 
 当我研究反思的过程时，我发现它往往是在一个循环中展开的。它始于知识上的谦逊--知道我们不知道什么。我们都应该能够列出一长串我们无知的领域，。*我的清单包括艺术、金融市场、时尚、化学、食品、为什么英国口音在歌曲中变成美国口音，以及为什么不可能给自己搔痒*。认识到我们的不足之处，就会打开怀疑的大门。当我们质疑我们目前的理解时，我们就会对我们所缺少的信息感到好奇。这种探索使我们有了新的发现，这反过来又通过加强我们还有多少东西需要学习来保持我们的谦逊。如果知识就是力量，那么了解我们所不知道的就是智慧。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000051.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000051.jpg)
 
 科学思维有利于谦虚而不是骄傲，怀疑而不是确定，好奇心而不是封闭。当我们从科学家模式转变出来时，反思的循环就会被打破，让位于过度自信的循环。如果我们说教，我们就看不到我们知识中的差距：我们相信我们已经找到了真理。骄傲滋生了信念，而不是怀疑，这使我们成为检察官：我们可能专注于改变其他人的想法，但我们的想法是固定的。这使我们进入确认性偏见和可取性偏见。我们成为政治家，忽视或否定任何不能赢得选民--我们的父母、我们的老板或我们仍在努力争取的高中同学--青睐的东西。我们变得如此忙于作秀，以至于真相被置于后台，而由此产生的验证会使我们变得傲慢。我们成为受害者，"肥猫综合症"，安于现状而不是对自己的信念进行压力测试。
 
@@ -357,7 +355,7 @@ pid_prh_5.6.1_c0_r0
 
 苹果复兴的传说围绕着史蒂夫-乔布斯这个孤独的天才。据说，正是他的信念和清晰的愿景催生了iPhone的诞生。现实情况是，他对移动电话类别的态度是坚决的。他的员工有这方面的远见，而正是，他们改变他的想法的能力使苹果公司真正复兴起来。尽管乔布斯知道如何 "换位思考"，但大部分的重新思考是由他的团队完成的。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000054.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000054.jpg)
 
 2004年，一小群工程师、设计师和营销人员向乔布斯建议，将他们的热门产品iPod变成手机。"我们为什么要这样做？"乔布斯说。"这是我听过的最愚蠢的想法。"团队已经认识到，手机开始具有播放音乐的功能，但乔布斯担心会吞噬苹果公司蓬勃发展的iPod业务。他痛恨手机公司，不想在运营商强加的限制下设计产品。当他的电话掉线或软件崩溃时，他有时会沮丧地把他的手机砸成碎片。在私人会议和公共舞台上，他一遍又一遍地发誓，他永远不会制造手机。
 
@@ -377,7 +375,7 @@ iPhone代表了对智能手机的重新思考的一个巨大飞跃。自其诞�
 
 ## 找到自信的甜蜜点
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 >   无知比知识更容易产生自信。
 >
@@ -415,7 +413,7 @@ iPhone代表了对智能手机的重新思考的一个巨大飞跃。自其诞�
 
 你可能遇到过一些足球迷，他们确信自己比场边的教练更了解情况。这就是手臂上的四分卫综合症，自信超过了能力。即使是在制定了破坏经济的金融政策之后，达维兹-奥德森仍然拒绝承认他没有资格当教练，更不用说四分卫了。他对自己的弱点视而不见。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000061.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000061.jpg)
 
 Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nast
 
@@ -433,7 +431,7 @@ Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nas
 
 这种倾向很重要，因为它损害了自我意识，而且在各种环境中都会给我们带来麻烦。看看发生了什么，当经济学家评估了广泛的行业和国家的数千家公司的运营和管理实践，并将他们的评估与管理人员的自我评价进行比较。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000069.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000069.jpg)
 
 *资料来源*：《世界管理调查》；Bloom 和 Van Reen 2007；以及 Maloney 2017b。世界管理调查；Bloom和Van Reenen 2007；以及Maloney 2017b。
 
@@ -453,7 +451,7 @@ Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nas
 
 尽管邓宁-克鲁格效应在日常生活中常常令人捧腹，但在冰岛却不是一件可笑的事情。尽管担任过中央银行行长，但达维兹-奥德松没有接受过金融或经济方面的培训。在进入政界之前，他创建了一个广播喜剧节目，写过剧本和短篇小说，上过法律学校，还当过记者。在他担任冰岛总理期间，奥德森对专家不屑一顾，以至于他解散了国家经济研究所。为了迫使他离开中央银行的职位，议会不得不通过一项非常规的法律：任何行长都必须至少有一个经济学的硕士学位。这并没有阻止奥德森在几年后竞选总统。他似乎完全不知道自己的盲目性：他不知道自己不知道什么。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000030.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000030.jpg)
 
 ### 滞留在愚公移山的山顶上
 
@@ -467,13 +465,13 @@ Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nas
 
 我们在很多事情上都是新手，但我们并不总是对这个事实视而不见。我们倾向于在理想的技能方面高估自己，比如进行一场引人入胜的谈话的能力。在一些容易将经验与专业知识混淆的情况下，我们也容易过度自信，比如驾驶、打字、琐事和管理情绪。然而，当我们很容易认识到自己缺乏经验时，我们就会*低估*自己，比如绘画、驾驶赛车和快速倒背字母表。绝对的初学者很少陷入邓宁-克鲁格的陷阱。如果你对足球一无所知，你可能不会认为自己比教练更了解。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000003.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000003.jpg)
 
 当我们从新手发展到业余时，我们才会变得过于自信。有一点知识可能是一件危险的事情。在我们生活的许多领域，我们从未获得足够的专业知识来质疑我们的观点或发现我们不知道的东西。我们有足够的信息，可以自以为是地发表意见和作出判断，却没有意识到我们已经爬上了愚蠢之山的山顶，却没有到达另一边去。
 
 你可以在邓宁的一个实验中看到这种现象，该实验涉及人们在一个模拟的僵尸启示录中扮演医生的角色。当他们只看到少数几个受伤的受害者时，他们的感知和实际技能是一致的。不幸的是，随着他们经验的增加，，他们的信心攀升得比他们的能力更快，而且从那时起，信心仍然高于能力。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000009.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000009.jpg)
 
 这可能是医院里，病人死亡率似乎在7月激增的原因之一，因为那时新的住院医生接手。事实证明，危险的不仅仅是他们缺乏技能，而是他们对这种技能的高估。
 
@@ -483,7 +481,7 @@ Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nas
 
 他缺乏的是一种关键的精神营养：谦逊。陷入愚蠢之山的解药是定期服用它。"傲慢是无知加信念，"博主蒂姆-乌尔班解释说。"谦逊是一个可渗透的过滤器，吸收生活经验并将其转化为知识和智慧，而傲慢则是一个橡胶盾牌，生活经验只是将其弹开。"
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000015.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000015.jpg)
 
 ### 金吉列的错误之处
 
@@ -495,7 +493,7 @@ Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nas
 
 当我们完全相信自己的实力和战略时，我们就会被傲慢蒙蔽。当我们，对两者都缺乏信心时，我们就会被怀疑所麻痹。当我们知道正确的方法但对自己的执行能力感到不确定时，我们会被自卑感所吞噬。我们想要达到的是自信的谦逊：对自己的能力有信心，同时意识到我们可能没有正确的解决方案，甚至没有解决正确的问题。这使我们有足够的怀疑来重新审视我们的旧知识，并有足够的信心来追求新的见解。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000038.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000038.jpg)
 
 当Spanx创始人萨拉-布莱克利有了无脚裤袜的想法时，她相信自己有能力将这个想法变成现实，但她对自己目前的工具充满了怀疑。她的日常工作是挨家挨户推销传真机，她意识到自己对时尚、零售和制造业一无所知。在设计原型时，她花了一周时间开车到袜厂去寻求帮助。当她没钱请律师事务所申请专利时，她读了一本关于这个主题的书，并自己填写了申请。她的怀疑，但这并不影响她的能力--她相信自己能够克服眼前的挑战。她的自信不在于她现有的知识，而在于她的学习能力。
 
@@ -507,7 +505,7 @@ Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nas
 
 如果我们关心准确性，我们就不能有盲点。为了准确了解我们的知识和技能，像科学家通过显微镜观察一样评估自己会有帮助。但我新形成的一个信念是，我们有时最好低估自己。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000044.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000044.jpg)
 
 ### 疑问的好处
 
@@ -525,7 +523,7 @@ Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nas
 
 这个证据是新的，我们仍然有很多东西需要学习，了解什么时候冒名顶替综合症是有益的，什么时候是有害的。不过，它让我怀疑我们是否一直在误判冒名顶替者综合症，把它仅仅看作是一种疾病。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000058.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000058.jpg)
 
 当我们的冒名顶替者恐惧出现时，通常的建议是忽略它们--给自己一个怀疑的好处。相反，我们最好拥抱这些恐惧，因为它们可以给我们带来怀疑的三个好处。
 
@@ -561,7 +559,7 @@ Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nas
 
 ## 不相信你所想的一切的快感
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 >   我有哈佛大学的学位。每当我错了，这个世界就会少一点意义。
 >
@@ -585,7 +583,7 @@ Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nas
 
 由于该研究的记录仍然密封，绝大多数参与者没有透露他们的身份，我做了下一个最好的事情：我去寻找像他们一样的人。我找到了一位获得诺贝尔奖的科学家和两位世界顶级的选举预测专家。他们不仅仅是对自己的错误感到满意，实际上他们似乎还为此感到兴奋。我认为他们可以教我们一些东西，当我们发现我们的信念可能不是真的时候，如何更加优雅和接受。我们的目标不是要更经常地犯错。而是要认识到，我们错的次数比我们愿意承认的要多，而我们越是否认，我们给自己挖的坑就越深。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000066.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000066.jpg)
 
 ### 监视你思想的独裁者
 
@@ -629,7 +627,7 @@ Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nas
 
 让我们从脱离你的现在和过去开始。在心理学中，衡量你现在的人和你以前的人之间的相似性的一种方法是问：哪一对圆圈最能描述你如何看待自己？
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000013.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000013.jpg)
 
 在当下，将过去的自己与现在的自己分开可能会让人不安。即使是积极的变化也会导致消极的情绪；演化你的身份，会让你感到脱轨和脱节。不过，随着时间的推移，重新思考你是谁似乎会变得精神健康--只要，你可以讲述一个连贯的故事，说明你是如何从过去到现在的。在一项研究中，，当人们感到与过去的自己脱节时，他们在一年中变得不那么沮丧了。当你感觉到你的生活正在改变方向，而且你正在转变你是谁的过程中，你就会更容易脱离你曾经持有的愚蠢信念。
 
@@ -641,7 +639,7 @@ Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nas
 
 你是谁应该是一个关于你的价值观的问题，而不是你相信什么。价值观是你生活中的核心原则，它们可能是卓越和慷慨，自由和公平，或安全和正直。将你的身份建立在这些原则之上，使你能够对推进这些原则的最佳方式保持开放的心态。你希望医生的身份是保护健康，教师的身份是帮助学生学习，而警察局长的身份是促进安全和正义。当他们用价值观而不是观点来定义自己时，他们就为自己赢得了根据新的证据来更新其做法的灵活性。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000052.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000052.jpg)
 
 ### 尤达效应："你必须解除你所学的东西"
 
@@ -669,7 +667,7 @@ Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nas
 
 在*《宋飞正传》*中，乔治-科坦萨（George Costanza）说过一句著名的话："，如果你相信它，它就不是一个谎言"。我想补充的是，它并不因为你相信它就成为真理。避免相信进入你脑海的每一个想法，是智慧的标志。避免将进入你内心的每一种感觉内化，是情商的标志。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000059.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000059.jpg)
 
 埃利斯-罗森/《纽约客》杂志社/卡通银行
 
@@ -687,13 +685,13 @@ Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nas
 
 研究表明，，哪怕是找出一个我们可能错了的理由，也足以遏制过度自信。让-皮埃尔走得更远；他列出了专家们关于特朗普无法获胜的所有论点，并去寻找他们（和他）是错误的证据。他在民意调查中找到了这些证据：与广泛宣称的特朗普是一个具有狭隘吸引力的派别候选人相反，让-皮埃尔看到，特朗普在共和党的关键人口群体中很受欢迎。到9月中旬，让-皮埃尔成为一个异类，他认为特朗普成为被提名人的几率超过50%。"接受你会出错的事实，"让-皮埃尔建议说。"试着反驳自己。当你错了，这不是什么值得沮丧的事。说，'嘿，我发现了一些东西！'"
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000067.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000067.jpg)
 
 ### 犯了错误......。最有可能的是我
 
 尽管让-皮埃尔对特朗普的赌注很有先见之明，但面对自己的感受，他仍然难以坚持下去。2016年春天，他把媒体对希拉里-克林顿的电子邮件的报道确定为一面红旗，并在两个月内不断预测特朗普获胜。但到了夏天，当他考虑到特朗普即将成为总统的可能性时，他发现自己在晚上难以入睡。他把自己的预测改为克林顿。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000001.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000001.jpg)
 
 回顾过去，让-皮埃尔并不为自己的决定辩护。他坦率地承认，尽管他是一个经验丰富的预测者，但他犯了一个菜鸟的错误，即成为欲望偏差的受害者，让他的偏好影响了他的判断。他专注于能够使他预测克林顿获胜的力量，因为他极度希望特朗普输掉比赛。"那只是我试图处理我发布的这个不愉快的预测的一种方式，"他说。然后他做了一件出人意料的事情：他嘲笑自己。
 
@@ -715,7 +713,7 @@ Jean-Pierre Beugoms有一个最喜欢的小把戏，就是当他犯错的时候�
 
 安德鲁-莱恩并不孤单。心理学家发现，承认我们的错误并不会使我们看起来不那么能干。这是一种，显示了诚实和学习的意愿。尽管科学家们认为承认他们的研究未能复制会损害他们的声誉，但事实恰恰相反：如果他们承认新的数据而不是否认它们，他们会得到更有利的评价。毕竟，"，如果你有责任修复它，那么东西坏了是谁的错并不重要，"演员威尔-史密斯曾说。"承担责任就是夺回你的权力"。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000007.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000007.jpg)
 
 当我们发现我们可能是错的，一个标准的辩护是 "我有权发表我的意见"。我想修改这句话：是的，我们有权在自己的头脑中持有意见。但是，如果我们选择大声表达，我认为我们有责任将它们建立在逻辑和事实的基础上，与他人分享我们的推理，并在出现更好的证据时改变我们的想法。
 
@@ -741,7 +739,7 @@ Jean-Pierre Beugoms有一个最喜欢的小把戏，就是当他犯错的时候�
 
 ## 建设性冲突的心理学
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 >   争论是极其庸俗的，因为在良好的社会中每个人都持有完全相同的观点。
 >
@@ -761,11 +759,11 @@ Jean-Pierre Beugoms有一个最喜欢的小把戏，就是当他犯错的时候�
 
 表现不佳的团队开始时的关系冲突多于任务冲突。他们很早就陷入了个人恩怨之中，并且忙着互相厌恶，以至于他们不愿意挑战对方。许多团队花了几个月的时间才在关系问题上取得真正的进展，而当他们设法就关键决定进行辩论时，往往已经来不及重新思考他们的方向了。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000018.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000018.jpg)
 
 在表现好的小组中发生了什么？正如你所期望的那样，他们从低关系冲突开始，并在整个工作过程中保持低冲突。但这并不妨碍他们在一开始就有任务冲突：他们毫不犹豫地提出相互竞争的观点。随着他们解决了一些意见分歧，他们能够在一个方向上保持一致并开展工作，直到他们遇到新的问题需要辩论。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000024.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000024.jpg)
 
 总而言之，，超过一百项研究对八千多个团队的冲突类型进行了研究。对这些研究的荟萃分析表明，关系冲突通常对业绩不利，但一些任务冲突可能是有益的：它与更高的创造力和更聪明的选择有关。例如，有证据表明，当团队在早期经历适度的任务冲突时，他们在中国的科技公司中产生了更多的原创性想法，在荷兰的快递服务中，在美国的医院中作出更好的决定。正如一个研究小组得出的结论："，没有冲突不是和谐，而是冷漠。"
 
@@ -783,7 +781,7 @@ Jean-Pierre Beugoms有一个最喜欢的小把戏，就是当他犯错的时候�
 
 我的第一冲动是避免哪怕是最微不足道的冲突。当我乘坐Uber时，空调声大作，我很难让自己要求司机把空调声调低，我只是坐在那里默默地发抖，直到我的牙齿开始打颤。当有人踩到我的鞋子时，我实际上已经为不方便地把我的脚留在他的路上而道歉了。当学生填写课程评价时，他们最常抱怨的是我 "太支持愚蠢的评论"。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000031.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000031.jpg)
 
 持不同意见的人往往更具有批判性、怀疑性和挑战性--他们比同龄人更有可能成为工程师和律师。他们不仅对冲突感到舒服，而且冲突使他们充满活力。如果你非常不喜欢，你可能会在争论中比在友好的谈话中更高兴。这种品质往往伴随着不好的评价：不同意的人被定型为抱怨每一个想法的顽固分子，或从每一次会议中吸取快乐的摄魂怪。然而，当我研究皮克斯时，我得出了一个截然不同的观点。
 
@@ -803,7 +801,7 @@ Jean-Pierre Beugoms有一个最喜欢的小把戏，就是当他犯错的时候�
 
 当我问布拉德如何认识到海盗的价值时，他告诉我，这是因为他*就是*一个海盗。在他的成长过程中，当他去朋友家吃饭时，他们的父母对他们在学校的一天所问的礼貌性问题让他吃了一惊。鸟类家庭的晚餐更像是一场食物大战，他们都在那里发泄、辩论，并说出自己的想法。布拉德发现这种交流有争议但很有趣，他把这种心态带到了他在迪士尼的第一份梦想工作中。从很小的时候起，他就被一群老的迪斯尼大师指导和训练，把质量放在第一位，而他感到沮丧的是，他们的替代者--现在在工作室监督新一代的人--没有坚持同样的标准。在迪斯尼开始他的动画生涯的几个月内，布拉德就批评高级领导人接受传统项目和制作不合格的作品。他们告诉他不要说话，做好自己的工作。当他拒绝时，他们解雇了他。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000021.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000021.jpg)
 
 我目睹了太多的领导人保护自己免受任务冲突的影响。当他们获得权力的时候，他们把摇摆不定的人调走，听从马屁精的意见。他们变成了政治家，周围都是合意的人，更容易受到佞臣的诱惑。研究表明，当他们的公司业绩不佳时，那些沉溺于奉承和顺从的首席执行官会变得过于自信。他们坚持自己现有的战略计划，而不是改变方向--这使他们走上了与失败相撞的道路。
 
@@ -841,7 +839,7 @@ Jean-Pierre Beugoms有一个最喜欢的小把戏，就是当他犯错的时候�
 
 持不同意见的人不只是挑战我们，让我们重新思考。他们也会让同意的人在争论中感到舒服。我们脾气暴躁的同事不是在逃避摩擦，而是直接参与其中。通过明确表示他们可以处理争吵，他们为我们其他人创造了一个可供遵循的规范。但是，如果我们不小心，开始时的混战可能会变成一场争吵。我们如何才能避免这种滑坡呢？
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000039.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000039.jpg)
 
 ### 发热不发火
 
@@ -883,7 +881,7 @@ Jean-Pierre Beugoms有一个最喜欢的小把戏，就是当他犯错的时候�
 
 ## 如何赢得辩论和影响他人
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 >   在争论中让人筋疲力尽并不等同于说服他。
 >
@@ -967,7 +965,7 @@ D'oh!有效的观点。即使一个项目有潜力支付自己的费用，它也
 
 起初，我对这个标签感到很高兴。它感觉像是对我作为社会科学家的一个角色的可靠描述：用最好的数据赢得辩论。然后杰米解释说，我的方法实际上是没有帮助的。我越是强硬地辩解，她就越是钻牛角尖。突然间，我意识到我以前曾多次煽动过同样的阻力。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000028.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000028.jpg)
 
 David Sipress/The New Yorker Collection/The Cartoon Bank; © Condé Nast
 
@@ -991,7 +989,7 @@ David Sipress/The New Yorker Collection/The Cartoon Bank; © Condé Nast
 
 问题是两组之间的第四个区别。在专家们的每五个评论中，至少有一个是以问题结束的。他们显得不那么自信，但就像在舞蹈中一样，他们通过让他们的伙伴向前迈步来引导。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000012.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000012.jpg)
 
 最近的实验表明，，哪怕有一个带着科学家水平的谦逊和好奇心的谈判者，也会改善双方的结果，因为她会搜索更多的信息，发现让双方都更好的方法。她不是在告诉她的同行们该怎么想。她是在要求他们跳舞。这正是哈里什-纳塔拉扬在辩论中的表现。
 
@@ -1019,7 +1017,7 @@ Debra Jo Prectet是我发明的一个变形词。她的正式名称是 "辩论�
 
 当我问Harish如何提高寻找共同点的能力时，他提供了一个令人惊讶的实用提示。大多数人立即从一个稻草人开始，在对方最弱的版本上戳洞。他则反其道而行之：他考虑的是他们案例的最强版本，也就是所谓的the steel man。一个政治家可能偶尔会采取这种策略来迎合或说服别人，但像一个好的科学家一样，哈里什这样做，以学习。哈里什没有试图拆穿学前教育对孩子有好处的论点，而是接受了这一观点，这使他能够与对手的观点--以及与观众的观点相联系。然后，他对补贴是否能让最贫困的孩子获得学前教育表示关注，这是完全公平和平衡的。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000045.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000045.jpg)
 
 吸引人们对共同点的注意和避免防卫-攻击的螺旋式上升并不是哈里什类似于谈判专家的唯一方式。他还小心翼翼地避免表现得过于强势。
 
@@ -1031,7 +1029,7 @@ Debra Jo Prectet是我发明的一个变形词。她的正式名称是 "辩论�
 
 这总是处理辩论的最佳方式吗？答案是，就像社会科学中几乎所有其他的东西一样，这取决于。理想的理由数量在不同的情况下会有所不同。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000053.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000053.jpg)
 
 有些时候，说教和起诉可以使我们更具说服力。研究表明，这些方法的有效性取决于三个关键因素：人们对这个问题的关心程度，他们对我们的特定论点的开放程度，以及他们一般的意志力有多强。如果他们对这个问题没有投入，或者他们能接受我们的观点，那么更多的理由会有帮助：，人们倾向于将数量视为质量的标志。主题对他们越重要，，理由的质量就越重要。当受众对我们的观点持怀疑态度，与问题有利害关系，并且倾向于固执己见时，，堆砌理由最容易适得其反。如果他们对反思有抵触情绪，那么更多的理由只是给他们更多的弹药来击溃我们的观点。
 
@@ -1067,7 +1065,7 @@ Debra Jo Prectet是我发明的一个变形词。她的正式名称是 "辩论�
 
 在计算机科学家保罗-格雷厄姆(Paul Graham)创建的分歧等级中，最高形式的争论是反驳中心点，而最低的是骂人。在几秒钟内，我就从逻辑欺凌者演变成了操场欺凌者。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000036.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000036.jpg)
 
 如果我可以重新做那个会议，我会从共同点和较少的数据点开始。我不会用我的研究来攻击他们的信仰，而是会问他们什么会让他们对我的数据打开心扉。
 
@@ -1101,7 +1099,7 @@ Debra Jo Prectet是我发明的一个变形词。她的正式名称是 "辩论�
 
 2014年，一位名叫米歇尔-汉森(Michele Hansen)的年轻，她看到一家投资公司的产品经理职位空缺。她对这个职位很兴奋，但她并不符合条件：她没有金融背景，也缺乏必要的年限。如果你是她，并决定去应聘，你会在你的求职信中写些什么？
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000060.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000060.jpg)
 
 自然的出发点是强调你的优势，淡化你的劣势。正如迈克尔-斯科特在*《办公室》*中的冷笑话："，我工作太努力了，我太关心了，有时我可能对我的工作太投入了。"但米歇尔-汉森却反其道而行之，从《*宋飞》*中的乔治-科坦萨的剧本中抽出一页："我的名字是乔治。我失业了，和父母住在一起"。米歇尔没有试图掩饰她的缺点，而是一开始就说了出来。"我可能不是你所设想的那个候选人，"她的求职信开始说。"我没有十年的产品经理经验，也不是注册财务策划师"。在确定了她的缺点后，她强调了几个雇用她的理由。
 
@@ -1121,7 +1119,7 @@ Debra Jo Prectet是我发明的一个变形词。她的正式名称是 "辩论�
 
 ## 通过颠覆陈规定型观念减少偏见
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 >   我全心全意地憎恨洋基队，甚至不得不在我的第一次神圣忏悔中承认我希望伤害他人--即我希望各种纽约洋基队能打断胳膊、腿和脚踝。
 >
@@ -1151,7 +1149,7 @@ Debra Jo Prectet是我发明的一个变形词。她的正式名称是 "辩论�
 
 我开始怀疑红袜队的球迷对洋基队的仇恨是否超过了他们对自己球队的热爱。众所周知，波士顿的家长们会教他们的孩子对洋基队翻白眼，厌恶任何穿着细条纹衣服的东西，而洋基队的烂衫显然是波士顿历史上最受欢迎的T恤衫之一。当被问及需要多少钱才能让他们嘲弄自己的球队时，红袜队的球迷平均要求503美元。 为了支持洋基队，他们甚至想要更多：560美元。这种感情如此之深，以至于神经科学家可以看到它们照亮人们的头脑：，当红袜队的球迷看到洋基队失败时，他们与奖励和快乐有关的大脑区域立即显示出激活。这些感情远远超出了波士顿：在2019年的一项推文分析中，洋基队是美国50个州中28个州最讨厌的棒球队，这可能解释了这件T恤衫的流行。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000019.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000019.jpg)
 
 我最近给一个死忠的红袜队球迷朋友打电话，问了一个简单的问题：要怎样才能让他支持洋基队？他没有停顿，说："如果他们和基地组织比赛......也许吧。"
 
@@ -1167,7 +1165,7 @@ Debra Jo Prectet是我发明的一个变形词。她的正式名称是 "辩论�
 
 几十年来，心理学家发现，人们会对其他群体产生敌意，即使他们之间的界限是微不足道的。以一个看似无害的问题：热狗是一个三明治吗？当学生们回答这个问题时，大多数人都有强烈的感觉，他们愿意牺牲一美元给那些同意他们的人，以确保那些不同意的人得到更少。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000068.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000068.jpg)
 
 在每个人类社会中，人们都有寻求归属和地位的动机。对一个团体的认同同时满足了这两个条件：我们成为一个部落的一部分，当我们的部落获胜时，我们会感到自豪。在对大学校园的经典研究中，心理学家发现，，在他们的球队赢得一场橄榄球比赛后，学生更有可能穿着学校的宣传品到处走动。从亚利桑那州立大学到圣母大学再到南加州大学，学生们都沉浸在周六胜利的荣耀中，在周日穿上球队的衬衫、帽子和夹克衫。如果他们的球队输了，他们会避开学校的服装，并通过说 "他们输了 "而不是 "我们输了 "来保持距离。一些经济学家和金融专家甚至发现，如果一个国家的足球队赢得世界杯比赛，股市就会上涨，如果他们输了，股市就会下跌。[*](#calibre_link-11)
 
@@ -1177,11 +1175,11 @@ Debra Jo Prectet是我发明的一个变形词。她的正式名称是 "辩论�
 
 为什么红袜队球迷讨厌扬基队球迷？
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000042.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000042.jpg)
 
 为什么扬基队球迷讨厌红袜队球迷？
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000002.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000002.jpg)
 
 一旦我们形成了这种刻板印象，由于心理和社会的原因，就很难消除它们。心理学家乔治-凯利指出，我们的信念就像一副现实的护目镜。我们用它们来理解这个世界，并为我们的周围环境导航。如果我们的观点受到威胁，我们的护目镜就会裂开，使我们的视野变得模糊。凯利注意到，当我们试图为那些我们内心深处知道是错误的观点进行辩护时，我们变得特别有敌意。与其说我们在尝试换一副护目镜，不如说我们成了心理扭曲者，不停地扭曲，直到我们找到一个能保持我们当前观点不变的视角。
 
@@ -1235,11 +1233,11 @@ Debra Jo Prectet是我发明的一个变形词。她的正式名称是 "辩论�
 
 红袜队球迷喜欢洋基队球迷的原因
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000008.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000008.jpg)
 
 洋基队球迷喜欢红袜队球迷的原因
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000014.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000014.jpg)
 
 然后我们随机指派其中一半的人去反思他们的敌意的任意性。
 
@@ -1257,7 +1255,7 @@ Debra Jo Prectet是我发明的一个变形词。她的正式名称是 "辩论�
 
 我们终于取得了一些进展。我们的下一步是研究球迷观点转变背后的关键因素。我们发现，重要的是思考他们敌意的任意性，而不是他们对手的积极品质。无论他们是否有理由喜欢他们的对手，当他们反思竞争是多么的愚蠢时，球迷表现出的敌意就会减少。知道因为荒谬的理由而被厌恶的感觉，帮助他们看到这种冲突有真实的影响，对对手球迷的仇恨并不全是好玩的游戏。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000020.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000020.jpg)
 
 ### 进入平行宇宙
 
@@ -1323,7 +1321,7 @@ Debra Jo Prectet是我发明的一个变形词。她的正式名称是 "辩论�
 
 ## 正确的倾听是如何激励人们去改变的
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 >   想听自己不想听的话的人是很罕见的。
 >
@@ -1345,7 +1343,7 @@ Marie-Hélène Étienne-Rousseau曾经历过这样的旅程。她带着大孩子
 
 当小托比在医院住了五个月后终于被允许离开时，他仍然非常脆弱。护士们知道这是他们为他接种疫苗的最后机会，所以他们请来了一位疫苗语者--一位当地的医生，他用一种激进的方法帮助年轻父母重新思考他们对免疫接种的抵制。他没有向父母说教，也没有起诉他们。他没有搞政治化。他戴上了科学家的帽子，采访了他们。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000050.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000050.jpg)
 
 *卡尔文与霍布斯 ©* 1993年沃特森。经andrews mcmeel syndication许可转载。保留所有权利。
 
@@ -1403,7 +1401,7 @@ Marie-Hélène Étienne-Rousseau是许多经历过这样转变的父母之一。
 
 当人们忽视建议时，并不总是因为他们不同意它。有时他们是在抵制压力感，抵制别人在控制他们的决定的感觉。为了保护他们的自由，激励性的面试官可能会说："这里有几件对我有帮助的事情，你认为它们中的任何一件可能对你有用吗？"而不是发出命令或提供建议。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000027.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000027.jpg)
 
 你已经看到了提问是如何帮助自我说服的。激励式访谈更进一步，引导他人进行自我发现。当达里尔-戴维斯问三K党成员，他们甚至都不认识他，怎么会恨他时，你就看到了它的行动，现在我想深入解读相关技巧。当我们试图说服人们重新思考时，我们的第一直觉通常是开始说话。然而，帮助他人打开思路的最有效方法往往是倾听。
 
@@ -1455,7 +1453,7 @@ Marie-Hélène Étienne-Rousseau是许多经历过这样转变的父母之一。
 
 不难理解，激励式面谈对于顾问、医生、治疗师、教师和教练来说是多么有效。当人们寻求我们的帮助--或接受我们的工作是为了帮助他们--我们就有资格赢得他们的信任。然而，我们都会面临这样的情况：我们很想把人们引向我们喜欢的方向。父母和导师往往认为他们知道什么对他们的孩子和学生是最好的。销售人员、筹款人和企业家都有一个既得利益，那就是达到 "是 "的目的。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000034.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000034.jpg)
 
 激励式面谈的先驱者米勒和罗尼克早就警告过，这种技术不应该被操纵性地使用。心理学家发现，，当人们发现有人试图施加影响时，他们有复杂的防御机制。当人们感觉到我们在试图说服他们的时候，我们的行为就会有不同的意义。一个直截了当的问题被看作是一种政治策略，一个反思性的倾听陈述被看作是检察官的操纵，对他们改变能力的肯定听起来像是一个传教士的劝说。
 
@@ -1507,7 +1505,7 @@ Marie-Hélène Étienne-Rousseau是许多经历过这样转变的父母之一。
 
 ## 消除我们的分歧的讨论
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 >   当冲突是陈词滥调的时候，复杂性就是爆炸性新闻。
 >
@@ -1543,7 +1541,7 @@ Marie-Hélène Étienne-Rousseau是许多经历过这样转变的父母之一。
 
 抵制简化的冲动是向变得更有论证能力迈出的一步。这样做对我们如何沟通两极分化的问题有深远的影响。在传统媒体中，它可以帮助记者打开人们的思维，了解不舒服的事实。在社交媒体上，它可以帮助我们所有人在Twitter上的争吵和Facebook上的争斗更有成效。在家庭聚会上，它可能不会让你和你最不喜欢的叔叔站在同一条战线上，但它可以很好地防止一场看似无辜的对话爆发成一场情感的地狱。而在讨论影响我们所有人生活的政策时，它可能会更快地为我们带来更好、更实用的解决方案。这就是本书这一部分的内容：，将反思应用于我们生活的不同部分，这样我们就可以在人生的每个阶段不断学习。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000057.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000057.jpg)
 
 *非诚勿扰*© 2016 Wiley Ink, Inc.由andrews mcmeel syndication发行。经许可重印。保留所有权利。
 
@@ -1567,11 +1565,11 @@ Marie-Hélène Étienne-Rousseau是许多经历过这样转变的父母之一。
 
 将怀疑论者和否认论者区分开来尤为重要。怀疑论者有一个健康的科学立场。他们不相信他们看到、听到或读到的一切。他们提出批判性的问题，并在获得新信息时更新他们的思维。怀疑论者处于不屑一顾的阵营，锁定在传教士、检察官或政治家的模式。他们不相信来自另一方的任何消息。他们无视或扭曲事实以支持他们预先确定的结论。正如怀疑论调查委员会在对媒体的呼吁中所说，怀疑论是 "科学方法的基础"，而否定论是 "不经客观考虑就*先验*地拒绝各种观点 "[*](#calibre_link-895)。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000064.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000064.jpg)
 
 在气候变化的报道中，往往缺少这种复杂的信仰光谱。尽管不超过10%的美国人对气候变化不屑一顾，但正是这些罕见的否认者得到了最多的报道。在对2000年至2016年期间约十万篇关于气候变化的媒体文章的分析中，著名的气候反驳者得到了不成比例的报道：他们被报道的频率比专家科学家高49%。结果，人们最终，高估了否认的普遍性--这反过来又使他们对倡导保护环境的政策更加犹豫。当光谱的中间部分不可见时，大多数人的行动意愿就会随之消失。*如果其他人不打算做任何事情，我为什么要麻烦呢？当*他们意识到有多少人在关注气候变化时，他们就会更愿意为之做些什么。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000041.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000041.jpg)
 
 作为信息的消费者，我们在接受更细微的观点方面可以发挥一定的作用。当我们在阅读、聆听或观看时，我们可以学会识别复杂性，将其作为可信度的信号。我们可以偏爱那些介绍一个问题的多个方面而不是只有一两个方面的内容和来源。当我们遇到简单化的标题时，我们可以通过询问在两个极端之间还缺少什么额外的观点来对抗我们接受二元论的倾向。
 
@@ -1581,11 +1579,11 @@ Marie-Hélène Étienne-Rousseau是许多经历过这样转变的父母之一。
 
 几年前，媒体报道了一项关于饮用咖啡的认知的后果的研究。虽然他们的标题来自相同的数据，但一些报纸赞扬了咖啡的好处，而其他媒体则警告了咖啡的代价。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000004.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000004.jpg)
 
 实际研究显示，相对于禁欲者、偶尔饮用者和较重的饮用者，每天喝一两杯咖啡的老年人患轻度认知障碍的风险较低。如果他们每天再增加一杯或更多，他们的风险就比那些保持在每天一杯或低于一杯的人要高。每个片面的标题都用了七到十二个字来误导读者关于喝咖啡的影响。一个更准确的标题只需要12个字，就可以提供一个的即时复杂性。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000065.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000065.jpg)
 
 想象一下，如果在关于气候变化的文章中出现哪怕是这种对复杂性的最低限度的点头。科学家们对气候变化的人为原因有压倒性的共识，但即使他们对实际的影响和潜在的补救措施也有一系列的看法。我们有可能对这种情况感到震惊，同时认识到改善这种情况的各种方法。[*](#calibre_link-896)
 
@@ -1627,7 +1625,7 @@ Marie-Hélène Étienne-Rousseau是许多经历过这样转变的父母之一。
 
 我不时地遇到一些思想邪教组织--这些组织搅动了一批过于简化的知识性酷爱饮料，并招募追随者来广泛提供这种饮料。他们宣扬自己宠物概念的优点，起诉任何要求细微差别或复杂性的人。在健康领域，思想邪教在排毒饮食和清洁疗法被揭露为蛇油后，仍为其辩护。在教育领域，有围绕学习方式的观念崇拜--即教学应该根据每个学生对听觉、视觉或运动模式的偏好进行调整。尽管有数十年的证据表明，虽然学生可能喜欢听、读或做，但，他们实际上并没有通过这种方式学习得更好，但一些教师还是决心相应地调整他们的教学。在心理学方面，当我分享以下证据时，我无意中得罪了一些想法邪教的成员：冥想并不是防止压力或促进正念的唯一方法；当涉及到可靠性和有效性时，迈尔斯-布里格斯性格工具介于星座和心脏监视器之间；以及，更真实有时会使我们不那么成功。*如果你发现自己说____ 总是好的，或者____ 永远是坏的，你可能是一个思想邪教的成员。*欣赏复杂性提醒我们，没有一种行为是永远有效的，所有的治疗方法都有意想不到的后果。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000017.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000017.jpg)
 
 xkcd.com
 
@@ -1649,13 +1647,13 @@ xkcd.com
 
 当彼得-科尔曼在他的困难对话实验室把人们聚集在一起时，他在事后给他们播放他们讨论的录音。他想了解的是，当他们听自己说话时，他们每时每刻的感觉如何。在研究了500多场这样的对话后，他发现，没有成效的对话的特点是积极和消极的情绪都比较有限，如下图左图所示。人们被困在情绪的简单性中，只有一种或两种主导的感觉。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000000.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000000.jpg)
 
 正如你在右边的二人组中所看到的，有成效的对话涵盖了更多不同的情绪范围。他们并没有减少，他们的情绪更加复杂。在某一时刻，人们可能对对方的观点感到愤怒，但到了下一分钟，他们又好奇地想了解更多。很快，他们可能会转变为焦虑，然后对考虑新的观点感到兴奋。有时，他们甚至会跌跌撞撞地进入错误的喜悦之中。
 
 在富有成效的对话中，人们把他们的情感当作是一个粗略的草稿。像艺术一样，情感是正在进行的工作。框定我们的第一幅草图很少对我们有好处。当我们获得观点时，我们会修改我们的感受。有时我们甚至从头开始。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000048.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000048.jpg)
 
 阻碍反思的不是情感的表达，而是情感范围的限制。那么，我们如何为我们的对话注入更多的情感，从而为相互理解和重新思考提供更大的潜力？
 
@@ -1689,7 +1687,7 @@ xkcd.com
 
 ## 教导学生对知识进行质疑
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 >   不允许学校教育干扰我的教育。
 >
@@ -1709,7 +1707,7 @@ xkcd.com
 
 一个团体对民权章节提出异议，因为它没有报道最初的华盛顿游行，该游行在20世纪40年代初的最后一刻被取消，但在20年后激发了小马丁-路德-金的历史性游行。其他团体修改了关于第二次世界大战的章节，以包括西班牙裔士兵和第二代日本士兵的步兵团，他们为美国军队而战。"这是一个巨大的闪光时刻，"艾琳告诉我。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000026.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000026.jpg)
 
 即使你的职业不是教师，你可能也有花时间教育他人的角色--无论是作为父母、导师、朋友还是同事。事实上，每当我们试图帮助别人重新思考时，我们都在做一种教育。无论我们是在教室里还是在会议室里，在办公室里还是在厨房的餐桌上进行教学，都有办法让反思成为我们教学的核心内容和方式。
 
@@ -1725,7 +1723,7 @@ xkcd.com
 
 证据显示，如果错误的科学信念在小学阶段没有得到解决，那么它们以后就很难改变。"心理学家Deborah Kelemen写道："学习反直觉的科学思想[是]类似于成为第二语言的流利使用者。这是 "一项任务，，时间拖得越久就越困难，而且只靠零星的指导和不经常的练习几乎永远无法实现。"这就是孩子们真正需要的：经常练习解除学习，特别是当涉及到因果关系的运作机制时。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000056.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000056.jpg)
 
 在历史教育领域，有一个日益增长的运动，即提出没有单一正确答案的问题，。在斯坦福大学开发的课程中，鼓励高中生批判性地研究是什么导致了美西战争，新政是否成功，以及为什么蒙哥马利巴士抵制活动是一个分水岭。一些教师，甚至让学生去采访他们不同意的人。重点不在于是否正确，而在于培养学生考虑不同观点并对其进行有效争论的技能。
 
@@ -1759,7 +1757,7 @@ xkcd.com
 
 在北美的大学里，一半以上的STEM教授至少花了80%的时间在讲课上，只有四分之一多的人加入了一些互动性的内容，只有不到五分之一的人使用真正以学生为中心的方法，包括主动学习。在高中，似乎，一半的教师大部分或全部时间都在讲课。[*](#calibre_link-912)讲课并不总是最好的学习方法，也不足以将学生培养成终身学习者。如果你在学校的所有时间都被灌输信息，而且从来没有机会质疑它，你就不会发展出你在生活中需要的反思工具。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000033.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000033.jpg)
 
 史蒂夫-马孔/《纽约客》杂志社/卡通银行；©康泰纳仕
 
@@ -1793,7 +1791,7 @@ xkcd.com
 
 第二年，这个班级最喜欢的想法将这种反思向前推进了一步：学生们举办了一天的 "激情讲座"，任何人都可以在这一天向全班讲授他或她喜欢的东西。我们学会了如何打拍子，以及如何设计与自然融为一体的建筑，使世界更安全。从那时起，分享激情已经成为班级参与的一部分。所有的学生都会做一个激情演讲，作为向同学们介绍自己的方式。年复一年，他们告诉我，这给教室里注入了更高的好奇心，让他们渴望从每个同学那里吸收见解。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000040.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000040.jpg)
 
 [www.CartoonCollections.com](http://www.CartoonCollections.com)
 
@@ -1817,7 +1815,7 @@ xkcd.com
 
 这门课不仅仅是对项目进行批评。每一天他们都会讨论优秀是什么样子。每一个新项目都会更新他们的标准。在重新思考他们自己的工作的同时，他们也在学习不断地重新思考他们的标准。为了帮助他们进一步发展这些标准，罗恩定期请来外部专家。当地的建筑师和科学家会来提供他们自己的批评意见，而班级会将他们的原则和词汇纳入未来的讨论中。在他们升入初中和高中后很久，以前的学生访问罗恩的班级并要求对他们的作品进行批评的情况并不少见。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000063.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000063.jpg)
 
 当我与罗恩-伯杰联系上后，我不禁希望自己能够上他的课。这并不是因为我缺乏杰出的教师。这是因为我从未有幸在一个像他那样的文化的课堂上，与一整间致力于质疑自己和彼此的学生一起上课。
 
@@ -1825,15 +1823,15 @@ xkcd.com
 
 在他们位于爱达荷州的一所学校，一个名叫奥斯汀的学生被指派制作一幅，科学上准确的蝴蝶图。这是他的初稿。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000047.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000047.jpg)
 
 奥斯汀的同学们组成了一个批评小组。他们给他提出了两轮改变翅膀形状的建议，他拿出了第二和第三稿。批评小组指出，翅膀是不均匀的，它们会重新变成圆形。奥斯汀并不气馁。在他的下一次修改中，小组鼓励他在翅膀上填上图案。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000025.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000025.jpg)
 
 对于最后的草稿，奥斯汀准备给它上色。当罗恩向缅因州的一屋子小学生展示完成的图画时，他们对他的进步和最终产品感到惊异。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000055.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000055.jpg)
 
 我也喘了口气，因为奥斯汀在一年级的时候就画了这些画。
 
@@ -1849,7 +1847,7 @@ xkcd.com
 
 ## 建立工作中的学习文化
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 >   如果不是因为人......地球将成为工程师的天堂。
 >
@@ -1895,7 +1893,7 @@ xkcd.com
 
 在绩效文化中，对结果的强调往往破坏了心理安全。当我们看到人们因为失败和错误而受到惩罚时，我们就会担心证明自己的能力和保护自己的事业。我们学会了，从事自我限制的行为，咬着舌头而不是说出问题和担忧。有时，这是由于权力距离：我们害怕挑战高层的大老板。顺应权威的压力是真实的，而那些敢于偏离的人则有可能遭到反击。在绩效文化中，在那些似乎知道所有答案的专家面前，我们也会审查自己，特别是当我们对自己的专业知识缺乏信心时。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000071.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000071.jpg)
 
 缺乏心理安全是美国宇航局的一个顽固问题。在*挑战者*号发射前，，一些工程师确实提出了红旗，但被管理人员压制住了；其他人则被忽视，最后自己沉默了。在*哥伦比亚号*发射后，，一名工程师要求提供更清晰的照片来检查机翼的损坏情况，但管理人员没有提供。在一次评估航天飞机起飞后状况的关键会议上，该工程师没有发言。
 
@@ -1945,7 +1943,7 @@ Ellen认识到，在NASA，绩效文化正在侵蚀心理安全。"她告诉我�
 
 但是，心态并不足以改变一种文化。虽然心理安全消除了挑战权威的恐惧，但它不一定能促使我们首先质疑权威。为了建立一个的学习文化，我们还需要创造一种特定的问责制--引导人们重新思考他们工作场所的最佳做法。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000062.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000062.jpg)
 
 ### 关于最佳实践的最糟糕的事情
 
@@ -1963,7 +1961,7 @@ Ellen认识到，在NASA，绩效文化正在侵蚀心理安全。"她告诉我�
 
 在学习文化中，人们不会停止记分。他们扩大记分卡的范围，考虑过程和结果。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000006.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000006.jpg)
 
 即使一个决定的结果是积极的，也不一定能称之为成功。如果过程很浅，你很幸运。如果决策过程是深入的，你可以把它算作一个改进：你发现了一个更好的做法。如果结果是负面的，只有在决策过程是浅层的情况下才是失败。如果结果是负面的，但你对决策进行了彻底的评估，你就做了一个聪明的实验。
 
@@ -1973,7 +1971,7 @@ Ellen认识到，在NASA，绩效文化正在侵蚀心理安全。"她告诉我�
 
 流程问责制不仅仅是一个奖惩的问题。这也是关于谁有决策权的问题。在一项对加州银行的研究中，高管们经常不断地批准向已经拖欠前一笔贷款的客户提供额外的贷款。由于银行家们已经签署了第一笔贷款，他们有动力去证明他们最初的决定是正确的。有趣的是，当银行的高管离职率高时，银行更有可能发现并注销问题贷款。如果你不是最初贷款的批准人，你完全有动力去重新考虑之前对该客户的评估。*如果他们在过去的19笔贷款中违约，可能是时候调整了。当*我们把最初的决策者和后来的决策评估者分开时，重新思考的可能性更大。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000070.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000070.jpg)
 
 © 海莉-刘易斯，《 *失败的原因谱*》的素描摘要 *。*2020年5月绘制的插图。英国，伦敦。Copyright © 2020 by HALO Psychology Limited.
 
@@ -1999,7 +1997,7 @@ Ellen认识到，在NASA，绩效文化正在侵蚀心理安全。"她告诉我�
 
 ## 重新考虑我们最好的职业和生活计划
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 >   在我到达的几个小时内，一种萎靡不振的情绪就开始了。我想找一份工作可能会有帮助。结果发现我在地狱有很多亲戚，利用关系，我成了一个给人拔牙的恶魔的助手。这其实不是一份工作，更像是一份实习。但我很渴望。起初，这还有点意思。不过，过了一段时间，你开始问自己："我来到地狱就是为了这个吗？这就是我来到地狱的目的，把不同种类的钳子递给恶魔吗？
 >
@@ -2027,7 +2025,7 @@ Ellen认识到，在NASA，绩效文化正在侵蚀心理安全。"她告诉我�
 
 今天，瑞安是一家大型医疗中心的神经外科医生。在他三十多岁的时候，从医学院毕业十多年后，他仍然欠着学生贷款。尽管他喜欢帮助别人和照顾病人，但长时间的工作和繁文缛节削弱了他的热情。他告诉我，如果可以重新来过，他将会走另一条路。我经常在想，要怎样才能说服他重新考虑他所选择的工作路线--以及他真正想要的职业是什么。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000005.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000005.jpg)
 
 我们都有关于我们想成为谁以及我们希望如何度过我们的生活的概念。它们并不局限于职业；从很小的时候起，我们就对自己将住在哪里、上哪所学校、与什么样的人结婚、有多少个孩子产生了想法。这些图像可以，激励我们制定更大胆的目标，并，引导我们走向实现这些目标的道路。这些计划的危险在于，，它们会给我们带来隧道般的视野，使我们对其他的可能性视而不见。我们不知道时间和环境会如何改变我们想要的东西，甚至是我们想要成为的人，而将我们的人生GPS锁定在一个单一的目标上，可能会给我们正确的方向，让我们到达错误的目的地。
 
@@ -2045,7 +2043,7 @@ Ellen认识到，在NASA，绩效文化正在侵蚀心理安全。"她告诉我�
 
 即使孩子们对一个确实被证明是现实的职业道路感到兴奋，他们认为是梦想的工作也可能变成一场噩梦。孩子们最好把职业当作行动来学习，而不是当作身份来要求。当他们把工作看作是他们所做的事情而不是他们是谁时，他们就会对探索不同的可能性更加开放。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000010.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000010.jpg)
 
 虽然孩子们往往从小就对科学着迷，但在小学期间，他们往往会对自己成为科学家的潜力失去兴趣和信心。最近的研究表明，通过，以不同的方式向他们介绍科学，是可以保持他们的热情的。当二、三年级学生了解到 "做科学 "而不是 "成为科学家 "时，他们对追求科学更加兴奋。成为一名科学家可能看起来遥不可及，但实验行为是我们都可以尝试的。即使是，当科学被介绍为我们*所做的*事情而不是我们*是*谁时，学前班的学生也会对科学表示更多的兴趣。
 
@@ -2065,7 +2063,7 @@ Ellen认识到，在NASA，绩效文化正在侵蚀心理安全。"她告诉我�
 
 我给学生的建议是，从保健行业中得到启发。正如他们与医生和牙医预约，甚至在没有任何问题的情况下，他们应该为自己的职业安排检查。我鼓励他们在他们的日历上写上提醒，每年两次问一些关键问题。你是什么时候形成你目前追求的愿望的，从那时起你有什么变化？你在你的角色或你的工作场所是否达到了学习的瓶颈，是时候考虑转折了吗？回答这些职业体检问题是一种定期激活反思周期的方式。它可以帮助学生对自己预测未来的能力保持谦虚，思考对自己计划的怀疑，并保持足够的好奇心来发现新的可能性或重新考虑以前放弃的可能性。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000011.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000011.jpg)
 
 我有一个学生Marissa Shandell，她在一家著名的咨询公司找到了一份令人羡慕的工作，并计划向上爬。她不断地提前得到晋升，但发现自己昼夜不停地工作。她没有继续只是咬牙忍耐，而是和她的丈夫每六个月进行一次职业检查谈话，不仅谈论他们公司的增长轨迹，也谈论他们工作的增长轨迹。在提前晋升为副合伙人后，玛丽莎意识到她已经达到了学习的高原期（和生活方式的高原期），决定攻读管理学博士学位。[*](#calibre_link-950)
 
@@ -2085,7 +2083,7 @@ Ellen认识到，在NASA，绩效文化正在侵蚀心理安全。"她告诉我�
 
 无论我们是与我们的伙伴、父母还是我们的导师做检查，都值得每年停顿一到两次，反思我们的愿望是如何改变的。当我们发现过去的生活形象与我们的未来不再相关时，我们可以开始重新思考我们的计划。这可以为我们的幸福做好准备--只要我们不要太执着于寻找幸福。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000016.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000016.jpg)
 
 ### 当追寻幸福的人把它赶走
 
@@ -2107,7 +2105,7 @@ Ellen认识到，在NASA，绩效文化正在侵蚀心理安全。"她告诉我�
 >
 >   记住，，你仍然会是度假的*你*。如果你对你所在的地方感到悲伤，然后你坐上了去意大利的飞机，在意大利的你将是之前那个悲伤的你，只是在一个新的地方。
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000022.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000022.jpg)
 
 ©*星期六夜生活/NBC*
 
@@ -2141,7 +2139,7 @@ Ellen认识到，在NASA，绩效文化正在侵蚀心理安全。"她告诉我�
 
 ------
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 我们不必为了重新思考一些计划而颠覆自己的整个道路。有些人对自己的工作领域完全满意，但对自己目前的角色不满意。另一些人可能过于厌恶风险，不愿意为了工作或伙伴而进行地理上的迁移。而许多人没有做出转折的奢望：在经济上依赖一份工作或在感情上依附于一个大家庭，会限制可供选择的方案。无论我们是否有机会或胃口对我们的生活作出重大改变，仍然有可能作出较小的调整，为我们的日子注入新的意义。
 
@@ -2161,7 +2159,7 @@ Ellen认识到，在NASA，绩效文化正在侵蚀心理安全。"她告诉我�
 
 后记
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 >   "我所相信的 "是一个过程，而不是一个最终结果。
 >
@@ -2211,7 +2209,7 @@ Ellen认识到，在NASA，绩效文化正在侵蚀心理安全。"她告诉我�
 
 影响的行动
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 如果你有兴趣锻炼你的反思能力，这里有我的三十条实用心得。
 
@@ -5085,7 +5083,7 @@ X（公司），[86](#calibre_link-733)
 
 亚当-格兰特是沃顿商学院的一名组织心理学家，他在那里连续七年成为评级最高的教授。他是TED最受欢迎的演讲者之一，他的书已售出数百万册，他的讲座被观看了2500多万次，他的播客*《亚当-格兰特的工作生活》*在排行榜上名列前茅。他的开创性研究启发人们重新思考关于动机、慷慨和创造力的基本假设。他被认为是世界上最有影响力的10位管理思想家之一，也是*《财富》杂志*的40位40岁以下人士之一，并获得美国心理学会和国家科学基金会颁发的杰出科学成就奖。亚当获得了哈佛大学的学士学位和密歇根大学的博士学位，他是前青少年奥林匹克跳板跳水运动员。他与他的妻子和他们的三个孩子住在费城。
 
-![Penguin Random House Next Reads logo](https://cammel-yang.github.io/my_books/b90_think_again/images/000049.jpg)
+![Penguin Random House Next Reads logo](https://libmind.github.io/img/b90_think_again/images/000049.jpg)
 
 # 你的下一步是什么？ 你的阅读清单？
 
