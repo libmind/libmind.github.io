@@ -3,7 +3,21 @@
         <title>All Books - libmind</title>
         <link>/posts/</link>
         <description>All Books | libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 03 Sep 2022 18:31:48 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 05 Sep 2022 17:35:57 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Make it Stick</title>
+    <link>/make_it_stick/</link>
+    <pubDate>Mon, 05 Sep 2022 17:35:57 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/make_it_stick/</guid>
+    <description><![CDATA[The Science of Successful Learning]]></description>
+</item><item>
+    <title>Other People&#39;s Money</title>
+    <link>/other_peoples_money/</link>
+    <pubDate>Mon, 05 Sep 2022 17:32:16 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/other_peoples_money/</guid>
+    <description><![CDATA[and How the Bankers Use it]]></description>
+</item><item>
     <title>Think Again</title>
     <link>/think_again/</link>
     <pubDate>Sat, 03 Sep 2022 18:31:48 &#43;0800</pubDate>

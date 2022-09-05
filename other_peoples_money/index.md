@@ -1,4 +1,4 @@
-# Other People's Money: and How the Bankers Use it
+# Other People's Money
 
 
 ## Preface
