@@ -2,7 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/a_man_for_all_markets/</loc><lastmod>2022-09-06T16:29:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/a_man_for_all_markets/</loc><lastmod>2022-09-06T16:29:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/a_man_for_all_markets/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/a_man_for_all_markets/"
+                    /></url><url>
             <loc>/categories/</loc><lastmod>2022-09-06T16:29:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"

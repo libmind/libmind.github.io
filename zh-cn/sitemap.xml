@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/zh-cn/categories/</loc><lastmod>2022-09-05T17:34:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/zh-cn/categories/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/categories/"
@@ -31,7 +31,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/categories/"
                     /></url><url>
-            <loc>/zh-cn/</loc><lastmod>2022-09-05T17:34:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/zh-cn/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/"
@@ -60,7 +60,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/"
                     /></url><url>
-            <loc>/zh-cn/posts/</loc><lastmod>2022-09-05T17:34:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/zh-cn/posts/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/posts/"
@@ -81,7 +81,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/posts/"
                     /></url><url>
-            <loc>/zh-cn/tags/</loc><lastmod>2022-09-05T17:34:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/zh-cn/tags/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/tags/"
@@ -109,6 +109,17 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="/zh-cn/tags/"
+                    /></url><url>
+            <loc>/zh-cn/tags/%E6%A6%82%E7%8E%87/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/zh-cn/categories/%E6%A6%82%E7%8E%87/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/zh-cn/a_man_for_all_markets/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/a_man_for_all_markets/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/zh-cn/a_man_for_all_markets/"
                     /></url><url>
             <loc>/zh-cn/tags/%E8%87%AA%E5%AD%A6%E6%96%B9%E6%B3%95/</loc><lastmod>2022-09-05T17:34:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/zh-cn/categories/%E8%87%AA%E5%AD%A6%E6%96%B9%E6%B3%95/</loc><lastmod>2022-09-05T17:34:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>

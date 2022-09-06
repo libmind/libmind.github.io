@@ -4627,19 +4627,7 @@ EDWARD O. THORP is the author of the bestseller *Beat the Dealer: A Winning Stra
 
 He completed undergraduate and graduate work at UCLA, receiving the BA and MA in physics, and the PhD in mathematics in 1958. He has taught at UCLA, MIT, and New Mexico State University, and was Professor of Mathematics and Finance at the University of California, Irvine.
 
-[edwardothorp.com](http://edwardothorp.com)
+edwardothorp.com
 
-[amanforallmarkets.com](http://amanforallmarkets.com)
+amanforallmarkets.com
 
-![Penguin Random House Back Ad logo](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000019.jpg)
-
-## *What’s next on your reading list?*
-
-[Discover your next
-great read!](http://links.penguinrandomhouse.com/type/prhebooklanding/isbn/9780812998740/display/1)
-
-------
-
-Get personalized book picks and up-to-date news about this author.
-
-[Sign up now.](http://links.penguinrandomhouse.com/type/prhebooklanding/isbn/9780812998740/display/2)
