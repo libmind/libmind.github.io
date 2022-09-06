@@ -1,151 +1,7 @@
 # A Man for All Markets
 
 
-![A Man for All Markets From Las Vegas to Wall Street, How I Beat the Dealer and the Market Edward O. Thorp Random House N](images/000003.jpg)
-
-
-
-
-
-Copyright © 2017 by Edward O. Thorp
-
-All rights reserved.
-
-Published in the United States by Random House, an imprint and division of Penguin Random House LLC, New York.
-
-RANDOM HOUSE and the HOUSE colophon are registered trademarks of Penguin Random House LLC.
-
-LIBRARY OF CONGRESS CATALOGING-IN-PUBLICATION DATA
-
-Names: Thorp, Edward O., author.
-
-Title: A man for all markets : from Las Vegas to Wall Street, how I beat the dealer and the market / Edward O. Thorp.
-
-Description: New York : Random House, [2017] | Includes index.
-
-Identifiers: LCCN 2016026545| ISBN 9781400067961 | ebook ISBN 9780812998740
-
-Subjects: LCSH: Thorp, Edward O. | Investment advisors—United States—Biography. | Mathematicians—United States—Biography. | Gambling systems. | Investments. | Finance—Mathematical models.
-
-Classification: LCC HG4928.5.T54 A3 2017 | DDC 332.6092 [B]—dc23 LC record available at [https://lccn.loc.gov/2016026545](https://lccn.loc.gov/2016026545)
-
-[randomhousebooks.com](http://randomhousebooks.com)
-
-*Book design by Christopher M. Zucker, adapted for ebook*
-
-Cover design: Pete Garceau
-
-Cover photograph: © Leigh Wiener
-
-v4.1
-
-ep
-
-# Contents
-
-[Cover](Thor_9780812998740_epub3_cvi_r1.xhtml)
-
-[Title Page](#calibre_link-40)
-
-[Copyright](#calibre_link-44)
-
-[Preface](#calibre_link-38)
-
-[Foreword](#calibre_link-30)
-
-[Chapter 1: Loving to Learn](#calibre_link-35)
-
-[Chapter 2: Science Is My Playground](#calibre_link-50)
-
-[Chapter 3: Physics and Mathematics](#calibre_link-51)
-
-[Chapter 4: Las Vegas](#calibre_link-52)
-
-[Chapter 5: Conquering Blackjack](#calibre_link-17)
-
-[Chapter 6: The Day of the Lamb](#calibre_link-33)
-
-[Chapter 7: Card Counting for Everyone](#calibre_link-47)
-
-[Chapter 8: Players Versus Casinos](#calibre_link-53)
-
-[Chapter 9: A Computer That Predicts Roulette](#calibre_link-54)
-
-[Chapter 10: An Edge at Other Gambling Games](#calibre_link-55)
-
-[Chapter 11: Wall Street: The Greatest Casino on Earth](#calibre_link-56)
-
-[Chapter 12: Bridge with Buffett](#calibre_link-12)
-
-[Chapter 13: Going into Partnership](#calibre_link-15)
-
-[Chapter 14: Front-Running the Quantitative Revolution](#calibre_link-31)
-
-[Chapter 15: Rise…](#calibre_link-36)
-
-[Chapter 16: …And Fall](#calibre_link-41)
-
-[Chapter 17: Period of Adjustment](#calibre_link-45)
-
-[Chapter 18: Swindles and Hazards](#calibre_link-57)
-
-[Chapter 19: Buying Low, Selling High](#calibre_link-58)
-
-[Chapter 20: Backing the Truck Up to the Banks](#calibre_link-59)
-
-[Chapter 21: One Last Puff](#calibre_link-60)
-
-[Chapter 22: Hedging Your Bets](#calibre_link-0)
-
-[Chapter 23: How Rich Is Rich?](#calibre_link-13)
-
-[Chapter 24: Compound Growth: The Eighth Wonder of the World](#calibre_link-16)
-
-[Chapter 25: Beat Most Investors by Indexing](#calibre_link-32)
-
-[Chapter 26: Can You Beat the Market? Should You Try?](#calibre_link-37)
-
-[Chapter 27: Asset Allocation and Wealth Management](#calibre_link-42)
-
-[Chapter 28: Giving Back](#calibre_link-46)
-
-[Chapter 29: Financial Crises: Lessons Not Learned](#calibre_link-61)
-
-[Chapter 30: Thoughts](#calibre_link-62)
-
-[Epilogue](#calibre_link-63)
-
-[Appendix A: The Impact of Inflation on the Dollar](#calibre_link-64)
-
-[Appendix B: Historical Returns
-](#calibre_link-1)
-
-[Appendix C: The Rule of 72 and More](#calibre_link-14)
-
-[Appendix D: Performance of Princeton Newport Partners, LP
-](#calibre_link-18)
-
-[Appendix E: Our Statistical Arbitrage Results for a Fortune 100 Company](#calibre_link-34)
-
-[Photo Insert](#calibre_link-39)
-
-[Dedication](#calibre_link-43)
-
-[Acknowledgments](#calibre_link-48)
-
-[Notes](#calibre_link-65)
-
-[Bibliography](#calibre_link-66)
-
-[By Edward O. Thorp](#calibre_link-67)
-
-[About the Author](#calibre_link-68)
-
-
-
-
-
-# PREFACE
+## PREFACE
 
 Join me in my odyssey through the worlds of science, gambling, and the securities markets. You will see how I overcame risks and reaped rewards in Las Vegas, Wall Street, and life. On the way, you will meet interesting people from blackjack card counters to investment experts, from movie stars to Nobel Prize winners. And you’ll learn about options and other derivatives, hedge funds, and why a simple investment approach beats most investors in the long run, including experts.
 
@@ -165,9 +21,7 @@ I hope my story will show you a unique perspective and that *A Man for All Marke
 
 
 
-
-
-# FOREWORD
+## FOREWORD
 
 Ed Thorp’s memoir reads like a thriller—mixing wearable computers that would have made James Bond proud, shady characters, great scientists, and poisoning attempts (in addition to the sabotage of Ed’s car so he would have an “accident” in the desert). The book reveals a thorough, rigorous, methodical person in search of life, knowledge, financial security, and, not least of all, fun. Thorp is also known to be a generous man, intellectually speaking, eager to share his discoveries with random strangers (in print but also in person)—something you hope to find in scientists but usually don’t. Yet he is humble—he might qualify as the only humble trader on planet Earth—so, unless the reader can reinterpret what’s between the lines, he or she won’t notice that Thorp’s contributions are vastly more momentous than he reveals. Why?
 
@@ -209,7 +63,7 @@ So the world today is divided into two groups using distinct methods. The first 
 
 The second method, that of the information theorists as pioneered by Ed, is practiced by traders and scientist-traders. Every surviving speculator uses explicitly or implicitly this second method (evidence: Ray Dalio, Paul Tudor Jones, Renaissance Technologies, even Goldman Sachs!). I said *every* because, as Peters and Gell-Mann have shown, those who don’t will eventually go bust.
 
-And thanks to that second method, if you inherit, say, $82,000 from uncle Morrie, you know that a strategy exists that will allow you to double the inheritance without ever going through bankruptcy.
+And thanks to that second method, if you inherit, say, \$82,000 from uncle Morrie, you know that a strategy exists that will allow you to double the inheritance without ever going through bankruptcy.
 
 —
 
@@ -225,11 +79,7 @@ Nassim Nicholas Taleb
 
 
 
-# Chapter 1
-
-------
-
-# LOVING TO LEARN
+## Chapter 1: LOVING TO LEARN
 
 My first memory is of standing with my parents on an outdoor landing at the top of some worn and dirty wooden steps. It was a gloomy Chicago day in December 1934, when I was two years and four months old. Even wearing my only set of winter pants and a jacket with a hood, it was cold. Black and leafless, the trees stood out above the snow-covered ground. From inside the house a woman was telling my parents, “No, we don’t rent to people with children.” Their faces fell and they turned away. Had I done something wrong? Why was I a problem? This image from the depths of the Great Depression has stayed with me always.
 
@@ -303,7 +153,7 @@ This skill, especially to make rapid approximate calculations, remains valuable,
 
 
 
-Another time, a well-known and respected mutual fund manager reported that Warren Buffett, since he took over Berkshire Hathaway, had compounded money after taxes at 23 to 24 percent annually. Then he said, “Those kind of numbers will not be achieved in the next ten years—he’d own the world.” A quick mental estimate of what $1 grows to in ten years compounded at 24 percent gave me a little over $8. (A calculator gives $8.59.) Since, at the time, Berkshire had a market cap of about $100 billion, this rate of growth would bring the company to a market value of roughly $859 billion. This falls far short of my guesstimate of $400 trillion for the present market value of the world. The notion of a market value for the whole world reminds me of a sign I saw on an office door in the Physics Department of the University of California, Irvine. It read EARTH PEOPLE, THIS IS GOD. YOU HAVE THIRTY DAYS TO LEAVE. I HAVE A BUYER FOR THE PROPERTY.
+Another time, a well-known and respected mutual fund manager reported that Warren Buffett, since he took over Berkshire Hathaway, had compounded money after taxes at 23 to 24 percent annually. Then he said, “Those kind of numbers will not be achieved in the next ten years—he’d own the world.” A quick mental estimate of what \$1 grows to in ten years compounded at 24 percent gave me a little over \$8. (A calculator gives \$8.59.) Since, at the time, Berkshire had a market cap of about \$100 billion, this rate of growth would bring the company to a market value of roughly \$859 billion. This falls far short of my guesstimate of \$400 trillion for the present market value of the world. The notion of a market value for the whole world reminds me of a sign I saw on an office door in the Physics Department of the University of California, Irvine. It read EARTH PEOPLE, THIS IS GOD. YOU HAVE THIRTY DAYS TO LEAVE. I HAVE A BUYER FOR THE PROPERTY.
 
 Just after I turned five I started kindergarten at Dever Grammar School in northwest Chicago. I was immediately puzzled by why everything we were asked to do was so easy. One day our teacher gave us all blank paper and told us to draw a copy of an outline of a horse from a picture she had given us. I put little dots on the picture and used a ruler to measure the distance from one to the next. Then I reproduced the dots on my piece of paper, using the ruler to make the distance between them the same as they were on the picture and with my eye estimating the proper angles. Next, I connected up the new dots smoothly, matching the curves as well as I could. The result was a close copy of the original sketch.
 
@@ -319,7 +169,7 @@ The principal interviewed me and immediately recommended that I be moved up to f
 
 As we were barely managing on my father’s Depression-era wages, an academically advanced private school was never an option. We were fortunate that he had found work as a security guard at the Harris Trust and Savings Bank. His battlefield medals from World War I may have helped.
 
-The Depression permeated every facet of our lives. Living on my father’s $25-a-week salary, we never wasted food, and we wore our clothes until they fell apart. I treasured objects such as the Smith Corona typewriter my father had won in a writing contest and the military binoculars he used in World War I. Eventually both became part of my tiny collection of possessions and followed me for the next thirty years. For the rest of my life I would meet Depression-era survivors who retained a compulsive, often irrational frugality and an economically inefficient tendency to hoard.
+The Depression permeated every facet of our lives. Living on my father’s \$25-a-week salary, we never wasted food, and we wore our clothes until they fell apart. I treasured objects such as the Smith Corona typewriter my father had won in a writing contest and the military binoculars he used in World War I. Eventually both became part of my tiny collection of possessions and followed me for the next thirty years. For the rest of my life I would meet Depression-era survivors who retained a compulsive, often irrational frugality and an economically inefficient tendency to hoard.
 
 
 
@@ -349,7 +199,7 @@ That summer while we wondered whether the United States would, as we expected, e
 
 The boxed kits came with lots of fragile balsa-wood sticks and some sheets with other plane parts to be carefully cut from outlines. We taped the large sheet of plans onto a piece of cardboard and glued balsa-wood pieces together after laying them on the plan and holding them in place with pins. When we had completed the wings, the fuselage top, bottom, and sides, and the tail sections, we assembled them into a completed skeleton and covered it by gluing on tissue paper. I remember the pervasive acetone smell from drying glue, like that of some brands of nail polish remover. My first propeller-driven planes, powered by rubber band motors, didn’t fly well. They were too heavy because I had used excessive amounts of glue to be sure everything would hold together. When I learned to use glue more judiciously, I had some satisfying flights. The skills from model building and using tools were a valuable prequel to the science experiments that would occupy me during the next few years, and my introduction to planes helped me follow the details of the great air battles of World War II. I was sorry to see Uncle Ed go and worried about what would happen to him if war came.
 
-Later in that pre–Pearl Harbor summer of 1941 my parents bought their first car, a new Ford sedan, for $800. We drove “America’s mother route,” historic Highway 66, from Chicago to California, where we visited friends from the Philippines who had settled in the picturesque art colony of Laguna Beach. Each year they had mailed us a little box of candy oranges, which my brother and I eagerly awaited. Now we saw groves of real orange trees.
+Later in that pre–Pearl Harbor summer of 1941 my parents bought their first car, a new Ford sedan, for \$800. We drove “America’s mother route,” historic Highway 66, from Chicago to California, where we visited friends from the Philippines who had settled in the picturesque art colony of Laguna Beach. Each year they had mailed us a little box of candy oranges, which my brother and I eagerly awaited. Now we saw groves of real orange trees.
 
 Then the great world war that was consuming Europe and Asia struck the United States. Late on the morning of Sunday, December 7, 1941, we were listening to music on the radio and decorating our Christmas tree when an authoritative voice broke in: “We interrupt this program to bring you a special announcement. The Japanese have just bombed Pearl Harbor.” A frisson ran through me. Suddenly the world had changed in a momentous way for all of us.
 
@@ -393,7 +243,13 @@ About a quarter mile beyond our backyard was the Lomita Flight Strip, a small mu
 
 The base, which later became Torrance Airport, was dedicated as Zamperini Field for Louis Zamperini, while he was a Japanese war prisoner. He grew up just a couple of miles from where I lived. The famous Torrance High School and Olympic track star, hero of Laura Hillenbrand’s bestseller *Unbroken,* had gone to war as a B-24 bombardier just a couple of months before my family arrived in adjacent Lomita.
 
-Each newspaper route had about a hundred stops, for which we were paid about $25 per month. (Multiply by twelve to convert to 2014 dollars.) This was an astonishing amount of money for an eleven-year-old. However, our take-home pay was usually less, because we had to collect payment from our customers and any shortfall was deducted from what we received. Since subscriptions were something like $1.25 or $1.50 per month, and there were deadbeats who moved away owing money, others who refused to pay, and some who paid only part because of missed papers, our pay was often reduced significantly. We collected after school in the afternoons and early evenings and often had to come back many times for people who weren’t home or didn’t have the money. I gave most of what I earned to my mother so she could buy savings stamps for me at the post office. My booklets, when they reached $18.75, were exchanged for war bonds that would mature in several years for $25 each. As my pile of bonds grew, college began to seem possible. But then my area supervisor gradually cut our paper-route wages so he could keep more for himself.
+Each newspaper route had about a hundred stops, for which we were paid about \$25 per month. (Multiply by twelve to convert to 2014 dollars.) This was an astonishing amount of money for an eleven-year-old. However, our take-home pay was usually less, because we had to collect payment from our customers and any shortfall was deducted from what we received. 
+
+Since subscriptions were something like \$1.25 or \$1.50 per month, and there were deadbeats who moved away owing money, others who refused to pay, and some who paid only part because of missed papers, our pay was often reduced significantly. We collected after school in the afternoons and early evenings and often had to come back many times for people who weren’t home or didn’t have the money. I gave most of what I earned to my mother so she could buy savings stamps for me at the post office. 
+
+My booklets, when they reached \$18.75, were exchanged for war bonds that would mature in several years for \$25 each. 
+
+As my pile of bonds grew, college began to seem possible. But then my area supervisor gradually cut our paper-route wages so he could keep more for himself.
 
 
 
@@ -405,11 +261,7 @@ My friends and I went on strike against the *Examiner.* Our supervisor, an ever-
 
 
 
-# Chapter 2
-
-------
-
-# SCIENCE IS MY PLAYGROUND
+## Chapter 2: SCIENCE IS MY PLAYGROUND
 
 In the 1940s, graduates of Narbonne High School were not expected to go on to college. The course requirements reflected this. In the seventh and eighth grades, though hungry for academic learning, I was required to take practical subjects, including wood shop, metal shop, drafting, typing, print shop, and electric shop.
 
@@ -421,7 +273,7 @@ It was no surprise that the required course that caught my interest was electric
 
 
 
-In those days the exam began with a series of written questions on radio theory. Next was a test on Morse code. That hurdle, since relaxed, was a major obstacle for most, and Mr. Carver warned me about the long, tedious hours of practice needed for proficiency. We had to copy code as well as send it with a telegrapher’s key at an error-free rate of thirteen words per minute. A *word* meant any five characters, so this was sixty-five characters a minute, or a little faster than one per second. I thought about it, then went out and bought a used “tape machine” for what was then the enormous sum of $15, almost three weeks’ income from delivering newspapers. The machine looked like a stubby black shoe box. The lid unclipped to reveal two spindles. It came with a collection of reels of pale-yellow paper tapes. These tapes had short holes for the “dots” and long holes for the “dashes.” You could look at them and read off the code for letters, and thus “read” the tape. The machine wound the tape from one spindle to the other, like the old reel-to-reel high-fidelity music tape players and the later cassette-tape machines. For power, you simply wound up the machine with a crank. It was simple, low-tech, and effective. When a hole moved past a spring contact, the circuit closed for the length of time its journey took. Long holes gave dashes, and short holes gave dots. The box was hooked to a simple device, an “audio oscillator,” that emitted a fixed tone such as the piano middle C. As the tape ran, the contact in the box switched the oscillator alternately on and off, sending dots and dashes.
+In those days the exam began with a series of written questions on radio theory. Next was a test on Morse code. That hurdle, since relaxed, was a major obstacle for most, and Mr. Carver warned me about the long, tedious hours of practice needed for proficiency. We had to copy code as well as send it with a telegrapher’s key at an error-free rate of thirteen words per minute. A *word* meant any five characters, so this was sixty-five characters a minute, or a little faster than one per second. I thought about it, then went out and bought a used “tape machine” for what was then the enormous sum of \$15, almost three weeks’ income from delivering newspapers. The machine looked like a stubby black shoe box. The lid unclipped to reveal two spindles. It came with a collection of reels of pale-yellow paper tapes. These tapes had short holes for the “dots” and long holes for the “dashes.” You could look at them and read off the code for letters, and thus “read” the tape. The machine wound the tape from one spindle to the other, like the old reel-to-reel high-fidelity music tape players and the later cassette-tape machines. For power, you simply wound up the machine with a crank. It was simple, low-tech, and effective. When a hole moved past a spring contact, the circuit closed for the length of time its journey took. Long holes gave dashes, and short holes gave dots. The box was hooked to a simple device, an “audio oscillator,” that emitted a fixed tone such as the piano middle C. As the tape ran, the contact in the box switched the oscillator alternately on and off, sending dots and dashes.
 
 
 
@@ -453,7 +305,7 @@ Then, in November 1946, as a high school sophomore, I saw an advertisement by th
 
 
 
-Imagining myself drifting up into the sky, I ordered ten balloons, each eight feet tall, for a total cost of $29.95, which is like $360 today. I knew, from the chemistry I was teaching myself, that each eight-footer, filled with hydrogen, would lift about fourteen pounds. Since I weighed 95 pounds, eight of the balloons, with a total lifting power of 112 pounds, should carry me plus a harness and ballast. I didn’t know how to get the hydrogen I needed at a price I could afford, so I turned to the family stove: It was powered by natural gas, whose main constituent was methane, with a little less than half the lifting power of hydrogen. If my tests succeeded I could always buy more balloons. I imagined myself tethered to sixteen or more eight-foot balloons, slowly ascending over my house and looking out first over my neighborhood and then miles in all directions over Southern California. I planned to carry bags of sand to use as ballast. When I wanted to go higher, I’d just lighten up by spilling a little sand, which wouldn’t injure anyone below. If I wanted to go lower or land, I had designed a valve system for each balloon that would let me release its gas in a controlled manner.
+Imagining myself drifting up into the sky, I ordered ten balloons, each eight feet tall, for a total cost of \$29.95, which is like \$360 today. I knew, from the chemistry I was teaching myself, that each eight-footer, filled with hydrogen, would lift about fourteen pounds. Since I weighed 95 pounds, eight of the balloons, with a total lifting power of 112 pounds, should carry me plus a harness and ballast. I didn’t know how to get the hydrogen I needed at a price I could afford, so I turned to the family stove: It was powered by natural gas, whose main constituent was methane, with a little less than half the lifting power of hydrogen. If my tests succeeded I could always buy more balloons. I imagined myself tethered to sixteen or more eight-foot balloons, slowly ascending over my house and looking out first over my neighborhood and then miles in all directions over Southern California. I planned to carry bags of sand to use as ballast. When I wanted to go higher, I’d just lighten up by spilling a little sand, which wouldn’t injure anyone below. If I wanted to go lower or land, I had designed a valve system for each balloon that would let me release its gas in a controlled manner.
 
 After a wait that seemed endless, but was only a couple of weeks, the balloons arrived and I set to work. One quiet Saturday when my family wasn’t around, I connected the gas line for the stove to my balloon and blew it up to about four feet in diameter, which was the largest size I could squash through the kitchen door to get it outside. As predicted, it had a lifting power of nearly one pound. I went to an open field and sent the balloon up to about fifteen hundred feet tethered to strong kite string. Everything was working as expected, and I enjoyed watching a small plane from the nearby local airport “buzz” my balloon. About forty-five minutes later the plane returned, flew near my balloon, and then the balloon suddenly popped. The plane appeared to have shot it down, although I had no idea how or why.
 
@@ -595,11 +447,11 @@ The idea was immediate: mount the headlight on my telescope so it could illumina
 
 —
 
-The day of the great physics exam came, but seemed anticlimactic after the chemistry test. I knew how to answer questions worth about 860 of the 1,000 points and, with my new super slide rule, rolled through the calculations. But two questions, together worth about 140 points, came from material I hadn’t covered. Was I doomed again to fourth place? I asked myself, *What can I do about this?* In the time left, I used a notion called dimensional analysis to reason out what I hoped was the correct formula for solving one of them, and made a stab at the other. As with the chemistry exam, the fifteen top scorers attended an awards banquet. Again, the finalists came mainly from the top academic schools in the Los Angeles city school system. There was general astonishment when the top spot went to someone from where? Narbonne High School? Some trade school out in the sticks? The scoring pattern of the chemistry exam was repeated, only this time I was first with 931 points. The second-place winner was fifty or sixty points behind. Surpassing the smug and privileged, I had first pick of the scholarships that were offered, wavering between Caltech and UC–Berkeley. Caltech, my first choice, offered full tuition, but I did not have an extra $2,000 per year for the dormitories and expenses. Pasadena was expensive and I knew of no place nearby within my budget. I simply couldn’t afford Caltech.
+The day of the great physics exam came, but seemed anticlimactic after the chemistry test. I knew how to answer questions worth about 860 of the 1,000 points and, with my new super slide rule, rolled through the calculations. But two questions, together worth about 140 points, came from material I hadn’t covered. Was I doomed again to fourth place? I asked myself, *What can I do about this?* In the time left, I used a notion called dimensional analysis to reason out what I hoped was the correct formula for solving one of them, and made a stab at the other. As with the chemistry exam, the fifteen top scorers attended an awards banquet. Again, the finalists came mainly from the top academic schools in the Los Angeles city school system. There was general astonishment when the top spot went to someone from where? Narbonne High School? Some trade school out in the sticks? The scoring pattern of the chemistry exam was repeated, only this time I was first with 931 points. The second-place winner was fifty or sixty points behind. Surpassing the smug and privileged, I had first pick of the scholarships that were offered, wavering between Caltech and UC–Berkeley. Caltech, my first choice, offered full tuition, but I did not have an extra \$2,000 per year for the dormitories and expenses. Pasadena was expensive and I knew of no place nearby within my budget. I simply couldn’t afford Caltech.
 
 
 
-My UC–Berkeley scholarship, the largest they then gave, was for $300 a year. Tuition, which was $70 a year, was covered separately for me by a scholarship for children of World War I veterans. Berkeley also had low-cost room and board just off campus. Cheaper yet was the Student Cooperative Housing Association, with room and board for $35 per month and four hours of work a week. When I picked Berkeley, I consoled myself with the hope that at least there would be plenty of girls and my social life might bloom.
+My UC–Berkeley scholarship, the largest they then gave, was for \$300 a year. Tuition, which was \$70 a year, was covered separately for me by a scholarship for children of World War I veterans. Berkeley also had low-cost room and board just off campus. Cheaper yet was the Student Cooperative Housing Association, with room and board for \$35 per month and four hours of work a week. When I picked Berkeley, I consoled myself with the hope that at least there would be plenty of girls and my social life might bloom.
 
 —
 
@@ -623,7 +475,7 @@ Having put the talent search out of mind I was astonished one spring morning to 
 
 It was from Westinghouse. Excited and astonished, I read, “Congratulations, you are one of forty finalists.” A few weeks later I took my first train trip, traveling together with the two other finalists from California, for a five-day all-expenses-paid trip to Washington, DC, where we joined the rest. The forty of us were treated to an audience with Nobel Prize–winning physicist I. I. Rabi and a visit to the local sixty-inch cyclotron. No one was allowed to wear magnetizable material when entering the cyclotron room, for the device’s electromagnet was so powerful it would rip loose watches, buttons, and belt buckles, turning them into deadly missiles flying to the device.
 
-At a public evening exhibition, we each presented some aspect of our scientific work. These exhibits would play an important role in ranking the forty of us for cash awards. I displayed the small radio station I had built, complete with a remote-controlled rotating antenna. Unfortunately, as there was no electric power for our booths, my planned live demonstration became a collection of lifeless objects. The top ten finalists got cash awards ranging from $10,000 to $1,000, according to the rankings by the judges. The remaining thirty of us got $100 each. Nonetheless, we were all sought after by science departments of leading universities. As a highlight we were greeted in the White House Oval Office by President Harry S. Truman. I remember the feel of his hand as we shook: firm, compact, and with the sensation of a leather chair lightly dusted with talcum powder.
+At a public evening exhibition, we each presented some aspect of our scientific work. These exhibits would play an important role in ranking the forty of us for cash awards. I displayed the small radio station I had built, complete with a remote-controlled rotating antenna. Unfortunately, as there was no electric power for our booths, my planned live demonstration became a collection of lifeless objects. The top ten finalists got cash awards ranging from \$10,000 to \$1,000, according to the rankings by the judges. The remaining thirty of us got \$100 each. Nonetheless, we were all sought after by science departments of leading universities. As a highlight we were greeted in the White House Oval Office by President Harry S. Truman. I remember the feel of his hand as we shook: firm, compact, and with the sensation of a leather chair lightly dusted with talcum powder.
 
 
 
@@ -635,21 +487,15 @@ But the idea lay dormant, waiting to come to life.
 
 
 
-
-
-# Chapter 3
-
-------
-
-# PHYSICS AND MATHEMATICS
+## Chapter 3: PHYSICS AND MATHEMATICS
 
 In August 1949, as I was turning seventeen, I went off to the Berkeley campus of the University of California. Now divorced, my mother sold our house, moved away, and installed my twelve-year-old brother in military school. It would be several years before I saw much of either parent again, an echo of my father’s experience, as he was without parents and on his own from age sixteen. He had joined the army, and I went off to university. Like him, I was on my own from then on.
 
-I found room and board a few blocks south of the campus. Shortly before leaving for college, I learned that my mother had cashed the war bonds I had paid for with my paper route and spent the money. Her unexpected betrayal was an emotional blow that estranged us for years, and whether I could support myself at the university was now in doubt. I survived with scholarships, part-time jobs, and $40 a month for my first year from my father. I got by on less than $100 a month, including everything: books, tuition, food, shelter, and clothes. On Sundays, when my boardinghouse did not provide meals, I visited church open houses, where I consumed large quantities of free hot chocolate and doughnuts.
+I found room and board a few blocks south of the campus. Shortly before leaving for college, I learned that my mother had cashed the war bonds I had paid for with my paper route and spent the money. Her unexpected betrayal was an emotional blow that estranged us for years, and whether I could support myself at the university was now in doubt. I survived with scholarships, part-time jobs, and \$40 a month for my first year from my father. I got by on less than \$100 a month, including everything: books, tuition, food, shelter, and clothes. On Sundays, when my boardinghouse did not provide meals, I visited church open houses, where I consumed large quantities of free hot chocolate and doughnuts.
 
 
 
-The campus was overflowing with returning veterans on the GI Bill. Basic science courses such as physics and chemistry were taught in classrooms of several hundred, but the best professors were lecturing and quality was high. In chemistry, my major, I was one of fifteen hundred students. We were split into four lecture sections of almost four hundred each. The course was taught by a famous professor, and we were using his book. As he was then preparing a revision, he offered 10 cents per misprint to the first student to report it. I set to work and soon brought him a list of ten errors to see if he would pay. He gave me my dollar. Encouraged, I came back with a list of seventy-five more mistakes. That netted me $7.50 but he wasn’t happy. When I returned a few days later with several hundred he explained that they needed to be errors, not mere misprints. Despite my objections, he disqualified nearly all of them. This unilateral retroactive change in the deal, which I would later encounter often on Wall Street, done by someone for their benefit just because they could get away with it, violated my sense of fair play. I quit reporting additional corrections.
+The campus was overflowing with returning veterans on the GI Bill. Basic science courses such as physics and chemistry were taught in classrooms of several hundred, but the best professors were lecturing and quality was high. In chemistry, my major, I was one of fifteen hundred students. We were split into four lecture sections of almost four hundred each. The course was taught by a famous professor, and we were using his book. As he was then preparing a revision, he offered 10 cents per misprint to the first student to report it. I set to work and soon brought him a list of ten errors to see if he would pay. He gave me my dollar. Encouraged, I came back with a list of seventy-five more mistakes. That netted me \$7.50 but he wasn’t happy. When I returned a few days later with several hundred he explained that they needed to be errors, not mere misprints. Despite my objections, he disqualified nearly all of them. This unilateral retroactive change in the deal, which I would later encounter often on Wall Street, done by someone for their benefit just because they could get away with it, violated my sense of fair play. I quit reporting additional corrections.
 
 As the semester wound to a close, I had missed only a single point out of the hundreds given out for the written exams and the lab work, ranking me number one. After my unfortunate experience with the chemistry exam in high school, this was vindication. Part of our grade came when we were asked each week to chemically analyze a sample that was not known to us. After hearing that some students might sabotage others by secretly changing these unknowns, I made a practice of holding back part of mine so that, if this were done to me, I could prove that I had correctly analyzed whatever I had. On the very last sample given us to evaluate that semester, I was told I got it wrong. I knew better, and to prove it I asked that the part I had saved be tested. The decision on my appeal was left to the teaching assistant for my lab sections, who refused to act. The points I lost caused me to end the term in fourth place rather than first. Outraged, I did not enroll in chemistry the second semester and changed my major to physics. Thus I missed organic chemistry, the study of carbon compounds, and the basis for all living things. It is fundamental for biology.
 
@@ -711,7 +557,11 @@ The friend traveling with me was one of a group of weight lifters with whom I’
 
 After the trip, it was back to working and studying. During my first graduate year, 1953–54, I applied for and got a graduate fellowship in physics at Columbia University. All I needed to do was come up with enough money to live in New York. Unable to do so, I had to decline and continued on at UCLA. One Sunday afternoon the following year, working on my master’s degree, I was taking tea in the co-op dining area as a break from studying, along with a few others. Someone who had been to Las Vegas was explaining how no one could beat the casinos. This was the consensus view of the group. It was also the view of the world in general, backed up by the painful experience of generations of gamblers.
 
-The Martingale system, or doubling-up system, is one of the many betting schemes that gamblers had devised in an attempt to win. It was often used at roulette for bets with even-money payoffs, such as “red” or “black.” The standard American wheel has eighteen red numbers, eighteen black numbers, and two green numbers for a total of thirty-eight. With an even-money payoff, for each thirty-eight spins, you can expect to win a bet on red or a bet on black on average eighteen times and lose twenty for a net loss of two. In an attempt to get around this disadvantage, you start the Martingale by betting $1 on, say, red. After each loss, bet twice as much on the next spin of the wheel, always on red. Eventually you win—red has to come up sometime—and that win covers the previous string of losses, plus a profit of $1. Then start again by betting $1 and repeat the whole process, netting another $1 profit each time when you finally win. The catch is that after many doublings, your required bet can be so large that either you have run out of money or the casino won’t allow it.
+The Martingale system, or doubling-up system, is one of the many betting schemes that gamblers had devised in an attempt to win. It was often used at roulette for bets with even-money payoffs, such as “red” or “black.” The standard American wheel has eighteen red numbers, eighteen black numbers, and two green numbers for a total of thirty-eight. With an even-money payoff, for each thirty-eight spins, you can expect to win a bet on red or a bet on black on average eighteen times and lose twenty for a net loss of two. In an attempt to get around this disadvantage, you start the Martingale by betting \$1 on, say, red. 
+
+After each loss, bet twice as much on the next spin of the wheel, always on red. Eventually you win—red has to come up sometime—and that win covers the previous string of losses, plus a profit of \$1. 
+
+Then start again by betting \$1 and repeat the whole process, netting another \$1 profit each time when you finally win. The catch is that after many doublings, your required bet can be so large that either you have run out of money or the casino won’t allow it.
 
 With an infinite number of possible sequences of outcomes in a gambling game, it was impossible to ever know through trial and error whether any particular betting system worked. To analyze each scheme mathematically, one at a time, was hopeless as well, as there was always a new one to test. One of the triumphs of mathematics had been to prove with a single theorem that all such systems must fail. Under fairly general assumptions, no method for varying the size of your bets could overcome the casino’s advantage.
 
@@ -747,15 +597,15 @@ A generation later, when Rabbi Kramer performed marriage ceremonies for each of 
 
 All was well afterward at our wedding reception until a favorite high school teacher whom I had invited proclaimed repeatedly and loudly, “I always knew he would marry a landsman!” (In this usage, *landsman* is a Yiddish term referring to a fellow Jew, especially one from the same region.) Fortunately, the older relatives feigned hearing loss and once again all was well.
 
-Luckily, my in-laws didn’t see the possessions I brought to the marriage. My worn clothing fit into a single suitcase with a broken clasp. Having been washed regularly together, the colors shared a dishwater-gray commonality with hints of purple, beige, and yellow. A couple of years earlier my roommate and I had for $40 jointly purchased a Harris Tweed jacket, which we would alternately use on dates. He gave me his half as a wedding present. I did have boxes and boxes of books along with my own improvised bookcases, the shelves consisting of planks separated by concrete blocks, a student standard in those days.
+Luckily, my in-laws didn’t see the possessions I brought to the marriage. My worn clothing fit into a single suitcase with a broken clasp. Having been washed regularly together, the colors shared a dishwater-gray commonality with hints of purple, beige, and yellow. A couple of years earlier my roommate and I had for \$40 jointly purchased a Harris Tweed jacket, which we would alternately use on dates. He gave me his half as a wedding present. I did have boxes and boxes of books along with my own improvised bookcases, the shelves consisting of planks separated by concrete blocks, a student standard in those days.
 
-After our marriage in January 1956, I began taking courses in mathematics. Vivian supported my bold gamble, which was to skip the upper-division math courses I needed as background and jump directly into graduate work, sink or swim, filling in the gaps as best I could. When summer came, even though Vivian was working to support us, we badly needed the extra income I could provide from three months of full-time work. An engineering student and friend from the co-op, Tom Scott, said that National Cash Register (NCR) was hiring. I filled out the forms, passed the interview, and was offered a job at $95 a week! (Multiply by eight for the 2016 equivalent.) My job was to teach upper-division modern algebra to the employees, using a text of my choice. The book I picked, *A Survey of Modern Algebra* by Birkhoff and MacLane, was legendary in the education of mathematicians. Each day I learned the material, then lectured on it the next.
+After our marriage in January 1956, I began taking courses in mathematics. Vivian supported my bold gamble, which was to skip the upper-division math courses I needed as background and jump directly into graduate work, sink or swim, filling in the gaps as best I could. When summer came, even though Vivian was working to support us, we badly needed the extra income I could provide from three months of full-time work. An engineering student and friend from the co-op, Tom Scott, said that National Cash Register (NCR) was hiring. I filled out the forms, passed the interview, and was offered a job at \$95 a week! (Multiply by eight for the 2016 equivalent.) My job was to teach upper-division modern algebra to the employees, using a text of my choice. The book I picked, *A Survey of Modern Algebra* by Birkhoff and MacLane, was legendary in the education of mathematicians. Each day I learned the material, then lectured on it the next.
 
 
 
 Vivian and I were invited to a house party by one of Tom Scott’s female friends from NCR. We were introduced to her boyfriend, Richard Feynman, who was sitting in an alcove, playing the bongo drums. A thirty-eight-year-old professor at Caltech, he was already regarded as one of the world’s most brilliant physicists. Feynman later won a Nobel Prize and subsequently commanded national attention when he publicly explained the tragic *Challenger* disaster that killed seven astronauts, using a glass of ice water and a rubber ring.
 
-I had been told this story about Feynman and roulette in Las Vegas: Watching a man placing $5 bets on red or on black, Feynman told him betting against the casino was a losing proposition and that he, Feynman, would be happy to play the part of the casino. The two of them wandered from wheel to wheel with the gambler betting against Feynman by calling out “red” or black” before the spin, paying Feynman when he lost and getting paid in turn when he won. As it happened, even with a disadvantage, the gambler was lucky enough to get ahead by $80, at which point Feynman quit. Though he was acting as the casino and would eventually come out ahead, he wasn’t willing to risk further losses. Feynman was like a casino that only had an $80 bankroll, one likely to be wiped out by a customer’s lucky run. Assuming the truth of the story, even one of the world’s greatest physicists may not have realized that he needed a much larger bankroll to cover the risk he was taking. Understanding and dealing correctly with the trade-off between risk and return is a fundamental, but poorly understood, challenge faced by all gamblers and investors.
+I had been told this story about Feynman and roulette in Las Vegas: Watching a man placing \$5 bets on red or on black, Feynman told him betting against the casino was a losing proposition and that he, Feynman, would be happy to play the part of the casino. The two of them wandered from wheel to wheel with the gambler betting against Feynman by calling out “red” or black” before the spin, paying Feynman when he lost and getting paid in turn when he won. As it happened, even with a disadvantage, the gambler was lucky enough to get ahead by \$80, at which point Feynman quit. Though he was acting as the casino and would eventually come out ahead, he wasn’t willing to risk further losses. Feynman was like a casino that only had an \$80 bankroll, one likely to be wiped out by a customer’s lucky run. Assuming the truth of the story, even one of the world’s greatest physicists may not have realized that he needed a much larger bankroll to cover the risk he was taking. Understanding and dealing correctly with the trade-off between risk and return is a fundamental, but poorly understood, challenge faced by all gamblers and investors.
 
 If anyone knew whether physical prediction at roulette was possible, it should be Richard Feynman. I asked him, “Is there any way to beat the game of roulette?” When he said there wasn’t, I was relieved and encouraged. This suggested that no one had yet worked out what I believed was possible. With this incentive, I began a series of experiments.
 
@@ -777,13 +627,7 @@ The Mathematics Department kept me on as an instructor for a year while I applie
 
 
 
-
-
-# Chapter 4
-
-------
-
-# LAS VEGAS
+## Chapter 4: LAS VEGAS
 
 Vivian and I decided to spend some of our Christmas holidays in Las Vegas because Las Vegas, to attract gamblers, had turned itself into a bargain vacation spot. As a twenty-six-year-old with a PhD in mathematics, I was earning too little at UCLA to treat money casually. I also believed then, as I do now after more than fifty years as a money manager, that the surest way to get rich is to play only those gambling games or make those investments where I have an edge. Since I knew of no one who had ever found a way to beat the casinos, gambling in Vegas wasn’t on my list of priorities.
 
@@ -811,9 +655,9 @@ When I sat down, the players at my table had been losing heavily and continued t
 
 Playing with unhurried deliberation, I managed to keep my stack of chips even. Then a strange thing happened. I was dealt an Ace and a 2, and since Aces can be counted as either 1 or 11, my total was either 3 or 13. Next, I drew a 2, and then a 3. I now had Ace, 2, 2, 3, for a total of 8 or 18. The dealer had a 9 up, and might or might not have had a Ten hidden for a total of 19, but 18 was a pretty good hand. Surely only a fool would draw again and risk the destruction of such a good hand. The strategy said to ask for another card. I did. It was with no little satisfaction and several *tsk-tsk*s that the amused onlookers saw me get a 6. Now I had to value the Ace in my hand as a 1, for a total of 14! “Serves him right,” said a bystander. For my sixth card, I drew an Ace, which brought my total to 15. “You deserved to bust,” muttered a kibitzer. Now I drew my seventh card. It was a 6! I now held Ace, 2, 2, 3, 6, Ace, 6 for a seven-card total of 21. This is a rare event.
 
-After a moment of shock, several people in the crowd said I had a $25 bonus coming. The dealer said no—it was paid at only a few places and those were in Reno. Unaware that any casino even had such a rule, I thought it might be amusing to create the impression that I had indeed sacrificed my 18 because I foresaw the seven-card 21. And who knows. They might even pay me. Of course they did not. But the amusement and patronizing attitude of some bystanders changed to attentiveness, respect, and even awe.
+After a moment of shock, several people in the crowd said I had a \$25 bonus coming. The dealer said no—it was paid at only a few places and those were in Reno. Unaware that any casino even had such a rule, I thought it might be amusing to create the impression that I had indeed sacrificed my 18 because I foresaw the seven-card 21. And who knows. They might even pay me. Of course they did not. But the amusement and patronizing attitude of some bystanders changed to attentiveness, respect, and even awe.
 
-Fifteen minutes later, I had lost $8.50 of my $10 stake and quit. But now, to Vivian’s dismay, I was hooked on blackjack—though not in the usual sense. The atmosphere of ignorance and superstition surrounding the blackjack table that day had convinced me that even good players didn’t understand the mathematics underlying the game. I returned home intending to find a way to win.
+Fifteen minutes later, I had lost \$8.50 of my \$10 stake and quit. But now, to Vivian’s dismay, I was hooked on blackjack—though not in the usual sense. The atmosphere of ignorance and superstition surrounding the blackjack table that day had convinced me that even good players didn’t understand the mathematics underlying the game. I returned home intending to find a way to win.
 
 Had I been more knowledgeable about the history of gambling and the centuries of effort devoted to the mathematical analysis of games, I might not have tackled blackjack. To anyone who observes the glittering Las Vegas Strip and the gambling boom that has brought lotteries and casinos to most US states, clearly a lot of people are losing a lot of money—tens of billions annually. Furthermore, for most casino gambling games, mathematicians had proved no system of varying bets could blunt the casino’s edge. Generations of gamblers had been seeking the impossible. Players are confused about the inevitability of losing in the long term because they each play for a comparatively short time, which allows some of them to be lucky winners.
 
@@ -825,13 +669,7 @@ The belief that casinos must come out ahead in the long run was supported by con
 
 
 
-
-
-# Chapter 5
-
-------
-
-# CONQUERING BLACKJACK
+## Chapter 5: CONQUERING BLACKJACK
 
 It wasn’t the money that drew me to blackjack. Though we could certainly use extra dollars, Vivian and I expected to lead the usual low-budget academic life. What intrigued me was the possibility that merely by sitting in a room and thinking, I could figure out how to win. I was also curious to explore the world of gambling, about which I knew nothing.
 
@@ -867,7 +705,7 @@ I began this work during the spring semester of 1959. I was teaching then at UCL
 
 
 
-We moved to MIT in June 1959. To get there, I purchased a used black Pontiac sedan for $800 at a police auction and drove it across the country towing a two-wheeled U-Haul trailer loaded with our household goods. We were expecting our first child in two months, so Vivian stayed with her parents in Los Angeles while I went to Cambridge, Massachusetts, to set up our apartment and do mathematics research on a summer grant. As I was obliged under the terms of the grant to work at MIT until mid-August and the baby was due a few days later, I was very nervous about whether I would get back in time. Vivian and I spoke almost daily that summer over the phone. Fortunately, the results of her checkups were always excellent.
+We moved to MIT in June 1959. To get there, I purchased a used black Pontiac sedan for \$800 at a police auction and drove it across the country towing a two-wheeled U-Haul trailer loaded with our household goods. We were expecting our first child in two months, so Vivian stayed with her parents in Los Angeles while I went to Cambridge, Massachusetts, to set up our apartment and do mathematics research on a summer grant. As I was obliged under the terms of the grant to work at MIT until mid-August and the baby was due a few days later, I was very nervous about whether I would get back in time. Vivian and I spoke almost daily that summer over the phone. Fortunately, the results of her checkups were always excellent.
 
 Two Japanese mathematicians who were visiting at UCLA needed a ride to New York. I was happy to take them, in return for their sharing the driving. But on a deserted highway somewhere in Ohio, I was startled from a sound sleep about 1 A.M. as the brakes squealed and the car shuddered. We stopped just feet from a large brown-and-white cow meandering placidly across the road. Since the only set of brakes we had were on the car, and the loaded trailer doubled our mass, it also doubled our stopping distance. I had explained this carefully before we left, but apparently without success. Fighting fatigue, I drove the rest of the way.
 
@@ -879,7 +717,7 @@ By day I did academic research in mathematics, but after dinner I’d walk throu
 
 
 
-One morning about three o’clock, I came out to find my car was missing from the spot where I regularly parked it. When I went back inside to call the police, a friendly night owl graduate student told me that the officers of the law might themselves be the problem. I phoned the police station and learned my car had been towed. When I pointed out that it had been legally parked, the officer on duty explained that since it was seen in the same spot every night, they assumed it was abandoned. I hurried downtown to night court where the judge to whom I appealed screamed and threatened to fine me $100 on the spot if I said another word. The friendly student, who had driven me there, explained that the police had an arrangement with the tow yard and that the impound charges for my car were going to go up quickly if I pressed my case. The next morning I ransomed my car at the tow yard for about $100. This was a week’s pay. Welcome to Boston. Fortunately my new hometown was also a beautiful one, rich in science, education, culture, and the arts.
+One morning about three o’clock, I came out to find my car was missing from the spot where I regularly parked it. When I went back inside to call the police, a friendly night owl graduate student told me that the officers of the law might themselves be the problem. I phoned the police station and learned my car had been towed. When I pointed out that it had been legally parked, the officer on duty explained that since it was seen in the same spot every night, they assumed it was abandoned. I hurried downtown to night court where the judge to whom I appealed screamed and threatened to fine me \$100 on the spot if I said another word. The friendly student, who had driven me there, explained that the police had an arrangement with the tow yard and that the impound charges for my car were going to go up quickly if I pressed my case. The next morning I ransomed my car at the tow yard for about \$100. This was a week’s pay. Welcome to Boston. Fortunately my new hometown was also a beautiful one, rich in science, education, culture, and the arts.
 
 The weeks wore on and the calculations piled up. However, even though I had introduced shortcuts and efficiencies and was very fast, I was making little progress. My hand calculations were going to take hundreds, perhaps thousands of years. At that point I learned that MIT had an IBM 704 computer and, being a faculty member, I could use it. Using a book from the computer center, I taught myself to program the machine in its language, FORTRAN.
 
@@ -889,7 +727,7 @@ In August 1959 I flew to Los Angeles four days before the birth of our first chi
 
 I was back at MIT a month later with Vivian and our new baby, beginning my teaching and research duties. MIT then, as now, had one of the best mathematics departments in the world, and much was expected of its young faculty members. I taught two classes each semester, which meant six hours per week in the classroom, preparation that could run another twelve to fifteen hours a week, additional hours in my office to meet with and help students, plus the giving and grading of homework and exams. We were also expected to conduct and publish our own original research in scholarly journals. When this was submitted, it was reviewed by anonymous experts, known as referees, as a precondition of acceptance. Rejections were common. Those of us who wanted to succeed in the academic hierarchy all knew the mantra “Publish or perish.” Despite all this, I also continued to work on my “arbitrary subsets” blackjack program for the IBM 704 computer, testing and correcting the computer code for one module (or “subroutine”) at a time.
 
-The 704 was one of the early mainframe electronic computers, one of a series of increasingly powerful models developed by IBM. In those days, users entered instructions via punched cards roughly the size of a $1 bill. A card had eighty columns with ten oblong vertical marks in each column. I put cards, one at a time, in a keypunch and typed as I would on a typewriter; each time I hit a key the machine punched holes in a vertical line and shifted to the next column. The pattern of holes represented the letter, number, or symbol on that key.
+The 704 was one of the early mainframe electronic computers, one of a series of increasingly powerful models developed by IBM. In those days, users entered instructions via punched cards roughly the size of a \$1 bill. A card had eighty columns with ten oblong vertical marks in each column. I put cards, one at a time, in a keypunch and typed as I would on a typewriter; each time I hit a key the machine punched holes in a vertical line and shifted to the next column. The pattern of holes represented the letter, number, or symbol on that key.
 
 I left batches of punched cards bound with a rubber band in the in-bin at the computer center, where they were collected and read as instructions to be carried out by the IBM 704. It took several days for me to get the results, because MIT shared the computer with thirty New England universities (such as Amherst, Boston College, and Brandeis).
 
@@ -917,13 +755,13 @@ Keeping track of the 5s leads to a very simple winning system. Suppose the playe
 
 For actual casino play, I built a much more powerful winning strategy based on the fluctuation in the percentage of Ten-value cards in the deck, even though my calculations showed that the impact of a Ten was less than that of a 5, since there were four times as many Tens. The larger fluctuations in “Ten-richness” that resulted gave the player more and better opportunities.
 
-During our family drive from Boston to California in the summer of 1960, I persuaded a reluctant Vivian to stop briefly in Las Vegas so I could test the Tens strategy. We sat down to play blackjack in one of the casinos downtown on Fremont Street. I had a $200 bankroll (worth about $1600 in 2016) and a palm-sized card with my new strategy. I hoped not to use the card and so avoid drawing attention to myself. This card was unlike anything before it. Not only did it tell me how to play every hand versus each dealer upcard, but it also showed how much to bet and how the playing decisions changed as the percentage of Tens varied. Specifically, the complete deck had 36 non-Tens and 16 Tens, so I started counting “36, 16,” which gives a ratio of non-Tens to Tens of 36 ÷ 16 = 2.25.
+During our family drive from Boston to California in the summer of 1960, I persuaded a reluctant Vivian to stop briefly in Las Vegas so I could test the Tens strategy. We sat down to play blackjack in one of the casinos downtown on Fremont Street. I had a \$200 bankroll (worth about \$1600 in 2016) and a palm-sized card with my new strategy. I hoped not to use the card and so avoid drawing attention to myself. This card was unlike anything before it. Not only did it tell me how to play every hand versus each dealer upcard, but it also showed how much to bet and how the playing decisions changed as the percentage of Tens varied. Specifically, the complete deck had 36 non-Tens and 16 Tens, so I started counting “36, 16,” which gives a ratio of non-Tens to Tens of 36 ÷ 16 = 2.25.
 
-Vivian and I sat down together, with her betting 25 cents a hand to keep me company. As play progressed and I kept track of the non-Tens and Tens that were used, I reduced the totals for those remaining. Whenever I had to place a bet or make a decision on how to play my hand, I used the current totals to recalculate the ratio. A ratio below 2.25 meant the deck was Ten-rich, and when a ratio hit 2.0 the player had an edge of about 1 percent. For ratios of 2.0 or less, which meant advantages of 1 percent or more, I bet between $2 and $10 depending on the size of my edge. Otherwise I bet $1.
+Vivian and I sat down together, with her betting 25 cents a hand to keep me company. As play progressed and I kept track of the non-Tens and Tens that were used, I reduced the totals for those remaining. Whenever I had to place a bet or make a decision on how to play my hand, I used the current totals to recalculate the ratio. A ratio below 2.25 meant the deck was Ten-rich, and when a ratio hit 2.0 the player had an edge of about 1 percent. For ratios of 2.0 or less, which meant advantages of 1 percent or more, I bet between \$2 and \$10 depending on the size of my edge. Otherwise I bet \$1.
 
 
 
-Vivian watched nervously as I gradually lost $32. At this point my dealer said hostilely, “You’d better take out some more money, because you’re going to need it.” Smelling a rat, Vivian said, “Let’s get out of here.” Even though I lost, I was satisfied because I had shown that I could play the Ten-Count System at casino speed without looking at the strategy card. The $32 loss was well within the range of possible outcomes predicted by my theory, so it didn’t lead me to doubt my results. With nothing more for me to learn that day, I left, poorer once again but, I hoped, wiser.
+Vivian watched nervously as I gradually lost \$32. At this point my dealer said hostilely, “You’d better take out some more money, because you’re going to need it.” Smelling a rat, Vivian said, “Let’s get out of here.” Even though I lost, I was satisfied because I had shown that I could play the Ten-Count System at casino speed without looking at the strategy card. The \$32 loss was well within the range of possible outcomes predicted by my theory, so it didn’t lead me to doubt my results. With nothing more for me to learn that day, I left, poorer once again but, I hoped, wiser.
 
 Mathematical friends at MIT were astounded that fall when I told them of my discovery. Some thought I should publish quickly to establish priority before someone else either rediscovered my idea or stole it and passed it off as their own. I needed little prompting, since I had already been burned once. While I was at UCLA, my PhD thesis adviser, Angus Taylor, suggested that I send some of my mathematical work to a well-known California mathematician for his comments. I got no response. But eleven months later at a Southern California meeting of the American Mathematical Society, Taylor and I heard the great man talk. The subject was my discovery, in detail, presented as part of his original work, and it was also about to appear under his name in print, in a well-known mathematical journal. Both of us were stunned. Taylor, who would later become academic vice president of the entire University of California system, was an ethical and experienced mathematician to whom I looked for guidance, but he didn’t know what to do. So neither of us did anything.
 
@@ -957,19 +795,13 @@ Two evenings before I left for the meeting, I was surprised by a call from Dick 
 
 
 
-
-
-# Chapter 6
-
-------
-
-# THE DAY OF THE LAMB
+## Chapter 6: THE DAY OF THE LAMB
 
 I flew into Washington, DC, with its leaden wintry skies and the first snow flurries of what would become a gigantic storm. The city was still packed with people after the recent inauguration of the new president of the United States, John F. Kennedy.
 
 The meeting of the American Mathematical Society was held in the old Willard Hotel. Instead of the anticipated scholarly audience of forty or fifty, I found an animated standing-room-only crowd of hundreds. Scattered among the mathematicians were others who were sporting sunglasses, gaudy oversized pinkie rings and cigars, as well as reporters with cameras and notepads. In the manner of mathematics meetings, I had prepared a matter-of-fact talk, which I began with an explanation of how to win by counting 5s. I went on to mention that counting Tens was much better, and then hinted at the cornucopia of additional counting systems revealed by my methodology. My terse technical presentation didn’t deter my audience. I finished and placed a woefully inadequate fifty copies of my speech on the table in front of me. The group surged toward them like carnivores competing for fresh meat.
 
-Responding to requests, the officials in charge of the meeting arranged a press conference for me following my talk, after which I was televised by a major network and interviewed on several radio programs. The scientists and technical types generally understood and believed the winning strategy I described, but the casinos and some of the press did not. In a cynical editorial, *The Washington Post* said there was a mathematician in town claiming to have a winning gambling system, which reminded them of this ad: Send $1 for a surefire weed killer. Back comes a note saying “Grab by the roots and pull like hell.” One casino spokesman mockingly claimed they sent cabs to the airport to meet players with systems. (I’ve waited over fifty years now for those cabs.) Another told of how I had sent a detailed questionnaire asking about the precise blackjack rules used in his gaming house. He stated that I was so ignorant, I didn’t even know the rules of the game. When starting my calculations a couple of years earlier, I had, in fact, sent just such an inquiry to twenty-six Nevada casinos. My object was to learn how the rules varied from one establishment to another, in particular to see if some places had rules even more favorable than usual. Thirteen of the twenty-six casinos were kind enough to reply to an ignorant academic.
+Responding to requests, the officials in charge of the meeting arranged a press conference for me following my talk, after which I was televised by a major network and interviewed on several radio programs. The scientists and technical types generally understood and believed the winning strategy I described, but the casinos and some of the press did not. In a cynical editorial, *The Washington Post* said there was a mathematician in town claiming to have a winning gambling system, which reminded them of this ad: Send \$1 for a surefire weed killer. Back comes a note saying “Grab by the roots and pull like hell.” One casino spokesman mockingly claimed they sent cabs to the airport to meet players with systems. (I’ve waited over fifty years now for those cabs.) Another told of how I had sent a detailed questionnaire asking about the precise blackjack rules used in his gaming house. He stated that I was so ignorant, I didn’t even know the rules of the game. When starting my calculations a couple of years earlier, I had, in fact, sent just such an inquiry to twenty-six Nevada casinos. My object was to learn how the rules varied from one establishment to another, in particular to see if some places had rules even more favorable than usual. Thirteen of the twenty-six casinos were kind enough to reply to an ignorant academic.
 
 
 
@@ -991,7 +823,7 @@ Before I gave my talk at the meeting, I hadn’t envisaged the clamor and the so
 
 
 
-Offers to back a casino test of my system ranged from a few thousand dollars to $100,000. The decision was being thrust upon me as to whether or not to prove my academic theory would really work at the tables. I finally decided to go to Nevada, partly to silence that irritating jeer often leveled at academics, “Well, if you’re so smart, why aren’t you rich?” As a matter of personal pride and honor I felt that I owed my readers proof that the theory really worked, despite scoffs from casinos that my claims were ridiculous. The clincher was the casino spokesman on television who, speaking of my system said, “When a lamb goes to the slaughter, the lamb might kill the butcher. But we always bet on the butcher.”
+Offers to back a casino test of my system ranged from a few thousand dollars to \$100,000. The decision was being thrust upon me as to whether or not to prove my academic theory would really work at the tables. I finally decided to go to Nevada, partly to silence that irritating jeer often leveled at academics, “Well, if you’re so smart, why aren’t you rich?” As a matter of personal pride and honor I felt that I owed my readers proof that the theory really worked, despite scoffs from casinos that my claims were ridiculous. The clincher was the casino spokesman on television who, speaking of my system said, “When a lamb goes to the slaughter, the lamb might kill the butcher. But we always bet on the butcher.”
 
 The most promising offer came from two New York multimillionaires whom I called Mr. X and Mr. Y when I wrote about them later. After repeated phone calls from Mr. X and much hesitation on my part about the dangers of risking a bankroll provided by strangers in a place about which I knew little, I finally agreed to a meeting.
 
@@ -1007,37 +839,37 @@ Vivian was both apprehensive and supportive about the casino test. On the one ha
 
 In my view, after the whole country had heard my claims, backing down would appear to validate the retorts that I was full of baloney. I was certain that I was right. There was no way I would let my family, friends, and colleagues think otherwise. Even though the Goliath I was challenging had always won, I knew something no one else did: He was nearsighted, clumsy, slow, and stupid, and we were going to fight on my terms, not his. The clincher was that Vivian, despite her reservations and her preference that I play it safe, thought I could do it.
 
-In preparation for our foray, I flew from Boston to New York every Wednesday, a day I had no classes to teach. I’d arrive in Manny’s Manhattan penthouse; he dealt while I played the Ten-Count. Although I had several card counting methods to offer, Kimmel fixated on the Ten-Count and would hear of nothing else. Meanwhile, that suited me because I had already worked out the strategy tables for the Ten-Count but hadn’t done so yet for the others. The Ten-Count raises bets when the remaining deck is rich in Aces and Tens. After a couple of hours Manny’s butler served lunch as we continued playing. At the end of each session Kimmel would give me $100 or $150 to cover expenses and, curiously, a salami. These salamis added an unmistakable aroma to the cabin during my return flight.
+In preparation for our foray, I flew from Boston to New York every Wednesday, a day I had no classes to teach. I’d arrive in Manny’s Manhattan penthouse; he dealt while I played the Ten-Count. Although I had several card counting methods to offer, Kimmel fixated on the Ten-Count and would hear of nothing else. Meanwhile, that suited me because I had already worked out the strategy tables for the Ten-Count but hadn’t done so yet for the others. The Ten-Count raises bets when the remaining deck is rich in Aces and Tens. After a couple of hours Manny’s butler served lunch as we continued playing. At the end of each session Kimmel would give me \$100 or \$150 to cover expenses and, curiously, a salami. These salamis added an unmistakable aroma to the cabin during my return flight.
 
 
 
 Kimmel’s friend and co-backer for our venture, Mr. Y, came to some of the sessions. One of the nieces sometimes watched as well. Mr. Y was Eddie Hand, a wealthy businessman from upstate New York. He was fortyish, dark-haired, and of medium stature; he spoke with a curious mix of gruff complaint and humor. As the weeks passed, the chips piled up on my side of the table and Manny became more and more enthusiastic. After half a dozen sessions, we were ready for our Nevada adventure.
 
-There were two main approaches we could adopt when we sat down to play in the casinos. One, which I call wild, involved betting the table limit whenever the advantage to the player exceeded some small figure, say 1 percent. This typically wins the most money, but fluctuations in wealth may be violent, and a large bankroll is required to ride out big losses. Kimmel and Hand said that they would put up $100,000, and more if necessary. (This was worth $800,000 in 2016 dollars, as the inflation conversion table in appendix A indicates.)
+There were two main approaches we could adopt when we sat down to play in the casinos. One, which I call wild, involved betting the table limit whenever the advantage to the player exceeded some small figure, say 1 percent. This typically wins the most money, but fluctuations in wealth may be violent, and a large bankroll is required to ride out big losses. Kimmel and Hand said that they would put up \$100,000, and more if necessary. (This was worth \$800,000 in 2016 dollars, as the inflation conversion table in appendix A indicates.)
 
-I was not in favor of this strategy, since there was too much that I did not know about the gambling world. Could they cheat or swindle me somehow? And how would I react if I were to get behind $50,000, each minute having to continue betting more than my monthly salary? Would Kimmel and Hand stay the course if we lost this much? If they were to quit at that point, it would mean we really had only a $50,000 bankroll but didn’t know it beforehand and so should have been betting more conservatively from the start. Besides, my goal was more to test my system than to make big money for my backers. To better achieve this, I went for a nearly certain moderate win rather than taking on more risk of loss to try for a big payout. I planned to play conservatively, betting twice my lowest bet when the advantage for me became 1 percent, four times as much with a 2 percent edge, and finally leveling off at ten times my small bets when the game was 5 percent or more in my favor. Varying bets from $50 to $500, the highest casino maximum then generally available, I felt $10,000 should be an adequate stake.
+I was not in favor of this strategy, since there was too much that I did not know about the gambling world. Could they cheat or swindle me somehow? And how would I react if I were to get behind \$50,000, each minute having to continue betting more than my monthly salary? Would Kimmel and Hand stay the course if we lost this much? If they were to quit at that point, it would mean we really had only a \$50,000 bankroll but didn’t know it beforehand and so should have been betting more conservatively from the start. Besides, my goal was more to test my system than to make big money for my backers. To better achieve this, I went for a nearly certain moderate win rather than taking on more risk of loss to try for a big payout. I planned to play conservatively, betting twice my lowest bet when the advantage for me became 1 percent, four times as much with a 2 percent edge, and finally leveling off at ten times my small bets when the game was 5 percent or more in my favor. Varying bets from \$50 to \$500, the highest casino maximum then generally available, I felt \$10,000 should be an adequate stake.
 
 
 
-Manny reluctantly agreed. During the MIT spring break we met at the airport in New York on a cold April afternoon. We chatted for an hour, then boarded our plane. At midnight, as we approached Reno, a garish patch of light appeared ahead in the otherwise Stygian blackness. As we circled to land I got my first view of a city that looked like a bloody reddish neon spider spread over the landscape. I wondered apprehensively about what would happen to me over the next week. Vivian was more alarmed than I was about my flight into the unknown and wanted me to call every day. It relieved me to know I was connected to her and, through her, to my familiar world. In those days long-distance calls were expensive. To save money I called collect if everything was okay, asking for “Edward __. Thorp,” the middle initial being a code we had devised to tell how many thousands of dollars we were ahead or, if the initial came before “Edward,” how many behind. The idea was simple: The initial *A* meant less than $1,000, *B* meant between $1,000 and $2,000, *C* between $2,000 and $3,000, and so on up to *Z,* which covered $25,000 to $26,000. After hearing the name of the person being called, Vivian would politely tell the operator that Mr. Thorp “wasn’t here at the moment.”
+Manny reluctantly agreed. During the MIT spring break we met at the airport in New York on a cold April afternoon. We chatted for an hour, then boarded our plane. At midnight, as we approached Reno, a garish patch of light appeared ahead in the otherwise Stygian blackness. As we circled to land I got my first view of a city that looked like a bloody reddish neon spider spread over the landscape. I wondered apprehensively about what would happen to me over the next week. Vivian was more alarmed than I was about my flight into the unknown and wanted me to call every day. It relieved me to know I was connected to her and, through her, to my familiar world. In those days long-distance calls were expensive. To save money I called collect if everything was okay, asking for “Edward __. Thorp,” the middle initial being a code we had devised to tell how many thousands of dollars we were ahead or, if the initial came before “Edward,” how many behind. The idea was simple: The initial *A* meant less than \$1,000, *B* meant between \$1,000 and \$2,000, *C* between \$2,000 and \$3,000, and so on up to *Z,* which covered \$25,000 to \$26,000. After hearing the name of the person being called, Vivian would politely tell the operator that Mr. Thorp “wasn’t here at the moment.”
 
-After a few hours of sleep, we met for breakfast in the hotel. Sandy-eyed and tired, I fortified myself with eggs Benedict and orange juice accompanied by lots of black coffee, and the three of us headed for the tables. At our first casino, situated outside of town, I started small, betting from $1 to $10, planning to increase my bet size as I became more comfortable with the level of risk. Eventually I would bet $50 to $500. Before the trip I insisted on only a $10,000 bankroll, but I knew that Manny favored bets ten times as big—$500 bets whenever we had a 1 percent edge—backed by a $100,000 bankroll. I insisted on warming up by betting $1 to $10. I had explained carefully to Manny that I needed to work up to big bets at my own pace, but he couldn’t stand watching and waiting while I did it. Growing ever more agitated, Manny’s pale complexion eventually flushed bright red, a startling contrast with his full head of white hair. I learned later that he typically won or lost tens of thousands of dollars at casinos in the United States and in Cuba before the communist takeover.
+After a few hours of sleep, we met for breakfast in the hotel. Sandy-eyed and tired, I fortified myself with eggs Benedict and orange juice accompanied by lots of black coffee, and the three of us headed for the tables. At our first casino, situated outside of town, I started small, betting from \$1 to \$10, planning to increase my bet size as I became more comfortable with the level of risk. Eventually I would bet \$50 to \$500. Before the trip I insisted on only a \$10,000 bankroll, but I knew that Manny favored bets ten times as big—\$500 bets whenever we had a 1 percent edge—backed by a \$100,000 bankroll. I insisted on warming up by betting \$1 to \$10. I had explained carefully to Manny that I needed to work up to big bets at my own pace, but he couldn’t stand watching and waiting while I did it. Growing ever more agitated, Manny’s pale complexion eventually flushed bright red, a startling contrast with his full head of white hair. I learned later that he typically won or lost tens of thousands of dollars at casinos in the United States and in Cuba before the communist takeover.
 
 
 
 I won a few dollars in an hour or so of play, but then the establishment closed for three hours because of Good Friday. Returning to downtown Reno, we chose a casino with very favorable rules. They dealt to the last card and allowed players to double down on any hand, and split any pair. If the dealer’s first card, always dealt faceup, was an Ace, some casinos, including this one, allowed the player to “take insurance” against the dealer’s second card being a 10 or a face card (giving him a “natural,” namely, a two-card total of 21) by making an additional bet equal to one-half of his original stake. If the dealer has a natural, the insurance bet pays 2:1.
 
-After a lavish dinner and a rest, I continued playing for fifteen or twenty minutes at a time and then resting for a few minutes. When I sat down again, as usual I chose the table with the fewest players. Playing slowly, I paused for thought and stared at all the cards played. Management thought I was using one of the many fallacious betting systems. These featured patterns of betting that were supposed to somehow overcome the house edge. There are infinitely many of them. None work. Such players, common in the casinos, are welcomed as long as they are losing. Whatever I was doing, playing at the betting level of from $1 to $10, I gradually fell further behind until I was $100 in the hole. All this had taken eight hours, during which time Manny became in turns frantic, disgusted, excited, and finally close to giving up on me as his secret weapon.
+After a lavish dinner and a rest, I continued playing for fifteen or twenty minutes at a time and then resting for a few minutes. When I sat down again, as usual I chose the table with the fewest players. Playing slowly, I paused for thought and stared at all the cards played. Management thought I was using one of the many fallacious betting systems. These featured patterns of betting that were supposed to somehow overcome the house edge. There are infinitely many of them. None work. Such players, common in the casinos, are welcomed as long as they are losing. Whatever I was doing, playing at the betting level of from \$1 to \$10, I gradually fell further behind until I was \$100 in the hole. All this had taken eight hours, during which time Manny became in turns frantic, disgusted, excited, and finally close to giving up on me as his secret weapon.
 
-It was now 3 A.M. and during the last couple of hours most of the players in the room had left. I was able to get a table completely to myself. My new dealer was unfriendly, and I was tired and irritable. After a sharp exchange of words, she dealt as rapidly as she could. Annoyed and feeling that I was experienced enough to raise my bets, I moved up to the $2 to $20 range. Coincidentally, the deck turned favorable, and I won the next several hands. I recouped my losses and finished a bit ahead. I was exhausted so I stopped and went off to bed. It was 5 A.M. but it could have been any time. Casinos don’t have clocks and generally lack windows so the gamblers don’t notice day changing to night and back to day. Perhaps the best clue as to where you are in the dismal diurnal cycle of this detached surreal world is the people as they ebb and flow like the tides.
+It was now 3 A.M. and during the last couple of hours most of the players in the room had left. I was able to get a table completely to myself. My new dealer was unfriendly, and I was tired and irritable. After a sharp exchange of words, she dealt as rapidly as she could. Annoyed and feeling that I was experienced enough to raise my bets, I moved up to the \$2 to \$20 range. Coincidentally, the deck turned favorable, and I won the next several hands. I recouped my losses and finished a bit ahead. I was exhausted so I stopped and went off to bed. It was 5 A.M. but it could have been any time. Casinos don’t have clocks and generally lack windows so the gamblers don’t notice day changing to night and back to day. Perhaps the best clue as to where you are in the dismal diurnal cycle of this detached surreal world is the people as they ebb and flow like the tides.
 
 
 
 Still tired, I awoke about noon and called Vivian collect. Using our code I asked for Edward A. Thorp, meaning “Everything is okay and we are ahead but by no more than a thousand dollars.” I was buoyed by the tone of relief in my wife’s voice as she told the operator that Mr. Thorp was not available.
 
-After breakfast Manny and I again visited the casino outside of town. Within minutes, now playing $10 to $100, I won two or three hundred dollars. Then with me counting for both of us, my excitable backer decided he wanted to play as well. After two hours, we had accumulated $650 and the house began to “shuffle up”—that is, they would reshuffle the entire pack after dealing only a few rounds. Since favorable situations come more often toward the end of the deck, early reshuffling sharply reduces the rate of profit. We decided to go elsewhere.
+After breakfast Manny and I again visited the casino outside of town. Within minutes, now playing \$10 to \$100, I won two or three hundred dollars. Then with me counting for both of us, my excitable backer decided he wanted to play as well. After two hours, we had accumulated \$650 and the house began to “shuffle up”—that is, they would reshuffle the entire pack after dealing only a few rounds. Since favorable situations come more often toward the end of the deck, early reshuffling sharply reduces the rate of profit. We decided to go elsewhere.
 
-My play was becoming fast and smooth, equal to any dealers’ speed. I was also growing more comfortable with raising the stakes. Moving up to $25 to $250 at the next gaming establishment we visited, after an hour I raised the bets to the $50-to-$500 range. I had calculated this to be the highest we could bet safely with our $10,000 bankroll. This plan, of betting only at a level at which I was emotionally comfortable and not advancing until I was ready, enabled me to play my system with a calm and disciplined accuracy. This lesson from the blackjack tables would prove invaluable throughout my investment lifetime as the stakes grew ever larger.
+My play was becoming fast and smooth, equal to any dealers’ speed. I was also growing more comfortable with raising the stakes. Moving up to \$25 to \$250 at the next gaming establishment we visited, after an hour I raised the bets to the \$50-to-\$500 range. I had calculated this to be the highest we could bet safely with our \$10,000 bankroll. This plan, of betting only at a level at which I was emotionally comfortable and not advancing until I was ready, enabled me to play my system with a calm and disciplined accuracy. This lesson from the blackjack tables would prove invaluable throughout my investment lifetime as the stakes grew ever larger.
 
 Eddie Hand arrived Saturday evening, in time for the three of us to visit the famous Harold’s Club in downtown Reno.
 
@@ -1045,17 +877,17 @@ Starting with a floundering bingo parlor in the 1930s, owner Harold Smith, Sr., 
 
 
 
-Manny, Eddie, and I walked into the ground floor of Harold’s Club, which was light and spacious compared with the typical gaming establishment. Passing rows of slot machines, I sat down to warm up at $25 to $250, as Manny and Eddie watched closely. My backers then asked if we could get our own $500-limit game to be free of the nuisance of players dropping in to make small bets. At this point the pit boss invited us to the private area upstairs for higher-stakes players. There I had my own dealer and one of the three tables entirely to myself. I couldn’t have asked for better playing conditions. But after about fifteen minutes, when I was ahead a mere $500, owner Harold Smith, Sr., with his son Harold Smith, Jr., in tow, slipped in from a side door and came up behind our dealer. Looking back, I believe that they knew who Manny and Eddie were and, in light of their high-rolling history, were concerned that they had some scheme that could prove costly to the casino. Pleasantries and politenesses were exchanged, but they made their point: The deck would be shuffled as often as necessary to prevent me from doing whatever it was that I might be doing.
+Manny, Eddie, and I walked into the ground floor of Harold’s Club, which was light and spacious compared with the typical gaming establishment. Passing rows of slot machines, I sat down to warm up at \$25 to \$250, as Manny and Eddie watched closely. My backers then asked if we could get our own \$500-limit game to be free of the nuisance of players dropping in to make small bets. At this point the pit boss invited us to the private area upstairs for higher-stakes players. There I had my own dealer and one of the three tables entirely to myself. I couldn’t have asked for better playing conditions. But after about fifteen minutes, when I was ahead a mere \$500, owner Harold Smith, Sr., with his son Harold Smith, Jr., in tow, slipped in from a side door and came up behind our dealer. Looking back, I believe that they knew who Manny and Eddie were and, in light of their high-rolling history, were concerned that they had some scheme that could prove costly to the casino. Pleasantries and politenesses were exchanged, but they made their point: The deck would be shuffled as often as necessary to prevent me from doing whatever it was that I might be doing.
 
-The owners instructed our dealer to shuffle with twelve to fifteen cards left in the deck. I still won. They shuffled halfway through the deck. Finally, the cards were shuffled after only two hands had been played. I squeezed out another $80 and we left.
+The owners instructed our dealer to shuffle with twelve to fifteen cards left in the deck. I still won. They shuffled halfway through the deck. Finally, the cards were shuffled after only two hands had been played. I squeezed out another \$80 and we left.
 
-At our next stop, the maximum was only $300, but the rules were excellent. Players could insure, split any pair, and double down on any set of cards. Even so, the cards ran badly, I lost steadily, and after four hours I was behind $1,700 and discouraged. Of course, I knew that just as the house can lose in the short run even though it has the advantage in a game, so a card counter can fall behind and this can last for hours or, sometimes, even days. Persisting, I waited for the deck to become favorable just one more time.
+At our next stop, the maximum was only \$300, but the rules were excellent. Players could insure, split any pair, and double down on any set of cards. Even so, the cards ran badly, I lost steadily, and after four hours I was behind \$1,700 and discouraged. Of course, I knew that just as the house can lose in the short run even though it has the advantage in a game, so a card counter can fall behind and this can last for hours or, sometimes, even days. Persisting, I waited for the deck to become favorable just one more time.
 
 
 
-It happened a few minutes later as the deck suddenly produced a 5 percent advantage. I made the maximum bet of $300, which took all my remaining chips. Thinking about whether to quit or buy more chips if I lost this one, I picked up my hand and found a pair of 8s. They must be split. Why? Because 16 is a terrible hand. Draw and you probably bust, or stand and the dealer probably beats you with 17 or more. But if you split, you start each of your two new hands with an 8—a so-so first card. I flung three $100 bills from my wallet onto the second 8. On one of the 8s the second card I received was a 3. Doubling down was the right move, so I dropped another $300 onto this hand and was dealt one more card. Nine hundred dollars, the largest bet I’d yet made, was now lying on the table.
+It happened a few minutes later as the deck suddenly produced a 5 percent advantage. I made the maximum bet of \$300, which took all my remaining chips. Thinking about whether to quit or buy more chips if I lost this one, I picked up my hand and found a pair of 8s. They must be split. Why? Because 16 is a terrible hand. Draw and you probably bust, or stand and the dealer probably beats you with 17 or more. But if you split, you start each of your two new hands with an 8—a so-so first card. I flung three \$100 bills from my wallet onto the second 8. On one of the 8s the second card I received was a 3. Doubling down was the right move, so I dropped another \$300 onto this hand and was dealt one more card. Nine hundred dollars, the largest bet I’d yet made, was now lying on the table.
 
-The dealer, showing a 6 up, had a Ten under and promptly busted, so I won both hands for a gain of $900, leaving me only $800 down. This deck continued to be favorable, calling for big bets, and the next deck quickly became good as well. In a few minutes I had wiped out my losses and went ahead $255. Then we quit for the evening.
+The dealer, showing a 6 up, had a Ten under and promptly busted, so I won both hands for a gain of \$900, leaving me only \$800 down. This deck continued to be favorable, calling for big bets, and the next deck quickly became good as well. In a few minutes I had wiped out my losses and went ahead \$255. Then we quit for the evening.
 
 For the second time, the Ten-Count System had shown moderately heavy losses mixed with “lucky” streaks of the most dazzling brilliance. I learned later that this was a characteristic of a random series of favorable bets. And I would see it again and again in real life in both the gambling and the investment worlds.
 
@@ -1069,35 +901,35 @@ The next afternoon, we drove to Stateline, Nevada, at the south end of Lake Taho
 
 Amid the glitter and congestion, we arrived about 6 P.M. at a large, brightly lit gambling factory. It was jammed. I was barely able to get a seat at the blackjack tables.
 
-I placed $2,000 worth of chips on the table, and Manny, unable anymore to bear simply watching, insisted on playing beside me, with me calling his plays and attempting to control the size of his bets. This was a bad idea because he didn’t know the strategy and, playing the cards the way he was used to doing, he lost the advantage. I was unable to correct him at the table without making what we were doing obvious. Meanwhile, besides playing my cards and trying to quietly instruct him, I was counting cards and determining how much we each should bet. Excitable and a bad listener under normal circumstances, he paid little attention to me, misplayed hands, and bet too much for our $10,000 bankroll. Soon I had won $1,300. Betting wildly, Manny won $2,000. Then a drooling pit boss invited us to dinner and the show. Passing on the show, we enjoyed filet mignon and champagne. Within hours, Destiny would present us with the bill. The charge? Eleven thousand dollars in lost profits.
+I placed \$2,000 worth of chips on the table, and Manny, unable anymore to bear simply watching, insisted on playing beside me, with me calling his plays and attempting to control the size of his bets. This was a bad idea because he didn’t know the strategy and, playing the cards the way he was used to doing, he lost the advantage. I was unable to correct him at the table without making what we were doing obvious. Meanwhile, besides playing my cards and trying to quietly instruct him, I was counting cards and determining how much we each should bet. Excitable and a bad listener under normal circumstances, he paid little attention to me, misplayed hands, and bet too much for our \$10,000 bankroll. Soon I had won \$1,300. Betting wildly, Manny won \$2,000. Then a drooling pit boss invited us to dinner and the show. Passing on the show, we enjoyed filet mignon and champagne. Within hours, Destiny would present us with the bill. The charge? Eleven thousand dollars in lost profits.
 
-After dinner we strolled over to the new glittering high-rise that housed one of the biggest casinos, Harvey’s Wagon Wheel. It had evolved from a one-room log cabin built in 1944 by Sacramento meat wholesaler Harvey Grossman and his wife, Llewellyn, on the Nevada side of the border with California. The name came from the wagon wheel they had nailed over the door. Now the site held the first tower on the south shore, featuring a casino within a 197-room, twelve-story hotel. I bought $2,000 in chips from the cashier’s cage and made my way to an empty table. Soon I was plagued by $1 bettors who came and went, slowing the game and concealing cards, which made it harder to count.
+After dinner we strolled over to the new glittering high-rise that housed one of the biggest casinos, Harvey’s Wagon Wheel. It had evolved from a one-room log cabin built in 1944 by Sacramento meat wholesaler Harvey Grossman and his wife, Llewellyn, on the Nevada side of the border with California. The name came from the wagon wheel they had nailed over the door. Now the site held the first tower on the south shore, featuring a casino within a 197-room, twelve-story hotel. I bought \$2,000 in chips from the cashier’s cage and made my way to an empty table. Soon I was plagued by \$1 bettors who came and went, slowing the game and concealing cards, which made it harder to count.
 
 
 
-Betting $50 to $500, I pointedly reduced my minimum bet to $1 whenever another player arrived. After a few minutes the pit boss got the message and asked if I would like a private table. I said it would transport me with ecstasy. He explained that the club didn’t like the psychological effect of a private table on the other customers, but with a trace of a smile he added that a $25-minimum game could be arranged and wondered if that would be satisfactory. Indeed it would, and when the sign was posted it cleared the table of all customers but me. A small crowd gathered. They were quiet, perhaps anticipating the imminent slaughter of their fiscally plump fellow lamb.
+Betting \$50 to \$500, I pointedly reduced my minimum bet to \$1 whenever another player arrived. After a few minutes the pit boss got the message and asked if I would like a private table. I said it would transport me with ecstasy. He explained that the club didn’t like the psychological effect of a private table on the other customers, but with a trace of a smile he added that a \$25-minimum game could be arranged and wondered if that would be satisfactory. Indeed it would, and when the sign was posted it cleared the table of all customers but me. A small crowd gathered. They were quiet, perhaps anticipating the imminent slaughter of their fiscally plump fellow lamb.
 
 After I had won a few hundred dollars, Manny once again jumped in. He had agreed not to do this after the last time. Again he wouldn’t listen; I tried to make the best of it. I kept the count and again directed the play of the hands for both of us. I tried to be subtle and he wasn’t paying close attention, but he did know to follow me in moving his bet size up and down. Since this is more important than exact play of the cards, he still had an edge. After thirty minutes we emptied the table’s money tray—the blackjack version of breaking the bank. No longer smiling, the pit boss was scared.
 
 The employees began to panic. Our dealer begged her higher-up boyfriend, who had been attracted by the commotion, “Oh, help me. Please, help me.” The pit boss was trying to explain away our win to a nervous knot of subordinates. While the money tray was being restocked, the crowd swelled. They began to cheer their David on against the casino Goliath.
 
-We played another two hours and broke the bank again. The great heaps of chips in front of us included more than $17,000 in profits. I won $6,000, and Manny, again overbetting wildly, had added $11,000 to his stake. I was tiring from the aftereffects of our huge dinner, the increased effort in managing Manny’s hand along with my own, and the fatigue from the previous few days. It was getting harder to count properly and my partner was also wilting. Insisting that we quit, I headed for the cashier. Stuffed with chips, my pockets bulged like saddlebags. My bounty did not go unnoticed. Along the way, I was startled to meet three or four lovely ladies wandering back and forth across my path smiling affectionately.
+We played another two hours and broke the bank again. The great heaps of chips in front of us included more than \$17,000 in profits. I won \$6,000, and Manny, again overbetting wildly, had added \$11,000 to his stake. I was tiring from the aftereffects of our huge dinner, the increased effort in managing Manny’s hand along with my own, and the fatigue from the previous few days. It was getting harder to count properly and my partner was also wilting. Insisting that we quit, I headed for the cashier. Stuffed with chips, my pockets bulged like saddlebags. My bounty did not go unnoticed. Along the way, I was startled to meet three or four lovely ladies wandering back and forth across my path smiling affectionately.
 
 
 
-I cashed out and wended my way back to the tables to watch horror-stricken as Manny, feeling lucky and refusing to stop, poured back thousands of dollars. For me blackjack was a game of math, not luck. Any luck, good or bad, would be random, unpredictable, and short-term. In the long run it would be unimportant. Manny didn’t see it that way. When I tried to dislodge him he cried excitedly, “I…will…not…leave…this…place!” In the forty-five minutes or so that it took to pry him loose, he lost back the entire $11,000 that he had won. Even so, when we returned to our hotel that evening with my winnings, we were ahead $13,000 so far on the trip. My daily calls to Vivian had shown her that we were winning more each day. Now came the best call of all: I asked dramatically for Edward M. Thorp (ahead between $12,000 and $13,000). In a relieved and buoyant voice she told the operator I wasn’t home.
+I cashed out and wended my way back to the tables to watch horror-stricken as Manny, feeling lucky and refusing to stop, poured back thousands of dollars. For me blackjack was a game of math, not luck. Any luck, good or bad, would be random, unpredictable, and short-term. In the long run it would be unimportant. Manny didn’t see it that way. When I tried to dislodge him he cried excitedly, “I…will…not…leave…this…place!” In the forty-five minutes or so that it took to pry him loose, he lost back the entire \$11,000 that he had won. Even so, when we returned to our hotel that evening with my winnings, we were ahead \$13,000 so far on the trip. My daily calls to Vivian had shown her that we were winning more each day. Now came the best call of all: I asked dramatically for Edward M. Thorp (ahead between \$12,000 and \$13,000). In a relieved and buoyant voice she told the operator I wasn’t home.
 
-On our last day we returned to the club where I had first practiced. I put $1,000 in chips on the table and began to win. Word had spread and within minutes the owner was on the scene. In a panic, he gave the dealer and the pit boss instructions. If I changed my bet size, the dealer was to shuffle the entire deck before the next deal. Whenever I varied the number of hands I took (I could now play from one to eight hands at a time, and faster than the best dealers could deal), the cards were shuffled. The dealer whom I had last played against in my little practice session was standing in the background saying over and over, in reverent tones, how much I had advanced in skill since the other night. When I happened to scratch my nose, the dealer shuffled! Incredulous, I asked her whether she would shuffle each time I did so. She said she would. I tested with a few more scratches. She meant what she said. I asked if any unusual act, no matter how minute, would cause her to shuffle. Again she said, “Yes.”
+On our last day we returned to the club where I had first practiced. I put \$1,000 in chips on the table and began to win. Word had spread and within minutes the owner was on the scene. In a panic, he gave the dealer and the pit boss instructions. If I changed my bet size, the dealer was to shuffle the entire deck before the next deal. Whenever I varied the number of hands I took (I could now play from one to eight hands at a time, and faster than the best dealers could deal), the cards were shuffled. The dealer whom I had last played against in my little practice session was standing in the background saying over and over, in reverent tones, how much I had advanced in skill since the other night. When I happened to scratch my nose, the dealer shuffled! Incredulous, I asked her whether she would shuffle each time I did so. She said she would. I tested with a few more scratches. She meant what she said. I asked if any unusual act, no matter how minute, would cause her to shuffle. Again she said, “Yes.”
 
-I was now playing merely even with the house, as shuffling all the cards and starting each deal with a full deck destroyed my advantage. I asked for larger chips—$50 or $100—as all I had were twenties. The owner stepped forward and said that the house would not sell them to us. He then had a brand-new deck of cards brought in. The dealer carefully spread it facedown, then again faceup. I asked why they spread them facedown. Although this practice is common, casinos seldom examine the backs of the cards but now they did, for a full two minutes. Even though I wear glasses, the dealer explained that they believed I had unusually acute vision, and could distinguish tiny blemishes on the backs of the cards. This let me know what cards would appear next. I scoffed, but the panicky owner brought in four fresh decks in five minutes.
+I was now playing merely even with the house, as shuffling all the cards and starting each deal with a full deck destroyed my advantage. I asked for larger chips—\$50 or \$100—as all I had were twenties. The owner stepped forward and said that the house would not sell them to us. He then had a brand-new deck of cards brought in. The dealer carefully spread it facedown, then again faceup. I asked why they spread them facedown. Although this practice is common, casinos seldom examine the backs of the cards but now they did, for a full two minutes. Even though I wear glasses, the dealer explained that they believed I had unusually acute vision, and could distinguish tiny blemishes on the backs of the cards. This let me know what cards would appear next. I scoffed, but the panicky owner brought in four fresh decks in five minutes.
 
 
 
 Changing decks didn’t matter to me, so they gave up on that. In whispers, they formulated a new theory. I asked them what they now thought my secret was. The dealer claimed I could count every card as it was played, so I always knew exactly which cards had not yet appeared. It is well known to students of mnemotechny (the science of memory training) that you can learn to memorize in proper order a deck of cards as it is dealt. However, I am familiar enough with the method involved to know that the information, when so memorized, cannot be used quickly enough for play in blackjack. So I challenged the dealer by rashly claiming that no one in the world could watch thirty-eight cards dealt quickly off a pack and then tell me quickly how many of each type of card remained.
 
-She claimed the pit boss, standing next to her, could do just that. I offered $5 for a demonstration. They both looked down sheepishly and wouldn’t answer. I made my offer $50. They remained silent and ashamed. Eddie Hand, who had been watching throughout, increased the offer to $500. There was no response. We left in disgust.
+She claimed the pit boss, standing next to her, could do just that. I offered \$5 for a demonstration. They both looked down sheepishly and wouldn’t answer. I made my offer \$50. They remained silent and ashamed. Eddie Hand, who had been watching throughout, increased the offer to \$500. There was no response. We left in disgust.
 
-Spring break was ending at MIT, so our trip also was at an end. In thirty man-hours of medium-to-large-scale play, our $10,000 grew to $21,000. At no point did we have to go into our original capital further than $1,300 (plus expenses). Our experiment was a success, and my system performed at the tables just as the theory predicted. I was satisfied. Future blackjack trips, if any, would have to fit in around my academic schedule and my family life. I made no plans for another trip with Manny and Eddie, and simply left the possibility open.
+Spring break was ending at MIT, so our trip also was at an end. In thirty man-hours of medium-to-large-scale play, our \$10,000 grew to \$21,000. At no point did we have to go into our original capital further than \$1,300 (plus expenses). Our experiment was a success, and my system performed at the tables just as the theory predicted. I was satisfied. Future blackjack trips, if any, would have to fit in around my academic schedule and my family life. I made no plans for another trip with Manny and Eddie, and simply left the possibility open.
 
 On the plane back to Boston, I remembered the casino spokesman who, upon hearing my claim that I could beat blackjack, scoffed, “When a lamb goes to the slaughter, the lamb might kill the butcher. But we always bet on the butcher.”
 
@@ -1107,9 +939,9 @@ The day of the lamb had come.
 
 —
 
-Some thirty years later, author and investigative journalist Connie Bruck filled me in on Manny Kimmel’s background when she called to interview me for her book *Master of the Game.* The book details the story of how Steve Ross “took his father-in-law’s funeral business and a parking lot company and grew them into the largest media and entertainment company in the world, Time Warner.” The parking lot company was Kinney Service Corporation, started in 1945 by a hidden partner, Emmanuel Kimmel. Kimmel allegedly made his fortune in the 1920s and ’30s from bootlegging and the numbers racket, in company with Abner “Longie” Zwillman (chronicled in the book *Gangster #2* by Mark Stuart), the don of New Jersey and supposedly the second most powerful mobster in the United States in 1935. Knowing this now, I’m glad I decided to play with a $10,000 bankroll for an almost sure moderate win, rather than with a $100,000 bankroll and any risk whatsoever of a serious loss. It also makes me reflect on my own past naïveté, and the greater wisdom of my wife, Vivian, in these matters.
+Some thirty years later, author and investigative journalist Connie Bruck filled me in on Manny Kimmel’s background when she called to interview me for her book *Master of the Game.* The book details the story of how Steve Ross “took his father-in-law’s funeral business and a parking lot company and grew them into the largest media and entertainment company in the world, Time Warner.” The parking lot company was Kinney Service Corporation, started in 1945 by a hidden partner, Emmanuel Kimmel. Kimmel allegedly made his fortune in the 1920s and ’30s from bootlegging and the numbers racket, in company with Abner “Longie” Zwillman (chronicled in the book *Gangster #2* by Mark Stuart), the don of New Jersey and supposedly the second most powerful mobster in the United States in 1935. Knowing this now, I’m glad I decided to play with a \$10,000 bankroll for an almost sure moderate win, rather than with a \$100,000 bankroll and any risk whatsoever of a serious loss. It also makes me reflect on my own past naïveté, and the greater wisdom of my wife, Vivian, in these matters.
 
-Manny’s friend Eddie Hand was also a source for Connie Bruck. At the time of our trip his company “shipped all the cars and trucks for Chrysler.” Based in Buffalo, New York, he was battle-toughened through conflict with the Teamsters Union. A few years later he sold his company to Ryder Industries. During my stock market years I learned that he received Ryder warrants that, on the day I checked their price, were worth $47 million. Once when he, Kimmel, and I were flying from Reno to Las Vegas, Eddie Hand suddenly became nostalgic while reading the “Milestones” column in *Time* magazine. The vignettes mentioned the upcoming marriages of two ladies with whom he had been romantically involved. One was a Chilean copper heiress and the other was tennis player “Gorgeous Gussy” Moran, who scandalized Wimbledon by presenting herself for play in lace panties.
+Manny’s friend Eddie Hand was also a source for Connie Bruck. At the time of our trip his company “shipped all the cars and trucks for Chrysler.” Based in Buffalo, New York, he was battle-toughened through conflict with the Teamsters Union. A few years later he sold his company to Ryder Industries. During my stock market years I learned that he received Ryder warrants that, on the day I checked their price, were worth \$47 million. Once when he, Kimmel, and I were flying from Reno to Las Vegas, Eddie Hand suddenly became nostalgic while reading the “Milestones” column in *Time* magazine. The vignettes mentioned the upcoming marriages of two ladies with whom he had been romantically involved. One was a Chilean copper heiress and the other was tennis player “Gorgeous Gussy” Moran, who scandalized Wimbledon by presenting herself for play in lace panties.
 
 
 
@@ -1119,15 +951,9 @@ Meanwhile, blackjack had still more to teach me, about both investing and how th
 
 
 
+## Chapter 7: CARD COUNTING FOR EVERYONE
 
-
-# Chapter 7
-
-------
-
-# CARD COUNTING FOR EVERYONE
-
-Back at the Massachusetts Institute of Technology, I attracted attention in the cafeteria when, once a week, I cashed yet another $100 bill from my casino winnings. With the way our currency has depreciated since 1961, the impact then was almost the same as if I were to pay today with $1,000 bills.
+Back at the Massachusetts Institute of Technology, I attracted attention in the cafeteria when, once a week, I cashed yet another \$100 bill from my casino winnings. With the way our currency has depreciated since 1961, the impact then was almost the same as if I were to pay today with \$1,000 bills.
 
 Meanwhile, my two-year appointment at MIT would end June 30, just three months away. The department chairman, W. T. “Ted” Martin, encouraged me to stay a third year at MIT and told me how highly I was regarded by institute professor Shannon. There was a chance this could lead to a permanent position either then or at a later date. Whether to try for this was a difficult decision. MIT had become one of the world’s great mathematics centers, following its transformation by projects for the government during World War II from a technical school to a scientific powerhouse. Simply walking down the hall, I would chat with people like the prodigy Professor Norbert Wiener (cybernetics) and the future Abel Prize winner Isadore Singer. The C. L. E. Moore Instructorship program, of which I was part, had brought in new PhDs like John Nash, who later won the Nobel for economics, and future Fields Medal winner Paul Cohen. Though there’s no Nobel Prize for mathematics, the Fields and the Abel prizes have that status. Cohen had left a few days before I arrived; his name was just being scraped off his door.
 
@@ -1135,7 +961,7 @@ Meanwhile, my two-year appointment at MIT would end June 30, just three months a
 
 I finally decided not to stay on. From a career standpoint, I thought I had the talent to keep up with the big boys but I felt I needed more mathematical background. I also hadn’t collaborated on research with a senior faculty mentor or other colleagues in my area of specialty, and such work with others often is key to advancing in an academic department. Instead, I had spent much of my time working on blackjack and on building a computer with Professor Shannon to predict roulette. However, my work with Shannon wasn’t part of any academic field. It wasn’t mathematics per se and had no constituency and no name. It couldn’t help my academic career. Ironically, thirty years later MIT had become a world leader in the development of what would be called wearable computers, and the time line placed on the Internet by its Media Lab credited Shannon and me with building the first one.
 
-New Mexico State University was bidding for bright young faculty members and subsidizing an incoming supply of good graduate students. They had just received a $5 million post-Sputnik Centers of Excellence Grant from the National Science Foundation, an amount equivalent to more than $40 million today, with a mandate to build a PhD program over the next four years. They proposed to jump my pay, from the $6,600 that both MIT and the University of Washington offered, to $9,000 a year and promote me to associate professor with tenure. I would also have a six-hour-a-week teaching load consisting of my choice of graduate courses. It provided the opportunity I wanted to expand my mathematical background, learning through teaching, doing my own research, directing doctoral theses, and collaborating with my students.
+New Mexico State University was bidding for bright young faculty members and subsidizing an incoming supply of good graduate students. They had just received a \$5 million post-Sputnik Centers of Excellence Grant from the National Science Foundation, an amount equivalent to more than \$40 million today, with a mandate to build a PhD program over the next four years. They proposed to jump my pay, from the \$6,600 that both MIT and the University of Washington offered, to \$9,000 a year and promote me to associate professor with tenure. I would also have a six-hour-a-week teaching load consisting of my choice of graduate courses. It provided the opportunity I wanted to expand my mathematical background, learning through teaching, doing my own research, directing doctoral theses, and collaborating with my students.
 
 The position in New Mexico seemed to me to be the best next career step, even though my colleagues regarded it as an ill-advised gamble at what had been a mathematical backwater. Most important, a move to New Mexico would take Vivian and baby Raun to a much better climate and closer to our families.
 
@@ -1153,7 +979,7 @@ In August I traveled from Los Angeles to Las Vegas to play blackjack at the invi
 
 Vivian had helped me train for this trip by dealing hands at high speed, blowing cigarette smoke at me, and engaging me in complicated conversations. Meanwhile, I was keeping track of the cards, calculating the percent advantage and my bet size, then playing out my hand using strategies that varied depending on the count. The key was to take it one step at a time, adding a new difficulty only after I became comfortable and relaxed with what I was already doing. What had seemed daunting finally became easy.
 
-Junior backed my play with a modest $2,500 bankroll, equivalent to about $20,000 today. He followed me around Vegas with one eye open for cheating and another eye on his bankroll. While I was playing in the Sands, a pit boss who knew Junior told his friends that the kid was in town. Casino management saw that whenever Junior was around, I was playing nearby. Then my dealers stepped up the reshuffling and cheating. There was so much crooked dealing that I worried about playing on my own in the future without an expert to watch for it and warn me off. After a modest win, I returned to Los Angeles. The following month, September 1961, Vivian, Raun, and I moved to Las Cruces, New Mexico, where I began my duties at New Mexico State.
+Junior backed my play with a modest \$2,500 bankroll, equivalent to about \$20,000 today. He followed me around Vegas with one eye open for cheating and another eye on his bankroll. While I was playing in the Sands, a pit boss who knew Junior told his friends that the kid was in town. Casino management saw that whenever Junior was around, I was playing nearby. Then my dealers stepped up the reshuffling and cheating. There was so much crooked dealing that I worried about playing on my own in the future without an expert to watch for it and warn me off. After a modest win, I returned to Los Angeles. The following month, September 1961, Vivian, Raun, and I moved to Las Cruces, New Mexico, where I began my duties at New Mexico State.
 
 Although I learned from Junior that cheating was a serious problem and could make me a loser instead of a winner, he didn’t show me how it worked or how to spot it. Meanwhile I was writing a book that might send thousands of gamblers to the tables thinking they could win. If dishonest dealers wiped them out, it would be a slaughter. I had to understand how the cheating was done and explain it to my readers so they would have a chance to spot and avoid it. That’s what led to my next visit to Nevada.
 
@@ -1163,7 +989,7 @@ The opportunity arose because I had been corresponding with Russell T. Barnhart,
 
 I told of the glories of the life of the mind, to be able to think about interesting problems as much as you wanted, as long as you wanted, to interact with intellectually challenging colleagues and students, to learn about any subject you chose, to have a lot of discretionary time with summers to travel and do research. Whether or not our conversation influenced Diaconis, he eventually became a full professor of mathematics at Harvard and also was awarded a MacArthur Foundation “genius” grant. He studied the theory of card shuffling, and the popular press widely reported his conclusion that seven fairly thorough shuffles was enough for practical purposes to randomize any deck of cards.
 
-After the trip with Junior, when I told Russell of my problem with casino dishonesty, he proposed that I take him and his friend Mickey MacDougall on a blackjack foray. Mickey was perfect, being both a magician and a well-known card detective. His book *Danger in the Cards* describes his adventures detecting swindles in private games. He also had worked as a special consultant to the Nevada Gaming Control Board for several years. This led to the board citing several small casinos for cheating. Russell solved the bankroll problem by raising $10,000 from anonymous backers, with any profit—after our expenses had been paid—to be shared.
+After the trip with Junior, when I told Russell of my problem with casino dishonesty, he proposed that I take him and his friend Mickey MacDougall on a blackjack foray. Mickey was perfect, being both a magician and a well-known card detective. His book *Danger in the Cards* describes his adventures detecting swindles in private games. He also had worked as a special consultant to the Nevada Gaming Control Board for several years. This led to the board citing several small casinos for cheating. Russell solved the bankroll problem by raising \$10,000 from anonymous backers, with any profit—after our expenses had been paid—to be shared.
 
 We met in Las Vegas in January 1962, during the year-end academic break at New Mexico State. Russell was a high-strung thirty-five-year-old bachelor and Mickey, a sixtyish fun-loving extrovert.
 
@@ -1185,7 +1011,7 @@ We named dozens of casinos and described the dealers and their methods. Of cours
 
 After hearing our marathon account of rampant cheating, Mickey’s contact at the board claimed he wanted to talk about additional consulting work, and suggested that in the meantime I take the opportunity to play blackjack. For some reason Russell didn’t come with me. When I balked at playing without my cheating protectors, Mickey’s contact assigned one of the gaming control board’s agents to watch over me. Mickey thought this was a good idea, and had told me earlier that the dealers knew all the people the board used, so whenever they showed up the cheating stopped until they left.
 
-I started at the Riverside Hotel in downtown Reno (years later the casino addition where I played was demolished, to my silent cheers), betting a cautious $5 to $50. It was uncrowded and I sat down alone in the middle of an empty table. My “protector,” pretending not to know me, wandered in a minute later and sat down to play also. Our dealer, a young woman with a low-cut blouse and heavily freckled skin, won the first few hands against each of us. On the next hand I was dealt a “stiff” (10, 6) versus a dealer’s upcard of 9 or 10. I hit and, to my amazement the card meant for me emerged from the deck and stuck twanging, held by its edge between the top card and the rest of the deck. The dealer froze and blushed bright red from cheeks to décolletage. The pit boss, watching the action from the end of the table to my left, literally asked me if I wanted the top card or the second! I could see that the second was a face card, which would bust me like it was supposed to. So that the gaming control board agent could hear me even if he were nearly deaf, and blind as well, I said loudly and distinctly, “The second busts me so I’ll take the top card.” It was an 8 and busted me anyhow. I cashed in my chips and left.
+I started at the Riverside Hotel in downtown Reno (years later the casino addition where I played was demolished, to my silent cheers), betting a cautious \$5 to \$50. It was uncrowded and I sat down alone in the middle of an empty table. My “protector,” pretending not to know me, wandered in a minute later and sat down to play also. Our dealer, a young woman with a low-cut blouse and heavily freckled skin, won the first few hands against each of us. On the next hand I was dealt a “stiff” (10, 6) versus a dealer’s upcard of 9 or 10. I hit and, to my amazement the card meant for me emerged from the deck and stuck twanging, held by its edge between the top card and the rest of the deck. The dealer froze and blushed bright red from cheeks to décolletage. The pit boss, watching the action from the end of the table to my left, literally asked me if I wanted the top card or the second! I could see that the second was a face card, which would bust me like it was supposed to. So that the gaming control board agent could hear me even if he were nearly deaf, and blind as well, I said loudly and distinctly, “The second busts me so I’ll take the top card.” It was an 8 and busted me anyhow. I cashed in my chips and left.
 
 
 
@@ -1277,13 +1103,7 @@ Rather than quit the field, I launched an army with *Beat the Dealer.* Thus cont
 
 
 
-
-
-# Chapter 8
-
-------
-
-# PLAYERS VERSUS CASINOS
+## Chapter 8: PLAYERS VERSUS CASINOS
 
 After my book appeared, legions of blackjack players hit the tables in Nevada. Anyone could bring the book’s palm-sized strategy cards and find a game with rules good enough to let them play on level terms with the casino, even without counting cards. Then there were the card counters and would-be card counters. Many were good and some would go on to make their living from blackjack, but for the majority the effort and persistence required to practice card counting, the restraint and discipline needed, to say nothing of the temperament, were obstacles to success.
 
@@ -1295,13 +1115,13 @@ When the casinos first tried a rules change and lost more in revenues than they 
 
 The most widely used photo gallery of undesirables was developed for the casinos by Griffin Investigations, Inc., a private detective agency founded in 1967 by Beverly and Robert Griffin. The usual collection of criminals, player cheats, and public nuisances was rapidly expanded by the addition of ever more card counters. They were barred on sight, and their descriptions were shared among the casinos. However, dealers and pit bosses often couldn’t figure out who was counting and who wasn’t. Non-counters who inadvertently aroused suspicion were, to their bafflement, forbidden to play. Players were cheated and beaten in back rooms. Eventually the Griffin agency was successfully sued by two top card counters, one of whom was James Grosjean, a member of the Blackjack Hall of Fame, and the firm filed for bankruptcy in 2005.
 
-Card counters formed informal networks and developed new and improved techniques. *Beat the Dealer* had introduced the idea of a team. Suppose several players, say five, each with a $10,000 bankroll, are playing separately, winning at an average rate of 1 percent or $100 an hour. Then the five players together will gain an average of $500 an hour. If instead they pool their money into one $50,000 bank, when one of them plays he can bet five times as much as he could safely risk on his own $10,000. Consequently he expects to win five times as much, namely, 1 percent of $50,000 or $500 per hour, rather than $100. But it gets better. The four other players can all be playing, too, typically at different tables or casinos, acting as though they each have a $50,000 bankroll, so the group makes $2,500 per hour when all are playing whereas, playing without pooling their bankrolls, they would make collectively only $500 an hour.
+Card counters formed informal networks and developed new and improved techniques. *Beat the Dealer* had introduced the idea of a team. Suppose several players, say five, each with a \$10,000 bankroll, are playing separately, winning at an average rate of 1 percent or \$100 an hour. Then the five players together will gain an average of \$500 an hour. If instead they pool their money into one \$50,000 bank, when one of them plays he can bet five times as much as he could safely risk on his own \$10,000. Consequently he expects to win five times as much, namely, 1 percent of \$50,000 or \$500 per hour, rather than \$100. But it gets better. The four other players can all be playing, too, typically at different tables or casinos, acting as though they each have a \$50,000 bankroll, so the group makes \$2,500 per hour when all are playing whereas, playing without pooling their bankrolls, they would make collectively only \$500 an hour.
 
 The next step was obvious. Entrepreneurs went into the blackjack business by recruiting and training players, providing a bankroll, and sharing the profits between the players and the financier. Notable teams include Tommy Hyland’s and the now famous MIT group, chronicled in the book *Bringing Down the House,* which inspired the 2008 movie *21.* Al Francesco pioneered the creation of blackjack teams, and the idea was well publicized by one of his recruits, Ken Uston (1935–87). Uston’s books *Million Dollar Blackjack* and *The Big Player* inspired the formation of other teams as well as intensifying casino efforts to stop them. Ken Uston was one of the more colorful characters in blackjack history. One-quarter Asian, with a Japanese grandfather, he was born Kenneth Senzo Usui. Starting his career in the securities business, he became the youngest senior vice president ever at the Pacific Stock Exchange. Drawn by the allure of blackjack he then left the securities industry to play professionally.
 
 
 
-Card counters wish to bet as little as possible when the casino has the edge, then make a large bet when the cards favor them. Ideally, a player with a bankroll large enough to allow $1,000 bets when the deck is favorable would bet the table minimum, say $5, when it isn’t. Such a wide betting spread of 200:1 is a red flag to casino personnel. But to bet $1,000 on good situations with a narrower betting spread of, say, 4:1 requires $250 bets when the deck is unfavorable. This cuts back the overall gain.
+Card counters wish to bet as little as possible when the casino has the edge, then make a large bet when the cards favor them. Ideally, a player with a bankroll large enough to allow \$1,000 bets when the deck is favorable would bet the table minimum, say \$5, when it isn’t. Such a wide betting spread of 200:1 is a red flag to casino personnel. But to bet \$1,000 on good situations with a narrower betting spread of, say, 4:1 requires \$250 bets when the deck is unfavorable. This cuts back the overall gain.
 
 The remedy was to use what was called a Big Player. Teams placed members at several blackjack tables to track the deck, meanwhile betting the minimum. When a deck became favorable they signaled the Big Player, who seemed to wander randomly from table to table, putting down sizable bets erratically. Since he hadn’t been at the table before he bet, he couldn’t be counting. All this was disguised with an act. The Big Player might appear to be a drunken flamboyant high-roller, often with a beautiful companion.
 
@@ -1311,7 +1131,7 @@ Meanwhile, the blackjack community was exploring and developing the various poss
 
 To illustrate this basic idea I presented what I called the ultimate strategy, which assigned a whole number value to each card in close proportion to its impact on the odds. The numbers in table 1 are from the 1962 edition of *Beat the Dealer.* The second line shows the change in the player’s edge upon removing one card. The third line, obtained by multiplying by 13 and rounding to the nearest whole number, gives the point count for the ultimate strategy, a good approximation to a perfect point count. Because of the diverse point values, I expected this system to be used by computers, not people. I intended it only to illustrate the basic principle for constructing point-count systems—the closer the point assignments were to the effects of the corresponding cards, the more powerful the system. On the other hand, the more diverse the point values used for a particular card counting system, the harder that count was to use.
 
-# Table 1: Effect of Removing One Card from One Deck and the Ultimate (Point-Count) Strategy
+#### Table 1: Effect of Removing One Card from One Deck and the Ultimate (Point-Count) Strategy
 
 | Card           | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9     | 10    | A     |
 | -------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ----- |
@@ -1326,7 +1146,7 @@ Suppose the player using the High–Low count sees these cards in the first roun
 
 How hard is it to keep the point count? A typical test is to shuffle the deck, remove one to three cards facedown, then count through the rest of the deck. The player declares the result, then the missing card or cards are turned over to see if he is right. For example, suppose after one card has been set aside without its face being shown, the count for the rest of the deck is zero. Then, since the total count must come out to zero (as you may have already noticed, the complete point count has 20 negative points and 20 positive points in each fifty-two-card deck), the unseen card must be a 0-point card, namely, a 7, 8, or 9. This can lead to some surprises.
 
-One night I was playing in Puerto Rico with the comedian and TV personality Henry Morgan, who was well known in the 1950s and ’60s. I had been losing for an hour or so. At the end of a two-deck shoe, my dealer had a Ten up. As the casino betting limit was $50 per hand, I could get more money on the table and keep out other players by betting on all seven spots. I was using the variation of the point count where the cards 2, 3, 4, 5, 6, 7 are +1, 8 is 0, and 9, 10, A are −1, as they appear. The cards had run out on the deal, and the point count was zero. Therefore the one unseen card, which was the dealer’s hole card, had to be a 0. So the dealer had an 8 in the hole for a total of 18. The deck was reshuffled so I could finish playing my seven hands. Since I had several hands of hard 17 that I alone knew were to be sure losers if I did nothing, I hit them. This is a disastrous choice unless you know the dealer’s hole card, and that he has you beat. Unlucky, I busted every one of them.
+One night I was playing in Puerto Rico with the comedian and TV personality Henry Morgan, who was well known in the 1950s and ’60s. I had been losing for an hour or so. At the end of a two-deck shoe, my dealer had a Ten up. As the casino betting limit was \$50 per hand, I could get more money on the table and keep out other players by betting on all seven spots. I was using the variation of the point count where the cards 2, 3, 4, 5, 6, 7 are +1, 8 is 0, and 9, 10, A are −1, as they appear. The cards had run out on the deal, and the point count was zero. Therefore the one unseen card, which was the dealer’s hole card, had to be a 0. So the dealer had an 8 in the hole for a total of 18. The deck was reshuffled so I could finish playing my seven hands. Since I had several hands of hard 17 that I alone knew were to be sure losers if I did nothing, I hit them. This is a disastrous choice unless you know the dealer’s hole card, and that he has you beat. Unlucky, I busted every one of them.
 
 The dealer looked up scornfully, saying to me with a laugh, “So you count the cards, amigo. Why, I’ll bet you even know what I’ve got.” As the other dealers grinned, I said, “Why, you have an 8 under there.” The dealer laughingly summoned several other dealers and the pit boss. He explained contemptuously that the Americano expert said that he had an 8 in the hole. A babble of uncomplimentary remarks in Spanish passed back and forth.
 
@@ -1364,11 +1184,11 @@ As the war between casinos and counters has evolved, so Las Vegas itself has bee
 
 The professional players share their stories each year at a private gathering in Nevada known as the Blackjack Ball. Hosted by professional card counter Max Rubin and sponsored by the Barona Casino, which is located hundreds of miles away in Southern California, many of the past and present best players in the world gather. Members of the Blackjack Hall of Fame are honored attendees. They also are featured in a picture gallery at the Barona, where they can stay for free but not play. The Barona benefits from the ball because any expert who attends must pledge never to play blackjack there—one of the most profitable investments ever by a casino.
 
-My children, Raun, Karen, and Jeff, attended the ball with me in 2013, mixing with pseudonymous legends like James Grosjean, the Harvard mathematics graduate who has continued to develop and use new methods for “advantage play.” We spoke with the Holy Rollers, a card counting team of young Christians whose Robin Hood–like mandate is to transfer money from the casinos (“bad”) to their church (“good”) and themselves. Among the 102 guests, nearly half had net professional winnings of more than $1 million. The rest were family, spouses, and significant others. One of the champions was Blair Hull, who parlayed a fortune from running a blackjack team into several hundred million dollars at the Chicago Board Options Exchange. Bill Benter used his blackjack winnings to bankroll and build a billion-dollar worldwide business betting on horse races. A cheerful Taiwanese wearing the name tag B. J. TRAVELER sat down next to me with a shopping bag full of books he had written for the Chinese public about his adventures. He had played in sixty-four countries over six years, netting almost $7 million. Most amazing was that he survived a year in Moscow dodging thieves as he carted money from the casinos.
+My children, Raun, Karen, and Jeff, attended the ball with me in 2013, mixing with pseudonymous legends like James Grosjean, the Harvard mathematics graduate who has continued to develop and use new methods for “advantage play.” We spoke with the Holy Rollers, a card counting team of young Christians whose Robin Hood–like mandate is to transfer money from the casinos (“bad”) to their church (“good”) and themselves. Among the 102 guests, nearly half had net professional winnings of more than \$1 million. The rest were family, spouses, and significant others. One of the champions was Blair Hull, who parlayed a fortune from running a blackjack team into several hundred million dollars at the Chicago Board Options Exchange. Bill Benter used his blackjack winnings to bankroll and build a billion-dollar worldwide business betting on horse races. A cheerful Taiwanese wearing the name tag B. J. TRAVELER sat down next to me with a shopping bag full of books he had written for the Chinese public about his adventures. He had played in sixty-four countries over six years, netting almost \$7 million. Most amazing was that he survived a year in Moscow dodging thieves as he carted money from the casinos.
 
 
 
-The next day, I had lunch on the strip with John Chang, a star of the MIT team featured in the movie *21,* and an expert friend of his. Afterward, at a nearby casino, the three of us asked to have our picture taken in front of a blackjack table. Not allowed. So we sat down to play a hand or two at a $100-minimum/$10,000-maximum table with good rules. Chang and his friend whipped out rolls of $100 bills, peeled off $5,000 each, and bought in. “Our pockets are our banks,” they said. Our dealer, a friendly older woman from Eastern Europe, with no clue as to who was seated at her table, thought some of John’s unorthodox plays were beginner’s errors. When she advised him as to how to play correctly, he thanked her politely for her help and indicated a willingness to improve. Twenty minutes later, the casino was a few thousand dollars poorer and we had an employee take photos for us by the entrance.
+The next day, I had lunch on the strip with John Chang, a star of the MIT team featured in the movie *21,* and an expert friend of his. Afterward, at a nearby casino, the three of us asked to have our picture taken in front of a blackjack table. Not allowed. So we sat down to play a hand or two at a \$100-minimum/\$10,000-maximum table with good rules. Chang and his friend whipped out rolls of \$100 bills, peeled off \$5,000 each, and bought in. “Our pockets are our banks,” they said. Our dealer, a friendly older woman from Eastern Europe, with no clue as to who was seated at her table, thought some of John’s unorthodox plays were beginner’s errors. When she advised him as to how to play correctly, he thanked her politely for her help and indicated a willingness to improve. Twenty minutes later, the casino was a few thousand dollars poorer and we had an employee take photos for us by the entrance.
 
 Can an ordinary player still beat the game? My answer is a qualified yes. Many blackjack games have rules that have been changed enough so they are hard to beat. For instance, never play at a table where the payoff for getting a two-card 21, or blackjack, has been changed from the original 3:2 to lesser amounts like 6:5 or 1:1. There are newsletters and services that currently rate the games, and tell which ones are still good.
 
@@ -1376,13 +1196,7 @@ When I was the keynote speaker at the third World Game Protection Conference in 
 
 
 
-
-
-# Chapter 9
-
-------
-
-# A COMPUTER THAT PREDICTS ROULETTE
+## Chapter 9: A COMPUTER THAT PREDICTS ROULETTE
 
 The modern form of roulette seems to have first appeared in Paris in 1796. It became the favored high-stakes game of the rich and the royal, enshrined in Monte Carlo in the nineteenth century, and celebrated in story and song. With its high stakes, splendid settings, and runs of extreme luck, which were sometimes good but more often bad, it was a target for those with systems attempting to overcome the casino’s advantage. These systems were too complex for gamblers to analyze precisely, but they had plausible features that inspired hope.
 
@@ -1392,7 +1206,7 @@ A favorite was the Labouchère, or cancellation, system. This was used in roulet
 
 However, using the mathematical theory of probability, it was proven that if all roulette numbers were equally likely to come up, and they appeared in random order, it was impossible for any betting system to succeed. Despite this, hope flared briefly at the end of the nineteenth century when the great statistician Karl Pearson (1857–1936) discovered that the roulette numbers being reported daily in a French newspaper showed exploitable patterns. The mystery was resolved when it was discovered that rather than spend hours watching the wheels, the people recording the numbers simply made them up at the end of each day. The statistical patterns Pearson detected simply reflected the failure of the reporters to invent perfectly random numbers.
 
-If betting systems don’t work, what about defective wheels where, in the long run, some numbers will come up more than others? In 1947, two graduate students at the University of Chicago, Albert Hibbs (1924–2003) and Roy Walford (1924–2004), found a roulette wheel in Reno that seemed to favor the number 9. They increased an initial stake of $200 to $12,000. The next year they found a wheel at the Palace Club in Las Vegas on which they made $30,000. They took a year off and sailed the Caribbean, then went on to distinguished careers in science. Among many accomplishments, Hibbs became director of space science for Caltech’s Jet Propulsion Laboratory, and Walford became a UCLA medical researcher who showed that caloric restriction in mice could more than double their maximum life span. Hibbs later wrote, “I wanted to conquer space, and my roommate, Roy Walford, decided that he would conquer death.”
+If betting systems don’t work, what about defective wheels where, in the long run, some numbers will come up more than others? In 1947, two graduate students at the University of Chicago, Albert Hibbs (1924–2003) and Roy Walford (1924–2004), found a roulette wheel in Reno that seemed to favor the number 9. They increased an initial stake of \$200 to \$12,000. The next year they found a wheel at the Palace Club in Las Vegas on which they made \$30,000. They took a year off and sailed the Caribbean, then went on to distinguished careers in science. Among many accomplishments, Hibbs became director of space science for Caltech’s Jet Propulsion Laboratory, and Walford became a UCLA medical researcher who showed that caloric restriction in mice could more than double their maximum life span. Hibbs later wrote, “I wanted to conquer space, and my roommate, Roy Walford, decided that he would conquer death.”
 
 Feynman must have known about biased wheels when he told me there was no way to beat the game, because Hibbs got his PhD in physics under Feynman at Caltech the previous year. In any case, biased wheels at big casinos were likely a thing of the past, as gambling houses took better care of their equipment.
 
@@ -1400,9 +1214,9 @@ Feynman must have known about biased wheels when he told me there was no way to 
 
 So this was the setting when Claude Shannon and I, in September 1960, set to work to build a computer to beat roulette. So far as we knew, everyone else thought physical prediction was impossible.
 
-As it was the last year of my two-year appointment at MIT, we had to complete the task in nine months. We spent twenty hours a week at the Shannons’ three-story wooden house. Dating from 1858, it was sited on one of the Mystic Lakes, a few miles from Cambridge. The basement was a gadgeteer’s paradise, with perhaps $100,000 worth of electronic, electrical, and mechanical items. There were thousands of mechanical and electrical components—motors, transistors, switches, pulleys, gears, condensers, transformers, and on and on. As someone who had spent much of his boyhood building and experimenting in electronics, physics, and chemistry, I was now happily working with the ultimate gadgeteer.
+As it was the last year of my two-year appointment at MIT, we had to complete the task in nine months. We spent twenty hours a week at the Shannons’ three-story wooden house. Dating from 1858, it was sited on one of the Mystic Lakes, a few miles from Cambridge. The basement was a gadgeteer’s paradise, with perhaps \$100,000 worth of electronic, electrical, and mechanical items. There were thousands of mechanical and electrical components—motors, transistors, switches, pulleys, gears, condensers, transformers, and on and on. As someone who had spent much of his boyhood building and experimenting in electronics, physics, and chemistry, I was now happily working with the ultimate gadgeteer.
 
-We purchased a reconditioned regulation roulette wheel from a company in Reno for $1,500. From the labs at MIT we borrowed a strobe light, and a large clock with a second hand that made one revolution per second, the latter recapitulating the role the stopwatch had in my earlier movie experiments. The dial was divided into hundredths of a second and we could interpolate still-finer time divisions. We set up shop in the billiard room, where a massive old slate table made a solid base on which to mount the wheel.
+We purchased a reconditioned regulation roulette wheel from a company in Reno for \$1,500. From the labs at MIT we borrowed a strobe light, and a large clock with a second hand that made one revolution per second, the latter recapitulating the role the stopwatch had in my earlier movie experiments. The dial was divided into hundredths of a second and we could interpolate still-finer time divisions. We set up shop in the billiard room, where a massive old slate table made a solid base on which to mount the wheel.
 
 Our wheel was typical, carefully machined with an elegant design and beauty that added to the appeal of the game. It consisted of a large stationary piece, or stator, with a circular track around the top, where the croupier starts each play of the game by launching a small white ball. As the ball orbits, it gradually slows until finally it falls down the sloped conelike inside of the stator and crosses onto a circular centerpiece, or rotor, with numbered pockets that the croupier previously set spinning in a direction opposite to that in which he spun the ball.
 
@@ -1458,7 +1272,7 @@ During our work breaks, Claude taught me to juggle three balls, which he did whi
 
 We got along so well because, from an early age, science was play for both of us. Tinkering and building things was part of the fun, as was letting our curiosity range freely.
 
-In American roulette, the wheel has thirty-eight pockets for the ball to fall into. Thirty-six of these, numbered from 1 to 36, are either red or black, with eighteen of each. The green pockets, 0 and 00 (zero and double-zero), are opposite each other on the rotor and thus split the other thirty-six into two groups of eighteen. A winning bet on a single number pays 35:1, meaning you get back your stake plus a profit of thirty-five times the amount you bet. If there were no 0 or 00, this payoff would make the game even, because on average, for each $1 bet, the player wins $35 one time in thirty-six spins and loses $1 thirty-five times in thirty-six, for no net gain or loss. However, with the addition of 0 and 00, on average the bettor who has no ability to predict will win $35 one time in thirty-eight and lose $1 thirty-seven times in thirty-eight, for a net loss of $2 per thirty-eight bets. The casino edge for him on single-number bets then is $2 ÷ $38 or 5.26 percent. European roulette is typically more generous, having just the single zero.
+In American roulette, the wheel has thirty-eight pockets for the ball to fall into. Thirty-six of these, numbered from 1 to 36, are either red or black, with eighteen of each. The green pockets, 0 and 00 (zero and double-zero), are opposite each other on the rotor and thus split the other thirty-six into two groups of eighteen. A winning bet on a single number pays 35:1, meaning you get back your stake plus a profit of thirty-five times the amount you bet. If there were no 0 or 00, this payoff would make the game even, because on average, for each \$1 bet, the player wins \$35 one time in thirty-six spins and loses \$1 thirty-five times in thirty-six, for no net gain or loss. However, with the addition of 0 and 00, on average the bettor who has no ability to predict will win \$35 one time in thirty-eight and lose \$1 thirty-seven times in thirty-eight, for a net loss of \$2 per thirty-eight bets. The casino edge for him on single-number bets then is \$2 ÷ \$38 or 5.26 percent. European roulette is typically more generous, having just the single zero.
 
 
 
@@ -1496,7 +1310,7 @@ Claude waits for the croupier to give the rotor a push to keep it spinning. As t
 
 I get ready to bet. The croupier launches the ball. As it speeds around the track inside the top of the stator, Claude watches each time it passes the reference point. When he thinks it has more than three but less than four revolutions left, he clicks with the other big toe. The pace of the repeating musical scale speeds up. Finally, as the ball completes the next revolution, Claude’s toe hits the switch again. *Click!* The musical tones stop. The last tone I hear tells me the group of numbers on which to bet. As it is only a test, I bet 10-cent chips. Within a few spins, the computer works its magic, turning a few dimes into a heap as yet another bet scores. I bet each time on a group of five numbers that are adjacent on the rotor. This is common in Europe, where the French call a group like this a *voisinage,* or “neighborhood.”
 
-We have divided the numbers on the wheel into eight such groups of five, with 0 and 00 appearing twice, as our groups included forty numbers and the wheel has only thirty-eight. We’ve called these groups of five “octants.” The average player who bets $1 on each of five numbers will win about five times in thirty-eight or just over one-eighth of the time and lose all five bets otherwise, with an overall rate of loss that turns out to be $2 for each $38 worth of bets, a 5.3 percent disadvantage. However, using our computer, our bet on five numbers won a fifth of the time, giving us a 44 percent edge.
+We have divided the numbers on the wheel into eight such groups of five, with 0 and 00 appearing twice, as our groups included forty numbers and the wheel has only thirty-eight. We’ve called these groups of five “octants.” The average player who bets \$1 on each of five numbers will win about five times in thirty-eight or just over one-eighth of the time and lose all five bets otherwise, with an overall rate of loss that turns out to be \$2 for each \$38 worth of bets, a 5.3 percent disadvantage. However, using our computer, our bet on five numbers won a fifth of the time, giving us a 44 percent edge.
 
 
 
@@ -1516,7 +1330,7 @@ Shannon and I had also discussed building a wearable blackjack computer. Using t
 
 
 
-Claude and I corresponded at intervals for a few years, initially about roulette, until it became more and more clear that we didn’t want to take it further. The last letter I remember writing was in late 1965 or early 1966, where I recalled our discussions about the stock market triggered by my seeing on his blackboard the figure 211, which equals 2048, representing the amount $1 becomes if it is doubled eleven successive times, an investing goal he was contemplating. I told him in my letter that I had found an extraordinary method for investing in a small niche in the stock market, which I thought could make 30 percent per year. Given time, I could surpass the 211 figure. He never said what he thought of this hubris. And hubris it was, as the actual rate of profit would turn out to be closer to 20 percent.
+Claude and I corresponded at intervals for a few years, initially about roulette, until it became more and more clear that we didn’t want to take it further. The last letter I remember writing was in late 1965 or early 1966, where I recalled our discussions about the stock market triggered by my seeing on his blackboard the figure 211, which equals 2048, representing the amount \$1 becomes if it is doubled eleven successive times, an investing goal he was contemplating. I told him in my letter that I had found an extraordinary method for investing in a small niche in the stock market, which I thought could make 30 percent per year. Given time, I could surpass the 211 figure. He never said what he thought of this hubris. And hubris it was, as the actual rate of profit would turn out to be closer to 20 percent.
 
 We met for the last time in 1968, at a math meeting in San Francisco. His poignant last words to me were, “Let’s get together again before we’re both six feet under.”
 
@@ -1528,13 +1342,7 @@ After blackjack and roulette, I wondered: Could other casino games be beaten?
 
 
 
-
-
-# Chapter 10
-
-------
-
-# AN EDGE AT OTHER GAMBLING GAMES
+## Chapter 10: AN EDGE AT OTHER GAMBLING GAMES
 
 In September 1961, a month after our test of the roulette computer in Las Vegas, Vivian, Raun, and I moved to Las Cruces, New Mexico, where I began my duties as a professor in the Mathematics Department at New Mexico State University. Then a town of thirty-seven thousand people, located in the high desert about four thousand feet above sea level, Las Cruces was established near a principal source of the state’s water, the Rio Grande. Towns were widely spaced in the desert expanse, and the nearest population center was El Paso, Texas, about forty-five miles to the south. After the University of New Mexico in Albuquerque, some two hundred miles to the north, NMSU was the next most important campus in the state university system. When I arrived it was being transformed from an agricultural college to a university. Just to the east of the campus was “A” mountain, a large hill with an enormous white *A* for “Aggies.” Some claimed that when the football team learned the first letter of the alphabet, it would be changed to *B.*
 
@@ -1564,7 +1372,7 @@ The reason baccarat does not have enough opportunities is because the impact of 
 
 
 
-However, in addition to the main bets of Banker and Player, the baccarat layout had four separate side bets: Banker natural 9, Player natural 9, Banker natural 8, and Player natural 8. Banker natural 9 won if the first two Banker cards totaled 9, in which case the bet paid 9:1, meaning that a winning $1 bet was paid a $9 profit. The other three side bets had the same payoff.
+However, in addition to the main bets of Banker and Player, the baccarat layout had four separate side bets: Banker natural 9, Player natural 9, Banker natural 8, and Player natural 8. Banker natural 9 won if the first two Banker cards totaled 9, in which case the bet paid 9:1, meaning that a winning \$1 bet was paid a \$9 profit. The other three side bets had the same payoff.
 
 For the non-counter these bets were terrible, with a house edge of 5.10 percent for each of the two bets on natural 9 and 5.47 percent for natural 8. But we discovered that although a card counter couldn’t beat the Banker and Player bets, he could beat these side bets! As I predicted by reasoning and we verified by computation, the edge on the side bets varied widely as cards were used. About one-third of the way through the shoe, good opportunities appeared, and things got better as more cards were played.
 
@@ -1582,19 +1390,19 @@ I thought Ralph would be perfect, along with his male golfing buddy Kay Hafen, t
 
 We drove to Las Vegas during the university’s 1963 spring break. We arrived at the Dunes shortly before their baccarat game started at 9 P.M., and acted as though we didn’t know one another. Velvet ropes separated the baccarat alcove from the rest of the casino floor. The imposing raised table had six chairs at each horseshoe-shaped end. Several female shills were already seated when I sat down. Despite my publicity from blackjack, I went unnoticed by the casino people. At least at first.
 
-As play began, a crowd gathered outside the velvet rope to watch what could become a high-stakes game. Betting limits were $5 to $2,000 on the main bets and $5 to $100 on the side bets, equivalent to about ten times as much in 2016.
+As play began, a crowd gathered outside the velvet rope to watch what could become a high-stakes game. Betting limits were \$5 to \$2,000 on the main bets and \$5 to \$100 on the side bets, equivalent to about ten times as much in 2016.
 
 Then someone cried out, “There’s the guy who wrote the book.” The baccarat supervisor’s eyes popped open and he ran to a nearby phone. One of the wives, eavesdropping on the call upstairs, saw the man’s concern change to reassurance and then amusement. Beating blackjack is one thing; baccarat is another. Our spy heard, “Ha, ha. Let him play!” And so play we did.
 
 
 
-Our first night was pleasant. With the newly shuffled pack of 416 cards, all bets favored the house, so I started with the smallest allowed bets on Banker, $5, while I tracked the number of 8s, 9s, and total cards that remained, and waited for favorable situations. I set the size of our big bets to give a win rate of $100 per hour, hoping that would be low enough to keep us from being barred.
+Our first night was pleasant. With the newly shuffled pack of 416 cards, all bets favored the house, so I started with the smallest allowed bets on Banker, \$5, while I tracked the number of 8s, 9s, and total cards that remained, and waited for favorable situations. I set the size of our big bets to give a win rate of \$100 per hour, hoping that would be low enough to keep us from being barred.
 
 It took about forty-five minutes to play through a shoe. After playing two of them, I rested while Ralph and Kay played the next one. They split the work, with Ralph monitoring the natural 8 bets, while Kay counted and bet for the natural 9s. This was easier because they each had only two separate card totals to keep track of, rather than three. After one shoe they rested and I played two more sessions. We continued this pattern. When the game shut down at the usual time of 3 A.M., we were ahead five or six hundred dollars, about what we expected.
 
 The next night, as I sat down for the start of the game, the atmosphere had changed. The casino crew was distant and unfriendly—and the shills did something strange. On the previous night the game began with me, another player or two, and half a dozen female shills spread among the twelve seats. Soon other players were attracted to this falsely busy scene and joined the action. When all seats were filled, one shill popped up, leaving just a single seat vacant for the maximum power to draw bettors: *Just one seat left—grab it while you can.* As soon as a new player was drawn to that seat, yet another shill popped out of hers. This dance of shill-in, shill-out, leaving exactly one seat empty, had continued through the evening. But on this, our second night, the shills on each side of me remained parked, watching closely. At the time I had a bronchial tickle that triggered frequent strident coughs. Our undercover wives were amused when the shills assigned to me became concerned for their health, rebelled, and had to be ordered to stay at their posts.
 
-As we continued to win, other players starred in their own human dramas. Vivian noted a bleached-blond Asian lady with long magenta fingernails. Heavily made up and bejeweled, she was betting the $2,000 limit on each hand and losing. She owned a chain of supermarkets and in a couple of hours she lost one of them. Baccarat is a game favored by big bettors. By 1995 baccarat in Nevada accounted for half as much casino profit as did blackjack, yet with only one-fiftieth as many tables. A baccarat table was twenty-five times as profitable as a blackjack table.
+As we continued to win, other players starred in their own human dramas. Vivian noted a bleached-blond Asian lady with long magenta fingernails. Heavily made up and bejeweled, she was betting the \$2,000 limit on each hand and losing. She owned a chain of supermarkets and in a couple of hours she lost one of them. Baccarat is a game favored by big bettors. By 1995 baccarat in Nevada accounted for half as much casino profit as did blackjack, yet with only one-fiftieth as many tables. A baccarat table was twenty-five times as profitable as a blackjack table.
 
 
 
@@ -1612,7 +1420,7 @@ After considerable discussion among us, I took my seat for the start of the game
 
 With numb brain and dilated pupils I left and repeated the black-coffee-and-walking routine. Meanwhile Ralph and Kay were asked to leave, permanently, and the same went for all of their friends.
 
-There was one more baccarat game with the side bets and it was at the Sands casino. After a day of R&R, I went there with our bankroll and took a seat at the table. I revised our target from $100 an hour to $1,000, figuring that the Dunes would have contacted the Sands so I would soon be barred. After two and a half hours I was ahead $2,500. Then Carl Cohen, part owner of the Sands and the person in charge, paid me a table-side visit. Carl had previously disciplined Frank Sinatra for making a commotion in the casino. When Sinatra persisted, Cohen saw to it that he didn’t return, even though Sinatra was a minor part owner. It was Cohen who now told me not to play at his casino anymore. I asked why and he said, “No reason. We just don’t want you to play here.” He was accompanied by the largest security guard I had yet seen. Discussion was pointless. I left.
+There was one more baccarat game with the side bets and it was at the Sands casino. After a day of R&R, I went there with our bankroll and took a seat at the table. I revised our target from \$100 an hour to \$1,000, figuring that the Dunes would have contacted the Sands so I would soon be barred. After two and a half hours I was ahead \$2,500. Then Carl Cohen, part owner of the Sands and the person in charge, paid me a table-side visit. Carl had previously disciplined Frank Sinatra for making a commotion in the casino. When Sinatra persisted, Cohen saw to it that he didn’t return, even though Sinatra was a minor part owner. It was Cohen who now told me not to play at his casino anymore. I asked why and he said, “No reason. We just don’t want you to play here.” He was accompanied by the largest security guard I had yet seen. Discussion was pointless. I left.
 
 During our six nights of play, we had proven the system at the tables. We validated the theoretical mathematical calculations and demonstrated yet another application of the Kelly system for betting and investing. But our trip would have an unnerving postscript.
 
@@ -1630,13 +1438,7 @@ Things came together when I realized that there was a far greater casino than al
 
 
 
-
-
-# Chapter 11
-
-------
-
-# WALL STREET: THE GREATEST CASINO ON EARTH
+## Chapter 11: WALL STREET: THE GREATEST CASINO ON EARTH
 
 Gambling is investing simplified. The striking similarities between the two suggested to me that, just as some gambling games could be beaten, it might also be possible to do better than the market averages. Both can be analyzed using mathematics, statistics, and computers. Each requires money management, choosing the proper balance between risk and return. Betting too much, even though each individual bet is in your favor, can be ruinous. When the Nobel Prize winners running the giant hedge fund Long-Term Capital Management made this mistake, its collapse in 1998 almost destabilized the US financial system. On the other hand, playing safe and betting too little means you leave money on the table. The psychological makeup to succeed at investing also has similarities to that for gambling. Great investors are often good at both.
 
@@ -1646,7 +1448,7 @@ Relishing the intellectual challenge and the fun of exploring the markets, I spe
 
 A couple of years earlier, when I knew nothing at all about investing, I heard about a company whose stock was allegedly selling at a bargain price. It was Electric Autolite, and among their products were automobile batteries for Ford Motor Company. The story on the business page of my newspaper said we could expect a great future: technological innovations, big new contracts, and a jump in sales. (The same forecasts for battery makers were being made forty years later.)
 
-As I finally had some capital from playing blackjack and from book sales, I decided to let it grow through investing while I focused on family and my academic career. I bought one hundred shares at $40 and watched the stock decline over the next two years to $20 a share, losing half of my $4,000 investment. I had no idea when to sell. I decided to hang on until the stock returned to my original purchase price, so as not to take a loss. This is exactly what gamblers do when they are losing and insist on playing until they get even. It took four years, but I finally got out with my original $4,000. Fifty years later, legions of tech stock investors shared my experience, waiting fifteen years to get even after buying near the top on March 10, 2000.
+As I finally had some capital from playing blackjack and from book sales, I decided to let it grow through investing while I focused on family and my academic career. I bought one hundred shares at \$40 and watched the stock decline over the next two years to \$20 a share, losing half of my \$4,000 investment. I had no idea when to sell. I decided to hang on until the stock returned to my original purchase price, so as not to take a loss. This is exactly what gamblers do when they are losing and insist on playing until they get even. It took four years, but I finally got out with my original \$4,000. Fifty years later, legions of tech stock investors shared my experience, waiting fifteen years to get even after buying near the top on March 10, 2000.
 
 Years later, discussing my Electric Autolite purchase with Vivian as we drove home from lunch, I asked, “What were my mistakes?”
 
@@ -1656,9 +1458,9 @@ She almost read my mind as she said, “First, you bought something you didn’t
 
 Then Vivian remarked on my second mistake in thinking, my plan for getting out, which was to wait until I was even again. What I had done was focus on a price that was of unique historical significance to me, only me, namely, my purchase price. Behavioral finance theorists, who have in recent decades begun to analyze the psychological errors in thinking that persistently bedevil most investors, call this anchoring (of yourself to a price that has meaning to you but not to the market). Since I really had no predictive power, any exit strategy was as good or bad as any other. Like my first mistake, this error was in the way I thought about the problem of when to sell, choosing an irrelevant criterion—the price I paid—rather than focusing on economic fundamentals like whether cash or alternative investments would serve better.
 
-Anchoring is a subtle and pervasive aberration in investment thinking. For instance, a former neighbor, Mr. Davis (as I shall call him), saw the market value of his house rise from his purchase price of $2,000,000 or so in the mid-1980s to $3,500,000 or so when luxury home prices peaked in 1988–89. Soon afterward, he decided he wanted to sell and anchored himself to the price of $3,500,000. During the next ten years, as the market price of his house fell back to $2,200,000 or so, he kept trying to sell at his now laughable anchor price. At last, in 2000, with a resurgent stock market and a dot-com-driven price rise in expensive homes, he escaped at $3,250,000. In his case, as often happens, the thinking error of anchoring, despite the eventual sale price he achieved, left him with substantially less money than if he had acted otherwise.
+Anchoring is a subtle and pervasive aberration in investment thinking. For instance, a former neighbor, Mr. Davis (as I shall call him), saw the market value of his house rise from his purchase price of \$2,000,000 or so in the mid-1980s to \$3,500,000 or so when luxury home prices peaked in 1988–89. Soon afterward, he decided he wanted to sell and anchored himself to the price of \$3,500,000. During the next ten years, as the market price of his house fell back to \$2,200,000 or so, he kept trying to sell at his now laughable anchor price. At last, in 2000, with a resurgent stock market and a dot-com-driven price rise in expensive homes, he escaped at \$3,250,000. In his case, as often happens, the thinking error of anchoring, despite the eventual sale price he achieved, left him with substantially less money than if he had acted otherwise.
 
-Mr. Davis and I used to jog together occasionally and chat about his favorite topics, money and investments. Following my recommendation, he joined a limited partnership that itself allocated money to limited partnerships, so-called hedge funds, which it believed were likely to make superior investments. His expected rate of return after paying his income taxes on the gains was about 10 percent per year, with considerably more stability in the value of the investment than was to be found in residential real estate or the stock market. I advised him to sell his house at current market just after the 1988–89 peak. He would have received perhaps $3,300,000 and then, as was his plan, moved to a $1,000,000 house. After costs and taxes he would have ended up with an additional $1,600,000 to invest. Putting this into the hedge fund he had already joined at my recommendation, the money would have grown at 10 percent per year for eleven years, becoming $4,565,000. Add that to the $1,000,000 house, whose market price would have declined, then recovered, and Mr. Davis would have had $5,565,000 in 2000 instead of the $3,250,000 he ended up with.
+Mr. Davis and I used to jog together occasionally and chat about his favorite topics, money and investments. Following my recommendation, he joined a limited partnership that itself allocated money to limited partnerships, so-called hedge funds, which it believed were likely to make superior investments. His expected rate of return after paying his income taxes on the gains was about 10 percent per year, with considerably more stability in the value of the investment than was to be found in residential real estate or the stock market. I advised him to sell his house at current market just after the 1988–89 peak. He would have received perhaps \$3,300,000 and then, as was his plan, moved to a \$1,000,000 house. After costs and taxes he would have ended up with an additional \$1,600,000 to invest. Putting this into the hedge fund he had already joined at my recommendation, the money would have grown at 10 percent per year for eleven years, becoming \$4,565,000. Add that to the \$1,000,000 house, whose market price would have declined, then recovered, and Mr. Davis would have had \$5,565,000 in 2000 instead of the \$3,250,000 he ended up with.
 
 
 
@@ -1676,13 +1478,13 @@ Thinking about momentum led me to wonder whether past prices could somehow be us
 
 I still owed more tuition to Mr. Market for his introductory course in investment mistakes. Mr. Market is an allegorical character famously introduced by Benjamin Graham to illustrate the excessive market price swings above and below the actual underlying business values of quoted securities. Some days he’s manic and prices are high. Other days he’s gloomy and shares can be bought well below what Graham called their “intrinsic value.” In the early 1960s the demand for silver was exceeding supply and I expected prices to spurt sharply. The value of the silver extracted from melting everyday coins was eventually expected to exceed the face value by enough to pay costs and give a profit. Bill Rickenbacker, who backed my blackjack trip with Mickey MacDougall and Russell Barnhart, had by then purchased US silver dollars and stored them in a vault while he waited for this to happen.
 
-The further price rise of silver would slow somewhat as a new supply came from melting coins. Also some five billion ounces of silver could potentially be extracted from the vast pool of jewelry in India. Once demand absorbed these new supplies, prices would jump even more. When the price of silver actually did pass $1.29 per ounce, those US coins that contained 90 percent silver were worth more as metal than as legal tender. Coins were skimmed from circulation and melted to extract their silver. After the US government banned this, the coins were hoarded and bought and sold in sixty-pound bags via dealers.
+The further price rise of silver would slow somewhat as a new supply came from melting coins. Also some five billion ounces of silver could potentially be extracted from the vast pool of jewelry in India. Once demand absorbed these new supplies, prices would jump even more. When the price of silver actually did pass \$1.29 per ounce, those US coins that contained 90 percent silver were worth more as metal than as legal tender. Coins were skimmed from circulation and melted to extract their silver. After the US government banned this, the coins were hoarded and bought and sold in sixty-pound bags via dealers.
 
 
 
 Believing this economic supply and demand analysis was correct, I opened a Swiss bank account to buy silver, with the help and encouragement of local promoters who got a commission for making the arrangements. They recommended doing this on 331⁄3 percent collateral. That means that for each dollar’s worth of silver I bought, I had to deposit only 331⁄3 cents in my account. The promoters arranged for my friendly Swiss bank to loan me the rest. Of course, when I borrowed to buy three times as much silver as I could have with cash alone, they got triple the commissions, and the bank was happy to collect interest on the loan and charge me monthly storage fees.
 
-Silver rose as predicted and the promoters recommended using the profits together with more bank loans to buy yet more silver. When the commodity reached $2.40 an ounce my account had a lot more of the metal than when I started, and I had a large profit on all of my purchases. However, as I had reinvested my profits on the way up, $1.60 of that $2.40 an ounce was owed on my loan from the bank. It was like buying a house with one-third down. Then the price of silver dropped. When this happened some people sold to capture their profit. This drove down the price still further until others, who had borrowed to an even greater extent than I had, were sold out by their lenders as their accounts threatened to go underwater—meaning there wouldn’t be enough left to pay off the loan. These sales pushed the price down even more, forcing more sales by the remaining borrowers, causing silver to drop rapidly to a little below $1.60, just enough to wipe me out, after which it resumed its upward path. I learned from this that even though I was right in my economic analysis I hadn’t properly evaluated the risk of too much leverage. For a few thousand dollars I learned from this to make proper risk management a major theme of my life for more than fifty years thereafter. In 2008 almost the entire world financial establishment didn’t understand this lesson and had overleveraged itself.
+Silver rose as predicted and the promoters recommended using the profits together with more bank loans to buy yet more silver. When the commodity reached \$2.40 an ounce my account had a lot more of the metal than when I started, and I had a large profit on all of my purchases. However, as I had reinvested my profits on the way up, \$1.60 of that \$2.40 an ounce was owed on my loan from the bank. It was like buying a house with one-third down. Then the price of silver dropped. When this happened some people sold to capture their profit. This drove down the price still further until others, who had borrowed to an even greater extent than I had, were sold out by their lenders as their accounts threatened to go underwater—meaning there wouldn’t be enough left to pay off the loan. These sales pushed the price down even more, forcing more sales by the remaining borrowers, causing silver to drop rapidly to a little below \$1.60, just enough to wipe me out, after which it resumed its upward path. I learned from this that even though I was right in my economic analysis I hadn’t properly evaluated the risk of too much leverage. For a few thousand dollars I learned from this to make proper risk management a major theme of my life for more than fifty years thereafter. In 2008 almost the entire world financial establishment didn’t understand this lesson and had overleveraged itself.
 
 I also learned from my losing silver investment that when the interests of the salesmen and promoters differ from those of the client, the client had better look out for himself. This is the well-known agency problem in economics, where the interest of the agents or managers don’t coincide with those of the principals, or owners. Shareholders of companies that have been pillaged by self-serving CEOs and boards of directors are painfully familiar with this.
 
@@ -1694,7 +1496,7 @@ After these lessons from Mr. Market, I was tempted to believe that the academics
 
 In June 1965, I began a second summer of self-education in economics, finance, and the markets. The thin pamphlet on common stock purchase warrants that I’d ordered had just come in the mail. I settled into a lawn chair, curious to find out how these securities worked. It was a revelation.
 
-The pamphlet explained that a common stock purchase warrant is a security issued by a company that gives the owner the right to buy stock at a specified price, known as the exercise price, on or before a stated expiration date. For instance, in 1964 a Sperry Rand warrant entitled the holder to purchase one share of common stock for $28 until September 15, 1967. On this final day, if the stock trades above that price, you can use one warrant plus $28 to buy one share of stock. This means the warrant is worth the amount by which the stock price exceeds $28. However, if the stock price is below $28, it is cheaper to buy the stock outright, in which case the warrant is worthless.
+The pamphlet explained that a common stock purchase warrant is a security issued by a company that gives the owner the right to buy stock at a specified price, known as the exercise price, on or before a stated expiration date. For instance, in 1964 a Sperry Rand warrant entitled the holder to purchase one share of common stock for \$28 until September 15, 1967. On this final day, if the stock trades above that price, you can use one warrant plus \$28 to buy one share of stock. This means the warrant is worth the amount by which the stock price exceeds \$28. However, if the stock price is below \$28, it is cheaper to buy the stock outright, in which case the warrant is worthless.
 
 A warrant, like a lottery ticket, was always worth something before it expired even if the stock price was very low, if there was any chance the stock price could move above the exercise price and put the warrant “into the money.” The more time left, and the higher the stock price, the more the warrant was likely to be worth. The prices of these two securities followed a simple relationship regardless of the complexities of the balance sheet or business affairs of the underlying company. As I thought about this I formed a rough idea of the rules relating the warrant price to the stock price. Since the prices of the two securities tended to move together, the important idea of “hedging” occurred to me, in which I could use this relationship to exploit any mispricing of the warrant and simultaneously reduce the risk of doing so.
 
@@ -1706,7 +1508,7 @@ A few days after I had the idea of hedging warrants versus common stock, we pack
 
 —
 
-On my first day in my new teaching position at UCI, in September 1965, Julian Feldman, the head of the school of information and computer sciences, asked me what I was working on. When I described my ideas about a theory of warrant valuation and hedging, he said that another member of the new faculty, an economist named Sheen Kassouf (1928–2005), had written his PhD thesis on the subject. Feldman introduced us and I learned that Kassouf had discovered the same concepts in 1962 and had already been shorting overpriced warrants and hedging them, doubling his initial $100,000 in just three years.
+On my first day in my new teaching position at UCI, in September 1965, Julian Feldman, the head of the school of information and computer sciences, asked me what I was working on. When I described my ideas about a theory of warrant valuation and hedging, he said that another member of the new faculty, an economist named Sheen Kassouf (1928–2005), had written his PhD thesis on the subject. Feldman introduced us and I learned that Kassouf had discovered the same concepts in 1962 and had already been shorting overpriced warrants and hedging them, doubling his initial \$100,000 in just three years.
 
 
 
@@ -1724,23 +1526,15 @@ A major theoretical breakthrough came to me in 1967. I used Occam’s razor—th
 
 Having the formula further increased my confidence and returns. This, along with the fact that the available investment opportunities were much larger than I could exploit with my modest capital, led to the next step. I began to manage hedged portfolios for friends and acquaintances.
 
+## Chapter 12: BRIDGE WITH BUFFETT
+
+As my reputation as an investor quietly spread around UC, Irvine, friends and members of the university community asked me to manage money for them. Using the warrant hedging techniques in *Beat the Market,* I took on several accounts with a minimum investment of \$25,000. Among my new clients was Ralph Waldo Gerard, dean of the graduate school at UCI, and his wife, Frosty, so-called because of her crown of white hair. Ralph, a distinguished medical researcher and biologist, was a member of the select National Academy of Sciences. Courtly, curious, and widely informed, he enjoyed discussing big ideas with me, as he had with one of his relatives, the great stock market theorist and philosopher Benjamin Graham. Graham and Dodd’s *Security Analysis,* first published in 1934, was the landmark book for the fundamental analysis of common stocks, revised and updated several times. Through Graham, Gerard had met Warren Buffett and was an early investor in one of his investment vehicles, Buffett Partnership, Ltd.
+
+Warren, who would become Graham’s greatest student and arguably the most successful investor of all time, started his first investment partnership, Buffett Associates, Ltd., in 1956 at the age of twenty-five with \$100,100. He told me with a laugh that the \$100 was his contribution. After starting ten more partnerships he merged them all into Buffett Partnership, Ltd., early in 1962. During the twelve years from 1956 to 1968, these funds Buffett managed compounded at a rate of 29.5 percent, before he took his fee of one-fourth of the gain in excess of 6 percent. He had no down years, whereas large company stocks and small company stocks each fell in four of those years. After Buffett’s fee, Gerard’s investment was growing at 24 percent a year, surpassing the typical stock market investor’s experience, as measured by small-company stocks, which compounded at 19 percent per year, and large-company stocks, which returned 10 percent. Before taxes, \$1 for Buffett’s limited partners grew to \$16.29. Each of Warren’s own dollars, growing without the deduction of his fees, became \$28.80.
 
 
 
-
-# Chapter 12
-
-------
-
-# BRIDGE WITH BUFFETT
-
-As my reputation as an investor quietly spread around UC, Irvine, friends and members of the university community asked me to manage money for them. Using the warrant hedging techniques in *Beat the Market,* I took on several accounts with a minimum investment of $25,000. Among my new clients was Ralph Waldo Gerard, dean of the graduate school at UCI, and his wife, Frosty, so-called because of her crown of white hair. Ralph, a distinguished medical researcher and biologist, was a member of the select National Academy of Sciences. Courtly, curious, and widely informed, he enjoyed discussing big ideas with me, as he had with one of his relatives, the great stock market theorist and philosopher Benjamin Graham. Graham and Dodd’s *Security Analysis,* first published in 1934, was the landmark book for the fundamental analysis of common stocks, revised and updated several times. Through Graham, Gerard had met Warren Buffett and was an early investor in one of his investment vehicles, Buffett Partnership, Ltd.
-
-Warren, who would become Graham’s greatest student and arguably the most successful investor of all time, started his first investment partnership, Buffett Associates, Ltd., in 1956 at the age of twenty-five with $100,100. He told me with a laugh that the $100 was his contribution. After starting ten more partnerships he merged them all into Buffett Partnership, Ltd., early in 1962. During the twelve years from 1956 to 1968, these funds Buffett managed compounded at a rate of 29.5 percent, before he took his fee of one-fourth of the gain in excess of 6 percent. He had no down years, whereas large company stocks and small company stocks each fell in four of those years. After Buffett’s fee, Gerard’s investment was growing at 24 percent a year, surpassing the typical stock market investor’s experience, as measured by small-company stocks, which compounded at 19 percent per year, and large-company stocks, which returned 10 percent. Before taxes, $1 for Buffett’s limited partners grew to $16.29. Each of Warren’s own dollars, growing without the deduction of his fees, became $28.80.
-
-
-
-So why were the Gerards interested in moving their money from the thirty-eight-year-old Buffett, who had been investing since he was a child and with whom they were netting 24 percent a year, to the thirty-six-year-old Thorp, who had been investing for only a few years and from whom they could expect, on the basis of past performance, to net just 20 percent a year? It was because, after the upward spike in stock prices in 1967, when holders of large-company stocks gained 38 percent on average over the two-year period and small-company stocks were up a manic 150 percent, Warren Buffett said it was too tough to find undervalued companies. Over the next couple of years he would be liquidating his partnership. His investors could cash out or, along with Warren himself, take some or all of their equity as shares in two companies owned by the partnership, one of which was a troubled little textile company called Berkshire Hathaway. Buffett himself now owned $25 million of the $100 million partnership, as a result of his management fees and their growth through reinvestment in the partnership.
+So why were the Gerards interested in moving their money from the thirty-eight-year-old Buffett, who had been investing since he was a child and with whom they were netting 24 percent a year, to the thirty-six-year-old Thorp, who had been investing for only a few years and from whom they could expect, on the basis of past performance, to net just 20 percent a year? It was because, after the upward spike in stock prices in 1967, when holders of large-company stocks gained 38 percent on average over the two-year period and small-company stocks were up a manic 150 percent, Warren Buffett said it was too tough to find undervalued companies. Over the next couple of years he would be liquidating his partnership. His investors could cash out or, along with Warren himself, take some or all of their equity as shares in two companies owned by the partnership, one of which was a troubled little textile company called Berkshire Hathaway. Buffett himself now owned \$25 million of the \$100 million partnership, as a result of his management fees and their growth through reinvestment in the partnership.
 
 The Gerards chose to take their distribution entirely in cash and were looking for a new home for it. Ralph liked the analytic approach in *Beat the Market* and my other writings, and he wanted not only to check me out himself but, as I realized later, to get a reading from the great investor with whom he had done so well. Thus it happened that in the summer of 1968 the Gerards invited Vivian and me to their home for dinner with Susie and Warren Buffett.
 
@@ -1750,7 +1544,7 @@ From their home in the Harbor View Hills section of Newport Beach, the Gerards e
 
 Warren was a high-speed talker with a Nebraska twang and a stream of jokes, anecdotes, and clever sayings. He loved to play bridge and had a natural liking for the logical, the quantitative, and the mathematical. As the evening went on, I learned that he focused on finding and buying into undervalued companies. Over a period of several years, he expected each of these investments to substantially outperform the market, as represented by an index such as the Dow Jones Industrial Average (DJIA) or the Standard & Poor’s 500 (S&P 500). As his mentor Ben Graham did before him, Warren also invested in warrant and convertible hedging and merger arbitrage. It was in this area that his and my interest overlapped, and where Buffett, unknown to me, was vetting me as a possible successor to manage investments for the Gerards.
 
-As we chatted about compound interest, Warren gave one of his favorite examples of its remarkable power, how if the Manhattan Indians could have invested $24, the value then of the trinkets Peter Minuit paid them for Manhattan in 1626, at a net return of 8 percent, they could buy the land back now along with all the improvements. Warren said he was asked how he found so many millionaires for his partnership. Laughing, he said to me, “I told them I grew my own.”
+As we chatted about compound interest, Warren gave one of his favorite examples of its remarkable power, how if the Manhattan Indians could have invested \$24, the value then of the trinkets Peter Minuit paid them for Manhattan in 1626, at a net return of 8 percent, they could buy the land back now along with all the improvements. Warren said he was asked how he found so many millionaires for his partnership. Laughing, he said to me, “I told them I grew my own.”
 
 Then Warren asked me if I knew about three oddly numbered dice. He had recently heard about them and, in the years to come, would enjoy using them to baffle one smart person after another. Like standard dice, each face has a number between one and six, but unlike normal dice some numbers can be the same. In fact, for the dice Warren asked me about, each die has no more than two or three different numbers. These dice are used to play a gambling game: You pick the “best” of the three dice, then from the remaining two I pick the “second best.” We both roll and the high number wins. I can beat you, on average, even though you chose the better die. The surprise for nearly everyone is that there is no “best” die. Call the dice A, B, and C. If A beats B, and B beats C, it seems plausible that since A was better than B and B was better than C, A ought to be much better than C. Instead C beats A.
 
@@ -1774,7 +1568,7 @@ Warren’s house in Emerald Bay became newsworthy later on during Arnold (“The
 
 Businesses did even better than homeowners. They created companies to hold properties. Instead of selling a particular property, they sold the company that owned it. By keeping the same “owner,” this scheme could preserve forever the original low valuation of the individual properties a particular company owned rather than increasing the tax based on a new, higher and more realistic sales price. The revenue the state lost would have been enough to eliminate all the California budget deficits from 1978 until now, and to make unnecessary all the cuts in funding for education and law enforcement, provided of course that politicians, seeing no deficits as a result, restrained themselves from adding foolish or wasteful new expenditures.
 
-Buffett, aware of the economic harm to the state, publicly advised Schwarzenegger to shift to a fair and equitable property tax. He pointed out that by virtue of Proposition 13 the property tax on his Emerald Bay house, which he purchased in the 1960s and was now worth several million dollars, was substantially less than on his house in Omaha, currently valued at $700,000. The governor-to-be, expecting to lose votes if he followed this advice, said, “I told Warren that if he mentions Proposition 13 again he has to do five hundred sit-ups.” Warren quietly discontinued advising Schwarzenegger.
+Buffett, aware of the economic harm to the state, publicly advised Schwarzenegger to shift to a fair and equitable property tax. He pointed out that by virtue of Proposition 13 the property tax on his Emerald Bay house, which he purchased in the 1960s and was now worth several million dollars, was substantially less than on his house in Omaha, currently valued at \$700,000. The governor-to-be, expecting to lose votes if he followed this advice, said, “I told Warren that if he mentions Proposition 13 again he has to do five hundred sit-ups.” Warren quietly discontinued advising Schwarzenegger.
 
 
 
@@ -1792,13 +1586,13 @@ Impressed by Warren’s mind and his methods, as well as his record as an invest
 
 
 
-My prediction came true for a few months in 1993, at which time he was the richest man in the world, until he was passed by Bill Gates and, later, a few other dot-commers. Buffett regained the world’s top spot in 2007 only to trade places with his bridge buddy Gates again in 2008. By then, time spent with Warren had become a commodity of great value. In a vigorous auction on eBay, an Asian investor bid $2 million, to be donated to charity, for the privilege of having lunch with him.
+My prediction came true for a few months in 1993, at which time he was the richest man in the world, until he was passed by Bill Gates and, later, a few other dot-commers. Buffett regained the world’s top spot in 2007 only to trade places with his bridge buddy Gates again in 2008. By then, time spent with Warren had become a commodity of great value. In a vigorous auction on eBay, an Asian investor bid \$2 million, to be donated to charity, for the privilege of having lunch with him.
 
 Ralph Gerard gave me copies of Buffett’s letters to his partners and his partnership document, a simple two-page affair. It was clear from this that the ideal plan would be to pool my investing for myself and others in a single limited partnership just as Warren had eventually done.
 
 —
 
-At the time, I was managing a total of about $400,000. At 25 percent a year, the accounts were grossing $100,000, and as my performance fee was 20 percent of the profits, I was earning at the rate of $20,000 a year, roughly the same as my salary as a professor. With the assets of the accounts pooled into a single account, I could manage more with less effort. A particular warrant hedge only had to be set up and managed once, rather than replicated individually for each managed account.
+At the time, I was managing a total of about \$400,000. At 25 percent a year, the accounts were grossing \$100,000, and as my performance fee was 20 percent of the profits, I was earning at the rate of \$20,000 a year, roughly the same as my salary as a professor. With the assets of the accounts pooled into a single account, I could manage more with less effort. A particular warrant hedge only had to be set up and managed once, rather than replicated individually for each managed account.
 
 While I was deciding on my next steps, I got a phone call from a young stockbroker in New York named Jay Regan, who had read *Beat the Market* and told me he wanted to get into the investing business using a limited partnership to implement my convertible hedging approach. Thinking he might be able to handle the business aspects of running a hedge fund while I focused on choosing the investments and on doing further research into the markets, I arranged to meet him at my office in the UCI Math Department one day in 1969.
 
@@ -1808,7 +1602,7 @@ Ten years younger than I and of medium height, the twenty-seven-year-old Regan h
 
 We seemed to make a natural team. I would generate most of the ideas but he would bring suggestions and trading possibilities from “the Street.” I would do the analysis and compute orders for him to execute through various brokers. He was to handle taxes, accounting, and most of the legal and regulatory paperwork, things I wished to avoid so I could focus on research and development.
 
-We shook hands that day and agreed to create and manage together a new investment partnership based on the ideas in *Beat the Market.* Newport Beach was to be the think tank and trade generator, and New York the business office and trading desk. Discussing how much capital we needed to start with, we set $5 million as our target. If we made 20 percent net of expenses and charged 20 percent of that as a performance-based fee each year, we’d share 4 percent of $5 million, or $200,000, more than my remuneration as a professor of mathematics and what I was making from my smaller pool of managed accounts.
+We shook hands that day and agreed to create and manage together a new investment partnership based on the ideas in *Beat the Market.* Newport Beach was to be the think tank and trade generator, and New York the business office and trading desk. Discussing how much capital we needed to start with, we set \$5 million as our target. If we made 20 percent net of expenses and charged 20 percent of that as a performance-based fee each year, we’d share 4 percent of \$5 million, or \$200,000, more than my remuneration as a professor of mathematics and what I was making from my smaller pool of managed accounts.
 
 Our operation was an example of what had come to be known as a hedge fund. A hedge fund in the United States is simply a private limited partnership managed by one or more general partners (each of whom risks the loss of their entire net worth should things go badly wrong) and a group of investors, or limited partners, whose loss is limited to the amount they commit. The investors are primarily passive, with no role in the management of the partnership or in its investments. At the time, such funds were only lightly regulated, provided there were no more than ninety-nine partners and they did not solicit the general public. Hedge funds based overseas, called offshore, may also be structured as corporations or trusts.
 
@@ -1816,13 +1610,13 @@ Although hedge funds were few in number at that time, they were not a new concep
 
 
 
-I knew that finding investors was not going to be easy. Just as 1967–68 had been a manic two years for the markets and for the few existing hedge funds, 1969 was a major downer. Large-company stocks lost an average of 9 percent, and small-company stocks were crushed by an alarming 25 percent. Most hedge funds suffered severe losses and were closing down. Though we explained we were to be market-neutral and hedged, thus protecting principal, our ideas were new and people were scared. We finally signed up fourteen limited partners plus ourselves, each for $50,000 or more. My individual investors were among our first partners; Regan found more money by going to the courthouse, getting lists of limited partners from documents that had been filed by other hedge funds, and cold calling. I flew to New York to meet prospects, explain our methods, and add cachet with my books and academic position. By late October we had managed to get only $1.4 million in commitments but we decided to move ahead anyhow. We’d simply grow through profits, and these would attract more capital later from both current and new investors. Convertible Hedge Associates (later renamed Princeton Newport Partners) opened its bicoastal doors on Monday, November 3, 1969. An article in the *Wall Street Letter* announced our start, setting it in the context of that year’s widespread market rout and the closing down of several hedge funds.
+I knew that finding investors was not going to be easy. Just as 1967–68 had been a manic two years for the markets and for the few existing hedge funds, 1969 was a major downer. Large-company stocks lost an average of 9 percent, and small-company stocks were crushed by an alarming 25 percent. Most hedge funds suffered severe losses and were closing down. Though we explained we were to be market-neutral and hedged, thus protecting principal, our ideas were new and people were scared. We finally signed up fourteen limited partners plus ourselves, each for \$50,000 or more. My individual investors were among our first partners; Regan found more money by going to the courthouse, getting lists of limited partners from documents that had been filed by other hedge funds, and cold calling. I flew to New York to meet prospects, explain our methods, and add cachet with my books and academic position. By late October we had managed to get only \$1.4 million in commitments but we decided to move ahead anyhow. We’d simply grow through profits, and these would attract more capital later from both current and new investors. Convertible Hedge Associates (later renamed Princeton Newport Partners) opened its bicoastal doors on Monday, November 3, 1969. An article in the *Wall Street Letter* announced our start, setting it in the context of that year’s widespread market rout and the closing down of several hedge funds.
 
 
 
 >   MONEY ON THE MOVE. As some hedge funds break up in the aftermath of sour performances this year, new investment partnerships continue to be formed. One of the newest is Convertible Hedge Associates, whose general partners are Ed Thorp and Jay Regan. Thorp is the fellow who developed a computerized system for beating the blackjack tables in Las Vegas, before they changed the rules on him, and wrote the book *Beat the Dealer.* He’s turned his computer talents to money management and has a book out called *Beat the Market.* Regan has been with Butcher & Sherrerd, Kidder, Peabody and White, Weld. Among their limited partners are Dick Salomon, chairman of Lanvin-Charles of the Ritz; Charlie Evans (formerly of Evan-Picone) and Bob Evans (Paramount Pictures), and Don Kouri, president of Reynolds Foods, Ltd.
 
-We completed our first two months of operation with a 4 percent profit, or $56,000. The S&P 500 Index was down 5 percent in the same two months. My $5,600 share of the general partner’s fee exceeded my university income for the same period.
+We completed our first two months of operation with a 4 percent profit, or \$56,000. The S&P 500 Index was down 5 percent in the same two months. My \$5,600 share of the general partner’s fee exceeded my university income for the same period.
 
 It was clear that I was at a crossroad. I could use my mathematical skills to develop strategies for hedging and possibly become rich; or I could compete in the academic world for advancement and distinction. I loved university-level teaching and research, and decided to stay with it as long as I could. My best quantitative financial ideas would be saved for our investors, not published, and over time would be rediscovered by and credited to others.
 
@@ -1830,13 +1624,7 @@ Buffett’s report on me to the Gerards must have been favorable, since they joi
 
 
 
-
-
-# Chapter 13
-
-------
-
-# GOING INTO PARTNERSHIP
+## Chapter 13: GOING INTO PARTNERSHIP
 
 Princeton Newport Partners (PNP) was a revolutionary idea when we set it up in 1969. We specialized in the hedging of convertible securities—warrants, options, convertible bonds and preferreds, and other types of derivative securities as they were introduced into the markets. Hedging risk was not new but we took it to an extreme never before tried. To begin with, we designed each of our hedges, which combined the stock and convertible securities of a single company, to minimize the risk of loss whether the stock fell or rose. We invented hedging techniques to further protect our portfolio against changes in interest rates, changes in the level of the overall market, and the catastrophic losses that can occasionally occur from enormous unexpected changes in prices and volatility. We managed this with mathematical formulas, economic models, and computers. This nearly total reliance on quantitative methods was unique, making us the earliest of a new breed of investors who would later be called quants, and who would radically transform Wall Street.
 
@@ -1846,7 +1634,7 @@ I could see from the beginning how our wealth could grow. But when I told friend
 
 My initial plan for Princeton Newport Partners, which for the first five years we called Convertible Hedge Associates, was to find pairs of closely related securities that were priced inconsistently with respect to each other, and use them to construct investments that reduced risk. To form these hedges, we simultaneously bought the relatively underpriced security while offsetting the risk from adverse changes in its price by selling short the comparatively overpriced security. Since the prices of these two securities tended to move in tandem, I expected the combination to reduce risk while capturing extra returns. I identified these situations using the mathematical methods I had worked out for judging the proper price of a warrant, option, or convertible bond versus the common stock of the same company.
 
-Betting on a hedge I had researched was like betting on a blackjack hand where I had the advantage. As in blackjack, I could estimate my expected return, estimate my risk, and choose how much of my bankroll to bet. Instead of a $10,000 bankroll I now had $1.4 million, and instead of a $500 maximum bet, the Wall Street casino had no limit. We started betting $50,000 to $100,000 per hedge.
+Betting on a hedge I had researched was like betting on a blackjack hand where I had the advantage. As in blackjack, I could estimate my expected return, estimate my risk, and choose how much of my bankroll to bet. Instead of a \$10,000 bankroll I now had \$1.4 million, and instead of a \$500 maximum bet, the Wall Street casino had no limit. We started betting \$50,000 to \$100,000 per hedge.
 
 To search for opportunities, early every afternoon after the market closed in New York, UC, Irvine students whom I hired went to the offices of two brokerage firms with which I traded. They collected the closing prices for hundreds of warrants, convertible bonds, convertible preferreds, and their associated common stocks. A preferred stock typically pays a regular dividend, whereas a common stock may or may not pay a dividend and, if it does, will generally vary over time. A preferred stock’s dividend is paid first—in preference—before any payments due to the common stock. In the typical case, where the dividend amount is fixed, the preferred is like a bond but more risky because the dividend payments and the claim on assets upon liquidation are only paid after the corresponding bond payments. A so-called convertible preferred is one that can be exchanged for a specified number of shares of the common. So a convertible preferred is like a convertible bond but less secure, as it is paid only if there is enough money to do so after the bondholders receive their interest. At that time they gave us numerous investment possibilities.
 
@@ -1868,7 +1656,7 @@ Each day after the market closed, I called Jay Regan in New York with trading in
 
 To inform our limited partners as well as potential new partners, we periodically issued updated versions of our Confidential Private Placement Memorandum, which explained such things as the operations and objectives of the partnership, the fee structure, and the potential risks. We included simplified schematic descriptions of a few of our actual investments, without the mathematical formulas, diagrams, and calculations.
 
-One of these trades could have been right out of the pages of *Beat the Market.* In 1970 the American Telephone and Telegraph Company (AT&T) sold warrants to purchase thirty-one million shares of common stock at a price of $12.50 per share. Proceeds to the company were some $387.5 million, at the time the most ever for a warrant. Though it was not sufficiently mispriced then, the history of how warrant prices behaved indicated this could happen before it expired in 1975. When it did we bet a significant part of the partnership’s net worth.
+One of these trades could have been right out of the pages of *Beat the Market.* In 1970 the American Telephone and Telegraph Company (AT&T) sold warrants to purchase thirty-one million shares of common stock at a price of \$12.50 per share. Proceeds to the company were some \$387.5 million, at the time the most ever for a warrant. Though it was not sufficiently mispriced then, the history of how warrant prices behaved indicated this could happen before it expired in 1975. When it did we bet a significant part of the partnership’s net worth.
 
 —
 
@@ -1884,19 +1672,19 @@ Unknown to Einstein, his equations describing the Brownian motion of pollen part
 
 Bachelier had assumed that changes in stock prices followed a bell-shaped curve, known as a normal or Gaussian distribution. This didn’t match real prices well, especially for periods longer than a few days. By the 1960s, academics had improved on Bachelier’s work by using a more accurate description of stock price changes. Even so, these newer formulas for fair option prices, which applied as well to warrants, were not useful for trading because they included two quantities that could not be estimated satisfactorily from data. One of these was a growth rate for the stock between “now” and the warrant’s expiration date. The other was a discount factor that was applied to the warrant’s uncertain payoff at expiration in order to obtain its present value.
 
-This discount factor, or markdown, accounted for the fact that investors tend to value an uncertain payoff less than if it was a sure thing. For example, if you toss a fair coin—which by definition has equal chances of coming up heads or tails—an investor who is paid $2 for heads and nothing for tails has an average but uncertain return of $1. This value is found by multiplying each payoff by the number of ways it occurs (one, in this example) and dividing by two, the number of possible outcomes. Most investors would rather be paid $1 for sure. For two investments with the same expected return, the less risky one tends to be preferred. Influenced by having been born during the Great Depression and by my early investment experiences, I made reducing risk a central feature of my investing approach.
+This discount factor, or markdown, accounted for the fact that investors tend to value an uncertain payoff less than if it was a sure thing. For example, if you toss a fair coin—which by definition has equal chances of coming up heads or tails—an investor who is paid \$2 for heads and nothing for tails has an average but uncertain return of \$1. This value is found by multiplying each payoff by the number of ways it occurs (one, in this example) and dividing by two, the number of possible outcomes. Most investors would rather be paid \$1 for sure. For two investments with the same expected return, the less risky one tends to be preferred. Influenced by having been born during the Great Depression and by my early investment experiences, I made reducing risk a central feature of my investing approach.
 
 Back in 1967, I had taken a further step in figuring out how much a warrant was worth. Using plausible and intuitive reasoning, I supposed that both the unknown growth rate and the discount factor in the existing warrant valuation formula could be replaced by the so-called riskless interest rate, namely that which was paid by a US Treasury bill maturing at the warrant expiration date. This converted an unusable formula with unknown quantities into a simple practical trading tool. I began using it for my own account and for my investors in 1967. It performed spectacularly. In 1969, unknown to me, Fischer Black and Myron Scholes, motivated in part by *Beat the Market,* rigorously proved the identical formula, publishing it in 1972 and 1973. This launched the development and widespread use of so-called derivative securities throughout the financial world. For their contributions, Myron Scholes and Robert Merton received the Nobel Prize in Economics in 1997. The Nobel committee acknowledged Fischer Black’s (1938–95) contributions, and it is generally agreed that he would have shared in the prize had he not died earlier from throat cancer.
 
 
 
-Powered largely by the formula, Princeton Newport Partners prospered. In our first two months, November and December 1969, our investors gained 3.2 percent while the S&P 500 lost 4.8 percent, an 8 percent edge. In 1970 we were up 13.0 percent versus 3.7 percent for the S&P. In 1971 the score was 26.7 percent to 13.9 percent, which was almost 13 percent better for our limited partners. In 1972 the S&P finally did better, making 18.5 percent compared with our 12 percent. Does this mean we did badly? No. It showed we were doing exactly what we intended to do, produce steady high returns in both good times and bad times. The hedges protected us against losses but at the expense of giving up some of the gains in big up-markets. The variation in our returns from year to year was mostly due to fluctuation in the quantity and quality of hedged investments, rather than the ups and downs of the market. Our first severe test came with the big bear market of 1973–74. The downturn was driven in part by the Arab oil embargo. The resulting record oil prices, adjusted for inflation, were never surpassed until the great run-up to $140 a barrel, reached in 2008.
+Powered largely by the formula, Princeton Newport Partners prospered. In our first two months, November and December 1969, our investors gained 3.2 percent while the S&P 500 lost 4.8 percent, an 8 percent edge. In 1970 we were up 13.0 percent versus 3.7 percent for the S&P. In 1971 the score was 26.7 percent to 13.9 percent, which was almost 13 percent better for our limited partners. In 1972 the S&P finally did better, making 18.5 percent compared with our 12 percent. Does this mean we did badly? No. It showed we were doing exactly what we intended to do, produce steady high returns in both good times and bad times. The hedges protected us against losses but at the expense of giving up some of the gains in big up-markets. The variation in our returns from year to year was mostly due to fluctuation in the quantity and quality of hedged investments, rather than the ups and downs of the market. Our first severe test came with the big bear market of 1973–74. The downturn was driven in part by the Arab oil embargo. The resulting record oil prices, adjusted for inflation, were never surpassed until the great run-up to \$140 a barrel, reached in 2008.
 
-In 1973 the S&P fell 15.2 percent and we were up 6.5, with our partners beating the market by over 20 percent. Stock market investors were hurt even more in 1974. The S&P plummeted 27.1 percent and our partners made 9.0 percent, a gap of more than 36 percent in our favor. Over that two-year cycle, limited partners in PNP saw each $1,000 increase to $1,160, whereas investors in the S&P 500 saw their $1,000 shrink to $618. Moreover, PNP made money every month in its first six years except for one in early 1974, when it declined less than 1 percent. From the peak on January 11, 1973, to the bottom on October 3, 1974, the drop in the stock market was a savage 48.2 percent, the worst since the Great Depression. Even Warren Buffett said then that it was a good thing for his partners he’d closed down when he had.
+In 1973 the S&P fell 15.2 percent and we were up 6.5, with our partners beating the market by over 20 percent. Stock market investors were hurt even more in 1974. The S&P plummeted 27.1 percent and our partners made 9.0 percent, a gap of more than 36 percent in our favor. Over that two-year cycle, limited partners in PNP saw each \$1,000 increase to \$1,160, whereas investors in the S&P 500 saw their \$1,000 shrink to \$618. Moreover, PNP made money every month in its first six years except for one in early 1974, when it declined less than 1 percent. From the peak on January 11, 1973, to the bottom on October 3, 1974, the drop in the stock market was a savage 48.2 percent, the worst since the Great Depression. Even Warren Buffett said then that it was a good thing for his partners he’d closed down when he had.
 
 
 
-Existing partners were adding money and prospective new partners were learning about us through word of mouth. Partnership capital had grown from the initial $1.4 million to $7.4 million, and the general partners’ compensation increased proportionately. Since the Investment Company Act limited us to ninety-nine partners, each investor’s stake would have to average over $1 million in order for our pool to reach $100 million. Therefore we wanted high-net-worth individuals and institutional investors who would make an initial investment in PNP that would be substantial for us but a small part of their overall funds. We also liked that high-net-worth investors tended to be more knowledgeable, more experienced, and better able to judge the risks of the partnership, as well as having their own advisers. To increase the amount of new capital we could get from the dwindling number of spots available for new partners, we raised the minimum to join from our initial $50,000 to $100,000, then $250,000, $1,000,000, and eventually $10,000,000. We admitted new partners only after a careful check of their backgrounds. This was generally easy to do, as they often had careers about which there was public information, or they were personally known to us.
+Existing partners were adding money and prospective new partners were learning about us through word of mouth. Partnership capital had grown from the initial \$1.4 million to \$7.4 million, and the general partners’ compensation increased proportionately. Since the Investment Company Act limited us to ninety-nine partners, each investor’s stake would have to average over \$1 million in order for our pool to reach \$100 million. Therefore we wanted high-net-worth individuals and institutional investors who would make an initial investment in PNP that would be substantial for us but a small part of their overall funds. We also liked that high-net-worth investors tended to be more knowledgeable, more experienced, and better able to judge the risks of the partnership, as well as having their own advisers. To increase the amount of new capital we could get from the dwindling number of spots available for new partners, we raised the minimum to join from our initial \$50,000 to \$100,000, then \$250,000, \$1,000,000, and eventually \$10,000,000. We admitted new partners only after a careful check of their backgrounds. This was generally easy to do, as they often had careers about which there was public information, or they were personally known to us.
 
 We modified our performance fee of 20 percent of the profits, billed annually, by including a “new high water” provision. This meant that if we had a losing year, we carried forward the losses and used them to offset future profits before we were paid more fees. This helped align our economic interests with those of the limited partners. As it happened, we never had a losing year, or even a losing quarter, and this calculation was never invoked.
 
@@ -1946,7 +1734,7 @@ After meeting one of the characters, she said, “He’s greedy, insincere, and 
 
 She said, “You can see he’s greedy from the way he drives. The insincerity comes out when he smiles. His eyes don’t really smile, too; they mock you. And his wife has a sad look in her eyes that doesn’t add up. The face she sees at home isn’t the one he shows the world.”
 
-Years later, this “friend” Glen, as I’ll call him, was running a hedge fund in which we were investors. The fund had lost $2 million in one of its investments, partly through fraud. When lawyers eventually recovered $1 million of the losses, Glen allocated the money to his current partners, most of whom were not among the former partners who had suffered the original loss. As he would be deriving future economic benefit from his current partners but none from the former partners, he would gain by this injustice. When I confronted him, he claimed not to be able to locate the twenty or so former partners. I had a list and told him I had current information on all but three and knew how to find those through mutual friends. Then he said he wouldn’t pay and that, under the terms of the partnership, each partner had to go to arbitration separately. The amounts averaged $50,000 or so each, which he knew were not worth pursuing after lawyers’ fees, personal time, inconvenience, and stress. He refused my request that he agree to a single arbitration to settle this for the entire group. He suggested slyly that maybe we should try a few individual arbitrations and if he lost them all, he might change his mind. When I asked his lawyer associate how he could ratify such unethical behavior, he said, “They don’t teach ethics in law school.”
+Years later, this “friend” Glen, as I’ll call him, was running a hedge fund in which we were investors. The fund had lost \$2 million in one of its investments, partly through fraud. When lawyers eventually recovered \$1 million of the losses, Glen allocated the money to his current partners, most of whom were not among the former partners who had suffered the original loss. As he would be deriving future economic benefit from his current partners but none from the former partners, he would gain by this injustice. When I confronted him, he claimed not to be able to locate the twenty or so former partners. I had a list and told him I had current information on all but three and knew how to find those through mutual friends. Then he said he wouldn’t pay and that, under the terms of the partnership, each partner had to go to arbitration separately. The amounts averaged \$50,000 or so each, which he knew were not worth pursuing after lawyers’ fees, personal time, inconvenience, and stress. He refused my request that he agree to a single arbitration to settle this for the entire group. He suggested slyly that maybe we should try a few individual arbitrations and if he lost them all, he might change his mind. When I asked his lawyer associate how he could ratify such unethical behavior, he said, “They don’t teach ethics in law school.”
 
 
 
@@ -1954,7 +1742,7 @@ As Princeton Newport Partners prospered, I was meeting interesting people. Curio
 
 The studios were adjacent to Beverly Hills High School, the only Southern California high school with an oil well on campus. When I arrived, Paul was in blue jeans with a shirt and jacket to match, long before this was chic. I am reminded of the clean but faded Levi’s that I generally wore in the 1940s for want of money and how I was astonished fifty years later when stylish people paid up for intentionally tattered and hole-filled jeans in far worse condition than my high school pants.
 
-I was struck by Newman’s remarkable blue eyes, even more intense in person than on film. Reserved, even shy when meeting someone for the first time, he looked me over, didn’t say anything at first, then said, “You want a beer?” I said, “Sure,” and he relaxed, deciding I was a regular guy. Over lunch, as I ate a special sandwich he recommended, he asked about my blackjack card counting system and how much I thought I could make at it full-time. Mastering disguises and playing alone, instead of running a team, I estimated $300,000 per year. “Why aren’t you doing it?” he asked. I said I expected to do better running my hedge fund. As he was making six million taxable dollars that year, which was the reason for our lunch, he appreciated the answer. Nothing came of the meeting. Paul’s lawyer believed that the ideas I presented for reducing his taxes were sound but new and thus likely to be challenged. His lawyer advised Paul, a high-profile progressive Democrat, not to risk being embroiled with a Republican IRS.
+I was struck by Newman’s remarkable blue eyes, even more intense in person than on film. Reserved, even shy when meeting someone for the first time, he looked me over, didn’t say anything at first, then said, “You want a beer?” I said, “Sure,” and he relaxed, deciding I was a regular guy. Over lunch, as I ate a special sandwich he recommended, he asked about my blackjack card counting system and how much I thought I could make at it full-time. Mastering disguises and playing alone, instead of running a team, I estimated \$300,000 per year. “Why aren’t you doing it?” he asked. I said I expected to do better running my hedge fund. As he was making six million taxable dollars that year, which was the reason for our lunch, he appreciated the answer. Nothing came of the meeting. Paul’s lawyer believed that the ideas I presented for reducing his taxes were sound but new and thus likely to be challenged. His lawyer advised Paul, a high-profile progressive Democrat, not to risk being embroiled with a Republican IRS.
 
 We had other interactions with Hollywood. Two of our early limited partners were Robert Evans and his brother, Charles. Bob was a relatively unknown actor and producer until 1966 when the conglomerate Gulf and Western took over Paramount and picked Evans as head of production. During the next eight years Evans returned Paramount to success with hits including *The Odd Couple, Rosemary’s Baby, Love Story, Chinatown,* and *The Godfather.* In the 1997 movie *Wag the Dog,* Dustin Hoffman plays a character based in detail on Evans’s appearance, habits, and mannerisms.
 
@@ -1984,7 +1772,7 @@ My PhD thesis was in pure mathematics and this continued to be my focus for the 
 
 At the same time, the Math Department was headed for serious trouble. Both the levels of grant money for research and funds from the state of California to support the university had declined. This led to fierce struggles among various factions in the department for what was left. To mediate the infighting, an outsider was brought in as a chairman. He was forced out after three turbulent years. For want of anyone else who might be acceptable to the warring groups, and against my better judgment, I was persuaded by the administration to act as temporary chairman.
 
-The assignment was worse than I thought. I found that one assistant professor had stopped showing up to teach, dividing his time between his girlfriend four hundred miles to the north in the San Francisco Bay Area and the casinos in Reno and Lake Tahoe. A card counter, he even called me with blackjack questions! Another assistant professor was running up departmental phone bills of $2,000 per month versus a total of $200 for the other twenty-five professors combined. When I confronted him he claimed it was mathematical research. A review of the bills showed almost all the charges were for calls to two numbers in New York City. I dialed each, speaking in turn to his mother and to a store that sold musical recordings. He was enraged at me and not at all embarrassed when exposed.
+The assignment was worse than I thought. I found that one assistant professor had stopped showing up to teach, dividing his time between his girlfriend four hundred miles to the north in the San Francisco Bay Area and the casinos in Reno and Lake Tahoe. A card counter, he even called me with blackjack questions! Another assistant professor was running up departmental phone bills of \$2,000 per month versus a total of \$200 for the other twenty-five professors combined. When I confronted him he claimed it was mathematical research. A review of the bills showed almost all the charges were for calls to two numbers in New York City. I dialed each, speaking in turn to his mother and to a store that sold musical recordings. He was enraged at me and not at all embarrassed when exposed.
 
 
 
@@ -2004,11 +1792,7 @@ I intensified my focus on competing with the wave of mathematicians, physicists,
 
 
 
-# Chapter 14
-
-------
-
-# FRONT-RUNNING THE QUANTITATIVE REVOLUTION
+## Chapter 14: FRONT-RUNNING THE QUANTITATIVE REVOLUTION
 
 When Black and Scholes published their formula, the same one I was already using, I knew that to maintain PNP’s trading edge I would have to develop my tools for valuing warrants, options, convertible bonds, and other derivative securities rapidly enough to stay ahead of future marching legions of PhDs hungry for academic advancement through publication. Though I had to keep important results secret for the benefit of our investors, I could publicize lesser ideas that I thought would soon be found by others.
 
@@ -2024,15 +1808,15 @@ In May 1974 I had dinner with Fischer Black in Chicago, where he had invited me 
 
 As with my method for valuing American puts, my associates and I continued to solve problems for valuing so-called derivatives before the discovery and publication by academics. From 1967 until PNP closed at the end of 1988, this gave us a significant edge in trading the expanding array of new financial instruments.
 
-Some of our trades were easy to explain to partners without using theory. One of these involved warrants issued by the Mary Carter Paint Company. Founded in 1958 as the successor to a 1908 company, it started as an acquirer of other paint companies, then evolved into a resort and casino developer in the Bahamas. Changing its name to Resorts International, it divested itself of the paint business and name. In 1972 the company had warrants that sold for 27 cents when the stock traded at $8 share. The warrants were so cheap because they were worthless unless the stock traded above $40 a share. Fat chance. Since our model said the warrants were worth $4 a share, we bought all we could at the unbelievable bargain price of 27 cents each, which turned out to be 10,800 warrants at a total cost, after commissions, of $3,200. We hedged our risk of loss by shorting eight hundred shares of the common stock at $8. When the stock later fell to $1.50 a share, we bought back our short stock for a profit of about $5,000. Our gain now consisted of the warrants for “free” plus about $1,800 in cash. The warrants were trading close to zero but below the tiny amount the model said they were worth, so I decided we should put them away and forget them.
+Some of our trades were easy to explain to partners without using theory. One of these involved warrants issued by the Mary Carter Paint Company. Founded in 1958 as the successor to a 1908 company, it started as an acquirer of other paint companies, then evolved into a resort and casino developer in the Bahamas. Changing its name to Resorts International, it divested itself of the paint business and name. In 1972 the company had warrants that sold for 27 cents when the stock traded at \$8 share. The warrants were so cheap because they were worthless unless the stock traded above \$40 a share. Fat chance. Since our model said the warrants were worth \$4 a share, we bought all we could at the unbelievable bargain price of 27 cents each, which turned out to be 10,800 warrants at a total cost, after commissions, of \$3,200. We hedged our risk of loss by shorting eight hundred shares of the common stock at \$8. When the stock later fell to \$1.50 a share, we bought back our short stock for a profit of about \$5,000. Our gain now consisted of the warrants for “free” plus about \$1,800 in cash. The warrants were trading close to zero but below the tiny amount the model said they were worth, so I decided we should put them away and forget them.
 
-Six busy years passed. Then in 1978 we started getting calls from people who wanted to buy our warrants. The company had purchased property in Atlantic City, New Jersey, after which it successfully lobbied, along with others, to bring casino gambling to the state, limited to Atlantic City. On May 26, 1978, Resorts opened the first US casino outside Nevada. Having received early approval, they had no competition and reaped windfall profits until other casinos opened late in 1979. With the stock now trading at $15 a share, ten times its earlier lowest price, and the warrants trading between $3 and $4, the model said they were worth about $7 or $8. So, instead of selling and reaping a $30,000 to $40,000 profit, I bought more warrants and sold stock short to hedge the risk of loss. As the stock broke through the $100 mark, we were still buying warrants and shorting stock. We finally sold the 27-cent warrants and others for above $100 each. We ultimately made more than $1 million. At the same time, blackjack teams using my methods were exploiting the casino boom in Atlantic City with its temporary friendly environment and reasonable blackjack rules. Ironically, as they were extracting millions of dollars from the blackjack tables at Resorts and elsewhere, I was profiting from Resorts’ securities.
+Six busy years passed. Then in 1978 we started getting calls from people who wanted to buy our warrants. The company had purchased property in Atlantic City, New Jersey, after which it successfully lobbied, along with others, to bring casino gambling to the state, limited to Atlantic City. On May 26, 1978, Resorts opened the first US casino outside Nevada. Having received early approval, they had no competition and reaped windfall profits until other casinos opened late in 1979. With the stock now trading at \$15 a share, ten times its earlier lowest price, and the warrants trading between \$3 and \$4, the model said they were worth about \$7 or \$8. So, instead of selling and reaping a \$30,000 to \$40,000 profit, I bought more warrants and sold stock short to hedge the risk of loss. As the stock broke through the \$100 mark, we were still buying warrants and shorting stock. We finally sold the 27-cent warrants and others for above \$100 each. We ultimately made more than \$1 million. At the same time, blackjack teams using my methods were exploiting the casino boom in Atlantic City with its temporary friendly environment and reasonable blackjack rules. Ironically, as they were extracting millions of dollars from the blackjack tables at Resorts and elsewhere, I was profiting from Resorts’ securities.
 
 
 
 In the three years and ten months from the start of 1973 through October 1976, limited partners in PNP gained 48.9 percent. During this time, ordinary investors had a wild ride in the stock market. The S&P Index fell 38 percent in the first two years and then surged 61 percent from 1975 through October 1976, for a net gain of just 1 percent. Meanwhile, Princeton Newport gained in every quarter.
 
-That the market’s good years have to be better than its bad years just to come out even is a general rule. As an extreme example to make the point, using only month-end values throughout, the S&P 500 fell by 83.4 percent from its peak at the end of August 1929 to the close in June 1932. A dollar invested was reduced to 16.6 cents. For this 16.6 cents to become $1 again, the index needed to become 6.02 times as large, an increase of 502 percent. The wait was over eighteen years, until the end of November 1950. The rate of growth per year during this long recovery period was 10.2 percent, near the long-term historical average.
+That the market’s good years have to be better than its bad years just to come out even is a general rule. As an extreme example to make the point, using only month-end values throughout, the S&P 500 fell by 83.4 percent from its peak at the end of August 1929 to the close in June 1932. A dollar invested was reduced to 16.6 cents. For this 16.6 cents to become \$1 again, the index needed to become 6.02 times as large, an increase of 502 percent. The wait was over eighteen years, until the end of November 1950. The rate of growth per year during this long recovery period was 10.2 percent, near the long-term historical average.
 
 During the 1970s, the range and sophistication of our investments expanded. Companies came with families of securities, which included convertible bonds and preferreds, warrants, and put and call options. These derived most of their value from that of the underlying stock and were called derivatives. They proliferated in number, type, and quantity in the decades to follow, as so-called financial engineers invented new ones to possibly decrease risk and certainly increase fees. I used my methodology to price these derivatives and the others that followed. This enabled Princeton Newport Partners to price convertible bonds more accurately than anyone else. Hedging with derivatives was a key source of profits for PNP during its entire nineteen years. Such hedging also became a core strategy for many later hedge funds like Citadel, Stark, and Elliott, which each went on to manage billions.
 
@@ -2040,9 +1824,9 @@ During the 1970s, the range and sophistication of our investments expanded. Comp
 
 
 
-Convertible bonds today may have complex terms and conditions. However, the basic idea is simple. Consider the hypothetical XYZ 6s of 2020. Each bond was originally sold for approximately $1,000 on July 1, 2005, to be redeemed by the company for exactly $1,000, the “face amount,” on July 1, 2020. The bond promises to pay 6 percent of the face amount in interest for each year of its life, in two semiannual installments of 3 percent, or $30, payable to holders of record on January 1 and on July 1. So far these are like the terms of a typical ordinary bond. However, the convertible has one more feature. At the option of the owner, it can be converted into twenty shares of XYZ common stock anytime until bond maturity on July 1, 2020. So this bond combines the features of both an ordinary bond and an option. The market price of the bond can be thought of as the sum of two parts. The first is the value of a comparable bond without the conversion feature, which will fluctuate with the level of interest rates and the financial soundness of the company. This sets a “floor” to the price.
+Convertible bonds today may have complex terms and conditions. However, the basic idea is simple. Consider the hypothetical XYZ 6s of 2020. Each bond was originally sold for approximately \$1,000 on July 1, 2005, to be redeemed by the company for exactly \$1,000, the “face amount,” on July 1, 2020. The bond promises to pay 6 percent of the face amount in interest for each year of its life, in two semiannual installments of 3 percent, or \$30, payable to holders of record on January 1 and on July 1. So far these are like the terms of a typical ordinary bond. However, the convertible has one more feature. At the option of the owner, it can be converted into twenty shares of XYZ common stock anytime until bond maturity on July 1, 2020. So this bond combines the features of both an ordinary bond and an option. The market price of the bond can be thought of as the sum of two parts. The first is the value of a comparable bond without the conversion feature, which will fluctuate with the level of interest rates and the financial soundness of the company. This sets a “floor” to the price.
 
-The second part is the option value of the conversion feature. In our example, if the stock is at $50, the bond can be exchanged for twenty shares of stock, worth $1,000, which the bond is worth anyhow when it matures so there is no benefit from the conversion feature. However, if the stock were to rise at any point to $75, twenty shares of stock would be worth $1,500. The bond, which can be exchanged immediately for this amount of stock, should trade in the market then for at least that amount.
+The second part is the option value of the conversion feature. In our example, if the stock is at \$50, the bond can be exchanged for twenty shares of stock, worth \$1,000, which the bond is worth anyhow when it matures so there is no benefit from the conversion feature. However, if the stock were to rise at any point to \$75, twenty shares of stock would be worth \$1,500. The bond, which can be exchanged immediately for this amount of stock, should trade in the market then for at least that amount.
 
 Why do companies issue such bonds? Because the value of the extra option or conversion feature, which gives the buyer a lottery ticket on the company’s future, allows the company to reduce the interest rate they need to pay on the bonds in order to sell them.
 
@@ -2054,7 +1838,7 @@ Just as PNP used option valuation methods to build models for pricing convertibl
 
 To produce even steadier returns, we hedged the overall risk from our entire collection of hedges by neutralizing the impact on our portfolio of shifts in interest rates (across the spectrum of quality and maturity). We also offset the danger to the portfolio from sudden large shifts in overall stock market prices and in the volatility level of the market. From the 1980s on, some of these techniques came into usage by modern investment banks and hedge funds. They also adopted a notion we rejected, called VaR or “value at risk,” where they estimated the damage to their portfolio for, say, the worst events among the most likely 95 percent of future outcomes, neglecting the extreme 5 percent “tails,” then acted to reduce any unacceptably large risks. The defect of VaR alone is that it doesn’t fully account for the worst 5 percent of expected cases. But these extreme events are where ruin is to be found. It’s also true that extreme changes in securities prices may be much greater than you would expect from the Gaussian or normal statistics commonly used. When the S&P 500 Index fell 23 percent on October 19, 1987, a leading academic finance professor said that if the market had traded every day for the thirteen-billion-year life of the universe, the chance of this happening even once was negligible.
 
-Another tool used today is to “stress-test” a portfolio by simulating the impact of major calamitous events of the past on the portfolio. In 2008, a multibillion-dollar hedge fund managed by a leading quant used ten-day windows from the crash of 1987, the First Gulf War, Hurricane Katrina, the 1998 Long-Term Capital Management crisis, the tech-induced market drop in 2000–02, the Iraq War, and so forth. All this data was applied to the fund’s 2008 portfolio and showed that these events would have led to losses of at most $500 million on a $13 billion portfolio, a risk of loss of no more than 4 percent. But they actually lost over 50 percent at their low in 2009, brought to the brink of ruin before finally recovering their losses in 2012. The credit collapse of 2008 was different in kind from the past worst cases for which they tested, and their near-extinction reflects the inadequacy of simply replaying the past.
+Another tool used today is to “stress-test” a portfolio by simulating the impact of major calamitous events of the past on the portfolio. In 2008, a multibillion-dollar hedge fund managed by a leading quant used ten-day windows from the crash of 1987, the First Gulf War, Hurricane Katrina, the 1998 Long-Term Capital Management crisis, the tech-induced market drop in 2000–02, the Iraq War, and so forth. All this data was applied to the fund’s 2008 portfolio and showed that these events would have led to losses of at most \$500 million on a \$13 billion portfolio, a risk of loss of no more than 4 percent. But they actually lost over 50 percent at their low in 2009, brought to the brink of ruin before finally recovering their losses in 2012. The credit collapse of 2008 was different in kind from the past worst cases for which they tested, and their near-extinction reflects the inadequacy of simply replaying the past.
 
 
 
@@ -2070,13 +1854,13 @@ It was clear that they had to sell more and more options, using the increasing c
 
 
 
-I decided on a little educational experiment. After reviewing the scanty information available on sales, options outstanding, and early redemption rates, I estimated the company would survive for at least eight more months. It turned out to be ten. Buying $4,000 worth of six-month options, I doubled my money in four months and cashed out. A few months later the offices were shuttered, the operators gone, and another fraud investigation was under way.
+I decided on a little educational experiment. After reviewing the scanty information available on sales, options outstanding, and early redemption rates, I estimated the company would survive for at least eight more months. It turned out to be ten. Buying \$4,000 worth of six-month options, I doubled my money in four months and cashed out. A few months later the offices were shuttered, the operators gone, and another fraud investigation was under way.
 
 —
 
 The next big test of PNP’s investment approach came soon afterward. From 1979 through 1982 there were extreme distortions in the markets. Short-term US Treasury bill returns went into double-digit territory, yielding almost 15 percent in 1981. The interest on fixed-rate home mortgages peaked at more than 18 percent per year. Inflation was not far behind. These unprecedented price moves gave us new ways to profit. One of these was in the gold futures markets.
 
-At one point, gold, for delivery two months in the future, was trading at $400 an ounce and gold futures fourteen months out were trading for $500 an ounce. Our trade was to buy the gold at $400 and sell it at $500. If, in two months, the gold we paid $400 for was delivered to us, we could store it for a nominal cost for a year, then deliver it for $500, gaining 25 percent in twelve months. There were a variety of risks, which we fully hedged, and several “kickers”—scenarios where we would make a higher—(often much higher) rate of return. We did similar trades in silver and copper and they worked as expected, with one tiny exception. After we took delivery of our copper, some of it was stolen from the warehouse our broker used and there was a short delay while we were reimbursed from the warehouse company’s insurance.
+At one point, gold, for delivery two months in the future, was trading at \$400 an ounce and gold futures fourteen months out were trading for \$500 an ounce. Our trade was to buy the gold at \$400 and sell it at \$500. If, in two months, the gold we paid \$400 for was delivered to us, we could store it for a nominal cost for a year, then deliver it for \$500, gaining 25 percent in twelve months. There were a variety of risks, which we fully hedged, and several “kickers”—scenarios where we would make a higher—(often much higher) rate of return. We did similar trades in silver and copper and they worked as expected, with one tiny exception. After we took delivery of our copper, some of it was stolen from the warehouse our broker used and there was a short delay while we were reimbursed from the warehouse company’s insurance.
 
 As the era of high interest rates unfolded, savings and loan companies began to lose massive amounts of money. Here’s why. Savings and loans borrowed money for a short term from depositors and lent much of it out long-term for home mortgages at fixed rates of interest. As short-term rates shot up, the cost of money to the S&Ls went up rapidly, whereas their revenue from the existing mortgage loans they had made earlier to homeowners at much lower fixed rates did not. This mismatch in interest rates between their short-term borrowing and their long-term lending would lead to the ruin of many S&Ls in the 1980s and a bailout cost to taxpayers of several hundred billion dollars.
 
@@ -2090,13 +1874,9 @@ Meanwhile, Princeton Newport Partners was expanding into new types of investment
 
 
 
-# Chapter 15
+## Chapter 15: RISE…
 
-------
-
-# RISE…
-
-On November 1, 1979, ten years after we started Princeton Newport Partners, the annualized return for the S&P 500, including dividends, was 4.6 percent and for small-company stocks 8.5 percent, both with far more volatility than Princeton Newport. We were up 409 percent for the decade, annualizing at 17.7 percent before fees and 14.1 percent after fees. Our initial $1.4 million had grown to $28.6 million. We ended 1979 with a grand dream for the 1980s: to expand our expertise into new investment areas. For me this meant more interesting problems to solve in quantitative finance. For the partnership it could lead to an increase in the amount of capital we could invest at high rates of return.
+On November 1, 1979, ten years after we started Princeton Newport Partners, the annualized return for the S&P 500, including dividends, was 4.6 percent and for small-company stocks 8.5 percent, both with far more volatility than Princeton Newport. We were up 409 percent for the decade, annualizing at 17.7 percent before fees and 14.1 percent after fees. Our initial \$1.4 million had grown to \$28.6 million. We ended 1979 with a grand dream for the 1980s: to expand our expertise into new investment areas. For me this meant more interesting problems to solve in quantitative finance. For the partnership it could lead to an increase in the amount of capital we could invest at high rates of return.
 
 I called our first effort the Indicators Project. The object was to study the financial characteristics of companies, or indicators, to see if they could be used to forecast stock returns. The prototype was Value Line, an investment service that launched a program in 1965 using information such as surprise earnings announcements, price-to-earnings ratios, and momentum to rank stocks into groups from I (best) to V (worst). A stock is said to have positive momentum if its price has recently been trending strongly up, and negative momentum if strongly down.
 
@@ -2116,7 +1896,7 @@ We expanded into new types of trades, several of which we pioneered. One of thes
 
 
 
-Princeton Newport bought five million shares of old AT&T at about $66 a share for $330 million. We paid for most of this with term financing, which was a special loan from our broker just for this deal, to be paid off from the proceeds when the position was closed out. Meanwhile, we offset the risk of owning old AT&T by simultaneously selling short the shares we were going to receive in exchange for our shares of old AT&T. These so-called when-issued shares consisted of five million shares of new AT&T and five hundred thousand shares of each of the new seven sisters. We did the trade through Goldman Sachs by taking half of each of two successive $5 million blocks of about $330 million apiece. I have a gold-colored plaque, a so-called deal toy, on my desk commemorating the December 1, 1983, block as then being the largest dollar amount for a single trade in the history of the New York Stock Exchange. In two and a half months, PNP netted $1.6 million from the AT&T trade after all costs.
+Princeton Newport bought five million shares of old AT&T at about \$66 a share for \$330 million. We paid for most of this with term financing, which was a special loan from our broker just for this deal, to be paid off from the proceeds when the position was closed out. Meanwhile, we offset the risk of owning old AT&T by simultaneously selling short the shares we were going to receive in exchange for our shares of old AT&T. These so-called when-issued shares consisted of five million shares of new AT&T and five hundred thousand shares of each of the new seven sisters. We did the trade through Goldman Sachs by taking half of each of two successive \$5 million blocks of about \$330 million apiece. I have a gold-colored plaque, a so-called deal toy, on my desk commemorating the December 1, 1983, block as then being the largest dollar amount for a single trade in the history of the New York Stock Exchange. In two and a half months, PNP netted \$1.6 million from the AT&T trade after all costs.
 
 Meanwhile, an army of PhDs, following our path, greatly expanded the theory of derivatives and implemented the revolution in quantitative finance on Wall Street. They helped direct investing at hedge funds, investment banks, and other institutions. Driven in part by the sell side—the sales force that finds and sells new products—these quants invented new derivative securities that the salespeople then pushed. These products undermined the world financial system in a series of increasingly grave crises. The first of these surprised almost everyone.
 
@@ -2132,7 +1912,7 @@ Though there was no major outside event to explain this one-day collapse, when I
 
 
 
-At the time of the crash $60 billion or so of equities were insured by this technique and implemented largely by computers. When the market fell 4 percent on Friday the insurance programs placed orders, to be executed at Monday’s opening, to sell stock and buy Treasury bills. When trading began on Monday, these sales drove stock prices down further, triggering more selling from portfolio insurance programs. As prices continued to plummet, investors panicked and added their selling to the deluge. This “feedback loop” continued throughout the day, building to a devastating climax. Portfolio insurance was designed to protect investors from large market declines. Ironically, the cure became the cause.
+At the time of the crash \$60 billion or so of equities were insured by this technique and implemented largely by computers. When the market fell 4 percent on Friday the insurance programs placed orders, to be executed at Monday’s opening, to sell stock and buy Treasury bills. When trading began on Monday, these sales drove stock prices down further, triggering more selling from portfolio insurance programs. As prices continued to plummet, investors panicked and added their selling to the deluge. This “feedback loop” continued throughout the day, building to a devastating climax. Portfolio insurance was designed to protect investors from large market declines. Ironically, the cure became the cause.
 
 To understand what I did next, a little background is needed. It is relatively expensive for portfolio insurance programs continually to sell equities as the market drops, then buy them back when it rises due to commissions paid to brokers to execute the trade and because of the impact on the market price from the sale or purchase.
 
@@ -2148,17 +1928,17 @@ The rule was part of the Securities Exchange Act of 1934 (rule 10a-1). It specif
 
 
 
-I figured out a solution. I called our head trader, who as a minor general partner was highly compensated from his share of our fees, and gave him this order: Buy $5 million worth of index futures at whatever the current market price happened to be (about 190), and place orders to sell short at the market, with the index then trading at about 220, not $5 million worth of assorted stocks—which was the optimal amount to best hedge the futures—but $10 million. I chose twice as much stock as I wanted, guessing only about half would actually be shorted because of the scarcity of the required upticks, thus giving me the proper hedge. If substantially more or less stock was sold short, the hedge would not be as good but the 15 percent profit cushion gave us a wide band of protection against loss.
+I figured out a solution. I called our head trader, who as a minor general partner was highly compensated from his share of our fees, and gave him this order: Buy \$5 million worth of index futures at whatever the current market price happened to be (about 190), and place orders to sell short at the market, with the index then trading at about 220, not \$5 million worth of assorted stocks—which was the optimal amount to best hedge the futures—but \$10 million. I chose twice as much stock as I wanted, guessing only about half would actually be shorted because of the scarcity of the required upticks, thus giving me the proper hedge. If substantially more or less stock was sold short, the hedge would not be as good but the 15 percent profit cushion gave us a wide band of protection against loss.
 
 I went through a detailed explanation of my outside-the-box analysis of why this trade was a windfall opportunity. But this day was beyond anything our trader had ever seen or imagined. Gripped by fear, he seemed frozen. He refused to execute the trades. I told him to do it for PNP and do it now, or else I wanted him to do it for my account. If that was his choice, I told him I would later tell all the other partners how the profit I made would have, but for him, belonged to the partnership rather than to me.
 
-Here was my reasoning. If, because of the uptick rule, only about half the shorts got off, then we would be properly hedged and make about $750,000. If none got off (extremely improbable), we were buying the futures at an enormous discount—the index itself would have to fall more than another 13 percent before we began to lose. At the other extreme, especially in a market panic, there was virtually no chance all the shorts would go off. Even if all the orders to sell short were completed, the market would have to rise more than 14 percent for us to lose money. To protect against this possibility, I told my head trader that when we filled close to half the short-sale orders, he should cancel the rest. After he finally complied with my request and completed the first round, I ordered a second round of the same size. In the end we did get roughly half our shorts off for a near-optimal hedge. We had about $9 million worth of futures long and $10 million worth of stock short, locking in $1 million profit. If my trader hadn’t wasted so much of the market day refusing to act, we could have done several more rounds and reaped additional millions.
+Here was my reasoning. If, because of the uptick rule, only about half the shorts got off, then we would be properly hedged and make about \$750,000. If none got off (extremely improbable), we were buying the futures at an enormous discount—the index itself would have to fall more than another 13 percent before we began to lose. At the other extreme, especially in a market panic, there was virtually no chance all the shorts would go off. Even if all the orders to sell short were completed, the market would have to rise more than 14 percent for us to lose money. To protect against this possibility, I told my head trader that when we filled close to half the short-sale orders, he should cancel the rest. After he finally complied with my request and completed the first round, I ordered a second round of the same size. In the end we did get roughly half our shorts off for a near-optimal hedge. We had about \$9 million worth of futures long and \$10 million worth of stock short, locking in \$1 million profit. If my trader hadn’t wasted so much of the market day refusing to act, we could have done several more rounds and reaped additional millions.
 
 
 
 We ended October “flat” for the month (approximately zero net gain or loss) whereas the S&P Index was down 22 percent. During the surrounding five-month period, from August through December, the index also fell 22 percent whereas Princeton Newport Partners gained 9 percent.
 
-In its first decade of operation, 1969–79, PNP rose from a $1.4 million partnership to being perhaps the most mathematical, analytic, and computer-oriented firm on Wall Street. In the next eight years and two months, from November 1, 1979, through January 1, 1988, our capital base expanded from $28.6 million to $273 million, at which point we had investment positions totaling $1 billion. Partnership capital earned an annual rate of 22.8 percent before fees, and limited partners saw their wealth grow at 18.2 percent. The S&P 500 compounded at 11.5 percent, and small-company stocks annualized at 17.3 percent. We were much less risky than either of these, as industry statistics confirmed. We had no losing years or losing quarters.
+In its first decade of operation, 1969–79, PNP rose from a \$1.4 million partnership to being perhaps the most mathematical, analytic, and computer-oriented firm on Wall Street. In the next eight years and two months, from November 1, 1979, through January 1, 1988, our capital base expanded from \$28.6 million to \$273 million, at which point we had investment positions totaling \$1 billion. Partnership capital earned an annual rate of 22.8 percent before fees, and limited partners saw their wealth grow at 18.2 percent. The S&P 500 compounded at 11.5 percent, and small-company stocks annualized at 17.3 percent. We were much less risky than either of these, as industry statistics confirmed. We had no losing years or losing quarters.
 
 We added extraordinary investment products that could expand our capital base to billions.
 
@@ -2166,11 +1946,11 @@ They included:
 
 1.State-of-the-art convertible, warrant, and option computerized analytic models and trading systems. With this we had already become the biggest player in the Japanese warrant market.
 
-2.Statistical arbitrage, which was a computerized analytic model and trading system for common stocks using a real-time feed of the ticker into our $2 million computer center, where we generated automated electronic orders and sent them to the floor. From one eight-by-eight cubicle we traded between one and two million shares a day, which was then 1 or 2 percent of NYSE daily volume.
+2.Statistical arbitrage, which was a computerized analytic model and trading system for common stocks using a real-time feed of the ticker into our \$2 million computer center, where we generated automated electronic orders and sent them to the floor. From one eight-by-eight cubicle we traded between one and two million shares a day, which was then 1 or 2 percent of NYSE daily volume.
 
 
 
-3.A group of experts on interest rates joined us from Salomon Brothers. While there, they made $50 million for that firm in just eighteen months.
+3.A group of experts on interest rates joined us from Salomon Brothers. While there, they made \$50 million for that firm in just eighteen months.
 
 4.MIDAS: This indicator-driven stock prediction system was to be our entry into the broader money management business.
 
@@ -2182,11 +1962,7 @@ But all this was destined to come to an end.
 
 
 
-# Chapter 16
-
-------
-
-# …AND FALL
+## Chapter 16: …AND FALL
 
 In the middle of the day on Thursday, December 17, 1987, about fifty armed men and women burst out of the third-floor elevators to raid our office in Princeton, New Jersey. They were from the IRS, the FBI, and the postal authorities. Our employees were searched before they were free to leave the building. They were not allowed to return. The invaders impounded several hundred boxes of books and records, including Rolodexes. They dug through contents of wastebaskets and crawled through the ceiling spaces. It went on into the early-morning hours of the next day.
 
@@ -2200,11 +1976,11 @@ Neither I nor any of the forty or so other partners and employees in the Newport
 
 The key to the government’s case was a few conversations they discovered on three old trading room audiotapes that had been saved years earlier, then misplaced and forgotten. They were originally created because it was the normal business practice in the Princeton office, as it was elsewhere on Wall Street, to temporarily record all telephone conversations in the trading room. A major purpose for this was to quickly resolve disputes with counterparties over trading orders and executions. With our volume of eighteen billion shares a year, mistakes were inevitable. One such trade, part of a gigantic Japanese warrant hedge executed through a firm I’ll call Enco, was based on what they told us about the terms of the warrant. Our traders said Enco repeatedly assured us that the information they gave us was correct. In fact it wasn’t. Our proof was on those tapes.
 
-The resulting mistake in the quantities of securities used for our hedge position cost us $2 million. Ordinarily the tapes ran continuously, keeping the last four days of conversations, writing over the oldest as they recorded the newest. But pending a resolution, our traders saved the tape covering the disputed trade. Later, since Enco refused to admit the error was theirs, our traders prepared for arbitration or litigation by initiating and recording two more conversations in which Enco again told our traders the original information they had given us was correct. This meant two more tapes, including eight more days of conversations, were set aside for evidence. We then showed management at Enco how the facts contradicted what their staff had told us, and asked for compensation. Normally, the erring broker compensates the other party. Enco refused and said that if we litigated, they would no longer do business with us. We knew that all of the big four Japanese brokerage firms, which controlled the market in Japanese warrants and convertible bonds, would follow suit. As this area was a major contributor to our profits, we accepted the $2 million loss. Though the three tapes should then have been reused as was our usual practice, they sat forgotten in a desk for a couple of years until the government seized them in the 1987 raid as part of hundreds of boxes of files and materials.
+The resulting mistake in the quantities of securities used for our hedge position cost us \$2 million. Ordinarily the tapes ran continuously, keeping the last four days of conversations, writing over the oldest as they recorded the newest. But pending a resolution, our traders saved the tape covering the disputed trade. Later, since Enco refused to admit the error was theirs, our traders prepared for arbitration or litigation by initiating and recording two more conversations in which Enco again told our traders the original information they had given us was correct. This meant two more tapes, including eight more days of conversations, were set aside for evidence. We then showed management at Enco how the facts contradicted what their staff had told us, and asked for compensation. Normally, the erring broker compensates the other party. Enco refused and said that if we litigated, they would no longer do business with us. We knew that all of the big four Japanese brokerage firms, which controlled the market in Japanese warrants and convertible bonds, would follow suit. As this area was a major contributor to our profits, we accepted the \$2 million loss. Though the three tapes should then have been reused as was our usual practice, they sat forgotten in a desk for a couple of years until the government seized them in the 1987 raid as part of hundreds of boxes of files and materials.
 
 
 
-The government invoked the Racketeer Influenced and Corrupt Organizations Act (RICO), a tool designed to prosecute mobsters, for the first time ever against securities industry defendants. It was a landmark case. The defendants posted cash bonds totaling $20 million.
+The government invoked the Racketeer Influenced and Corrupt Organizations Act (RICO), a tool designed to prosecute mobsters, for the first time ever against securities industry defendants. It was a landmark case. The defendants posted cash bonds totaling \$20 million.
 
 To pressure them further, the US attorney began contacting our limited partners and making arrangements to subpoena them to come to New York and testify (to what?) before the grand jury. As they were passive participants not involved in the operations of the partnership, these subpoenas had no conceivable value for Giuliani’s case against Regan and the others, other than to disturb and upset them, perhaps enough so they would withdraw from the partnership.
 
@@ -2220,7 +1996,7 @@ Not all our investors reacted with such aplomb, but every last one of our more t
 
 Limited partners were alarmed by the threat that RICO could be extended to their partnership assets, and by the doubts the investigation raised about some of our leadership in the Princeton office. I was disturbed by this and by the fact that information about the case was not being freely supplied to me by the Princeton office. For instance, when the government made a transcript of the trading room tapes and supplied it to the defendants, I asked to see it. I was put off with promises for weeks. Meanwhile, the lawyers for PNP, the partnership, who were separate from the defense team, also obtained a copy. At my request, they properly sent a set to me. An adviser for one of the defendants, hearing of this, was enraged and asked that PNP’s lawyers be fired. I could understand why I was strung along when I read through the foot-deep stack of documents. There, in black and white, were conversations that had to be extremely embarrassing for those involved.
 
-Legal fees for the defendants were estimated at between $10 million and $20 million. There was no telling how long the case would go on or how it would end. If the defendants were found guilty they would be liable for their own legal bills whereas if they were declared innocent, the partnership would pay. To get closure, I negotiated a flat advance payout to the defendants of $2.5 million, to cover any and all responsibility the partnership had for their legal expenses. In addition to this payout, the partnership was burdened with its own considerable legal expenses.
+Legal fees for the defendants were estimated at between \$10 million and \$20 million. There was no telling how long the case would go on or how it would end. If the defendants were found guilty they would be liable for their own legal bills whereas if they were declared innocent, the partnership would pay. To get closure, I negotiated a flat advance payout to the defendants of \$2.5 million, to cover any and all responsibility the partnership had for their legal expenses. In addition to this payout, the partnership was burdened with its own considerable legal expenses.
 
 
 
@@ -2250,7 +2026,7 @@ The situation was a dream come true for the government’s ax, Rudolph Giuliani.
 
 What could PNP have been worth twenty-five years later, in the year 2015? How could I possibly have any idea? Amazingly enough, a market-neutral hedge fund operation was built on the Princeton Newport model—the Citadel Investment Group. It was started in 1990 in Chicago by former hedge fund manager Frank Meyer when he discovered the young quantitative investment prodigy Ken Griffin, who was then trading options and convertible bonds from his Harvard dorm room. I met with Frank and Ken, outlining the workings and profit centers of PNP, as well as turning over cartons of documents outlining in detail the terms and conditions of older outstanding warrants and convertible bonds. These were valuable, because they were no longer available.
 
-Citadel grew from a humble start in 1990 (when I became its first limited partner) with a few million dollars and one employee, Griffin, to a collection of businesses managing $20 billion in capital and having more than a thousand employees twenty-five years later, annualizing at about 20 percent net to limited partners. Ken’s net worth in 2015 was estimated at $5.6 billion.
+Citadel grew from a humble start in 1990 (when I became its first limited partner) with a few million dollars and one employee, Griffin, to a collection of businesses managing \$20 billion in capital and having more than a thousand employees twenty-five years later, annualizing at about 20 percent net to limited partners. Ken’s net worth in 2015 was estimated at \$5.6 billion.
 
 As Princeton Newport Partners closed I reflected on the proposition that what matters in life is how you spend your time. When J. Paul Getty was the richest man in the world and manifestly not fulfilled, he said the happiest time of his life was when he was sixteen, riding waves off the beach in Malibu, California. In 2000, *Los Angeles Times Magazine,* speaking of new multibillionaire Henry T. Nicholas III of Broadcom Corporation, said, “It’s 1:30 a.m. He’s just turned 40—at his desk, in a dimly lit office. He hasn’t seen his wife and children, ‘my reason for living,’ for several days. ‘The last time we talked, [Stacey] told me she missed the old days, when I was at TRW and we lived in a condo. She told me she wants to go back to that life.’ But they can’t go back because he can’t let up.” (They later divorced.)
 
@@ -2262,17 +2038,13 @@ I initially thought that I might continue on my own with a PNP-style partnership
 
 
 
-# Chapter 17
-
-------
-
-# PERIOD OF ADJUSTMENT
+## Chapter 17: PERIOD OF ADJUSTMENT
 
 Joseph Heller and Kurt Vonnegut were at a party given by a billionaire when Vonnegut asked Heller how it felt to know that their host might have made more money in one day than Heller’s *Catch-22* since it was written. Heller said he had something the rich man could never have. When a puzzled Vonnegut asked what that could be, Heller answered, “The knowledge that I’ve got enough.”
 
 When Princeton Newport Partners closed, Vivian and I had money enough for the rest of our lives. Though the ending of PNP was traumatic for us all, and the future wealth destroyed was in the billions, it freed us to do more of what we enjoyed most: spend time with each other and the family and friends we loved, travel, and pursue our interests. Taking to heart the lyrics of the song “Enjoy Yourself (It’s Later than You Think),” Vivian and I would make the most of the one thing we could never have enough of—time together. Success on Wall Street was getting the most money. Success for us was having the best life.
 
-It was by chance during this time that I discovered the greatest of all financial frauds. On the afternoon of Thursday, December 11, 2008, I got the news I had been expecting for more than seventeen years. Calling from New York, my son, Jeff, told me Bernie Madoff confessed to having defrauded investors of $50 billion in the greatest Ponzi scheme in history. “It’s what you predicted in…1991!” he said.
+It was by chance during this time that I discovered the greatest of all financial frauds. On the afternoon of Thursday, December 11, 2008, I got the news I had been expecting for more than seventeen years. Calling from New York, my son, Jeff, told me Bernie Madoff confessed to having defrauded investors of \$50 billion in the greatest Ponzi scheme in history. “It’s what you predicted in…1991!” he said.
 
 
 
@@ -2302,7 +2074,7 @@ At this time Madoff was a major figure in the securities industry, serving as ch
 
 Would the establishment have believed charges of wrongdoing? The story of Harry Markopoulos gives the answer. Challenged by his boss in 1999 to explain why Madoff, with a supposedly similar strategy, could produce much better and steadier returns, Markopoulos concluded that it was impossible on the basis of quantitative financial reasoning, just as I had done before I began my investigation that proved fraud. Though he didn’t establish that the individual trades were faked, even without that smoking gun his arguments were overwhelmingly persuasive. For the next ten years Markopoulos attempted to get the SEC to investigate, but it brushed him aside repeatedly, cleared Madoff after superficial investigations, and quashed a request from the Boston office, prompted by Markopoulos, to investigate Madoff Investment as a possible Ponzi scheme.
 
-In a remarkable 477-page document, “Investigation of Failure of the SEC to Uncover Bernard Madoff’s Ponzi Scheme—Public Version,” August 31, 2009, Report No. OIG-509, the SEC investigates and documents its own repeated failures, beginning in 1992 and continuing until Madoff confessed in 2008, to follow up on obvious clues, pointed complaints, and clear violations of securities laws. Yet the SEC continued to destroy documents through at least July 2010, relating not only to Madoff, but to major financial institutions like Goldman Sachs and Bank of America, as well as SAC Capital Advisors, during a continuing investigation of the latter. Charged with insider trading, SAC Capital agreed to a record $1.8 billion fine in late 2013 and closed itself to outside investors.
+In a remarkable 477-page document, “Investigation of Failure of the SEC to Uncover Bernard Madoff’s Ponzi Scheme—Public Version,” August 31, 2009, Report No. OIG-509, the SEC investigates and documents its own repeated failures, beginning in 1992 and continuing until Madoff confessed in 2008, to follow up on obvious clues, pointed complaints, and clear violations of securities laws. Yet the SEC continued to destroy documents through at least July 2010, relating not only to Madoff, but to major financial institutions like Goldman Sachs and Bank of America, as well as SAC Capital Advisors, during a continuing investigation of the latter. Charged with insider trading, SAC Capital agreed to a record \$1.8 billion fine in late 2013 and closed itself to outside investors.
 
 
 
@@ -2316,7 +2088,7 @@ On August 11, 2009, exactly eight months later, Frank DiPascali, Jr., the man wh
 
 Bernie Madoff, in his allocution to the judge, said, contrary to fact, that he thought his swindle began about 1991, whereas I discovered then that the scheme had already been running for decades. The SEC’s complaint against Frank DiPascali—presumably using information from DiPascali—that the fraud was computerized and the split-strike price strategy had begun in 1992, was also contradicted by the client reports I had reviewed from 1989 through 1991. Peter Madoff, DiPascali, and several other employees later pled guilty and were sentenced to fines and jail.
 
-Madoff gave the size of the scam at $50 billion, though based on the amount of fake equity investors believed they had in their accounts at the end it was later estimated at $65 billion. To equitably distribute any remaining money, the bankruptcy trustee has to determine how much money each victim put in, what was paid out, and to whom. Several “handlers,” who each collected billions from the investors for whom they claimed to have thoroughly verified the legitimacy of Madoff’s strategy, skimmed off hundreds of millions in fees. Powered by this cash flood, they rose among the politically and socially connected superrich. One individual reportedly withdrew over $5 billion more than he put in! The fact that Madoff was letting others collect huge sums in management fees, all the while settling for much less in trading commissions, should itself have been enough to alert investors, advisers, and regulators.
+Madoff gave the size of the scam at \$50 billion, though based on the amount of fake equity investors believed they had in their accounts at the end it was later estimated at \$65 billion. To equitably distribute any remaining money, the bankruptcy trustee has to determine how much money each victim put in, what was paid out, and to whom. Several “handlers,” who each collected billions from the investors for whom they claimed to have thoroughly verified the legitimacy of Madoff’s strategy, skimmed off hundreds of millions in fees. Powered by this cash flood, they rose among the politically and socially connected superrich. One individual reportedly withdrew over \$5 billion more than he put in! The fact that Madoff was letting others collect huge sums in management fees, all the while settling for much less in trading commissions, should itself have been enough to alert investors, advisers, and regulators.
 
 
 
@@ -2340,33 +2112,33 @@ I contacted Bruce Kovner, a successful commodities trader whom I knew from Princ
 
 Along with Jerry Baesel, the finance professor from UCI who joined me at PNP, I spent an afternoon with Bruce in the 1980s in his Manhattan apartment discussing how he thought and how he got his edge in the markets. Kovner was and is a generalist, who sees connections before others do.
 
-About this time he realized large oil tankers were in such oversupply that the older ones were selling for little more than scrap value. Kovner formed a partnership to buy one. I was one of the limited partners. Here was an interesting option. We were largely protected against loss because we could always sell the tanker for scrap, recovering most of our investment; but we had a substantial upside: Historically, the demand for tankers had fluctuated widely and so had their price. Within a few years, our refurbished 475,000-ton monster, the *Empress Des Mers,* was profitably plying the world’s sea-lanes stuffed with oil. I liked to think of my part ownership as a twenty-foot section just forward of the bridge. Later the partnership negotiated to purchase what was then the largest ship ever built, the 650,000-ton *Seawise Giant.* Unfortunately for the sellers, while we were in escrow their ship unwisely ventured near Kharg Island in the Persian Gulf, where it was bombed by Iraqi aircraft, caught fire, and sank. The *Empress Des Mers* operated profitably into the twenty-first century, when the saga finally ended. Having generated a return on investment of 30 percent annualized, she was sold for scrap in 2004, fetching almost $23 million, far more than her purchase price of $6 million.
+About this time he realized large oil tankers were in such oversupply that the older ones were selling for little more than scrap value. Kovner formed a partnership to buy one. I was one of the limited partners. Here was an interesting option. We were largely protected against loss because we could always sell the tanker for scrap, recovering most of our investment; but we had a substantial upside: Historically, the demand for tankers had fluctuated widely and so had their price. Within a few years, our refurbished 475,000-ton monster, the *Empress Des Mers,* was profitably plying the world’s sea-lanes stuffed with oil. I liked to think of my part ownership as a twenty-foot section just forward of the bridge. Later the partnership negotiated to purchase what was then the largest ship ever built, the 650,000-ton *Seawise Giant.* Unfortunately for the sellers, while we were in escrow their ship unwisely ventured near Kharg Island in the Persian Gulf, where it was bombed by Iraqi aircraft, caught fire, and sank. The *Empress Des Mers* operated profitably into the twenty-first century, when the saga finally ended. Having generated a return on investment of 30 percent annualized, she was sold for scrap in 2004, fetching almost \$23 million, far more than her purchase price of \$6 million.
 
 
 
 Kovner referred me to a hedge fund in which he was a major investor, and I proposed to the manager of the fund that we would supply the software for a complete statistical arbitrage operating system and license it for 15 percent of his gross income from the use of the product. We would train their employees and provide continuing counsel. Our license fee would decline over time to adjust for improvements they might add, and for the obsolescence of the original system. However, every time we agreed on a deal, the GP insisted on making yet another change in his favor. After we had agreed to some of these, it became apparent that they were endless. I terminated negotiations.
 
-Most of us who have dealt with used-car dealers or rug merchants, or who have bought and sold real estate, are familiar with a negotiation process perhaps best described as haggling. To illustrate, suppose a house you want is priced at $300,000. You offer $250,000. The seller counters at $290,000. You counter at $265,000, and so forth. Finally you agree to buy at $275,000. This stylized dance may involve cajolery, trickery, and deceit. Wouldn’t it be simpler and more satisfying for the seller to state his price and have the buyer take it or leave it? After all, that’s how it’s done in most stores in the United States. How could you shop if the prices you compare aren’t firm?
+Most of us who have dealt with used-car dealers or rug merchants, or who have bought and sold real estate, are familiar with a negotiation process perhaps best described as haggling. To illustrate, suppose a house you want is priced at \$300,000. You offer \$250,000. The seller counters at \$290,000. You counter at \$265,000, and so forth. Finally you agree to buy at \$275,000. This stylized dance may involve cajolery, trickery, and deceit. Wouldn’t it be simpler and more satisfying for the seller to state his price and have the buyer take it or leave it? After all, that’s how it’s done in most stores in the United States. How could you shop if the prices you compare aren’t firm?
 
-Yet in business deals haggling is common, just as it was with the fund manager who haggled with me. What’s going on here? In our house example, suppose the seller’s real lowest price is $260,000 and that the highest price the buyer is really willing to pay is $290,000. (The seller might find out, for instance, that the buyer will really pay $290,000 by reporting that he has another offer at $289,000, at which point the first buyer offers $290,000.) Thus any price between $260,000 and $290,000 is acceptable to both parties, even though neither party knows this at the time. So $30,000 is “up for grabs.” The objective of the haggle is to capture as much of this $30,000 as possible for one side or the other.
+Yet in business deals haggling is common, just as it was with the fund manager who haggled with me. What’s going on here? In our house example, suppose the seller’s real lowest price is \$260,000 and that the highest price the buyer is really willing to pay is \$290,000. (The seller might find out, for instance, that the buyer will really pay \$290,000 by reporting that he has another offer at \$289,000, at which point the first buyer offers \$290,000.) Thus any price between \$260,000 and \$290,000 is acceptable to both parties, even though neither party knows this at the time. So \$30,000 is “up for grabs.” The objective of the haggle is to capture as much of this \$30,000 as possible for one side or the other.
 
 
 
-On the other hand, if instead the buyer is willing only to go to $270,000 and the seller’s (secret) lowest price is $280,000, there is no overlap, no price both will accept, and there will be no deal.
+On the other hand, if instead the buyer is willing only to go to \$270,000 and the seller’s (secret) lowest price is \$280,000, there is no overlap, no price both will accept, and there will be no deal.
 
-Where my family and I lived for over two decades was determined by just such a haggler. We had decided to build a new house and had located a lot with a spectacular view high on a hill in Newport Beach. In the depressed 1979 real estate market it was offered at $435,000. We started at $365,000; after a series of offers and counteroffers, we eventually came back with $400,000, which was countered at $410,000. We countered at $405,000, our absolute limit. Rejected. We walked. A few days later the seller relented and offered to meet our $405,000 price. But we didn’t accept. Why not?
+Where my family and I lived for over two decades was determined by just such a haggler. We had decided to build a new house and had located a lot with a spectacular view high on a hill in Newport Beach. In the depressed 1979 real estate market it was offered at \$435,000. We started at \$365,000; after a series of offers and counteroffers, we eventually came back with \$400,000, which was countered at \$410,000. We countered at \$405,000, our absolute limit. Rejected. We walked. A few days later the seller relented and offered to meet our \$405,000 price. But we didn’t accept. Why not?
 
-At our absolute limit, we were almost indifferent as to whether we did the deal or not. Meanwhile the seller had now alienated us, and we preferred not to have any further dealings with him. Consequently his deal was less attractive, and our top price now dropped below $405,000. Meanwhile we considered alternatives. We soon bought a better lot, built a new house, and spent twenty-two happy years there. The haggler’s lot remained unsold for another decade.
+At our absolute limit, we were almost indifferent as to whether we did the deal or not. Meanwhile the seller had now alienated us, and we preferred not to have any further dealings with him. Consequently his deal was less attractive, and our top price now dropped below \$405,000. Meanwhile we considered alternatives. We soon bought a better lot, built a new house, and spent twenty-two happy years there. The haggler’s lot remained unsold for another decade.
 
-Coincidentally, when we sold this house, we had another example of the losing haggle. After it had been on the market a year, we suddenly got two offers the same weekend. We were asking $5,495,000 and expected to get about $5,000,000. One offer was at $4.6 million, and the prospective buyer used his aggressive business partner to open negotiations. The partner’s in-your-face style and nitpicking criticism of the house was designed to beat down the price. He alienated us and our agent. The other offer was for $5 million from an agreeable family who loved the house “as is.” We accepted, upon which the other buyer begged us to reconsider, indicating he would meet or exceed the other price, and wouldn’t use Mr. in-your-face to close the deal. Too bad. Lesson: It doesn’t pay to push the other party to their absolute limit. A small extra gain is generally not worth the substantial risk the deal will break up.
+Coincidentally, when we sold this house, we had another example of the losing haggle. After it had been on the market a year, we suddenly got two offers the same weekend. We were asking \$5,495,000 and expected to get about \$5,000,000. One offer was at \$4.6 million, and the prospective buyer used his aggressive business partner to open negotiations. The partner’s in-your-face style and nitpicking criticism of the house was designed to beat down the price. He alienated us and our agent. The other offer was for \$5 million from an agreeable family who loved the house “as is.” We accepted, upon which the other buyer begged us to reconsider, indicating he would meet or exceed the other price, and wouldn’t use Mr. in-your-face to close the deal. Too bad. Lesson: It doesn’t pay to push the other party to their absolute limit. A small extra gain is generally not worth the substantial risk the deal will break up.
 
 —
 
 
 
-Knowing when to haggle and when not to is valuable for traders. In the days of Princeton Newport our head trader used to crow about how, by regularly holding out for an extra eighth or quarter, he saved us large amounts of money. Here’s the idea. Suppose we want to buy 10,000 shares of Microsoft (MSFT), currently trading at, say, 71 bid for 50,000 shares, and 71¼ asked for 10,000 shares. We can pay 71¼ now and buy our 10,000 shares. Or, as our trader would do, we can offer to buy our 10,000 shares at 711⁄8 and see if we have any takers. If this works—and it does most of the time—we’ll save $1⁄8 × 10,000 or $1,250.
+Knowing when to haggle and when not to is valuable for traders. In the days of Princeton Newport our head trader used to crow about how, by regularly holding out for an extra eighth or quarter, he saved us large amounts of money. Here’s the idea. Suppose we want to buy 10,000 shares of Microsoft (MSFT), currently trading at, say, 71 bid for 50,000 shares, and 71¼ asked for 10,000 shares. We can pay 71¼ now and buy our 10,000 shares. Or, as our trader would do, we can offer to buy our 10,000 shares at 711⁄8 and see if we have any takers. If this works—and it does most of the time—we’ll save \$1⁄8 × 10,000 or \$1,250.
 
-This sounds good. Is there any risk? Yes. By trying to save $1⁄8 per share we may miss a big winner if the stock always trades at 71¼ or higher for however long we’re trying to buy. Those stocks we miss, which run away to the upside, would have given us windfall profits. Put simply, you might scalp $1⁄8 twenty times but lose $10 once. Do you like that arithmetic? I don’t.
+This sounds good. Is there any risk? Yes. By trying to save \$1⁄8 per share we may miss a big winner if the stock always trades at 71¼ or higher for however long we’re trying to buy. Those stocks we miss, which run away to the upside, would have given us windfall profits. Put simply, you might scalp \$1⁄8 twenty times but lose \$10 once. Do you like that arithmetic? I don’t.
 
 I asked our trader how he could tell whether his repeated scalping for an eighth of a point offset his losses from missed opportunities. He could not make a case for what he was doing. I asked other traders around the street the same question and didn’t find anyone who could clearly show that they gained more than they lost by doing this.
 
@@ -2376,7 +2148,7 @@ Markets are basic to modern economics, and trading is a fundamental activity. Mo
 
 The other type of trade is initiated by traders who do have an edge. Examples might be the illegal insider trades made famous by the prosecutions of Ivan Boesky and others in the 1980s—despite which such activities continue to this day; or the legal trades made by those who are the first to act on public information like an earnings announcement, a takeover, or an interest rate change.
 
-Does all this really matter? What’s an eighth of a dollar a share? For our statistical arbitrage program that was trading one and a half billion shares a year, it would amount to almost $200 million annually. As Senator Everett Dirksen was once quoted as saying about congressional spending, a billion dollars here, a billion dollars there, and pretty soon you’re talking about some real money.
+Does all this really matter? What’s an eighth of a dollar a share? For our statistical arbitrage program that was trading one and a half billion shares a year, it would amount to almost \$200 million annually. As Senator Everett Dirksen was once quoted as saying about congressional spending, a billion dollars here, a billion dollars there, and pretty soon you’re talking about some real money.
 
 —
 
@@ -2392,13 +2164,9 @@ This idea rescued me back in my graduate student days at UCLA, shortly after I h
 
 
 
-# Chapter 18
+## Chapter 18: SWINDLES AND HAZARDS
 
-------
-
-# SWINDLES AND HAZARDS
-
-When shifting my focus from beating gambling games to analyzing the stock market, I naïvely thought that I was leaving a world where cheating at cards was problematic and entering an arena where regulation and the rule of law gave investors a fair playing field. Instead, I learned that bigger stakes attracted bigger thieves. Bernie Madoff’s Ponzi scheme was only the largest of the many exposed in 2008 and 2009, as a sharply falling market cut the supply of new money flowing into the swindles. These ranged in size from an $8 billion bank scam to swindles involving hundreds of millions of dollars each (including several hedge funds), and multimillion-dollar real estate, mortgage, and annuity scams. Swindles likely follow a simple mathematical law describing how their number increases as their economic size decreases.
+When shifting my focus from beating gambling games to analyzing the stock market, I naïvely thought that I was leaving a world where cheating at cards was problematic and entering an arena where regulation and the rule of law gave investors a fair playing field. Instead, I learned that bigger stakes attracted bigger thieves. Bernie Madoff’s Ponzi scheme was only the largest of the many exposed in 2008 and 2009, as a sharply falling market cut the supply of new money flowing into the swindles. These ranged in size from an \$8 billion bank scam to swindles involving hundreds of millions of dollars each (including several hedge funds), and multimillion-dollar real estate, mortgage, and annuity scams. Swindles likely follow a simple mathematical law describing how their number increases as their economic size decreases.
 
 The rise of the Internet and electronic connectivity created new opportunities for fraud. On Friday, August 25, 2000, my niece Dana, who was getting interested in stocks, called me after the market closed.
 
@@ -2416,7 +2184,7 @@ The rise of the Internet and electronic connectivity created new opportunities f
 
 “Well, my advice is to do nothing. I’d say there’s a good chance it’s another Internet fraud and that the company is just as sound as it was yesterday.”
 
-We soon learned what had happened. A twenty-three-year-old college student had sent a report to the electronic news service Internet Wire for which he formerly worked, purporting to be an official news release from Emulex (EMLX). The report claimed that the company’s president was resigning, good positive earnings for the last two years were being corrected to show large losses, and the SEC was to investigate. This fake information spread quickly and the stock was down 56 percent by the time NASDAQ halted trading. The hoaxer had earlier lost $100,000 selling Emulex short and managed to regain this plus a $250,000 profit before he was apprehended the following week. In the process, at the worst point, he had knocked the market capitalization of EMLX from $4.1 billion to $1.6 billion, a loss of $2.5 billion. Though the stock recovered most of its loss later in the day, it still closed down 7.31 at 105.75, a fall of 6.6 percent or $270 million in market value. The damage was much greater for those who sold during the drop. Eleven days after the hoax was exposed, and after the hoaxer was caught, the stock closed at 100.13, down 11.4 percent, never having fully recovered in the interim.
+We soon learned what had happened. A twenty-three-year-old college student had sent a report to the electronic news service Internet Wire for which he formerly worked, purporting to be an official news release from Emulex (EMLX). The report claimed that the company’s president was resigning, good positive earnings for the last two years were being corrected to show large losses, and the SEC was to investigate. This fake information spread quickly and the stock was down 56 percent by the time NASDAQ halted trading. The hoaxer had earlier lost \$100,000 selling Emulex short and managed to regain this plus a \$250,000 profit before he was apprehended the following week. In the process, at the worst point, he had knocked the market capitalization of EMLX from \$4.1 billion to \$1.6 billion, a loss of \$2.5 billion. Though the stock recovered most of its loss later in the day, it still closed down 7.31 at 105.75, a fall of 6.6 percent or \$270 million in market value. The damage was much greater for those who sold during the drop. Eleven days after the hoax was exposed, and after the hoaxer was caught, the stock closed at 100.13, down 11.4 percent, never having fully recovered in the interim.
 
 According to the theory of efficient markets (the EMH), the market sets prices so that they accurately reflect all available information. How does the collapse of 60 percent in fifteen minutes in response to false information represent the rational incorporation of information into the price? I also ask believers in the EMH to explain why the stock failed to recover in the eleven days after the hoax was exposed. The news for EMLX was good. So…?
 
@@ -2424,9 +2192,9 @@ Supporters of the efficient market view have slowly accepted minor deviations fr
 
 
 
-Shortly afterward, on September 21, 2000, a front-page headline in *The New York Times* read “SEC Says Teenager Had After-School Hobby: Online Stock Fraud.” The fifteen-year-old New Jersey high school student collected $273,000 in eleven trades. He would first buy a block of stock in a thinly traded company, then flood Internet chat rooms with messages that, say, a $2 stock would be trading at $20 “very soon.” The text here was about as valuable as the message in a fortune cookie. Dr. EMH’s rational all-knowing investors promptly bid up the price, at which point young Mr. Lebed sold. He had opened his brokerage accounts in his father’s name. Lebed settled with the SEC, repaying $273,000 in profits plus $12,000 in interest. It’s not apparent from the stories that any of this money was used to compensate the defrauded investors, whose identity or degree of injury may in any case be impossible to determine. The father’s comment? “So they pick on a kid.”
+Shortly afterward, on September 21, 2000, a front-page headline in *The New York Times* read “SEC Says Teenager Had After-School Hobby: Online Stock Fraud.” The fifteen-year-old New Jersey high school student collected \$273,000 in eleven trades. He would first buy a block of stock in a thinly traded company, then flood Internet chat rooms with messages that, say, a \$2 stock would be trading at \$20 “very soon.” The text here was about as valuable as the message in a fortune cookie. Dr. EMH’s rational all-knowing investors promptly bid up the price, at which point young Mr. Lebed sold. He had opened his brokerage accounts in his father’s name. Lebed settled with the SEC, repaying \$273,000 in profits plus \$12,000 in interest. It’s not apparent from the stories that any of this money was used to compensate the defrauded investors, whose identity or degree of injury may in any case be impossible to determine. The father’s comment? “So they pick on a kid.”
 
-In the early 1980s, a decade before coming across Madoff, I learned of a remarkable investment manager. This foreign exchange trader was racking up returns of 1 percent, 2 percent, 3 percent, and even 4 percent a month. He seemed never to lose. I asked George Shows, an associate in my Newport Beach office, to make an onsite visit to J. David Dominelli in nearby La Jolla. George came back with the amazing track record and “advertising” literature but could find no evidence of any actual trading activity. Our requests for audited financial statements, proof of assets, and proof of trades were smoothly deflected. I suspected a Ponzi scheme, and we didn’t invest. Two years later Dominelli’s scam collapsed in 1984, wiping out $200 million and defrauding one thousand investors, including many of the social, political, and financial elite of the San Diego area.
+In the early 1980s, a decade before coming across Madoff, I learned of a remarkable investment manager. This foreign exchange trader was racking up returns of 1 percent, 2 percent, 3 percent, and even 4 percent a month. He seemed never to lose. I asked George Shows, an associate in my Newport Beach office, to make an onsite visit to J. David Dominelli in nearby La Jolla. George came back with the amazing track record and “advertising” literature but could find no evidence of any actual trading activity. Our requests for audited financial statements, proof of assets, and proof of trades were smoothly deflected. I suspected a Ponzi scheme, and we didn’t invest. Two years later Dominelli’s scam collapsed in 1984, wiping out \$200 million and defrauding one thousand investors, including many of the social, political, and financial elite of the San Diego area.
 
 In 1984, I came across an innovative company with a new high-tech computerized product for the financial community. They were seeking more capital to finish research and development and to market their product. The story was persuasive, the business plan made sense, and my computer expert, Steve Mizusawa, gave a thumbs-up to their plans. I and several friends invested alongside the principals, paying them what was then the typical hedge fund fee of 20 percent of profits. The first year’s financial statements showed no income, only substantial expenses for research and development. Nonetheless, the principals declared a profit and paid themselves 20 percent of it! But there was no profit, only expenses. How did the principals justify pocketing our money? They claimed that the money spent for research and development produced a value greater than the amount spent, and they treated this alleged excess value as if it were cash in the bank! We eventually managed to get them to give our money back.
 
@@ -2442,7 +2210,7 @@ But then, hoaxes, scams, manias, and large-scale financial irrationalities have 
 
 
 
-In the last few years, so-called high-frequency traders (HFTs) have used computers to extract money from the market by inserting themselves between buyers and sellers, gaining on average a small profit on each transaction. These predatory programs depend on extreme quickness to get ahead of everyone else, with times measured in microseconds. Policed by the laws of nature, electrical signals to the exchanges travel no faster than light, a speed limit of about one thousand feet per microsecond. Location matters, and firms have paid expensively to house their computers as physically close as possible to the exchange. Recent reports say that a majority of trades involve these programs, generating $21 billion a year in annual profits. This was 0.1 percent of the market value of all US equities. A large investment house told my son, Jeff, that they have “guys with a few million of capital that clear through them that trade hundreds of millions per day.” I’ve wondered whether the frequent odd trading prices in Berkshire Hathaway, such as the one of $89,375.37 reported for the A shares, come from one of these trading programs.
+In the last few years, so-called high-frequency traders (HFTs) have used computers to extract money from the market by inserting themselves between buyers and sellers, gaining on average a small profit on each transaction. These predatory programs depend on extreme quickness to get ahead of everyone else, with times measured in microseconds. Policed by the laws of nature, electrical signals to the exchanges travel no faster than light, a speed limit of about one thousand feet per microsecond. Location matters, and firms have paid expensively to house their computers as physically close as possible to the exchange. Recent reports say that a majority of trades involve these programs, generating \$21 billion a year in annual profits. This was 0.1 percent of the market value of all US equities. A large investment house told my son, Jeff, that they have “guys with a few million of capital that clear through them that trade hundreds of millions per day.” I’ve wondered whether the frequent odd trading prices in Berkshire Hathaway, such as the one of \$89,375.37 reported for the A shares, come from one of these trading programs.
 
 Though many details of these schemes are either complex or not yet public knowledge, one of the mechanisms is. Some exchanges, such as NASDAQ, let HF traders peek at customer orders ahead of everyone else for thirty milliseconds before the order goes to the exchange. Seeing an order to buy, for instance, the HF traders can buy first, pushing the stock price up, then resell to the customer at a profit. Seeing someone’s order to sell, the HF trader sells first, causing the stock to fall, and then buys it back at the lower price. How is this different from the crime of front-running, described in Wikipedia as “the illegal practice of a stock broker executing orders on a security for its own account while taking advantage of advance knowledge of pending orders from its customers”?
 
@@ -2450,7 +2218,7 @@ Some securities industry spokesmen argue that harvesting this wealth from invest
 
 
 
-Since the more the rest of us trade the more we as a group lose to the computers, here’s one more reason to buy and hold rather than trade, unless you have a big enough edge. Although it’s politically not likely, a small federal tax, averaging a few cents a share on every purchase, could eliminate these traders and their profits, possibly saving more for investors than the extra tax, and adding cash to the US Treasury. If this cut a trading rate of about $30 trillion a year for equities by half, a 0.1 percent tax (3 cents a share on a $30 stock) would still raise about $15 billion.
+Since the more the rest of us trade the more we as a group lose to the computers, here’s one more reason to buy and hold rather than trade, unless you have a big enough edge. Although it’s politically not likely, a small federal tax, averaging a few cents a share on every purchase, could eliminate these traders and their profits, possibly saving more for investors than the extra tax, and adding cash to the US Treasury. If this cut a trading rate of about \$30 trillion a year for equities by half, a 0.1 percent tax (3 cents a share on a \$30 stock) would still raise about \$15 billion.
 
 —
 
@@ -2468,11 +2236,7 @@ Offering explanations for insignificant price changes is a recurrent event in fi
 
 
 
-# Chapter 19
-
-------
-
-# BUYING LOW, SELLING HIGH
+## Chapter 19: BUYING LOW, SELLING HIGH
 
 It’s the spring of 2000 and another warm sunny day in Newport Beach. From my home six hundred feet high on the hill I can see thirty miles across the Pacific Ocean to Wrigley’s twenty-six-mile-long Catalina Island, stretched across the horizon like a huge ship. To the left, sixty miles away, the top of the equally large San Clemente Island is just visible above the horizon. The ocean starts two and a half miles from where I sit, separated by a ribbon of white surf from wide sandy beaches. An early trickle of boats streams into the sea from Newport Harbor, one of the world’s largest small-boat moorings, with more than eight thousand sail and power vessels, and some of the most expensive luxury homes in the world. Whenever I leave on vacation I wonder if I have made a mistake.
 
@@ -2480,7 +2244,7 @@ As I finish breakfast the sun is rising above the hills behind me, illuminating 
 
 
 
-Our computers traded more than a million shares in the first hour and we are ahead $400,000. Currently managing $340 million, we have purchased $540 million worth of stocks long and sold an equal amount short. Our computer simulations and experience show that this portfolio is close to market-neutral, which means that the fluctuations in the value of the portfolio have little correlation to the overall average price changes in the market. Our level of market neutrality, measured by what financial theorists call beta, has averaged 0.06. When beta is zero for a portfolio, its price movements have no correlation with those of the market, and it is called market-neutral. Portfolios with positive beta tend to move up and down with the market, more so for larger beta. The beta of the market itself is chosen to be 1.0. Negative beta portfolios tend to fluctuate oppositely to the market. Our risk-adjusted excess return, the amount by which our annualized return has exceeded that from investments of comparable risk and called alpha by finance theorists, has averaged about 20 percent per year. This means that our past annual rate of return (before fees) of 26 percent can be thought of as the sum of three parts: 5 percent from Treasury bills with no risk, about 1 percent due to our slight correlation to the market, plus the remaining 20 percent, the amount by which our return exceeds investments with comparable risk.
+Our computers traded more than a million shares in the first hour and we are ahead \$400,000. Currently managing \$340 million, we have purchased \$540 million worth of stocks long and sold an equal amount short. Our computer simulations and experience show that this portfolio is close to market-neutral, which means that the fluctuations in the value of the portfolio have little correlation to the overall average price changes in the market. Our level of market neutrality, measured by what financial theorists call beta, has averaged 0.06. When beta is zero for a portfolio, its price movements have no correlation with those of the market, and it is called market-neutral. Portfolios with positive beta tend to move up and down with the market, more so for larger beta. The beta of the market itself is chosen to be 1.0. Negative beta portfolios tend to fluctuate oppositely to the market. Our risk-adjusted excess return, the amount by which our annualized return has exceeded that from investments of comparable risk and called alpha by finance theorists, has averaged about 20 percent per year. This means that our past annual rate of return (before fees) of 26 percent can be thought of as the sum of three parts: 5 percent from Treasury bills with no risk, about 1 percent due to our slight correlation to the market, plus the remaining 20 percent, the amount by which our return exceeds investments with comparable risk.
 
 Using our model, our computers calculate daily a “fair” price for each of about one thousand of the largest, most heavily traded companies on the New York and American stock exchanges. Market professionals describe stocks with large trading volume as “liquid”; they have the advantage of being easier to trade without moving the price up or down as much in the process. The latest prices from the exchanges flow into our computers and are compared at once with the current fair value according to our model. When the actual price differs enough from the fair price, we buy the underpriced and short the overpriced.
 
@@ -2490,17 +2254,17 @@ To control risk, we limit the dollar value we hold in the stock of any one compa
 
 Scanning the computer screen, I see the day’s interesting positions, including the biggest gainers and the biggest losers. I can see quickly if any winners or losers seem unusually large. Everything looks normal. I walk down the hall to Steve Mizusawa’s office, where he is watching his Bloomberg terminal, checking for news that might have a big impact on one of the stocks we trade. When he finds events such as the unexpected announcement of a merger, takeover, spin-off, or reorganization, he tells the computer to put the stock on the restricted list: Don’t initiate a new position and close out what we have.
 
-Steve has just persuaded the broker where we do most of our business to cut our commissions by 0.16 cents per share. The savings are big. Our entire holding of stocks, long and short, turns over about once every two weeks, or twenty-five times per year. At current levels this means we sell $540 million of stocks held long and replace them with $540 million of new stocks, a total value traded of $1.08 billion. We do the same with our shorts, for another $1.08 billion worth of trades. Trading both sides twenty-five times a year means we do $54 billion, or 1.5 billion shares annually. When famed hedge fund manager Michael Steinhardt retired, he astonished many by announcing he had traded a billion shares in one year.
+Steve has just persuaded the broker where we do most of our business to cut our commissions by 0.16 cents per share. The savings are big. Our entire holding of stocks, long and short, turns over about once every two weeks, or twenty-five times per year. At current levels this means we sell \$540 million of stocks held long and replace them with \$540 million of new stocks, a total value traded of \$1.08 billion. We do the same with our shorts, for another \$1.08 billion worth of trades. Trading both sides twenty-five times a year means we do \$54 billion, or 1.5 billion shares annually. When famed hedge fund manager Michael Steinhardt retired, he astonished many by announcing he had traded a billion shares in one year.
 
-The reduction Steve negotiated saves us $1.6 million a year. Even after this, our brokers are collecting $14.3 million per year from us. Our broker was smart to stay competitive.
+The reduction Steve negotiated saves us \$1.6 million a year. Even after this, our brokers are collecting \$14.3 million per year from us. Our broker was smart to stay competitive.
 
-Why is statistical arbitrage so-called? *Arbitrage* originally meant a pair of offsetting positions that lock in a sure profit. An example might be selling gold in London at $300 an ounce while at the same time buying it at $290 in New York for a $10 gain. If the total cost to finance the deal and to insure and deliver the New York gold to London were $5, it would leave a $5 sure profit. That’s an arbitrage in its original usage.
+Why is statistical arbitrage so-called? *Arbitrage* originally meant a pair of offsetting positions that lock in a sure profit. An example might be selling gold in London at \$300 an ounce while at the same time buying it at \$290 in New York for a \$10 gain. If the total cost to finance the deal and to insure and deliver the New York gold to London were \$5, it would leave a \$5 sure profit. That’s an arbitrage in its original usage.
 
-Later the term was expanded to describe investments where risks are expected to be largely offsetting, with a profit that is likely, if not certain. For instance, in what is called merger arbitrage, company A trading at $100 a share may offer to buy company B, trading at $70 a share, by exchanging one share of company A for each share of company B. The market reacts instantly and company A’s shares drop to, say, $88 while company B’s shares jump to $83. Merger arbitrageurs now step in, buying a share of B at $83 and selling short a share of A at $88. If the deal closes in three months, the arbitrageur will make $5 on an $83 investment or 6 percent. But the deal is not certain until it gets regulatory and shareholder approval, so there is a risk of loss should the negotiations fail and the prices of A and B reverse. If the stocks of A and B returned to their preannouncement prices, the arbitrageur would lose $12 = $100 − $88 on his short sale of A and $13 = $83 − $70 on his purchase of B, for a total loss of $25 per $83 invested, or 30 percent. The arbitrageur won’t take this lopsided risk unless he believes the chance of failure to be small.
+Later the term was expanded to describe investments where risks are expected to be largely offsetting, with a profit that is likely, if not certain. For instance, in what is called merger arbitrage, company A trading at \$100 a share may offer to buy company B, trading at \$70 a share, by exchanging one share of company A for each share of company B. The market reacts instantly and company A’s shares drop to, say, \$88 while company B’s shares jump to \$83. Merger arbitrageurs now step in, buying a share of B at \$83 and selling short a share of A at \$88. If the deal closes in three months, the arbitrageur will make \$5 on an \$83 investment or 6 percent. But the deal is not certain until it gets regulatory and shareholder approval, so there is a risk of loss should the negotiations fail and the prices of A and B reverse. If the stocks of A and B returned to their preannouncement prices, the arbitrageur would lose \$12 = \$100 − \$88 on his short sale of A and \$13 = \$83 − \$70 on his purchase of B, for a total loss of \$25 per \$83 invested, or 30 percent. The arbitrageur won’t take this lopsided risk unless he believes the chance of failure to be small.
 
 
 
-Our portfolio has the risk-reducing characteristics of arbitrage but with a large number of stocks in the long side and in the short side of the portfolio, we expect the statistical behavior of a large number of favorable bets to deliver our profit. This is like card counting at blackjack again, but on a much larger scale. Our average trade size is $54,000 and we are placing a million such bets per year, or one bet every six seconds when the market is open.
+Our portfolio has the risk-reducing characteristics of arbitrage but with a large number of stocks in the long side and in the short side of the portfolio, we expect the statistical behavior of a large number of favorable bets to deliver our profit. This is like card counting at blackjack again, but on a much larger scale. Our average trade size is \$54,000 and we are placing a million such bets per year, or one bet every six seconds when the market is open.
 
 As I walk back to my office, I think about how our statistical arbitrage venture came to be. While teaching finance in the UCI Graduate School of Management, I had many stimulating discussions with Dr. Jerome Baesel, the professor in the next office. I invited him to work full-time at Princeton Newport Partners. A major responsibility for him was to direct the indicators project, a research program I conceived. Neither Jerry nor I believed the efficient market theory. I had overwhelming evidence of inefficiency from blackjack, from the history of Warren Buffett and friends, and from our daily success in Princeton Newport Partners. We didn’t ask, *Is the market efficient?* but rather, *In what ways and to what extent is the market inefficient?* and *How can we exploit this?*
 
@@ -2518,7 +2282,7 @@ As part of our plan to add diversified profit centers, Princeton Newport Partner
 
 Gerry Bamberger was a tall, trim Orthodox Jew with an original way of looking at problems and a wry sense of humor. We worked together for several weeks in Newport Beach to test his system exhaustively. If I was satisfied, we would bankroll a joint venture with Gerry. He brought a brown bag for lunch, and it always contained a tuna salad sandwich. I finally had to ask, “How often do you have a tuna salad sandwich for lunch?” Gerry said, “Every day for the last six years.” He was a heavy smoker and I’m extremely sensitive to tobacco smoke—to the extent that we did not hire smokers or allow smoking in our office—so we negotiated how to handle this. We compromised. Whenever Gerry needed a cigarette he would step outside our ground-floor garden office. This is not the ordeal in Southern California that it could have been during an East Coast winter.
 
-The source of gain in the Bamberger version of statistical arbitrage was the most-up, most-down effect we had discovered in 1979–80. We hedged market risk but Gerry reduced risk even more by trading industry groups separately. To measure the historical performance of his system and to simulate real-time trading, we used Princeton Newport’s 1,100-square-foot computer room filled with $2 million worth of equipment. Inside were banks of gigabyte disk drives as large as washing machines, plus tape drives and central processing units, or CPUs, the size of refrigerators. All this sat on a raised floor consisting of removable panels, under which snaked a jungle of cables, wires, and other connectors.
+The source of gain in the Bamberger version of statistical arbitrage was the most-up, most-down effect we had discovered in 1979–80. We hedged market risk but Gerry reduced risk even more by trading industry groups separately. To measure the historical performance of his system and to simulate real-time trading, we used Princeton Newport’s 1,100-square-foot computer room filled with \$2 million worth of equipment. Inside were banks of gigabyte disk drives as large as washing machines, plus tape drives and central processing units, or CPUs, the size of refrigerators. All this sat on a raised floor consisting of removable panels, under which snaked a jungle of cables, wires, and other connectors.
 
 The room also had its own safety system. In case of fire, the air was automatically replaced by noncombustible halogen gas within eighty seconds. Once this happened the room had too little oxygen for fire to burn or for people to breathe. We practiced how to get out in time and to trigger the halogen manually, if necessary.
 
@@ -2526,7 +2290,7 @@ Our facility was high-tech in the mid-1980s, but with the enormous increase in c
 
 
 
-When I was totally satisfied, we set up a joint venture, funded by PNP and run in New York by Gerry as a turn-key operation. We called it BOSS Partners, for “Bamberger (plus) Oakley Sutton Securities”—the latter an entity created by us to assist PNP. On capital ranging from $30 million to $60 million, BOSS earned between 25 and 30 percent in 1985. Returns gradually declined to 15 percent or so by 1988. The waning profitability and the mounting Giuliani attack on our Princeton office discouraged Gerry from continuing in the securities industry. He elected to retire a millionaire.
+When I was totally satisfied, we set up a joint venture, funded by PNP and run in New York by Gerry as a turn-key operation. We called it BOSS Partners, for “Bamberger (plus) Oakley Sutton Securities”—the latter an entity created by us to assist PNP. On capital ranging from \$30 million to \$60 million, BOSS earned between 25 and 30 percent in 1985. Returns gradually declined to 15 percent or so by 1988. The waning profitability and the mounting Giuliani attack on our Princeton office discouraged Gerry from continuing in the securities industry. He elected to retire a millionaire.
 
 Meanwhile, I took the statistical arbitrage concept a step further. Trading started with my improved approach in January 1988, thus by chance missing the crash of 1987. How would we have done? Despite a 22 percent drop in the S&P 500 Index, BOSS made 7 percent for October 1987. Computer simulations showed our new statistical arbitrage product would also have had a good day and a record month. This was a ship for riding out cataclysms.
 
@@ -2538,11 +2302,11 @@ The beauty of a statistical arbitrage product is that it can be designed to offs
 
 We called the new method STAR, for “STatistical ARbitrage.” At the request of one of our investors we sent a trading history to Barra, a world leader in researching and developing financial products. They tested STAR with their model E2, which had fifty-five industry factors and thirteen macroeconomic factors. They found that our returns were essentially factor-neutral, and did not appear to result from lucky bets.
 
-It was good that we advanced beyond the Bamberger model because, in simulation, its returns continued to fall. Moreover, after finishing with a good 1987, Morgan Stanley reportedly expanded their investment in it to $900 million long and $900 million short, which had to drive down returns for everyone using the method. The rumor was that they lost between 6 percent and 12 percent, leading to the winding down of the product.
+It was good that we advanced beyond the Bamberger model because, in simulation, its returns continued to fall. Moreover, after finishing with a good 1987, Morgan Stanley reportedly expanded their investment in it to \$900 million long and \$900 million short, which had to drive down returns for everyone using the method. The rumor was that they lost between 6 percent and 12 percent, leading to the winding down of the product.
 
 People at Morgan Stanley began leaving the quantitative systems group that was in charge of statistical arbitrage. Among those to depart was David E. Shaw, a former professor of computer science at Columbia University. He had been wooed to Wall Street to use computers to find opportunities in the market.
 
-In the spring of 1988, Shaw spent the day in Newport Beach. We discussed his plan to launch an improved statistical arbitrage product. PNP was able to put up the $10 million he wanted for start-up, and we were impressed by his ideas but decided not to go ahead because we already had a good statistical arbitrage product. He found other backing, creating one of the most successful analytic firms on Wall Street, and later would become a member of the president’s science advisory committee. Using statistical arbitrage as a core profit center, he expanded into related hedging and arbitrage areas (the PNP business plan again), and hired large numbers of smart quantitative types from academia. In 2014, *Forbes* ranked him as the 134th richest American, at $3.8 billion. One of his hires was Jeff Bezos, who, while researching business opportunities in 1994 for Shaw, got the idea for an online bookstore and left to start a company called Amazon.com. At $30 billion in 2014, Bezos was the fifteenth richest American.
+In the spring of 1988, Shaw spent the day in Newport Beach. We discussed his plan to launch an improved statistical arbitrage product. PNP was able to put up the \$10 million he wanted for start-up, and we were impressed by his ideas but decided not to go ahead because we already had a good statistical arbitrage product. He found other backing, creating one of the most successful analytic firms on Wall Street, and later would become a member of the president’s science advisory committee. Using statistical arbitrage as a core profit center, he expanded into related hedging and arbitrage areas (the PNP business plan again), and hired large numbers of smart quantitative types from academia. In 2014, *Forbes* ranked him as the 134th richest American, at \$3.8 billion. One of his hires was Jeff Bezos, who, while researching business opportunities in 1994 for Shaw, got the idea for an online bookstore and left to start a company called Amazon.com. At \$30 billion in 2014, Bezos was the fifteenth richest American.
 
 
 
@@ -2564,13 +2328,13 @@ The graph in Appendix E, XYZ Performance Comparison, displays two major “epoch
 
 One cause for this greater variability might be the delayed and disputed election of George W. Bush. We also had an economic sea change from budget surpluses to massive deficits as a result of increased spending and tax rate reductions. More uncertainty came with the collapse of the dot-com bubble and the horrors of 9/11.
 
-We charged Ridgeline Partners 1 percent per year plus 20 percent of net new profits. We voluntarily reduced fees during a period when we felt disappointed in our performance. We gave back more than $1 million to the limited partners. Some of today’s greedy hedge fund managers might say our return of fees was economically irrational, but our investors were happy and we nearly always had a waiting list. Ridgeline was closed a large part of the time to new investors, and current partners were often restricted from adding capital. To maintain higher returns, we sometimes even reduced our size by returning capital to partners.
+We charged Ridgeline Partners 1 percent per year plus 20 percent of net new profits. We voluntarily reduced fees during a period when we felt disappointed in our performance. We gave back more than \$1 million to the limited partners. Some of today’s greedy hedge fund managers might say our return of fees was economically irrational, but our investors were happy and we nearly always had a waiting list. Ridgeline was closed a large part of the time to new investors, and current partners were often restricted from adding capital. To maintain higher returns, we sometimes even reduced our size by returning capital to partners.
 
 
 
 Unlike some hedge fund managers who also had a waiting list, we could have increased our fees by raising our share of the profits or adding more capital, thereby driving down the return to limited partners. Such tactics by the general partner to capture nearly all the excess risk-adjusted return, or “alpha,” rather than share it with the other investors are what economic theory predicts. Instead, I preferred to treat limited partners as I would wish to be treated in their place.
 
-In August 1998, the hedge fund Long-Term Capital Management (LTCM), a pool of $4 billion, lost nearly all its money. Highly leveraged, it threatened to default on something like $100 billion in contracts. Some claimed that the world financial system itself was threatened. The Federal Reserve decided LTCM was “too big to fail” and brokered a bailout by a consortium of brokers and banks, each of whom had a financial self-interest in saving LTCM. At about the same time several Asian economies got sick, and Russia defaulted on its debt.
+In August 1998, the hedge fund Long-Term Capital Management (LTCM), a pool of \$4 billion, lost nearly all its money. Highly leveraged, it threatened to default on something like \$100 billion in contracts. Some claimed that the world financial system itself was threatened. The Federal Reserve decided LTCM was “too big to fail” and brokered a bailout by a consortium of brokers and banks, each of whom had a financial self-interest in saving LTCM. At about the same time several Asian economies got sick, and Russia defaulted on its debt.
 
 The combination of events greatly increased volatility in the financial markets. Would these disruptions increase our potential rate of return or would they thwart our statistical arbitrage system? Hedge funds were suffering in multiple ways. Owners of Asian securities lost heavily. Financial institutions suddenly were less willing to extend credit, and leveraged hedge funds were forced to liquidate positions. We heard that large statistical arbitrage positions were being closed out. This seems likely because they are liquid and can be sold quickly to raise cash. This deleveraging and liquidity crisis foreshadowed a similar and far greater global rerun in 2008.
 
@@ -2580,7 +2344,7 @@ If there was such a large movement out of statistical arbitrage positions, we wo
 
 Though October began badly, we recovered all our losses and continued the winning streak that started in September. It went on for six amazing months, through February 1999. During this time we made 54.5 percent. The result for the twelve months ending with August 1999 was that Ridgeline’s limited partners made 72.4 percent. This was from a market-neutral product using leverage of 2:1 or less. Several of our limited partners asked if we had ever seen anything like this. I told them that in thirty-five years of market-neutral investing I never had, but not to get used to it, as we were unlikely to repeat this performance.
 
-Between Ridgeline and XYZ we managed as much as $400 million in statistical arbitrage and another $70 million in other strategies, whereas PNP’s peak was $272 million. Compared with PNP’s maximum of eighty employees, only six of us at Ridgeline faced our formidable competitors. Several of those had hundreds of employees, including scores of PhDs in mathematics, statistics, computer science, physics, finance, and economics. We were a highly automated, lean, and profitable operation.
+Between Ridgeline and XYZ we managed as much as \$400 million in statistical arbitrage and another \$70 million in other strategies, whereas PNP’s peak was \$272 million. Compared with PNP’s maximum of eighty employees, only six of us at Ridgeline faced our formidable competitors. Several of those had hundreds of employees, including scores of PhDs in mathematics, statistics, computer science, physics, finance, and economics. We were a highly automated, lean, and profitable operation.
 
 We decided to close down in the fall of 2002. Returns, although respectable, had declined in 2001 and 2002. I believed this was due to the huge growth in hedge fund assets, with a corresponding expansion of statistical arbitrage programs. I had seen this happen before in 1988 when Morgan Stanley’s expansion of statistical arbitrage seemed to have a negative effect on our returns. The declining rate of return in statistical arbitrage seemed to be confirmed by the experience of most other hedge funds operating in the “space.”
 
@@ -2594,11 +2358,7 @@ And I had investments that remained interesting, such as the mutual savings and 
 
 
 
-# Chapter 20
-
-------
-
-# BACKING THE TRUCK UP TO THE BANKS
+## Chapter 20: BACKING THE TRUCK UP TO THE BANKS
 
 One day in 1990 my entrepreneurial son, Jeff, called to advise me to open passbook savings accounts at mutual savings and loan associations. Why would I want to tie up money at 5 percent when I was earning 20 percent? Jeff answered, “How would you like a little piece of a few billion dollars of value no one owns?” I said, “Keep talking.” And he explained how it worked.
 
@@ -2610,21 +2370,21 @@ The giant slow-motion collapse of the US savings and loan industry, starting in 
 
 The mutuals could raise capital only by attracting more depositors, a slow and uncertain process, but their rivals, the “stock” savings and loans, were corporations owned by shareholders. They could get more capital from the marketplace, as they needed it, by selling shares. Facing such competition, some of the more entrepreneurial managers of mutuals decided to “convert” to stock companies, and this began the process of extracting billions of dollars that no one could previously claim.
 
-Here’s how it is done. Imagine a hypothetical mutual savings and loan, which we’ll call Magic Wand S&L, or MW, with $10 million in liquidation or book value, and net income of $1 million per year. If MW were a stock bank with one million shares outstanding, each share would have a book value of $10 and earn $1 per share, which is 10 percent of book value. Suppose that if there were such a thing as MW stock, it would, as is typical, trade at one times book value, or $10 per share.
+Here’s how it is done. Imagine a hypothetical mutual savings and loan, which we’ll call Magic Wand S&L, or MW, with \$10 million in liquidation or book value, and net income of \$1 million per year. If MW were a stock bank with one million shares outstanding, each share would have a book value of \$10 and earn \$1 per share, which is 10 percent of book value. Suppose that if there were such a thing as MW stock, it would, as is typical, trade at one times book value, or \$10 per share.
 
-Management decides to “convert” MW to a stock savings and loan and issue for the first time one million shares of stock at $10 per share, for proceeds of $10 million. After this initial public offering, or IPO, MW has $10 million in new cash plus the $10 million in equity previously owned by the depositors, for a new total of $20 million in equity. Each share now has a book value of $10 cash plus $10 in contributed equity, for a total of $20.
+Management decides to “convert” MW to a stock savings and loan and issue for the first time one million shares of stock at \$10 per share, for proceeds of \$10 million. After this initial public offering, or IPO, MW has \$10 million in new cash plus the \$10 million in equity previously owned by the depositors, for a new total of \$20 million in equity. Each share now has a book value of \$10 cash plus \$10 in contributed equity, for a total of \$20.
 
-What will the new shares sell for in the marketplace? The contributed equity ought to be worth $10 based on the current market price of comparable stock S&Ls and the $10 in cash ought to be worth another $10, so once the public understands this, we expect the new stock to trade at about $20.
+What will the new shares sell for in the marketplace? The contributed equity ought to be worth \$10 based on the current market price of comparable stock S&Ls and the \$10 in cash ought to be worth another \$10, so once the public understands this, we expect the new stock to trade at about \$20.
 
-Buy a $20 stock for $10. Who loses? No one, but those depositors who do not purchase enough stock on the offering to capture their share of the pre-IPO equity they “owned” give up some of the gains to the others, who then are able to get more. Fortunately, the IPOs are generally structured so depositors have priority over other classes in applying for stock. Usually only one class has still higher priority. Who? You guessed it! The insiders: officers, directors, and employee stock option and benefit plans. This allows the insiders to capture some of the depositors’ value, which provides a powerful motivation for management to convert.
+Buy a \$20 stock for \$10. Who loses? No one, but those depositors who do not purchase enough stock on the offering to capture their share of the pre-IPO equity they “owned” give up some of the gains to the others, who then are able to get more. Fortunately, the IPOs are generally structured so depositors have priority over other classes in applying for stock. Usually only one class has still higher priority. Who? You guessed it! The insiders: officers, directors, and employee stock option and benefit plans. This allows the insiders to capture some of the depositors’ value, which provides a powerful motivation for management to convert.
 
 
 
-Suppose we had the foresight to become a depositor in Magic Wand S&L before the deadline for eligibility to participate in the IPO. Sometime after the eligibility deadline, the bank announces its intention to convert, chooses an investment banker to manage the stock offering, and gets regulatory approval. Magic Wand creates a temporary department called the conversion center, which issues a package of documents including a prospectus with the terms of the conversion and information including which groups can participate, their level of priority, and background data including the financial statements of the bank for the last few years. The stock order form in the package allows us to apply for up to 1 percent of the ten million shares offered, or ten thousand shares, at $10 a share. We wire $100,000 to the conversion center, hoping to get our full allotment of ten thousand shares but knowing from experience that anything between zero and ten thousand shares is possible. A couple of weeks later we learn that we bought nine thousand shares. We get a stock certificate in the mail and deposit it in our brokerage account. We also get a check for $10,191.78, $10,000 of which is a refund for the one thousand shares we requested but didn’t get, and $191.78 for interest earned during escrow at, in this example, 5 percent on our $100,000 while waiting fourteen days for the deal to close.
+Suppose we had the foresight to become a depositor in Magic Wand S&L before the deadline for eligibility to participate in the IPO. Sometime after the eligibility deadline, the bank announces its intention to convert, chooses an investment banker to manage the stock offering, and gets regulatory approval. Magic Wand creates a temporary department called the conversion center, which issues a package of documents including a prospectus with the terms of the conversion and information including which groups can participate, their level of priority, and background data including the financial statements of the bank for the last few years. The stock order form in the package allows us to apply for up to 1 percent of the ten million shares offered, or ten thousand shares, at \$10 a share. We wire \$100,000 to the conversion center, hoping to get our full allotment of ten thousand shares but knowing from experience that anything between zero and ten thousand shares is possible. A couple of weeks later we learn that we bought nine thousand shares. We get a stock certificate in the mail and deposit it in our brokerage account. We also get a check for \$10,191.78, \$10,000 of which is a refund for the one thousand shares we requested but didn’t get, and \$191.78 for interest earned during escrow at, in this example, 5 percent on our \$100,000 while waiting fourteen days for the deal to close.
 
-What happens to the price of our stock? It opens at $12 and over the next few weeks slowly moves up to $16, still below the $20 per share paid for comparable stocks that have traded for a while in the market.
+What happens to the price of our stock? It opens at \$12 and over the next few weeks slowly moves up to \$16, still below the \$20 per share paid for comparable stocks that have traded for a while in the market.
 
-It doesn’t quite make it to $20. Why not? First, the net cash to Magic Wand is a little less than $10 per share because the underwriters get a few percent of the proceeds, so the new book value is a little less than $20, perhaps $19.30 per share. Second, the market price of S&Ls fluctuates and the group has been a little weak lately. The price has dropped a couple of points below book value. Third, it will take management time to put the new cash to work, so earnings won’t reach $2 per share for a year or two. Even so, we made 60 percent in a few weeks.
+It doesn’t quite make it to \$20. Why not? First, the net cash to Magic Wand is a little less than \$10 per share because the underwriters get a few percent of the proceeds, so the new book value is a little less than \$20, perhaps \$19.30 per share. Second, the market price of S&Ls fluctuates and the group has been a little weak lately. The price has dropped a couple of points below book value. Third, it will take management time to put the new cash to work, so earnings won’t reach \$2 per share for a year or two. Even so, we made 60 percent in a few weeks.
 
 Many of the players in this game, so-called flippers, take their profit in the first few days and move on. On the other hand, I will hold a well-managed company for months or years. If the stock continues its rise toward book value, this gives further gains. Also, waiting more than a year to sell gives a long-term capital gain, with less tax to pay.
 
@@ -2638,7 +2398,7 @@ Jeff and I each opened hundreds of savings accounts. Some of this was done by ma
 
 In one case, a very large S&L looked ripe for conversion so the IPO would be big. The bank required that accounts be opened in person, rather than by mail, which reduced the competition. Jeff urged my son-in-law Rich and me to fly to Dallas for the day.
 
-When we arrived, sitting next to us also waiting to open accounts were a thirtysomething hotshot from Beverly Hills and his girlfriend. Acting obviously secretive, like an incompetent CIA agent, Mr. Sunglasses chatted us up, learned we were from out of town, and wondered if we were playing the S&L game like he, the expert, was. We acted naïve, and he importantly gave us a business card. Amused, I saved it, and, a few months later when a financial piece about me appeared in *Newsweek,* mailed him a copy with a note saying I enjoyed meeting him at the bank. A year later, I was $85,000 better off from spending the day in Dallas.
+When we arrived, sitting next to us also waiting to open accounts were a thirtysomething hotshot from Beverly Hills and his girlfriend. Acting obviously secretive, like an incompetent CIA agent, Mr. Sunglasses chatted us up, learned we were from out of town, and wondered if we were playing the S&L game like he, the expert, was. We acted naïve, and he importantly gave us a business card. Amused, I saved it, and, a few months later when a financial piece about me appeared in *Newsweek,* mailed him a copy with a note saying I enjoyed meeting him at the bank. A year later, I was \$85,000 better off from spending the day in Dallas.
 
 I visualized opening accounts as planting acorns in the hope of getting a crop of oak trees. Only these were strange acorns. They could lie dormant for months or years, perhaps forever; but once in a while, at random, a mighty tree of money would explode out of the ground. Was this “farm” worth operating?
 
@@ -2656,25 +2416,21 @@ Meanwhile, my other investments have done well. One of them is Buffett’s Berks
 
 
 
-# Chapter 21
-
-------
-
-# ONE LAST PUFF
+## Chapter 21: ONE LAST PUFF
 
 After twelve successful years, with the stock market vastly overpriced in his opinion, Warren Buffett outlined the windup of Buffett Partnership, Ltd., in October 1969. Partners would get a payout consisting of at least 56 percent cash, possibly some scraps of stock in assorted companies, and an estimated 30 to 35 percent, for those who chose not to have them sold for cash, in two companies—Diversified Retailing and a New England textile company called Berkshire Hathaway. He added the discouraging, “For the first time in my investment lifetime, I now believe there is little choice for the average investor between professionally managed money in stocks and passive investment in bonds.”
 
-As I reread Buffett’s letter today I see no clue now, nor did I then, that Berkshire Hathaway would become the successor to Warren’s partnership. Ralph Gerard, a longtime investor with Buffett and the man who introduced us, never did, either. Of the $100 million distributed to partners, about $25 million was Buffett’s. He eventually ended up with nearly half of Berkshire’s stock.
+As I reread Buffett’s letter today I see no clue now, nor did I then, that Berkshire Hathaway would become the successor to Warren’s partnership. Ralph Gerard, a longtime investor with Buffett and the man who introduced us, never did, either. Of the \$100 million distributed to partners, about \$25 million was Buffett’s. He eventually ended up with nearly half of Berkshire’s stock.
 
-Berkshire was what Buffett and his mentor Benjamin Graham called a cigar butt—you can pick it up cheaply and get one last puff. As *Forbes* said in 1990, in its characteristic shorthand, “[Buffett] bought Berkshire Hathaway textile mills 1965 ($12/share), dissolved partnership 1969 after thirty-fold growth, decided to use Berkshire Hathaway as prime investment vehicle. Textile business floundered (ceased operations in 1985) but investment business boomed.”
+Berkshire was what Buffett and his mentor Benjamin Graham called a cigar butt—you can pick it up cheaply and get one last puff. As *Forbes* said in 1990, in its characteristic shorthand, “[Buffett] bought Berkshire Hathaway textile mills 1965 (\$12/share), dissolved partnership 1969 after thirty-fold growth, decided to use Berkshire Hathaway as prime investment vehicle. Textile business floundered (ceased operations in 1985) but investment business boomed.”
 
 
 
-Focused on Princeton Newport, I lost track of Warren after 1969. Then in 1983, I heard about the remarkable growth of a company called Berkshire Hathaway. Not knowing it was to become Warren’s investment vehicle, I had stopped paying attention to it back in 1969. The stock price then was $42 a share, if you could find anyone to trade with. It was now publicly trading at over $900. I knew at once what this meant. The “cigar butt” had become a humidor of Havanas. Despite its having increased by a multiple of more than 23 in fourteen years, I made my first purchase at $982.50 a share and continued to accumulate stock. By contrast, in 2004 I was talking to a bank president in San Francisco when he mentioned that his mother had been a limited partner in Buffett Partnership, Ltd., and received some Berkshire stock as part of her distribution when the partnership closed. “That’s wonderful,” I said. “At today’s prices [then $80,000 a share or so] she must be very rich.” “Sadly,” he said, “she sold at $79 for a several hundred percent profit.”
+Focused on Princeton Newport, I lost track of Warren after 1969. Then in 1983, I heard about the remarkable growth of a company called Berkshire Hathaway. Not knowing it was to become Warren’s investment vehicle, I had stopped paying attention to it back in 1969. The stock price then was \$42 a share, if you could find anyone to trade with. It was now publicly trading at over \$900. I knew at once what this meant. The “cigar butt” had become a humidor of Havanas. Despite its having increased by a multiple of more than 23 in fourteen years, I made my first purchase at \$982.50 a share and continued to accumulate stock. By contrast, in 2004 I was talking to a bank president in San Francisco when he mentioned that his mother had been a limited partner in Buffett Partnership, Ltd., and received some Berkshire stock as part of her distribution when the partnership closed. “That’s wonderful,” I said. “At today’s prices [then \$80,000 a share or so] she must be very rich.” “Sadly,” he said, “she sold at \$79 for a several hundred percent profit.”
 
 If asked for advice, I recommended the stock to family, friends, and associates with the understanding that it was a long-term holding with a possibly volatile future. I didn’t suggest it to those who couldn’t understand the reasoning behind the purchase and who would be scared by a big drop in price. The response was sometimes frustrating.
 
-In 1985 our divorced house cleaner, Carolyn, got $6,000 as a settlement from an automobile accident. She wanted to invest it to send her children, aged five and six, through college. Week after week she pleaded with me to advise her, but as she knew absolutely nothing about securities or investing, I declined. Urged on by her fortune-teller, who told her that I would double or even triple her money, she persisted. In a weak moment I relented, provided that if she bought the stock I recommended, she would never sell before checking with me. I arranged low commissions for her, as a favor to me by a broker friend, and she bought two shares of Berkshire Hathaway (BRK) for $2,500 each. She later left housecleaning for office work and we lost touch with her. Meanwhile BRK rose to about $5,000 a share just before the October 1987 crash. I learned later from the broker that Carolyn had sold near the post-crash bottom at $2,600 a share. Sixteen years later, in the first quarter of 2003 at the time her children might have been finishing college, the stock ranged between about $60,000 and $74,000 a share.
+In 1985 our divorced house cleaner, Carolyn, got \$6,000 as a settlement from an automobile accident. She wanted to invest it to send her children, aged five and six, through college. Week after week she pleaded with me to advise her, but as she knew absolutely nothing about securities or investing, I declined. Urged on by her fortune-teller, who told her that I would double or even triple her money, she persisted. In a weak moment I relented, provided that if she bought the stock I recommended, she would never sell before checking with me. I arranged low commissions for her, as a favor to me by a broker friend, and she bought two shares of Berkshire Hathaway (BRK) for \$2,500 each. She later left housecleaning for office work and we lost touch with her. Meanwhile BRK rose to about \$5,000 a share just before the October 1987 crash. I learned later from the broker that Carolyn had sold near the post-crash bottom at \$2,600 a share. Sixteen years later, in the first quarter of 2003 at the time her children might have been finishing college, the stock ranged between about \$60,000 and \$74,000 a share.
 
 
 
@@ -2682,17 +2438,17 @@ My wife and I, our oldest daughter, Raun, and her husband, Brian, their daughter
 
 The shareholders’ meeting was on a Saturday morning and we flew in the previous Thursday, expecting to leave, variously, on Sunday and Monday. The small annual shareholder meetings of thirty years earlier had grown into a huge multiday celebration featuring “Berkshire millionaires” and informally known as “Woodstock for capitalists.”
 
-We began by sampling from the array of Berkshire companies including Dairy Queen (a chain of ice cream confection stores), Borsheims jewelry (the largest independent jewelry store) and its special “annual meeting weekend” rates for shareholders, Nebraska Furniture Mart (the largest independent furniture store), and of course See’s Candies, a California favorite. Every Berkshire company employee whom we encountered—and they were many and diverse—seemed competent, courteous, and well trained, a remarkable fact, the learning of which in itself (considering the size of our stake) made the trip worthwhile. Friday night we went to Gorat’s Steak House, Buffett’s favorite, and had a large and delicious T-bone with trimmings for…$18.95. Buffett and his business partner, Charlie Munger, were scheduled to eat there Saturday night at a special shareholders’ dinner, so we booked that, too.
+We began by sampling from the array of Berkshire companies including Dairy Queen (a chain of ice cream confection stores), Borsheims jewelry (the largest independent jewelry store) and its special “annual meeting weekend” rates for shareholders, Nebraska Furniture Mart (the largest independent furniture store), and of course See’s Candies, a California favorite. Every Berkshire company employee whom we encountered—and they were many and diverse—seemed competent, courteous, and well trained, a remarkable fact, the learning of which in itself (considering the size of our stake) made the trip worthwhile. Friday night we went to Gorat’s Steak House, Buffett’s favorite, and had a large and delicious T-bone with trimmings for…\$18.95. Buffett and his business partner, Charlie Munger, were scheduled to eat there Saturday night at a special shareholders’ dinner, so we booked that, too.
 
 
 
 Saturday’s meeting began at 7:30 A.M. with a video for the early arrivals. We slept in and ambled over to the Omaha Civic Auditorium just before 9:30, when Warren and Charlie would take the stage. On the way we passed several incoherently screaming protesters—a first?—wearing signs accusing Warren and the company of supporting infanticide. They displayed bloody photos of aborted fetuses and incorrectly accused the company of being pro-abortion. The ironic consequences are reported below.
 
-Finding the Omaha Civic Auditorium full with a crowd of fourteen thousand, we joined two thousand more in an overflow room. Warren and Charlie presented a concise account of Berkshire’s previous year, seen by us on a big-screen TV, and then answered questions. There were ten microphone stations with long sign-up lists at each. Ava was ninth on the shortest list we could find. After an hour, the slow pace of the questions and answers made it evident that her turn would never come. On the way out we visited the extensive product exhibits by various Berkshire companies. You could buy See’s Candies, sets of encyclopedias, and for $8 have your picture taken with a cardboard cutout of Warren. As Vivian said, “They’re not giving anything away.”
+Finding the Omaha Civic Auditorium full with a crowd of fourteen thousand, we joined two thousand more in an overflow room. Warren and Charlie presented a concise account of Berkshire’s previous year, seen by us on a big-screen TV, and then answered questions. There were ten microphone stations with long sign-up lists at each. Ava was ninth on the shortest list we could find. After an hour, the slow pace of the questions and answers made it evident that her turn would never come. On the way out we visited the extensive product exhibits by various Berkshire companies. You could buy See’s Candies, sets of encyclopedias, and for \$8 have your picture taken with a cardboard cutout of Warren. As Vivian said, “They’re not giving anything away.”
 
 Berkshire has evolved from the simple stock-picking days of the 1960s into a conglomerate with three major parts. First there are common stockholdings in companies like Coca-Cola, Gillette, and *The Washington Post.* Second, there are wholly owned or controlled companies such as Wesco Financial, World Book Encyclopedia, and Clayton Homes. The 2003 annual report lists some sixty-six of these, with 172,000 employees, orchestrated by Warren and Charlie from a corporate office that has “swollen” to sixteen employees. Third and perhaps most important is the insurance segment consisting mostly of GEICO and the reinsurance company General Re.
 
-We headed for lunch and the NetJets exhibit at the local airport. Saturday night we were back at Gorat’s. The price of the T-bone dinner we had Friday was, as a “special for shareholders,” now $3 more. Charlie Munger reluctantly worked the room we were in and I mentioned to him a tale I’d heard about his youth. Charlie had gone to Harvard Law School and, when my friend Paul Marx got his degree there a few years later, he found that Charlie was a legend—with many saying he was the smartest person ever to have attended. As a first-year student Charlie was reported to have regularly intimidated professors. In a famous interchange, the professor called upon Charlie, who had not read the case at hand, to answer questions about it. Charlie’s immediate response was, “Sir, you tell me the facts and I’ll tell you the law.” While autographing my menu, Charlie said sadly, “That was a long time ago…a long time ago.”
+We headed for lunch and the NetJets exhibit at the local airport. Saturday night we were back at Gorat’s. The price of the T-bone dinner we had Friday was, as a “special for shareholders,” now \$3 more. Charlie Munger reluctantly worked the room we were in and I mentioned to him a tale I’d heard about his youth. Charlie had gone to Harvard Law School and, when my friend Paul Marx got his degree there a few years later, he found that Charlie was a legend—with many saying he was the smartest person ever to have attended. As a first-year student Charlie was reported to have regularly intimidated professors. In a famous interchange, the professor called upon Charlie, who had not read the case at hand, to answer questions about it. Charlie’s immediate response was, “Sir, you tell me the facts and I’ll tell you the law.” While autographing my menu, Charlie said sadly, “That was a long time ago…a long time ago.”
 
 
 
@@ -2702,13 +2458,13 @@ Flights out of Omaha were canceled. With thirty thousand people who had come for
 
 
 
-For many years Berkshire had a shareholder-directed charitable contribution program. Each year the company allowed each A shareholder to donate $X, where $X was $1 a share at the start and gradually increased to something like $18 a share. Shareholders allocated their amounts to charities chosen by them, not management, and Berkshire sent the money. As a result of the antiabortion protests at this annual meeting and the related boycott of a Berkshire company, the program was discontinued. The antiabortion protesters succeeded in eliminating not only shareholder contributions supporting family planning, but those to other charities as well, including organizations the demonstrators themselves favored.
+For many years Berkshire had a shareholder-directed charitable contribution program. Each year the company allowed each A shareholder to donate \$X, where \$X was \$1 a share at the start and gradually increased to something like \$18 a share. Shareholders allocated their amounts to charities chosen by them, not management, and Berkshire sent the money. As a result of the antiabortion protests at this annual meeting and the related boycott of a Berkshire company, the program was discontinued. The antiabortion protesters succeeded in eliminating not only shareholder contributions supporting family planning, but those to other charities as well, including organizations the demonstrators themselves favored.
 
 To decide whether to buy Berkshire one can do a little analysis. Berkshire, as remarked earlier, has three major parts. First are the positions in publicly traded companies like Coca-Cola, *The Washington Post,* and Gillette. The securities markets price these every day. Is this Buffett portfolio worth more than, less than, or the same as its market price? Should one add a premium for Buffett’s market timing and stock-picking prowess?
 
 Second are numerous wholly owned companies such as See’s Candies, Clayton Homes, and NetJets. We can value these by applying the principles of security analysis to the balance sheets, and by considering the growth rates of the companies, their “franchise value,” and the quality of management.
 
-The third component is the insurance group, with GEICO the most important. To value these non-public companies we use, in addition to security analysis as above, the value of the “float.” This is money paid as premiums that is currently being held to pay off future claims. Buffett invests this and has made a profit well in excess of the projected cost of claims. To the extent Warren makes superior returns on the float, as well as follows his practice of selling insurance when prices are high and stepping aside when competition drives prices down, the value of Berkshire is greater. For a few years prior to 2008 Berkshire had an uninvested cash surplus of as much as $40 billion, as Buffett found stocks generally overpriced. This “cash drag” slowed the price increase of Berkshire during that period. When the market collapsed in 2008, he put this money to work.
+The third component is the insurance group, with GEICO the most important. To value these non-public companies we use, in addition to security analysis as above, the value of the “float.” This is money paid as premiums that is currently being held to pay off future claims. Buffett invests this and has made a profit well in excess of the projected cost of claims. To the extent Warren makes superior returns on the float, as well as follows his practice of selling insurance when prices are high and stepping aside when competition drives prices down, the value of Berkshire is greater. For a few years prior to 2008 Berkshire had an uninvested cash surplus of as much as \$40 billion, as Buffett found stocks generally overpriced. This “cash drag” slowed the price increase of Berkshire during that period. When the market collapsed in 2008, he put this money to work.
 
 
 
@@ -2716,9 +2472,9 @@ As Berkshire has grown, Buffett’s gain over the S&P 500 has diminished, as he 
 
 Not long after buying Berkshire, I began putting some of my PNP profits into other hedge funds. Networking with some of the smartest and richest people on Wall Street, sharing information and investment opportunities, I also gained the benefits of diversifying my personal portfolio.
 
-# Table 2: Total Return of Berkshire Hathaway A Stock Compared to the S&P 500 for Three Successive Periods[*](#calibre_link-367)
+#### Table 2: Total Return of Berkshire Hathaway A Stock Compared to the S&P 500 for Three Successive Periods[*](#calibre_link-367)
 
-| Date     | Price $ BRKA | Elapsed Time | Annualized Return | Price $ S&P 500 | Annualized Return | BRKA Edge Per Year |
+| Date     | Price \$BRKA | Elapsed Time | Annualized Return | Price \$S&P 500 | Annualized Return | BRKA Edge Per Year |
 | -------- | ------------ | ------------ | ----------------- | --------------- | ----------------- | ------------------ |
 | 08/10/83 | 980.50       | ———          | ———               | 161.54          | ———               | ———                |
 | 01/31/90 | 7,455        | 6.48 years   | 36.8 %            | 329.08          | 11.6 %            | +25.2 %            |
@@ -2734,27 +2490,23 @@ Not long after buying Berkshire, I began putting some of my PNP profits into oth
 
 
 
-# Chapter 22
+## Chapter 22: HEDGING YOUR BETS
 
-------
+Hedging your bets supposedly protects against catastrophic losses. But when the 2008 recession hit, many investors in hedge funds lost heavily. The worldwide collapse in credit and in asset prices was worse than any downturn since the Great Depression. Housing prices tumbled, the S&P 500 fell 57 percent from its October 9, 2007, high, and US private wealth declined from \$64 trillion to \$51 trillion. Small investors like my niece and my house cleaner, watching the equity index funds in their IRAs plunge, asked me if they should dump their stocks. Many investors had to sell, including the wealthiest university endowment fund in the country, Harvard’s, valued at \$36.9 billion in early 2008 but now desperate for cash.
 
-# HEDGING YOUR BETS
+Hedge funds, which were supposed to protect investors against such declines, dropped an average 18 percent. Even so, the most highly compensated hedge fund manager, James Simons of Renaissance Technologies, made \$2.5 billion. The top twenty-five managers collected \$11.6 billion, down from \$22.5 billion in 2007.
 
-Hedging your bets supposedly protects against catastrophic losses. But when the 2008 recession hit, many investors in hedge funds lost heavily. The worldwide collapse in credit and in asset prices was worse than any downturn since the Great Depression. Housing prices tumbled, the S&P 500 fell 57 percent from its October 9, 2007, high, and US private wealth declined from $64 trillion to $51 trillion. Small investors like my niece and my house cleaner, watching the equity index funds in their IRAs plunge, asked me if they should dump their stocks. Many investors had to sell, including the wealthiest university endowment fund in the country, Harvard’s, valued at $36.9 billion in early 2008 but now desperate for cash.
-
-Hedge funds, which were supposed to protect investors against such declines, dropped an average 18 percent. Even so, the most highly compensated hedge fund manager, James Simons of Renaissance Technologies, made $2.5 billion. The top twenty-five managers collected $11.6 billion, down from $22.5 billion in 2007.
-
-It was now twenty years after the end of Princeton Newport Partners, and hedge funds had proliferated until there were ten thousand worldwide, with total equity estimated at $2 trillion. Their worldwide pool of wealthy investors is a mix of private individuals, trusts, corporations, pension and profit-sharing plans, foundations, and endowments. The 2008 crash dealt a massive blow to the hedge fund industry. Four hundred billion had been swept away. This triggered worldwide requests for withdrawals by investors who were angered by losses that weren’t supposed to happen. They were shocked when many funds refused to return their remaining money.
+It was now twenty years after the end of Princeton Newport Partners, and hedge funds had proliferated until there were ten thousand worldwide, with total equity estimated at \$2 trillion. Their worldwide pool of wealthy investors is a mix of private individuals, trusts, corporations, pension and profit-sharing plans, foundations, and endowments. The 2008 crash dealt a massive blow to the hedge fund industry. Four hundred billion had been swept away. This triggered worldwide requests for withdrawals by investors who were angered by losses that weren’t supposed to happen. They were shocked when many funds refused to return their remaining money.
 
 
 
-As the economy slowly recovered and the market bounced back to new highs, investors forgot what happened to them in 2008–09. By 2015 hedge fund assets reached a new high of $2.9 trillion. Management fees ranging between 1.5 and 2 percent delivered $50 billion to the operators. Their percentage of the profits added perhaps another $50 billion. This $50 billion in performance fees supposedly represents 20 percent of the profits after all other charges. But investors as a group actually pay a larger percentage. To see why, suppose there are two funds that start the year at $1 billion each. One fund nets $300 million and the other loses $100 million. At 20 percent of profits, the first fund collects a $60 million performance fee and the second collects none. Pooling the results from the two funds, we see that investors pay $60 million on a profit of $200 million, a rate of 30 percent of the combined gains and losses.
+As the economy slowly recovered and the market bounced back to new highs, investors forgot what happened to them in 2008–09. By 2015 hedge fund assets reached a new high of \$2.9 trillion. Management fees ranging between 1.5 and 2 percent delivered \$50 billion to the operators. Their percentage of the profits added perhaps another \$50 billion. This \$50 billion in performance fees supposedly represents 20 percent of the profits after all other charges. But investors as a group actually pay a larger percentage. To see why, suppose there are two funds that start the year at \$1 billion each. One fund nets \$300 million and the other loses \$100 million. At 20 percent of profits, the first fund collects a \$60 million performance fee and the second collects none. Pooling the results from the two funds, we see that investors pay \$60 million on a profit of \$200 million, a rate of 30 percent of the combined gains and losses.
 
-With Princeton Newport, growth from new capital came slowly and was earned by performance. Over forty years this battle for funding changed dramatically. So-called alternative investments became the hottest new frontier for what to do with your money. Beginning in the late 1990s, you could, in effect, just put up a sign saying HEDGE FUND OPENING HERE, and a line of investors would quickly extend around the block. A modest-sized $100 million hedge fund earning a gross return of 10 percent per year ($10 million) may pay the manager or general partner a management fee of 1 percent of $100 million—$1 million. In addition, the manager gets 20 percent of the remaining $9 million in profit, or another $1.8 million, as a performance fee, for a total of $2.8 million per year. Some of this, perhaps $1 million, pays expenses, leaving a net of $1.8 million a year in pretax income. The investors, or limited partners, get the remaining $7.2 million for a 7.2 percent annual return.
+With Princeton Newport, growth from new capital came slowly and was earned by performance. Over forty years this battle for funding changed dramatically. So-called alternative investments became the hottest new frontier for what to do with your money. Beginning in the late 1990s, you could, in effect, just put up a sign saying HEDGE FUND OPENING HERE, and a line of investors would quickly extend around the block. A modest-sized \$100 million hedge fund earning a gross return of 10 percent per year (\$10 million) may pay the manager or general partner a management fee of 1 percent of \$100 million—\$1 million. In addition, the manager gets 20 percent of the remaining \$9 million in profit, or another \$1.8 million, as a performance fee, for a total of \$2.8 million per year. Some of this, perhaps \$1 million, pays expenses, leaving a net of \$1.8 million a year in pretax income. The investors, or limited partners, get the remaining \$7.2 million for a 7.2 percent annual return.
 
 
 
-The general partners in a similar billion-dollar hedge fund—and there are scores of them—might share ten times as much, or $28 million a year. Even a little $10 million hedge fund would, with proportionate fees, expenses, and returns, provide a single general partner with $280,000 a year. It’s clear from this that you can get very rich running a hedge fund. With these rewards, we shouldn’t be surprised to find many of the (believed to be) best investors in the business running hedge funds.
+The general partners in a similar billion-dollar hedge fund—and there are scores of them—might share ten times as much, or \$28 million a year. Even a little \$10 million hedge fund would, with proportionate fees, expenses, and returns, provide a single general partner with \$280,000 a year. It’s clear from this that you can get very rich running a hedge fund. With these rewards, we shouldn’t be surprised to find many of the (believed to be) best investors in the business running hedge funds.
 
 The consensus of industry studies of hedge fund returns to investors seems to be that, considering the level of risk, hedge funds on average once gave their investors extra return, but this has faded as the industry expanded. Later analyses say average results are worse than portrayed. Funds voluntarily report their results to the industry databases. Winners tend to participate much more than losers. One study showed that this doubled the reported average annual return for funds as a group from an actual 6.3 percent during 1996–2014 to a supposed 12.6 percent.
 
@@ -2762,19 +2514,19 @@ The study goes on to point out that if returns over the years are given weights 
 
 It’s difficult to get an edge picking stocks. Hedge funds are little businesses just like companies that trade on the exchanges. Should one be any better at picking hedge funds than we are at picking stocks?
 
-Hedge fund investors also suffer major disasters. In the spring of 2000, after severe losses, one of the biggest collections of hedge funds in the world, run by Julian Robertson, which included the flagship Tiger Fund, announced that it was closing. From small beginnings in 1980, Robertson’s funds had grown to $22 billion before the demise. At the end, a combination of market losses and investor withdrawals chopped the pool to $7 billion, with more withdrawals pending. Robertson, claiming to be a value investor, blamed irrational crazed high-tech markets. As Shakespeare might advise, “The fault is not in our markets, but in ourselves…”
+Hedge fund investors also suffer major disasters. In the spring of 2000, after severe losses, one of the biggest collections of hedge funds in the world, run by Julian Robertson, which included the flagship Tiger Fund, announced that it was closing. From small beginnings in 1980, Robertson’s funds had grown to \$22 billion before the demise. At the end, a combination of market losses and investor withdrawals chopped the pool to \$7 billion, with more withdrawals pending. Robertson, claiming to be a value investor, blamed irrational crazed high-tech markets. As Shakespeare might advise, “The fault is not in our markets, but in ourselves…”
 
 
 
-A couple of months later, another of the world’s biggest hedge fund groups, managed by George Soros and associates, including his flagship Quantum Fund, announced heavy losses, followed by withdrawal of most investor funds. Drastically downsized from a peak of over $20 billion, Soros’s operation was restructured and converted into a vehicle to manage his own money. Soros and his principal associate, Stanley Druckenmiller, had taken the opposite posture to Robertson: They had bet on tech stocks. At about the same time, Van Hedge Fund Advisors, in an article titled “Good Year for Hedge Funds,” announced that the preceding year, 1999, was the best year for their hedge fund index since they began it in 1988: +40.6 percent in the United States and +37.6 percent offshore. Soros later resurged. In 2008 he personally made $1.1 billion, an amount that was good for only fourth place among hedge fund managers that year.
+A couple of months later, another of the world’s biggest hedge fund groups, managed by George Soros and associates, including his flagship Quantum Fund, announced heavy losses, followed by withdrawal of most investor funds. Drastically downsized from a peak of over \$20 billion, Soros’s operation was restructured and converted into a vehicle to manage his own money. Soros and his principal associate, Stanley Druckenmiller, had taken the opposite posture to Robertson: They had bet on tech stocks. At about the same time, Van Hedge Fund Advisors, in an article titled “Good Year for Hedge Funds,” announced that the preceding year, 1999, was the best year for their hedge fund index since they began it in 1988: +40.6 percent in the United States and +37.6 percent offshore. Soros later resurged. In 2008 he personally made \$1.1 billion, an amount that was good for only fourth place among hedge fund managers that year.
 
-Should you invest in hedge funds? First you need to determine if you’re economically qualified. Though such funds typically require a minimum investment of $250,000 or more, some start-ups will relax this to $50,000 or $100,000 when they first raise money. The original reason to require a substantial minimum investment was historical. In order to qualify for certain exemptions from securities regulations, and thereby gain the freedom to make a wide range of investments, hedge funds had to limit themselves to fewer than one hundred partners. But then, in order to have a pool of tens or hundreds of millions of dollars, the fund had to avoid filling their quota of partners with small investors.
+Should you invest in hedge funds? First you need to determine if you’re economically qualified. Though such funds typically require a minimum investment of \$250,000 or more, some start-ups will relax this to \$50,000 or \$100,000 when they first raise money. The original reason to require a substantial minimum investment was historical. In order to qualify for certain exemptions from securities regulations, and thereby gain the freedom to make a wide range of investments, hedge funds had to limit themselves to fewer than one hundred partners. But then, in order to have a pool of tens or hundreds of millions of dollars, the fund had to avoid filling their quota of partners with small investors.
 
-The SEC later raised the limit to five hundred partners in certain circumstances. Many hedge funds only admit accredited investors; in the case of individuals, that means those who jointly with their spouse have a net worth of at least $1 million or have had an income of at least $200,000 in each of the last two years and expect to repeat that figure in the current year. This leaves plenty of candidates. In 2013, among more than one hundred million US households, the number having a net worth of $1 million or more was estimated at between five and eight million.
+The SEC later raised the limit to five hundred partners in certain circumstances. Many hedge funds only admit accredited investors; in the case of individuals, that means those who jointly with their spouse have a net worth of at least \$1 million or have had an income of at least \$200,000 in each of the last two years and expect to repeat that figure in the current year. This leaves plenty of candidates. In 2013, among more than one hundred million US households, the number having a net worth of \$1 million or more was estimated at between five and eight million.
 
 
 
-Next you need to determine whether either you, or an agent you choose to act for you, are knowledgeable enough. As the $65 billion Ponzi scheme perpetrated by Bernard Madoff showed, thirteen thousand investors and their advisers didn’t do elementary due diligence because they thought the other investors must have done it. The issue here is the same as for those buying stocks, bonds, or mutual funds. You need to know enough to make a convincing, reasoned case for why your proposed investment is better than standard passive investments such as stock or bond index funds. Using this test, it is likely you will rarely find investments that qualify as superior to the indexes.
+Next you need to determine whether either you, or an agent you choose to act for you, are knowledgeable enough. As the \$65 billion Ponzi scheme perpetrated by Bernard Madoff showed, thirteen thousand investors and their advisers didn’t do elementary due diligence because they thought the other investors must have done it. The issue here is the same as for those buying stocks, bonds, or mutual funds. You need to know enough to make a convincing, reasoned case for why your proposed investment is better than standard passive investments such as stock or bond index funds. Using this test, it is likely you will rarely find investments that qualify as superior to the indexes.
 
 Another issue is taxes. US domestic hedge funds, like most active investment programs, are tax-inefficient. Their high turnover tends to produce short-term capital gains and losses taxed at a higher rate than securities owned for more than one year.
 
@@ -2814,13 +2566,13 @@ The hedge fund Long-Term Capital Management was launched in 1994 with a dream te
 
 The principals of a financial engineering group I knew, who were coincidentally doing work for LTCM at that time, asked if I had an interest in investing in the fund. I declined because Meriwether had a history at Salomon of being a major risk taker and the partnership’s theorists were, I believed, lacking in “street smarts” and practical investment experience. Warren Buffett says, “Only swing at the fat pitches.” This did not look to me like a fat pitch.
 
-The annual percentage return to LTCM investors was in the 30s and 40s, but this was based on enormous leverage, reportedly varying between 30:1 and 100:1. Without leverage, returns would be just a fraction of a percent over the cost of money. They had hundreds of billions long and hundreds of billions short. They expanded to $7 billion in capital before giving back $2.7 billion, which increased both the risk and the return on the remaining capital. Later, when adverse market conditions created fairly small losses in percentage terms, the leverage magnified the impact and nearly wiped them out. After losing 90 percent of their capital in weeks, and with total ruin imminent, the fact that they were “too big to fail” led to a rescue effort encouraged by the Federal Reserve. The fund was liquidated in an orderly fashion and investors recovered a small percentage of their stake.
+The annual percentage return to LTCM investors was in the 30s and 40s, but this was based on enormous leverage, reportedly varying between 30:1 and 100:1. Without leverage, returns would be just a fraction of a percent over the cost of money. They had hundreds of billions long and hundreds of billions short. They expanded to \$7 billion in capital before giving back \$2.7 billion, which increased both the risk and the return on the remaining capital. Later, when adverse market conditions created fairly small losses in percentage terms, the leverage magnified the impact and nearly wiped them out. After losing 90 percent of their capital in weeks, and with total ruin imminent, the fact that they were “too big to fail” led to a rescue effort encouraged by the Federal Reserve. The fund was liquidated in an orderly fashion and investors recovered a small percentage of their stake.
 
 
 
-Not long after, Meriwether and four others of the sixteen partners started a new hedge fund similar to LTCM, but using less leverage. Nobelists Scholes and Merton chose not to join him again. Investors, including some of the losers from LTCM, soon put up $350 million. Growth and new capital increased it further. Then his “flagship” fund was reported to have ended the year 2008 down 42 percent, losing more than $300 million. It closed in 2009. In 2010 Meriwether started yet another hedge fund. Merton became a consultant to J. P. Morgan & Co., while retaining his teaching position at Harvard. Scholes returned to his faculty position at Stanford, became a financial consultant, and later launched another hedge fund.
+Not long after, Meriwether and four others of the sixteen partners started a new hedge fund similar to LTCM, but using less leverage. Nobelists Scholes and Merton chose not to join him again. Investors, including some of the losers from LTCM, soon put up \$350 million. Growth and new capital increased it further. Then his “flagship” fund was reported to have ended the year 2008 down 42 percent, losing more than \$300 million. It closed in 2009. In 2010 Meriwether started yet another hedge fund. Merton became a consultant to J. P. Morgan & Co., while retaining his teaching position at Harvard. Scholes returned to his faculty position at Stanford, became a financial consultant, and later launched another hedge fund.
 
-The lessons we should have learned about excess leverage from the collapse of Long-Term Capital Management were ignored. Ten years later, history repeated on a worldwide scale when loose regulation and high leverage led to the near-collapse of the entire financial system in 2008. As part of the overall meltdown, hedge fund assets fell from $2 trillion to $1.4 trillion from losses and withdrawal of capital. Hedge funds were now a mature asset class. I predicted to *The Wall Street Journal* that any edge for investors would gradually disappear.
+The lessons we should have learned about excess leverage from the collapse of Long-Term Capital Management were ignored. Ten years later, history repeated on a worldwide scale when loose regulation and high leverage led to the near-collapse of the entire financial system in 2008. As part of the overall meltdown, hedge fund assets fell from \$2 trillion to \$1.4 trillion from losses and withdrawal of capital. Hedge funds were now a mature asset class. I predicted to *The Wall Street Journal* that any edge for investors would gradually disappear.
 
 Meanwhile, the superrich, buttressed with government bailout billions, bounced back from the Great Recession. By 2012 they were richer than ever.
 
@@ -2828,93 +2580,89 @@ Meanwhile, the superrich, buttressed with government bailout billions, bounced b
 
 
 
-# Chapter 23
+## Chapter 23: HOW RICH IS RICH?
 
-------
+While chatting long-distance with a financial entrepreneur in London, I asked, “How much wealth would you need today to retire and live comfortably for the rest of your life?” “I know my exact number,” he replied. “It’s \$20 million.” I said, “According to my calculations, each year you can withdraw the equivalent of 2 percent of that amount, or \$400,000 in today’s dollars, with only a small probability of ever using up your fortune.” In his early forties, married and with three small children, he said this sounded good to him. But everyone has a different number.
 
-# HOW RICH IS RICH?
-
-While chatting long-distance with a financial entrepreneur in London, I asked, “How much wealth would you need today to retire and live comfortably for the rest of your life?” “I know my exact number,” he replied. “It’s $20 million.” I said, “According to my calculations, each year you can withdraw the equivalent of 2 percent of that amount, or $400,000 in today’s dollars, with only a small probability of ever using up your fortune.” In his early forties, married and with three small children, he said this sounded good to him. But everyone has a different number.
-
-The famous American fiction writer John D. MacDonald characterized levels of wealth in 1970 in his Travis McGee series. As I remember, his economist co-hero Meyer said $100,000 was “adequate” and $250,000 “comfortable,” whereas $1,000,000 was “substantial.” To have $5,000,000 was “impressive.” Since inflation has cut the real buying power of the dollar, MacDonald’s corresponding year 2015 numbers would be six times as large, with $600,000 as adequate, $1,500,000 as comfortable, $6,000,000 as substantial, and $30,000,000 as impressive.
+The famous American fiction writer John D. MacDonald characterized levels of wealth in 1970 in his Travis McGee series. As I remember, his economist co-hero Meyer said \$100,000 was “adequate” and \$250,000 “comfortable,” whereas \$1,000,000 was “substantial.” To have \$5,000,000 was “impressive.” Since inflation has cut the real buying power of the dollar, MacDonald’s corresponding year 2015 numbers would be six times as large, with \$600,000 as adequate, \$1,500,000 as comfortable, \$6,000,000 as substantial, and \$30,000,000 as impressive.
 
 
 
 Dinesh D’Souza gave the following classification, which I have adjusted for inflation.
 
-# Table 3: Classifications of Wealth
+#### Table 3: Classifications of Wealth
 
 |              | Income               | Wealth                  |
 | ------------ | -------------------- | ----------------------- |
-| Superrich    | $15 million+         | $150 million+           |
-| Rich         | $1.5–15 million      | $15 million–150 million |
-| Upper-middle | $112,000–1.5 million | $750,000–15 million     |
-| Middle       | $50,000–112,000      | $82,000–750,000         |
-| Lower-middle | $22,000–50,000       | $15,000–82,000          |
-| Poor         | $0–22,000            | $0–15,000               |
+| Superrich    | \$15 million+         \| \$150 million+         ||
+| Rich         | \$1.5–15 million      \| \$15 million–150 million ||
+| Upper-middle | \$112,000–1.5 million \| \$750,000–15 million   ||
+| Middle       | \$50,000–112,000      \| \$82,000–750,000       ||
+| Lower-middle | \$22,000–50,000       \| \$15,000–82,000        ||
+| Poor         | \$0–22,000            \| \$0–15,000             ||
 
-US household wealth was estimated at $83 trillion at the end of 2014, mainly stocks, bonds, real estate, and personal property. What if we divided it up so everyone had the same amount? With 320 million people participating, each would have about $270,000. However, such estimates of national wealth and of the distribution of wealth and income are problematic. It depends on what’s counted and how it’s counted, and much data is not available.
+US household wealth was estimated at \$83 trillion at the end of 2014, mainly stocks, bonds, real estate, and personal property. What if we divided it up so everyone had the same amount? With 320 million people participating, each would have about \$270,000. However, such estimates of national wealth and of the distribution of wealth and income are problematic. It depends on what’s counted and how it’s counted, and much data is not available.
 
-It’s also true that this increasing national wealth has become more unevenly distributed. The median wealth of a US household fell 36 percent, after inflation, from 2003 to 2013, declining from $88,000 to $56,000. In contrast, a household at the 97.5 percentile was 12 percent better off, with its net worth moving from $1.19 million up to $1.36 million.
+It’s also true that this increasing national wealth has become more unevenly distributed. The median wealth of a US household fell 36 percent, after inflation, from 2003 to 2013, declining from \$88,000 to \$56,000. In contrast, a household at the 97.5 percentile was 12 percent better off, with its net worth moving from \$1.19 million up to \$1.36 million.
 
-A million dollars still sounds like real money, even though it doesn’t buy nearly what it once did. In fact, it would take $20 million today to match the buying power of $1 million a century ago. How many in the United States have a net worth of $1 million? No one knows exactly, because comprehensive information on personal wealth is difficult to collect. Much of it is not available, not reported, or deliberately hidden to avoid taxes, theft, or criminal prosecution, or simply for personal privacy. Most of the available information applies to household units, of which there are about 125 million. Some households consist of only one person and most of the rest have a single economically dominant individual, so counting wealthy households probably gives a good estimate for the number of wealthy individuals.
-
-
-
-The number of households worth at least $1 million was thought to be about ten million in 2015. With so many millionaire households, the goal of becoming one of them looks within reach. To see what might be done, imagine you’re an eighteen-year-old blue-collar worker with no savings and no prospects. What if, somehow, you could save $6 a day and buy shares in the Vanguard S&P 500 Index Fund at the end of each month? If that investment grows in a tax-deferred retirement plan at the long-term average for large stocks of about 10 percent, then after forty-seven years you can retire at age sixty-five with $2.4 million. But where do you find an extra $6 a day? The pack-and-a-half-a-day smoker who kicks his drug habit saves $6 each day. If the construction worker who drinks two $5 six-packs of beer or Coke each day switches to tap water he can save $10 a day, $6 of which he puts in an index fund and $4 of which he spends on healthy food to replace the junk calories from the beer or Coke.
-
-Most of us, with greater opportunities to redirect our expenditures, can expect to do better than our poor, young, blue-collar worker. An article titled “Budget Basics: 25 Things You Can Do to Trim Yours Today” began with the excellent suggestion “Write down everything you spend. The waste in your daily spending should soon become apparent.” Number two agrees with my advice to pay off credit card debt as soon as possible. Number four says to give up smoking. Number twenty-three suggests buying a car used rather than new because “A car is worth about 1⁄3 less the minute you drive it off the lot.” Whether or not the immediate loss is that great, it’s generally agreed that the buyer of a new car gets relatively little real useful value in return for the early years of rapid depreciation. Suppose you could settle for a $10,000 used car rather than a $20,000 new car. Invested at a hypothetical after-tax annual return of 8 percent just like the cigarette money, the $10,000 difference grows to over $100,000 in thirty years. To those who balk at changing their ways we can only ask, along with Regis Philbin, “Who wants to be a millionaire?”
+A million dollars still sounds like real money, even though it doesn’t buy nearly what it once did. In fact, it would take \$20 million today to match the buying power of \$1 million a century ago. How many in the United States have a net worth of \$1 million? No one knows exactly, because comprehensive information on personal wealth is difficult to collect. Much of it is not available, not reported, or deliberately hidden to avoid taxes, theft, or criminal prosecution, or simply for personal privacy. Most of the available information applies to household units, of which there are about 125 million. Some households consist of only one person and most of the rest have a single economically dominant individual, so counting wealthy households probably gives a good estimate for the number of wealthy individuals.
 
 
 
-Investors I dealt with typically were not just millionaires but multimillionaires with fortunes of $5 million and up. How many households have reached these rarefied heights? The great Italian economist Vilfredo Pareto studied the distribution of income and in 1897 came up with a “power law” formula that seems then and now to describe fairly well how many top wealth holders in a modern society have reached various levels. To calibrate the formula we need just these two facts: The *Forbes* 400 cutoff for the United States, which was $1.55 billion in 2014, and the total wealth of those four hundred, an amazing $2.3 trillion. The formula gives us Table 4.
+The number of households worth at least \$1 million was thought to be about ten million in 2015. With so many millionaire households, the goal of becoming one of them looks within reach. To see what might be done, imagine you’re an eighteen-year-old blue-collar worker with no savings and no prospects. What if, somehow, you could save \$6 a day and buy shares in the Vanguard S&P 500 Index Fund at the end of each month? If that investment grows in a tax-deferred retirement plan at the long-term average for large stocks of about 10 percent, then after forty-seven years you can retire at age sixty-five with \$2.4 million. But where do you find an extra \$6 a day? The pack-and-a-half-a-day smoker who kicks his drug habit saves \$6 each day. If the construction worker who drinks two \$5 six-packs of beer or Coke each day switches to tap water he can save \$10 a day, \$6 of which he puts in an index fund and \$4 of which he spends on healthy food to replace the junk calories from the beer or Coke.
 
-# Table 4: Estimated Numbers of Wealthiest Households, United States, Year 2014
+Most of us, with greater opportunities to redirect our expenditures, can expect to do better than our poor, young, blue-collar worker. An article titled “Budget Basics: 25 Things You Can Do to Trim Yours Today” began with the excellent suggestion “Write down everything you spend. The waste in your daily spending should soon become apparent.” Number two agrees with my advice to pay off credit card debt as soon as possible. Number four says to give up smoking. Number twenty-three suggests buying a car used rather than new because “A car is worth about 1⁄3 less the minute you drive it off the lot.” Whether or not the immediate loss is that great, it’s generally agreed that the buyer of a new car gets relatively little real useful value in return for the early years of rapid depreciation. Suppose you could settle for a \$10,000 used car rather than a \$20,000 new car. Invested at a hypothetical after-tax annual return of 8 percent just like the cigarette money, the \$10,000 difference grows to over \$100,000 in thirty years. To those who balk at changing their ways we can only ask, along with Regis Philbin, “Who wants to be a millionaire?”
+
+
+
+Investors I dealt with typically were not just millionaires but multimillionaires with fortunes of \$5 million and up. How many households have reached these rarefied heights? The great Italian economist Vilfredo Pareto studied the distribution of income and in 1897 came up with a “power law” formula that seems then and now to describe fairly well how many top wealth holders in a modern society have reached various levels. To calibrate the formula we need just these two facts: The *Forbes* 400 cutoff for the United States, which was \$1.55 billion in 2014, and the total wealth of those four hundred, an amazing \$2.3 trillion. The formula gives us Table 4.
+
+#### Table 4: Estimated Numbers of Wealthiest Households, United States, Year 2014
 
 | Wealth Level W: This Amount or More | Formula Estimate of Number N of US Households Having This Much or More |
 | ----------------------------------- | ------------------------------------------------------------ |
-| $1 million                          | 9,300,000                                                    |
-| $5 million                          | 1,030,000                                                    |
-| $10 million                         | 400,000                                                      |
-| $20 million                         | 155,000                                                      |
-| $50 million                         | 44,000                                                       |
-| $100 million                        | 17,000                                                       |
-| $250 million                        | 4,900                                                        |
-| $500 million                        | 1,900                                                        |
-| $1 billion                          | 730                                                          |
-| $1.55 billion                       | 400                                                          |
+| \$1 million                         | 9,300,000                                                    |
+| \$5 million                         | 1,030,000                                                    |
+| \$10 million                        | 400,000                                                      |
+| \$20 million                        | 155,000                                                      |
+| \$50 million                        | 44,000                                                       |
+| \$100 million                       | 17,000                                                       |
+| \$250 million                       | 4,900                                                        |
+| \$500 million                       | 1,900                                                        |
+| \$1 billion                         | 730                                                          |
+| \$1.55 billion                      | 400                                                          |
 
-The formula is a good fit for only high wealth levels, giving numbers that are too large below a point somewhere in the neighborhood of $1 million.
+The formula is a good fit for only high wealth levels, giving numbers that are too large below a point somewhere in the neighborhood of \$1 million.
 
 You might wonder how the numbers corresponding to table 4 would look for your city, county, region, or state. If your area were average, you could simply multiply the estimated number for the United States by the percentage living in your area. Orange County, California, where I live, had just over three million people in 2014, or 1 percent of the total US population, so the numbers were easy. Just move the decimal point two steps to the left in table 4, getting a table for Orange County, and giving a total of forty-nine people worth a quarter of a billion dollars or more, for example. But the distribution of the rich varies widely. Areas like Redmond, Washington, home of Microsoft, or Silicon Valley, California, a center of the dot-com revolution, or Manhattan, New York, the self-proclaimed financial capital of the universe, have far more than their share, while other regions consequently are underrepresented.
 
 
 
-Some of the superrich call $100 million a “unit” and, when they have their first unit, proudly announce that “the first unit is the hardest.” Our table estimates seventeen thousand households were in this select group in 2014. With 125 million American households, the politically controversial 1 percent are the wealthiest 1,250,000. The cutoff is around $4 million. However, as we’ll discuss, it’s the top 0.01 percent of all households, a mere 12,500, that run our society. Members of this group are worth at least $125 million.
+Some of the superrich call \$100 million a “unit” and, when they have their first unit, proudly announce that “the first unit is the hardest.” Our table estimates seventeen thousand households were in this select group in 2014. With 125 million American households, the politically controversial 1 percent are the wealthiest 1,250,000. The cutoff is around \$4 million. However, as we’ll discuss, it’s the top 0.01 percent of all households, a mere 12,500, that run our society. Members of this group are worth at least \$125 million.
 
-At the top of the ladder was William F. (Bill) Gates, the co-founder and largest shareholder of the Microsoft Corporation (MSFT), whose fortune at one point made him the first human ever to achieve a net worth of more than $100 billion, an amount which then exceeded 1 percent of the entire gross national product of the United States. Gates—even after giving a large part of his fortune to his charitable foundation—once again led the 2014 *Forbes* list of the richest people in the US at $81 billion.
+At the top of the ladder was William F. (Bill) Gates, the co-founder and largest shareholder of the Microsoft Corporation (MSFT), whose fortune at one point made him the first human ever to achieve a net worth of more than \$100 billion, an amount which then exceeded 1 percent of the entire gross national product of the United States. Gates—even after giving a large part of his fortune to his charitable foundation—once again led the 2014 *Forbes* list of the richest people in the US at \$81 billion.
 
 To see where you stand on the ladder of wealth, estimate your or your household’s net worth. List the value of what you own, your assets, and what you owe, your debts or liabilities. The difference is your net worth. To get a quick start, don’t do any research, don’t consult any records. When you don’t know exact numbers, just guess. If you’re uncertain, put in a low value for what you own and a high value for what you owe, leading to a conservative value for what you’re worth. Table 5 is an example, for someone just at the threshold of the top 1 percent, based on a hypothetical composite of several wealthy people I know.
 
 
 
-# Table 5: Estimating a Household’s Net Worth
+## Table 5: Estimating a Household’s Net Worth
 
-![Assets (Thousands) Real estate Principal residence 875 Vacation home 220 Subtotal 1,095 Personal property Auto 1 35 Auto](images/000011.jpg)
+![Assets (Thousands) Real estate Principal residence 875 Vacation home 220 Subtotal 1,095 Personal property Auto 1 35 Auto](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000011.jpg)
 
 
 
 This quick assessment gives you an idea of where you stand. Later you will want to make a more accurate balance sheet, which I do about once a year. The difference in balance sheet net worth from one year to the next shows the change in your total wealth after income, expenses, gains and losses. This series of annual balance sheets shows how your wealth is changing over the years.
 
-In the asset section, for each item list the amount of cash you feel sure it would sell for in a reasonably short time. That car you bought new a year ago for $45,000 might have a replacement cost of $39,000 now, but you might be able to sell it for only $35,000. Put down $35,000. Recent sales of houses comparable with yours might range from $925,000 to $950,000, but after all sales and closing costs, you might net only $875,000. Put down $875,000. What you owe on the mortgage will be deducted in the liabilities section.
+In the asset section, for each item list the amount of cash you feel sure it would sell for in a reasonably short time. That car you bought new a year ago for \$45,000 might have a replacement cost of \$39,000 now, but you might be able to sell it for only \$35,000. Put down \$35,000. Recent sales of houses comparable with yours might range from \$925,000 to \$950,000, but after all sales and closing costs, you might net only \$875,000. Put down \$875,000. What you owe on the mortgage will be deducted in the liabilities section.
 
 Unlike liquid listed securities, the current market prices for property such as cars, houses, art, and jewelry are not continuously displayed, but the analogy to securities prices is useful for understanding the impact of commissions on profits and losses. Just as each security has a current price for which you can buy it, the asking price, and a somewhat higher cost to you after paying commissions, we can imagine an all-inclusive “asking” price that we would have to pay for a piece of property identical to what we now own. Call this the replacement cost. And just as each security has a current price someone will pay for it, called the bid price, and a somewhat lower net proceeds to us after commissions, we also can imagine the highest net proceeds we might receive after selling costs for a piece of property. This is the liquidation value that we are listing in the asset section.
 
-This spread between replacement value and liquidation value may be high for real property—often as much as 10 to 20 percent. For instance, I buy a $100,000 painting and pay $7,000 more in sales taxes, for a total of $107,000. The next day I change my mind and sell it for the same price of $100,000, paying $10,000 in commissions, for net proceeds of $90,000. The spread was $90,000 to $107,000, a difference of $17,000 or 17 percent of the “base” price of $100,000. This is what is lost in a round of buying and selling. It’s that way with houses, cars, art, and jewelry. In contrast, the cost to trade listed securities is typically only a small fraction of a percent—which, along with their liquidity, makes them more appealing stores of wealth.
+This spread between replacement value and liquidation value may be high for real property—often as much as 10 to 20 percent. For instance, I buy a \$100,000 painting and pay \$7,000 more in sales taxes, for a total of \$107,000. The next day I change my mind and sell it for the same price of \$100,000, paying \$10,000 in commissions, for net proceeds of \$90,000. The spread was \$90,000 to \$107,000, a difference of \$17,000 or 17 percent of the “base” price of \$100,000. This is what is lost in a round of buying and selling. It’s that way with houses, cars, art, and jewelry. In contrast, the cost to trade listed securities is typically only a small fraction of a percent—which, along with their liquidity, makes them more appealing stores of wealth.
 
 
 
-*Wealth,* which I use synonymously with the accountants’ term *net worth,* shows how rich you are now, whereas *income* measures how much money your wealth, labor, and ingenuity are currently generating. A major part of aggregate wealth increase, especially at the higher wealth levels, comes from investments such as stocks, bonds, real estate, and collectibles. Wealth, not income, is the measure of how rich someone is now. However, examples like the movie star who leaps to fame and starts making $20 million per year show that income may lead to future large increases in wealth.
+*Wealth,* which I use synonymously with the accountants’ term *net worth,* shows how rich you are now, whereas *income* measures how much money your wealth, labor, and ingenuity are currently generating. A major part of aggregate wealth increase, especially at the higher wealth levels, comes from investments such as stocks, bonds, real estate, and collectibles. Wealth, not income, is the measure of how rich someone is now. However, examples like the movie star who leaps to fame and starts making \$20 million per year show that income may lead to future large increases in wealth.
 
 It’s that increase in net worth from year to year that takes you up the ladder of wealth. To measure your increase in wealth from one year to the next, compare the yearly balance sheets. Divide the difference by the beginning wealth to get your percentage change for the year. This gives you an idea of how fast you are compounding. If you also construct an income statement for the period, the net income after expenses should match your change in net worth.
 
@@ -2954,11 +2702,11 @@ Category A is what most people call income. Reduced by deductions and nontaxable
 
 Category C is everything you spend or consume that doesn’t contribute to your wealth. Think of your wealth at the start of the year as liquid partly filling a huge measuring cup. The balance sheet tells you how much is there. During the year categories A and B tell how much you add and category C tells you how much you take out. The difference, A + B − C, is how much you added or subtracted during the year. This is net economic gain and, as an investor, it’s what you want to maximize. The balance sheet at the end of the year corresponds to the liquid left in the measuring cup.
 
-The income statement shows that your taxable income may be very different from your economic income. Statistics for economic incomes are not available, being mostly unknown and not reported. However, though the disparities between economic income and taxable income may vary wildly from taxpayer to taxpayer and from year to year, we do know how taxable incomes are distributed among households. For instance, those American households that paid the most income tax in 2007, the top 0.01 percent, numbering fifteen thousand, each paid taxes on $11.5 million or more. Their 6.04 percent of the entire country’s declared income was then the highest percentage ever. It totaled $557 billion, an average $37 million each.
+The income statement shows that your taxable income may be very different from your economic income. Statistics for economic incomes are not available, being mostly unknown and not reported. However, though the disparities between economic income and taxable income may vary wildly from taxpayer to taxpayer and from year to year, we do know how taxable incomes are distributed among households. For instance, those American households that paid the most income tax in 2007, the top 0.01 percent, numbering fifteen thousand, each paid taxes on \$11.5 million or more. Their 6.04 percent of the entire country’s declared income was then the highest percentage ever. It totaled \$557 billion, an average \$37 million each.
 
 
 
-The journal *Tax Notes* said the top 0.01 percent of American households expanded their inflation-adjusted income from 1973 to 2007 by 8.58 times whereas the bottom 90 percent gained about $8 per year! This inequality increased further in the next decade.
+The journal *Tax Notes* said the top 0.01 percent of American households expanded their inflation-adjusted income from 1973 to 2007 by 8.58 times whereas the bottom 90 percent gained about \$8 per year! This inequality increased further in the next decade.
 
 One of the keys to reaching such great wealth at the top is compound growth.
 
@@ -2966,21 +2714,17 @@ One of the keys to reaching such great wealth at the top is compound growth.
 
 
 
-# Chapter 24
-
-------
-
-# COMPOUND GROWTH: THE EIGHTH WONDER OF THE WORLD
+## Chapter 24: COMPOUND GROWTH: THE EIGHTH WONDER OF THE WORLD
 
 For those who want to climb the ladder of wealth, it is helpful to appreciate the unusual arithmetic by which money grows. Compound interest, described in a phrase of disputed origin, is “the eighth wonder of the world.” Wonder or trick, it has built great fortunes, and you can use it to get richer.
 
-In 1944, the fifty-one-year-old IRS estate auditor Anne Scheiber left the organization that rewarded her for twenty-three years of distinguished service by never promoting her. Then she invested her savings of $5,000 in the stock market. Living frugally and studying companies, she continually reinvested her dividends. Her portfolio continued to grow until she died in 1995 at age 101. When her lawyer, Ben Clark, tried to meet with officials of Yeshiva University to tell them about a bequest she had left to the school, they had never heard of Anne Scheiber and wondered how to avoid wasting their time. But when the meeting was finally held, they learned that Ms. Scheiber was leaving them $22 million for the benefit of women students.
+In 1944, the fifty-one-year-old IRS estate auditor Anne Scheiber left the organization that rewarded her for twenty-three years of distinguished service by never promoting her. Then she invested her savings of \$5,000 in the stock market. Living frugally and studying companies, she continually reinvested her dividends. Her portfolio continued to grow until she died in 1995 at age 101. When her lawyer, Ben Clark, tried to meet with officials of Yeshiva University to tell them about a bequest she had left to the school, they had never heard of Anne Scheiber and wondered how to avoid wasting their time. But when the meeting was finally held, they learned that Ms. Scheiber was leaving them \$22 million for the benefit of women students.
 
-Were Anne Scheiber’s choices unusually lucky? How would an average investor have done? Taking the period from the start of 1944 until the end of 1997, allowing a couple of years for the settlement of the estate and the delivery of securities to Yeshiva, $5,000 invested in a large stock index grew to a mere $3.76 million; but the same amount invested in small stocks grew, on average, to $12.31 million. Starting with a little more than Anne, investing $8,936 instead of $5,000, the average small stock investor would have achieved her $22 million result.
+Were Anne Scheiber’s choices unusually lucky? How would an average investor have done? Taking the period from the start of 1944 until the end of 1997, allowing a couple of years for the settlement of the estate and the delivery of securities to Yeshiva, \$5,000 invested in a large stock index grew to a mere \$3.76 million; but the same amount invested in small stocks grew, on average, to \$12.31 million. Starting with a little more than Anne, investing \$8,936 instead of \$5,000, the average small stock investor would have achieved her \$22 million result.
 
 
 
-Compound interest, or more accurately compound growth, is the process Anne Scheiber used, accumulating wealth by reinvesting her gains. An easy way to think about compound growth, and also about the ladder of wealth, is in terms of doubling and redoubling. Consider two investors, Sam Scared and Charlie Compounder. Suppose Sam Scared starts with $1; each time it doubles, he puts his $1 profit in a sock instead of reinvesting it. After ten doublings, Sam has a profit in the sock of $1 × 10 plus his original $1 for a total of $11. Charlie also starts with $1 and makes the same investments but lets his profit ride. His $1 becomes $2, $4, $8, et cetera, until after ten doublings he has $1,024. Sam’s wealth grows as $1, $2, $3…$11. This is called simple growth, arithmetic growth, or growth by addition. Charlie’s increases as $1, $2, $4…$1,024. This is known variously as compound, exponential, geometric, or multiplicative growth. Over a sufficiently long time, compound growth at a small rate will vastly exceed any rate of arithmetic growth, no matter how large! For instance, if Sam Scared made 100 percent a year and put it in a sock and Charlie Compounder made only 1 percent a year but reinvested it, Charlie’s wealth would eventually exceed Sam’s by as much as you please. This is true even if Sam started with far more than Charlie, even $1 billion to Charlie’s $1. Realizing this truth, Robert Malthus (1766–1834), believing that population grew geometrically and resources grew arithmetically, forecast increasingly great misery.
+Compound interest, or more accurately compound growth, is the process Anne Scheiber used, accumulating wealth by reinvesting her gains. An easy way to think about compound growth, and also about the ladder of wealth, is in terms of doubling and redoubling. Consider two investors, Sam Scared and Charlie Compounder. Suppose Sam Scared starts with \$1; each time it doubles, he puts his \$1 profit in a sock instead of reinvesting it. After ten doublings, Sam has a profit in the sock of \$1 × 10 plus his original \$1 for a total of \$11. Charlie also starts with \$1 and makes the same investments but lets his profit ride. His \$1 becomes \$2, \$4, \$8, et cetera, until after ten doublings he has \$1,024. Sam’s wealth grows as \$1, \$2, \$3…\$11. This is called simple growth, arithmetic growth, or growth by addition. Charlie’s increases as \$1, \$2, \$4…\$1,024. This is known variously as compound, exponential, geometric, or multiplicative growth. Over a sufficiently long time, compound growth at a small rate will vastly exceed any rate of arithmetic growth, no matter how large! For instance, if Sam Scared made 100 percent a year and put it in a sock and Charlie Compounder made only 1 percent a year but reinvested it, Charlie’s wealth would eventually exceed Sam’s by as much as you please. This is true even if Sam started with far more than Charlie, even \$1 billion to Charlie’s \$1. Realizing this truth, Robert Malthus (1766–1834), believing that population grew geometrically and resources grew arithmetically, forecast increasingly great misery.
 
 Politicians, dimly aware of the awesome power of compound growth, have in many jurisdictions passed laws against perpetuities to prevent the enormous concentrations of wealth that might arise from investments compounding without limit. On the other hand, some states and counties welcome perpetual trusts, being more interested in deriving revenue from them now.
 
@@ -2994,21 +2738,21 @@ To get quick approximate answers to compound interest problems like these, accou
 
 Example: Your money grows at 8 percent per year. If you reinvest your gains, how long does it take to double? By the rule of 72, it takes 72 ÷ 8 = 9 years, since a period in this example is one year.
 
-Example: The net after-tax return from your market-neutral hedge fund averages 12 percent a year. You start with $1 million and reinvest your net profits. How much will you have in twenty-four years?
+Example: The net after-tax return from your market-neutral hedge fund averages 12 percent a year. You start with \$1 million and reinvest your net profits. How much will you have in twenty-four years?
 
-By the rule of 72, your money doubles in about six years. Then it doubles again in the next six years, and so forth, for 24 ÷ 6 = 4 doublings. So it multiplies by 2 × 2 × 2 × 2 = 16 and becomes $16 million. For more on the rule of 72, see appendix C.
+By the rule of 72, your money doubles in about six years. Then it doubles again in the next six years, and so forth, for 24 ÷ 6 = 4 doublings. So it multiplies by 2 × 2 × 2 × 2 = 16 and becomes \$16 million. For more on the rule of 72, see appendix C.
 
-The rule of 72 can expose outrageous claims. My personal trainer went to a stock market seminar where the operators were pitching a method called “rolling stocks.” Selecting common stocks that would supposedly oscillate between two levels, they advised the investor to repeatedly buy low and sell high. The operators claimed the suckers could make 22 percent a month. Why would they bother to share their secret when, by putting $2,000 in a tax-deferred IRA and reinvesting their gains, they would have more than $46 trillion in ten years?
+The rule of 72 can expose outrageous claims. My personal trainer went to a stock market seminar where the operators were pitching a method called “rolling stocks.” Selecting common stocks that would supposedly oscillate between two levels, they advised the investor to repeatedly buy low and sell high. The operators claimed the suckers could make 22 percent a month. Why would they bother to share their secret when, by putting \$2,000 in a tax-deferred IRA and reinvesting their gains, they would have more than \$46 trillion in ten years?
 
 
 
-Suppose you invest time and energy to add $1,000 to your wealth. Will you sacrifice as much to make another $1,000? And another? Economic theorists believe that most people won’t and that we typically put less value on each successive $1,000 increase in our net worth. We feel this way about all scarce useful items, or so-called economic goods. We value each additional unit less than the last.
+Suppose you invest time and energy to add \$1,000 to your wealth. Will you sacrifice as much to make another \$1,000? And another? Economic theorists believe that most people won’t and that we typically put less value on each successive \$1,000 increase in our net worth. We feel this way about all scarce useful items, or so-called economic goods. We value each additional unit less than the last.
 
-I apply this to the trade-offs among health, wealth, and time. You can trade time and health to accumulate more wealth. Why health? You may be stressed, lose sleep, have a poor diet, or skip exercise. If you are like me and want better health, you can invest time and money on medical care, diagnostic and preventive measures, and exercise and fitness. For decades I have spent six to eight hours a week running, hiking, walking, playing tennis, and working out in a gym. I think of each hour spent on fitness as one day less that I’ll spend in a hospital. Or you can trade money for time by working less and buying goods and services that save time. Hire household help, a personal assistant, and pay other people to do things you don’t want to do. Thousand-dollar-an-hour New York professionals who pay $50 an hour for a car and driver so they can work while they commute understand clearly the monetary value of their time.
+I apply this to the trade-offs among health, wealth, and time. You can trade time and health to accumulate more wealth. Why health? You may be stressed, lose sleep, have a poor diet, or skip exercise. If you are like me and want better health, you can invest time and money on medical care, diagnostic and preventive measures, and exercise and fitness. For decades I have spent six to eight hours a week running, hiking, walking, playing tennis, and working out in a gym. I think of each hour spent on fitness as one day less that I’ll spend in a hospital. Or you can trade money for time by working less and buying goods and services that save time. Hire household help, a personal assistant, and pay other people to do things you don’t want to do. Thousand-dollar-an-hour New York professionals who pay \$50 an hour for a car and driver so they can work while they commute understand clearly the monetary value of their time.
 
 To get an idea of what your time is worth, take a moment now to think about how much you work and the income you get from your effort. Once you know your hourly rate you can identify situations where buying back some of your time is a bargain and other situations where you want to be selling more of your time. As you get used to thinking this way, I predict that you will often be surprised at how much you can gain.
 
-Most people I’ve met haven’t thought through the comparative values to them of time, money, and health. Think of the single worker who spends two hours commuting forty miles from hot and smoggy Riverside, California, to a $25-an-hour job in balmy Newport Beach. If the worker moves from his $1,200-a-month apartment in Riverside to a comparable $2,500-a-month apartment in Newport Beach, his rent increases by $1,300 a month but he avoids forty hours of commuting. If his time is worth $25 per hour he would save $1,000 ($25 × 40) each month. Add to that the cost of driving his car an extra sixteen hundred miles. If his economical car costs him 50 cents a mile or $800 a month to operate, living in Newport Beach and saving forty hours’ driving time each month makes him $500 better off ($1,000 + $800 − $1,300). In effect he earned just $12.50 per hour during his commute. Does our worker figure this out? I suspect he does not, because the extra $1,300 a month in rent he would pay in Newport Beach is a clearly visible cost that is painfully and regularly inflicted, whereas the cost of his car is less evident and can be put out of mind.
+Most people I’ve met haven’t thought through the comparative values to them of time, money, and health. Think of the single worker who spends two hours commuting forty miles from hot and smoggy Riverside, California, to a \$25-an-hour job in balmy Newport Beach. If the worker moves from his \$1,200-a-month apartment in Riverside to a comparable \$2,500-a-month apartment in Newport Beach, his rent increases by \$1,300 a month but he avoids forty hours of commuting. If his time is worth \$25 per hour he would save \$1,000 (\$25 × 40) each month. Add to that the cost of driving his car an extra sixteen hundred miles. If his economical car costs him 50 cents a mile or \$800 a month to operate, living in Newport Beach and saving forty hours’ driving time each month makes him \$500 better off (\$1,000 + \$800 − \$1,300). In effect he earned just \$12.50 per hour during his commute. Does our worker figure this out? I suspect he does not, because the extra \$1,300 a month in rent he would pay in Newport Beach is a clearly visible cost that is painfully and regularly inflicted, whereas the cost of his car is less evident and can be put out of mind.
 
 
 
@@ -3020,13 +2764,9 @@ Undervaluing such a deferred benefit is a widespread investment error and seems 
 
 
 
-# Chapter 25
+## Chapter 25: BEAT MOST INVESTORS BY INDEXING
 
-------
-
-# BEAT MOST INVESTORS BY INDEXING
-
-The easiest way to outperform most investors and grow your wealth is based on a simple concept that all investors should understand, both as a tool for investing and as an example of logical thinking about the markets. Consider a mutual fund that buys every stock trading on a major US stock exchange, investing in each company a percentage equal to that company’s percentage of the total value of all the US stocks. Thus the fund behaves like the entire market, with the same daily percentage price changes and dividend payouts. This means if the oil giant Exxon has a market value, computed as share price times number of shares outstanding, of $400 billion and the total market value of all stocks is $10 trillion, then the index fund puts 4 percent of its net worth in Exxon, and so on for all the other stocks. A mutual fund like this that replicates the composition and investment results of a specified pool of securities is called an index fund, and investors who buy such funds are known as indexers.
+The easiest way to outperform most investors and grow your wealth is based on a simple concept that all investors should understand, both as a tool for investing and as an example of logical thinking about the markets. Consider a mutual fund that buys every stock trading on a major US stock exchange, investing in each company a percentage equal to that company’s percentage of the total value of all the US stocks. Thus the fund behaves like the entire market, with the same daily percentage price changes and dividend payouts. This means if the oil giant Exxon has a market value, computed as share price times number of shares outstanding, of \$400 billion and the total market value of all stocks is \$10 trillion, then the index fund puts 4 percent of its net worth in Exxon, and so on for all the other stocks. A mutual fund like this that replicates the composition and investment results of a specified pool of securities is called an index fund, and investors who buy such funds are known as indexers.
 
 Call any investment that mimics the whole market of listed US securities “passive” and notice that since each of these passive investments acts just like the market, so does a pool of all of them. If these passive investors together own, say, 15 percent of every stock, then “everybody else” owns 85 percent and, taken as a group, their investments also are like one giant index fund. But “everybody else” means all the active investors, each of whom has his own recipe for how much to own of each stock and none of whom has indexed. As Nobel Prize winner Bill Sharpe says, it follows from the laws of arithmetic that the combined holdings of all the active investors also replicates the index. Although this idea is well known, and I’m not sure where it first appeared, I first heard it from him and he has given the clearest exposition I’ve seen. I’ll call it Sharpe’s Principle.
 
@@ -3040,17 +2780,17 @@ They have more risk without the expectation of more return. Reducing risk throug
 
 
 
-To illustrate the losses from market impact, suppose XYZ stock has a “true” price of $50 a share. Assuming for simplicity that it trades in 10-cent increments, between trades there will be buyers bidding for various amounts at $49.90, $49.80, $49.70, and so forth. Similarly, sellers will be asking $50.10, $50.20, et cetera. Someone who places an order to buy at whatever price is available in the market, called a market order and one of the most common types, will pay $50.10, a little above the true price. This 10-cent difference between the price paid and the “true” price is called market impact. Market impact increases with order size since, to continue our example, a large market order may clean out not only the offering at $50.10 but also stock offered for sale at higher prices, resulting in an average purchase price above $50.10 and a market impact greater than 10 cents per share.
+To illustrate the losses from market impact, suppose XYZ stock has a “true” price of \$50 a share. Assuming for simplicity that it trades in 10-cent increments, between trades there will be buyers bidding for various amounts at \$49.90, \$49.80, \$49.70, and so forth. Similarly, sellers will be asking \$50.10, \$50.20, et cetera. Someone who places an order to buy at whatever price is available in the market, called a market order and one of the most common types, will pay \$50.10, a little above the true price. This 10-cent difference between the price paid and the “true” price is called market impact. Market impact increases with order size since, to continue our example, a large market order may clean out not only the offering at \$50.10 but also stock offered for sale at higher prices, resulting in an average purchase price above \$50.10 and a market impact greater than 10 cents per share.
 
-When Steve Mizusawa and I operated Ridgeline Partners, we reduced these costs by dividing large orders into smaller ones of $20,000 to $100,000, and waiting a few minutes between transactions to allow the market price to recover. We know the “true” price is somewhere at or between the highest bid price (the Bid) and the lowest asking price (the Asked), but not exactly where. On average, it is about halfway between the two. To see that market impact is a real cost, suppose in our example that just after buying stock at $50.10 the buyer wants to sell it at market. He gets $49.90, for an immediate loss of 20 cents or about 0.4 percent.
+When Steve Mizusawa and I operated Ridgeline Partners, we reduced these costs by dividing large orders into smaller ones of \$20,000 to \$100,000, and waiting a few minutes between transactions to allow the market price to recover. We know the “true” price is somewhere at or between the highest bid price (the Bid) and the lowest asking price (the Asked), but not exactly where. On average, it is about halfway between the two. To see that market impact is a real cost, suppose in our example that just after buying stock at \$50.10 the buyer wants to sell it at market. He gets \$49.90, for an immediate loss of 20 cents or about 0.4 percent.
 
-Investors who don’t index pay on average an extra 1 percent a year in trading costs and another 1 percent to what Warren Buffett calls “helpers”—the money managers, salespeople, advisers, and fiduciaries that permeate all areas of investing. As a result of these costs, active investors as a group trail the index by 2 percent or so, whereas the passive investor who selects a no-load (no sales fees), low-expense-ratio (low overhead and low management fee) index fund can pay less than 0.25 percent in fees and trading costs. From the gambling perspective, the return to an active investor is that of a passive investor plus the extra gain or loss from paying (on average) 2 percent a year to toss a fair coin in some (imaginary) casino. Taxable active investors do even worse, because a high portfolio turnover means short-term capital gains, which currently are taxed at a higher rate than gains from securities, the sales of which have been deferred for a year. For instance, if $1,000 is invested at 8 percent and gains are taxed when realized, table 1 compares the result of paying the tax every year versus paying only at the end of a certain number of years. I used 35 percent for short-term capital gain taxes and 20 percent for long-term capital gains. Actual rates will vary with the investor’s tax bracket and changes in the law.
+Investors who don’t index pay on average an extra 1 percent a year in trading costs and another 1 percent to what Warren Buffett calls “helpers”—the money managers, salespeople, advisers, and fiduciaries that permeate all areas of investing. As a result of these costs, active investors as a group trail the index by 2 percent or so, whereas the passive investor who selects a no-load (no sales fees), low-expense-ratio (low overhead and low management fee) index fund can pay less than 0.25 percent in fees and trading costs. From the gambling perspective, the return to an active investor is that of a passive investor plus the extra gain or loss from paying (on average) 2 percent a year to toss a fair coin in some (imaginary) casino. Taxable active investors do even worse, because a high portfolio turnover means short-term capital gains, which currently are taxed at a higher rate than gains from securities, the sales of which have been deferred for a year. For instance, if \$1,000 is invested at 8 percent and gains are taxed when realized, table 1 compares the result of paying the tax every year versus paying only at the end of a certain number of years. I used 35 percent for short-term capital gain taxes and 20 percent for long-term capital gains. Actual rates will vary with the investor’s tax bracket and changes in the law.
 
 
 
 Influential private equity and hedge fund managers have persuaded their friends in Congress to grant them the benefits of deferring taxes on their overseas income for many years and, even better, then paying the tax not at the rates for ordinary income that are paid by wage earners, but rather at much lower long-term capital gains rates. The difference between the first and last columns of table 6 indicates the magnitude of the benefits.
 
-# Table 6: With an Investment Making 8%, Paying Tax Every Year at 35%, at 20%, and Paying 20% at the End
+## Table 6: With an Investment Making 8%, Paying Tax Every Year at 35%, at 20%, and Paying 20% at the End
 
 |                         | Value of Investment    |                        |                    |
 | ----------------------- | ---------------------- | ---------------------- | ------------------ |
@@ -3077,7 +2817,7 @@ Morningstar, which tracks mutual fund performance, does periodic studies compari
 
 The benefits from indexing are shown in table 7. Here I have used historical returns on large stocks, like those in the S&P 500, with my assumed costs. More details are given in appendix B. After costs and inflation, tax-exempt passive investors gained 6.7 percent annually compared with 4.7 percent for the actives, or one-third more. After taxes it is 2.0 percent for the actives and 4.8 percent for the indexers, more than double.
 
-# Table 7: Comparison of Passive Versus Active Investing
+## Table 7: Comparison of Passive Versus Active Investing
 
 |                            | Index | Passives | Actives |
 | -------------------------- | ----- | -------- | ------- |
@@ -3097,7 +2837,7 @@ Tax-exempt investors such as IRAs, 401(k)s, employee benefit plans, and foundati
 
 
 
-Taxable investors need to review their holdings on a case-by-case basis. For instance, in 2015, with a cost basis of about $1,000 a share, a market price of $225,000 a share, and a combined federal and state tax rate of, say, 30 percent, I would net about $157,800 per share after a sale of my Berkshire Hathaway Class A stock. An index fund purchased with this smaller amount would have to do about 43 percent better than Berkshire in the future for me to catch up. This seems extremely unlikely.
+Taxable investors need to review their holdings on a case-by-case basis. For instance, in 2015, with a cost basis of about \$1,000 a share, a market price of \$225,000 a share, and a combined federal and state tax rate of, say, 30 percent, I would net about \$157,800 per share after a sale of my Berkshire Hathaway Class A stock. An index fund purchased with this smaller amount would have to do about 43 percent better than Berkshire in the future for me to catch up. This seems extremely unlikely.
 
 Like me with Berkshire, investors who don’t trade, and use no advisers, will avoid the usual expenses paid by active investors. In fact, their costs may be even less than those of indexers. If such a buy-and-hold investor were, for instance, to choose stocks at random, purchasing an amount of each proportional to its market capitalization, we could show, by reasoning like that used to prove Sharpe’s Principle, that the expected return is the same as for the index from which the stocks were chosen minus the presumably small costs of acquiring the stocks.
 
@@ -3109,15 +2849,11 @@ For another way to look at index investing, suppose the same percentage of each 
 
 
 
-# Chapter 26
-
-------
-
-# CAN YOU BEAT THE MARKET? SHOULD YOU TRY?
+## Chapter 26: CAN YOU BEAT THE MARKET? SHOULD YOU TRY?
 
 When I first became interested in blackjack, everyone said there was no way to beat it. Winning systems, often involving complicated ways of varying the amounts wagered, were proven mathematically to be impossible for many of the classical gambling games. Besides, if someone could beat the casinos, the rules would be changed to stop them. When I became interested in the stock market, I heard the same claims about investing. Academics had developed a series of arguments known as the efficient market hypothesis (EMH). Using financial market data, they showed that tomorrow’s prices looked like random fluctuations around today’s prices, therefore they were not predictable.
 
-Besides, if a price change were predictable, somebody would immediately trade on this until it was no longer so. This notion gave rise to an apocryphal story that all finance students have heard. Eugene Fama, father of EMH, was strolling across the University of Chicago campus with a graduate student. Looking down, the student exclaimed, “Look, there is a $100 bill on the ground.” Without a glance down or a break in stride, Fama replied, “No, there isn’t. If there were, someone would have picked it up already.”
+Besides, if a price change were predictable, somebody would immediately trade on this until it was no longer so. This notion gave rise to an apocryphal story that all finance students have heard. Eugene Fama, father of EMH, was strolling across the University of Chicago campus with a graduate student. Looking down, the student exclaimed, “Look, there is a \$100 bill on the ground.” Without a glance down or a break in stride, Fama replied, “No, there isn’t. If there were, someone would have picked it up already.”
 
 
 
@@ -3133,21 +2869,21 @@ The EMH is a theory that can never be logically proved. All you can argue is tha
 
 So far I’ve shown how markets were beaten in the past with examples from gambling, from the trading and results of Princeton Newport Partners, Ridgeline, and other hedge funds, and from the story of Warren Buffett and Berkshire Hathaway. Doing better than the market is not the same as beating it. The first is often simply luck; the second is finding a statistically significant edge that makes sense, then profiting from it. To illustrate, PNP did this in the 1980s when it exploited the large discounts to liquidation value that frequently appeared among closed-end funds.
 
-Closed-end funds start out by selling shares to investors. They are called closed because this sale of shares happens one time only, at the launch of the fund. Management then invests the money in a stated category of securities, such as high-tech, Korean, junk bonds, green energy, or biotech. To illustrate how such a fund might work, suppose we’re in the midst of a precious metals boom. The promoters sell shares of stock in the “Pot of Gold” (POG) closed-end fund through brokerage firms, paying 8 percent of the proceeds to these firms and their sales forces. Investors buy ten million shares at $10 a share, for proceeds of $100 million less 8 percent, netting $92 million, which the managers of POG invest in listed gold stocks. Each share, originally costing $10, now represents $9.20 worth of stock, which is its net asset value (NAV) per share. The “sell side,” the Wall Street promoters, have just captured 8 percent of the money. Notice that an investor could have bought gold stocks directly and, for each $10, owned $10 worth of stock.
+Closed-end funds start out by selling shares to investors. They are called closed because this sale of shares happens one time only, at the launch of the fund. Management then invests the money in a stated category of securities, such as high-tech, Korean, junk bonds, green energy, or biotech. To illustrate how such a fund might work, suppose we’re in the midst of a precious metals boom. The promoters sell shares of stock in the “Pot of Gold” (POG) closed-end fund through brokerage firms, paying 8 percent of the proceeds to these firms and their sales forces. Investors buy ten million shares at \$10 a share, for proceeds of \$100 million less 8 percent, netting \$92 million, which the managers of POG invest in listed gold stocks. Each share, originally costing \$10, now represents \$9.20 worth of stock, which is its net asset value (NAV) per share. The “sell side,” the Wall Street promoters, have just captured 8 percent of the money. Notice that an investor could have bought gold stocks directly and, for each \$10, owned \$10 worth of stock.
 
-The shares of POG begin trading in the marketplace. Investors who are optimistic about the skills of management could bid these shares up to $11, $12, or even more, despite the NAV remaining at $9.20. Over time both the market price of POG shares and their NAV (the value per share of the underlying assets held by POG) will fluctuate. Any price for POG above NAV is called a premium to NAV and any price below NAV is a discount. One more thing—NAV represents the liquidation value of POG shares but, as long as management controls the fund, they are worth substantially less. That’s because management collects fees and incurs expenses, thereby reducing the benefits of ownership for the shareholders, compared with an investor who owns the underlying portfolio directly.
+The shares of POG begin trading in the marketplace. Investors who are optimistic about the skills of management could bid these shares up to \$11, \$12, or even more, despite the NAV remaining at \$9.20. Over time both the market price of POG shares and their NAV (the value per share of the underlying assets held by POG) will fluctuate. Any price for POG above NAV is called a premium to NAV and any price below NAV is a discount. One more thing—NAV represents the liquidation value of POG shares but, as long as management controls the fund, they are worth substantially less. That’s because management collects fees and incurs expenses, thereby reducing the benefits of ownership for the shareholders, compared with an investor who owns the underlying portfolio directly.
 
 
 
-Because of management’s costs and fees, closed-end funds typically trade at a discount to net asset value. If management’s fees and expenses tend to run at, say, 15 percent of the wealth being created by the underlying portfolio, then the shareholders might expect 85 percent of the future stream of benefits, so a fair price to pay ought to be 85 percent of NAV, or a discount of 15 percent. In the case of POG, the first investors pay $10 per share. Wall Street’s selling charges cut this to $9.20. Then management takes 15 percent of future earnings, which reduces the value to the investor by another 15 percent, leaving a value per share for him of 85 percent × $9.20 or $7.82. He’s immediately lost $2.18 of his $10 or 21.8 percent of his investment to his helpers. It’s like having a brand-new car depreciate as soon as you drive it off the lot. As time passes, the market price, as a percentage of NAV, fluctuates and the pattern varies from fund to fund and with overall market conditions. I’ve seen discounts of 50 percent and premiums of 80 percent. To exploit this, an investor can seek to buy funds at deep discounts, relative to their histories and to that of comparable funds.
+Because of management’s costs and fees, closed-end funds typically trade at a discount to net asset value. If management’s fees and expenses tend to run at, say, 15 percent of the wealth being created by the underlying portfolio, then the shareholders might expect 85 percent of the future stream of benefits, so a fair price to pay ought to be 85 percent of NAV, or a discount of 15 percent. In the case of POG, the first investors pay \$10 per share. Wall Street’s selling charges cut this to \$9.20. Then management takes 15 percent of future earnings, which reduces the value to the investor by another 15 percent, leaving a value per share for him of 85 percent × \$9.20 or \$7.82. He’s immediately lost \$2.18 of his \$10 or 21.8 percent of his investment to his helpers. It’s like having a brand-new car depreciate as soon as you drive it off the lot. As time passes, the market price, as a percentage of NAV, fluctuates and the pattern varies from fund to fund and with overall market conditions. I’ve seen discounts of 50 percent and premiums of 80 percent. To exploit this, an investor can seek to buy funds at deep discounts, relative to their histories and to that of comparable funds.
 
 You can also sell short shares of funds trading at a high premium. Depending on their makeup, the long and short funds in your portfolio might hedge each other to some extent, with futures and options providing additional risk-offsetting possibilities. The returns from such a strategy can be fairly steady, but the long “workout” periods, during which premiums or excessive discounts tend to disappear, can make them modest. I once invested for a few years in an intelligently managed hedge fund that used this approach. Because of the slowness with which the mispricings diminished, our annualized return was 10 percent instead of the 15 percent we hoped for.
 
 
 
-If POG was trading at a 40 percent discount with shares at $6 each and an NAV of $10, we could attempt to buy enough shares to force and win a vote to convert the fund to an open-end mutual fund, allowing shareholders to redeem at net asset value. Then we pay $6 a share and cash out at $10 a share, for a profit of $4 or 67 percent on our $6. A closed-end fund trading at a big discount was an opportunity for Princeton Newport. Despite fierce opposition from entrenched management, we succeeded in doing deals of this type profitably.
+If POG was trading at a 40 percent discount with shares at \$6 each and an NAV of \$10, we could attempt to buy enough shares to force and win a vote to convert the fund to an open-end mutual fund, allowing shareholders to redeem at net asset value. Then we pay \$6 a share and cash out at \$10 a share, for a profit of \$4 or 67 percent on our \$6. A closed-end fund trading at a big discount was an opportunity for Princeton Newport. Despite fierce opposition from entrenched management, we succeeded in doing deals of this type profitably.
 
-The differences between the market price and the net asset value of closed-end funds leave nowhere to hide for those who believe the market does a good job of setting prices correctly. Why do investors sometimes pay $1.80 for $1 of assets and other times offer to sell $1 worth of securities for 50 cents? It can’t be lack of information, since NAVs and calculated percentage price deviations are published regularly, along with actual portfolio holdings.
+The differences between the market price and the net asset value of closed-end funds leave nowhere to hide for those who believe the market does a good job of setting prices correctly. Why do investors sometimes pay \$1.80 for \$1 of assets and other times offer to sell \$1 worth of securities for 50 cents? It can’t be lack of information, since NAVs and calculated percentage price deviations are published regularly, along with actual portfolio holdings.
 
 An unusual opportunity to buy assets at a discount arose during the financial crash of 2008–09, in the form of certain closed-end funds called SPACs. These “special purpose acquisition corporations” were marketed during the preceding boom in private equity investing. Escrowing the proceeds from the initial public offering (IPO) of the SPAC, the managers promised to invest in a specified type of start-up company. SPACs had a dismal record by the time of the crash, their investments in actual companies losing, on average, 78 percent. When formed, a typical SPAC agreed to invest the money within two years, with investors having the choice—prior to the SPAC buying into companies—of getting back their money plus interest instead of participating.
 
@@ -3157,27 +2893,27 @@ For those who still believe that the market always prices securities properly, h
 
 
 
-To see what happened, first picture two car dealers with stores side by side. The first dealer offers new Ford sedans for $9,000, plus a $2,000 rebate payable in six months. The second dealer offers the identical new Ford sedans for $14,850. Everyone who drives up can see both prices on huge signs. The higher-priced dealer has balloons flying over his lot and a band playing. The lower-priced dealer does a brisk business but the higher-priced dealer is mobbed. Most of our “rational” investors prefer to pay too much. Nuts? Not possible? It happens often. For instance, in the next example the $9,000 Ford plus a $2,000 rebate is like 100 shares of 3Com and the identical Ford for $14,850 is like 135 shares of PalmPilot. Now for the details.
+To see what happened, first picture two car dealers with stores side by side. The first dealer offers new Ford sedans for \$9,000, plus a \$2,000 rebate payable in six months. The second dealer offers the identical new Ford sedans for \$14,850. Everyone who drives up can see both prices on huge signs. The higher-priced dealer has balloons flying over his lot and a band playing. The lower-priced dealer does a brisk business but the higher-priced dealer is mobbed. Most of our “rational” investors prefer to pay too much. Nuts? Not possible? It happens often. For instance, in the next example the \$9,000 Ford plus a \$2,000 rebate is like 100 shares of 3Com and the identical Ford for \$14,850 is like 135 shares of PalmPilot. Now for the details.
 
-Famous for its PalmPilot handheld personal organizer, the company 3Com, with stock market ticker COMS, announced that it was spinning off its PalmPilot division as a separate company. Some 6 percent of PalmPilot, ticker PALM, was offered to the public in an initial public offering at a price of $38 per share on Thursday, March 2, 2000. By the end of the day the 23 million shares that had been issued changed hands more than one and a half times, for a one-day trading volume of 37.9 million shares. The price peaked at $165 before closing at $95. The portion of PalmPilot sold in the IPO was deliberately set well below demand and led to a buying frenzy and price spurt typical at the time for tech stock IPOs. So far, this just repeated what we had often seen during the previous eighteen months of the tech stock boom.
+Famous for its PalmPilot handheld personal organizer, the company 3Com, with stock market ticker COMS, announced that it was spinning off its PalmPilot division as a separate company. Some 6 percent of PalmPilot, ticker PALM, was offered to the public in an initial public offering at a price of \$38 per share on Thursday, March 2, 2000. By the end of the day the 23 million shares that had been issued changed hands more than one and a half times, for a one-day trading volume of 37.9 million shares. The price peaked at \$165 before closing at \$95. The portion of PalmPilot sold in the IPO was deliberately set well below demand and led to a buying frenzy and price spurt typical at the time for tech stock IPOs. So far, this just repeated what we had often seen during the previous eighteen months of the tech stock boom.
 
-Now for the market inefficiency. At Thursday’s closing the market priced PalmPilot at $53.4 billion, yet it valued 3Com, which still owned 94 percent of PalmPilot, at “only” $28 billion. But that means the market valued 3Com’s 94 percent of PalmPilot at $50 billion, so it valued the rest of 3Com at negative $22 billion! Analysts, however, estimated the value of the rest of 3Com at between $5 billion and $8.5 billion. And within six months or so, 3Com intended to distribute these PalmPilot shares to its shareholders. Anticipating this, my son, Jeff, had called me a few days earlier to mobilize capital for this possible opportunity. You could buy PALM directly in the IPO (to get IPO stock you had to be “connected”) or at wildly gyrating, much higher prices in the “aftermarket,” when it began trading. Or you could buy PALM indirectly by buying COMS and waiting a few months to get 1.35 shares of PALM for each share of COMS owned. Moreover, you would also have a share in the post-spin-off business of 3Com, which was profitable and would have $8 cash per share. Jeff estimated the stock would then have had a value of $15 to $25.
+Now for the market inefficiency. At Thursday’s closing the market priced PalmPilot at \$53.4 billion, yet it valued 3Com, which still owned 94 percent of PalmPilot, at “only” \$28 billion. But that means the market valued 3Com’s 94 percent of PalmPilot at \$50 billion, so it valued the rest of 3Com at negative \$22 billion! Analysts, however, estimated the value of the rest of 3Com at between \$5 billion and \$8.5 billion. And within six months or so, 3Com intended to distribute these PalmPilot shares to its shareholders. Anticipating this, my son, Jeff, had called me a few days earlier to mobilize capital for this possible opportunity. You could buy PALM directly in the IPO (to get IPO stock you had to be “connected”) or at wildly gyrating, much higher prices in the “aftermarket,” when it began trading. Or you could buy PALM indirectly by buying COMS and waiting a few months to get 1.35 shares of PALM for each share of COMS owned. Moreover, you would also have a share in the post-spin-off business of 3Com, which was profitable and would have \$8 cash per share. Jeff estimated the stock would then have had a value of \$15 to \$25.
 
 
 
 Analyst’s note: Jeff’s estimate of 135 shares of PALM to be distributed for each 100 shares of COMS was deliberately conservative—a “worst-case” choice—compared with the typical “street” estimate of 150 shares. Thus the street’s estimate makes the disparity look even wider than what we assumed. The uncertainty arose because the number of shares of PALM to be distributed to COMS shareholders depended on how many shares of COMS were outstanding at the time, and that would depend on how much dilution occurred in the interim from—for instance—outstanding options.
 
-When Jeff and I were discussing strategy on the first day, at one point the prices were $90 per share for 3Com and $110 per share for PalmPilot. Buying 135 shares of PalmPilot outright cost $14,850, but if we paid $9,000 for 100 shares of 3Com we got both 135 shares of PalmPilot and 100 shares of the 3Com “stub” company. (Think of each 100 shares in 3Com as a ticket having two parts, one labeled 135 SHARES OF PALMPILOT and the other piece or stub labeled 100 SHARES OF 3COM POST-SPIN-OFF.) If you buy the hundred shares of 3Com you pay $9,000 and get $14,850 worth of PalmPilot and a 3Com stub with a current estimated value of between $1,500 and $2,500. Sell this for, say, $2,000 and the 135 PalmPilot shares only have a net cost of $7,000.
+When Jeff and I were discussing strategy on the first day, at one point the prices were \$90 per share for 3Com and \$110 per share for PalmPilot. Buying 135 shares of PalmPilot outright cost \$14,850, but if we paid \$9,000 for 100 shares of 3Com we got both 135 shares of PalmPilot and 100 shares of the 3Com “stub” company. (Think of each 100 shares in 3Com as a ticket having two parts, one labeled 135 SHARES OF PALMPILOT and the other piece or stub labeled 100 SHARES OF 3COM POST-SPIN-OFF.) If you buy the hundred shares of 3Com you pay \$9,000 and get \$14,850 worth of PalmPilot and a 3Com stub with a current estimated value of between \$1,500 and \$2,500. Sell this for, say, \$2,000 and the 135 PalmPilot shares only have a net cost of \$7,000.
 
-I challenge efficient market theorists to answer these questions: Why were people willing to pay $14,850 for 135 shares of PALM when they could have paid $7,000, and why were some investors buying PALM stock at a price that set a value of $53 billion for the company instead of acquiring it at a price of less than half as much by buying it via 3Com stock? It’s not a question of information. The terms were simple, public, and known in advance.
+I challenge efficient market theorists to answer these questions: Why were people willing to pay \$14,850 for 135 shares of PALM when they could have paid \$7,000, and why were some investors buying PALM stock at a price that set a value of \$53 billion for the company instead of acquiring it at a price of less than half as much by buying it via 3Com stock? It’s not a question of information. The terms were simple, public, and known in advance.
 
-How could Jeff and I exploit this? One approach was to buy 3Com, wait six months or so, then sell off both the PalmPilot shares we would get from 3Com and the remaining 3Com stub. But what if 3Com and PalmPilot were both substantially overpriced now and their prices fell drastically by then? There was reason to believe this might happen. First, COMS had run from about $50 two months earlier to over $100 just before the IPO, in anticipation of the spin-off. Second, we believed tech stocks were in a speculative bubble driven by a large pool of irrational investors, many of them in the new day-trading “casinos.” We were right about the speculative bubble. The NASDAQ reached its all-time high at this time, then lost 75 percent in less than three years. Sixteen years later it still hadn’t fully recovered.
+How could Jeff and I exploit this? One approach was to buy 3Com, wait six months or so, then sell off both the PalmPilot shares we would get from 3Com and the remaining 3Com stub. But what if 3Com and PalmPilot were both substantially overpriced now and their prices fell drastically by then? There was reason to believe this might happen. First, COMS had run from about \$50 two months earlier to over \$100 just before the IPO, in anticipation of the spin-off. Second, we believed tech stocks were in a speculative bubble driven by a large pool of irrational investors, many of them in the new day-trading “casinos.” We were right about the speculative bubble. The NASDAQ reached its all-time high at this time, then lost 75 percent in less than three years. Sixteen years later it still hadn’t fully recovered.
 
 
 
-We could borrow and then sell short 135 shares of PALM at $110 for proceeds of $14,850, which would be held in escrow by our broker until we returned the borrowed shares. We could also buy a hundred shares of COMS at $90 for a cost of $9,000, setting up a nearly riskless hedge for an almost sure profit. In six months or so we would get 135 shares of PALM from our 100 shares of COMS and deliver it to clear our short position. Then the $14,850 short-sale proceeds would be released to us from escrow, leaving us with a net profit of $5,850 in cash and a hundred shares of the 3Com stub. If this were currently priced at $15 per share we could sell it for an additional $1,500, making a total gain in six months of $7,350 on a $9,000 investment, or 82 percent.
+We could borrow and then sell short 135 shares of PALM at \$110 for proceeds of \$14,850, which would be held in escrow by our broker until we returned the borrowed shares. We could also buy a hundred shares of COMS at \$90 for a cost of \$9,000, setting up a nearly riskless hedge for an almost sure profit. In six months or so we would get 135 shares of PALM from our 100 shares of COMS and deliver it to clear our short position. Then the \$14,850 short-sale proceeds would be released to us from escrow, leaving us with a net profit of \$5,850 in cash and a hundred shares of the 3Com stub. If this were currently priced at \$15 per share we could sell it for an additional \$1,500, making a total gain in six months of \$7,350 on a \$9,000 investment, or 82 percent.
 
-Such profits for ourselves and other arbitrageurs were limited by the amount of COMS our brokers would lend us to sell short. One of our friends, who runs a $2.7 billion convertible hedge fund, was able to short two hundred thousand shares of PALM and had previously bought COMS at a much lower price, anticipating the pre-IPO run-up.
+Such profits for ourselves and other arbitrageurs were limited by the amount of COMS our brokers would lend us to sell short. One of our friends, who runs a \$2.7 billion convertible hedge fund, was able to short two hundred thousand shares of PALM and had previously bought COMS at a much lower price, anticipating the pre-IPO run-up.
 
 As *The Wall Street Journal* pointed out, in the few days when arbitrageurs (hedgers) could borrow more shares of PALM, they might have been able to reduce the disparity if they sold short PALM and bought 3Com, as in our example. Here we see clearly a mechanism of market inefficiency, namely the different behavior of the “dumb” or irrational PALM buyers and the savvy arbitrageurs. The *Journal* went on to point out that a similar pricing disparity arose in mid-February when IXnet, Inc., was spun off from IPC Communications Inc. Even though IPC still owned 73 percent of IXnet, it was valued by the “efficient” market at less than half of IXnet. Jeff hedged this one, too.
 
@@ -3235,11 +2971,7 @@ Whether or not you try to beat the market, you can do better by properly managin
 
 
 
-# Chapter 27
-
-------
-
-# ASSET ALLOCATION AND WEALTH MANAGEMENT
+## Chapter 27: ASSET ALLOCATION AND WEALTH MANAGEMENT
 
 Private wealth in the industrially advanced countries is spread among major asset classes such as equities (common stocks), bonds, real estate, collectibles, commodities, and miscellaneous personal property. If investors choose index funds for each asset class in which they wish to invest, their combined portfolio risk and return will depend on how they allocate among asset classes. This also is true for investors who don’t index. Table 8 gives a rough overview of the asset categories. Investment assets held by mutual funds, hedge funds, foundations, and employee benefit funds are not included, since their underlying assets have already been counted. Derivative securities, which include warrants, options, convertible bonds, and many later complex inventions, derive their value—as we have seen—from that of an “underlying” security such as the common stock of a company. Instead of listing them separately, they’re understood to be included as part of their underlying asset class.
 
@@ -3247,7 +2979,7 @@ How are your assets divided among the categories in table 8? The big three for m
 
 
 
-# Table 8: Major Asset Classes and Subdivisions
+## Table 8: Major Asset Classes and Subdivisions
 
 EQUITIES
 
@@ -3313,13 +3045,13 @@ Assuming that the risks and returns for asset classes in the twenty-first centur
 
 Many investors do not want the level of risk involved in common stocks or real estate, where the high overall returns are interrupted by savage reductions in wealth.
 
-A retired couple I knew had investments worth $6 million, which they planned to use as their means of support for the rest of their lives. Spending 4 percent of this per year, with the unspent part invested in “something safe that keeps up with inflation,” this couple could enjoy the inflation-adjusted equivalent of about $240,000 pretax per year for the twenty-five remaining years at least one of them might live. They chose to put half in tax-free municipal bonds and the rest in equities. They feared a replay of the Great Depression.
+A retired couple I knew had investments worth \$6 million, which they planned to use as their means of support for the rest of their lives. Spending 4 percent of this per year, with the unspent part invested in “something safe that keeps up with inflation,” this couple could enjoy the inflation-adjusted equivalent of about \$240,000 pretax per year for the twenty-five remaining years at least one of them might live. They chose to put half in tax-free municipal bonds and the rest in equities. They feared a replay of the Great Depression.
 
-I thought this plan suited them. As neither husband nor wife was interested in learning about finance and investing, they should remain passive investors. Even my suggestion, in the early 1990s, to put about $500,000 in Berkshire Hathaway, then trading at $12,000 per share, was too much for them to think about. It would have been worth $9 million in 2016 when the husband, who had outlived his wife, finally passed away. Having half their money in relatively safe and stable municipal bonds would likely preserve enough wealth to ride through adversity.
+I thought this plan suited them. As neither husband nor wife was interested in learning about finance and investing, they should remain passive investors. Even my suggestion, in the early 1990s, to put about \$500,000 in Berkshire Hathaway, then trading at \$12,000 per share, was too much for them to think about. It would have been worth \$9 million in 2016 when the husband, who had outlived his wife, finally passed away. Having half their money in relatively safe and stable municipal bonds would likely preserve enough wealth to ride through adversity.
 
 
 
-The years passed. Although their market value varied inversely with interest rates, the municipal bonds paid an average of 4 percent or so, tax-free, or about $120,000 annually. Overall, US equity investments increased four or five times on average (before taxes, investment adviser fees, and other costs), and Berkshire Hathaway advanced from $12,000 to almost $150,000, fell to $75,000 during the crisis, then rose above $200,000 per share in 2016. When the crisis of 2008 struck, equities lost half their value before rebounding. As tax receipts shriveled, the massive deficits of the US government were echoed at state and local levels. The safety of municipal bonds no longer seemed so assured. However, although they would have done better in equities, they still had enough money and, feeling safe, didn’t worry as they would have done watching the ups and downs in the value of a stock portfolio.
+The years passed. Although their market value varied inversely with interest rates, the municipal bonds paid an average of 4 percent or so, tax-free, or about \$120,000 annually. Overall, US equity investments increased four or five times on average (before taxes, investment adviser fees, and other costs), and Berkshire Hathaway advanced from \$12,000 to almost \$150,000, fell to \$75,000 during the crisis, then rose above \$200,000 per share in 2016. When the crisis of 2008 struck, equities lost half their value before rebounding. As tax receipts shriveled, the massive deficits of the US government were echoed at state and local levels. The safety of municipal bonds no longer seemed so assured. However, although they would have done better in equities, they still had enough money and, feeling safe, didn’t worry as they would have done watching the ups and downs in the value of a stock portfolio.
 
 Another investor I know structured his portfolio of a few million dollars to produce income at the level he wished to spend. Accordingly, his portfolio consists mostly of short- and intermediate-term bonds, on which he pays a significant income tax. Curiously, he thinks he can only spend income, in the form of dividends and interest, and he views capital appreciation as something less real. I tried, and failed, to convince him that higher total return (after tax) means more money to spend and more money to keep, no matter how it divides between realized income and unrealized capital gains or losses. To own a stock like Berkshire Hathaway, which has never paid a dividend, and therefore produces no “income,” would be unthinkable for him. This investor’s costly preference for realized income rather than total return (economic income) is common.
 
@@ -3329,13 +3061,13 @@ The investor who is willing to do a little thinking, along with the investing wo
 
 I prefer to think in terms of the inverse of P/E, or earnings divided by price, sometimes known as E/P but perhaps better described as earnings yield. When the P/E is 20, for example, the earnings yield is 1/20, or 5 percent. An investor who owns the S&P 500 Index could think of it as a low-grade long-term bond, comparing the earnings yield of this “bond” to the total return from some benchmark for actual bonds, such as long-term Treasuries or corporates of a particular quality grade. When the earnings yield on the stock index is historically high relative to the bond benchmark, the investor sells some of his bonds and buys stocks. When bond yields are high compared with stocks, he shifts money from stocks back to bonds.
 
-Stories sell stocks: the wonderful new product that will revolutionize everything, the monopoly that controls a product and sets prices, the politically connected and protected firm that gorges at the public trough, the fabulous mineral discovery, and so forth. The careful investor, when he hears such tales, should ask a key question: At what price is this company a good buy? What price is too high? Suppose, after doing your analysis of the company’s financial statements, management, business model, and prospects, you conclude that it’s worth buying at $40 a share, at which price you expect not only a satisfactory excess risk-adjusted return but have a margin of safety in case your analysis is flawed. Suppose you also conclude that the expected return at $80 is substandard, so the stock is likely overpriced. Typically you’ll avoid investing in stocks when they are trading above your buy price but, if you follow many companies carefully, from time to time some will be attractive purchases. The range between your “buy” price and the “likely overpriced” level, in this case from $40 to $80, is likely to be narrower for better, more experienced investors, enabling them to participate in more situations and with greater confidence.
+Stories sell stocks: the wonderful new product that will revolutionize everything, the monopoly that controls a product and sets prices, the politically connected and protected firm that gorges at the public trough, the fabulous mineral discovery, and so forth. The careful investor, when he hears such tales, should ask a key question: At what price is this company a good buy? What price is too high? Suppose, after doing your analysis of the company’s financial statements, management, business model, and prospects, you conclude that it’s worth buying at \$40 a share, at which price you expect not only a satisfactory excess risk-adjusted return but have a margin of safety in case your analysis is flawed. Suppose you also conclude that the expected return at \$80 is substandard, so the stock is likely overpriced. Typically you’ll avoid investing in stocks when they are trading above your buy price but, if you follow many companies carefully, from time to time some will be attractive purchases. The range between your “buy” price and the “likely overpriced” level, in this case from \$40 to \$80, is likely to be narrower for better, more experienced investors, enabling them to participate in more situations and with greater confidence.
 
 The value of the US stock market at the end of 2014 was a little over a third of the world total. The sales pitch for investing in stocks of more than one country is to win the usual benefit of diversification—lower risk for a given level of return. The results have been mixed: excellent for 1970–86 and mediocre from 1987 through 2015. In recent years, especially in crises, world markets, reflecting the increasing globalization of information through technology, have tended to move much more in tandem with the US market, limiting the amount by which diversification overseas reduces risk.
 
 
 
-A majority of American households own their own home. For many it is a large part of their wealth. How good an investment has it been? In 1952, one of my uncles and his wife paid $12,000 for a small one-story wood-and-stucco home in the working-class community of Torrance, California. In 2006, he sold his house near the peak of the real estate bubble, which was especially extreme in California. Despite the deterioration of his neighborhood into a borderline gang area, and the advanced age of his house, he netted about $480,000 after taxes and commissions. His investment multiplied forty times in fifty-four years, for a compound annual return of 7 percent. Also, his expenses of a few percent a year in property taxes and maintenance were less than what he would have paid to rent a similar property.
+A majority of American households own their own home. For many it is a large part of their wealth. How good an investment has it been? In 1952, one of my uncles and his wife paid \$12,000 for a small one-story wood-and-stucco home in the working-class community of Torrance, California. In 2006, he sold his house near the peak of the real estate bubble, which was especially extreme in California. Despite the deterioration of his neighborhood into a borderline gang area, and the advanced age of his house, he netted about \$480,000 after taxes and commissions. His investment multiplied forty times in fifty-four years, for a compound annual return of 7 percent. Also, his expenses of a few percent a year in property taxes and maintenance were less than what he would have paid to rent a similar property.
 
 Although stories like this abound, my uncle was lucky. According to economist Robert Shiller, average US home prices after inflation increased from 1890 to 2004 by about 0.4 percent a year, with the rate being about 0.7 percent in the later 1940–2004 period. It follows from this that making a profit should not be a primary reason for owning your home. You can rent instead and do about as well financially. However, you may want, as I do, the non-quantified benefits of homeownership: You are your own boss, able to make changes and improvements at will without prior approval from a landlord. If you have a fixed-rate loan or have paid for your house in full, you have the security of knowing that your future monthly costs are controlled.
 
@@ -3361,7 +3093,7 @@ To cut taxes, start with a tracking basket and, each time a stock drops, say, 10
 
 When making an investment, it is important to understand how easy it might be to sell later, a feature known as liquidity. The lack of liquidity in hedge funds and in real estate would prove costly for investors in the 2008–09 recession.
 
-After closing Ridgeline Partners in 2002, I watched with growing concern as deficits expanded and the prices of houses and equities soared. Meanwhile, hedge funds were changing their terms to lock up investors, making it increasingly difficult to withdraw capital. Allowed withdrawal dates went from monthly to quarterly, annually, or worse. Notices had to be given further in advance: thirty days became forty-five, sixty, or ninety days. Funds imposed limits known as throttles on the amount that could be withdrawn on any one date. The SEC played right into this with a new requirement that managers of hedge funds with over $100 million become registered investment advisers, unless they locked up initial investments for at least two years. Many funds joyously tied up their investors’ money, avoiding registration in the process—a win–win for the funds, to the disadvantage of the investors the SEC was meant to be protecting.
+After closing Ridgeline Partners in 2002, I watched with growing concern as deficits expanded and the prices of houses and equities soared. Meanwhile, hedge funds were changing their terms to lock up investors, making it increasingly difficult to withdraw capital. Allowed withdrawal dates went from monthly to quarterly, annually, or worse. Notices had to be given further in advance: thirty days became forty-five, sixty, or ninety days. Funds imposed limits known as throttles on the amount that could be withdrawn on any one date. The SEC played right into this with a new requirement that managers of hedge funds with over \$100 million become registered investment advisers, unless they locked up initial investments for at least two years. Many funds joyously tied up their investors’ money, avoiding registration in the process—a win–win for the funds, to the disadvantage of the investors the SEC was meant to be protecting.
 
 In the spring of 2008 I realized that the collapse in housing prices was going to have much wider repercussions, so I issued partial withdrawal notices to several hedge funds in which I was invested. Unfortunately, these once fairly liquid investments were no longer so. The financial crisis of 2008 intensified sharply in September, before most of my withdrawals were scheduled to be paid, by which time the fund values had declined significantly. Many funds faced a crisis with their imprudently leveraged assets. The failure to anticipate the financial collapse by repositioning themselves led to sharp losses for their investors. Hedge funds, supposedly profitable in down markets, fell 18 percent for the year, while large stocks were off 37 percent and equity real estate investment trusts dropped over 40 percent. The new generation of hedge fund managers, carried away by the credit and asset bubble, either didn’t know how to hedge or didn’t think it was worth the cost.
 
@@ -3375,25 +3107,25 @@ The boom and bust in residential and commercial real estate that occurred in the
 
 
 
-My understanding of how to use leverage began with my experience in the casinos. When I deployed my card counting system for blackjack, it made intuitive sense to bet more when the expected gain, or edge, was greater. The question was, how much? The answer was in a 1956 article by Bell Labs physicist John L. Kelly, who some said was the smartest person there, after Claude Shannon. In his fascinating history of the topic, *Fortune’s Formula,* William Poundstone points out that for a favorable bet that pays odds of $A for a bet of $1, the optimal Kelly bet is the percent of your capital equal to your edge, divided by the odds, A. In blackjack, the typical favorable edge was usually between 1 and 5 percent and the odds, or payoff per dollar bet, averaged a little more than 1. So, following the criterion when the card count was good, I bet a percentage of my bankroll that was a little less than my percent advantage. Kelly’s criterion is not limited to two-value payoffs but applies generally to any gambling or investing situation in which the probabilities are known or can be estimated.
+My understanding of how to use leverage began with my experience in the casinos. When I deployed my card counting system for blackjack, it made intuitive sense to bet more when the expected gain, or edge, was greater. The question was, how much? The answer was in a 1956 article by Bell Labs physicist John L. Kelly, who some said was the smartest person there, after Claude Shannon. In his fascinating history of the topic, *Fortune’s Formula,* William Poundstone points out that for a favorable bet that pays odds of \$A for a bet of \$1, the optimal Kelly bet is the percent of your capital equal to your edge, divided by the odds, A. In blackjack, the typical favorable edge was usually between 1 and 5 percent and the odds, or payoff per dollar bet, averaged a little more than 1. So, following the criterion when the card count was good, I bet a percentage of my bankroll that was a little less than my percent advantage. Kelly’s criterion is not limited to two-value payoffs but applies generally to any gambling or investing situation in which the probabilities are known or can be estimated.
 
 What happens if you do this? Kelly showed mathematically that the wealth of someone following his system would, with increasing likelihood, exceed the fortune of a competitor using an essentially different betting scheme. From blackjack, I went on to use Kelly’s formula to manage bets in baccarat and to allocate money among investments.
 
 Some key features of the Kelly Criterion are: (1) The investor or bettor generally avoids total loss; (2) the bigger the edge, the larger the bet; (3) the smaller the risk, the larger the bet. The Kelly Criterion, not having been invented by the old-line academic economists, has generated considerable controversy.
 
-Bill Gross, co-founder of PIMCO, who learned about the Kelly Criterion in the summer of 1969 when he played blackjack in Nevada, is still influenced by it in making investment decisions. As he told *The Wall Street Journal,* “Here at PIMCO, it doesn’t matter how much you have, whether it’s $200 or $1 trillion. You’ll see it throughout our portfolio. We don’t have more than 2 percent in any one credit. Professional blackjack is being played in this trading room from the standpoint of risk management, and that’s a big part of our success.”
+Bill Gross, co-founder of PIMCO, who learned about the Kelly Criterion in the summer of 1969 when he played blackjack in Nevada, is still influenced by it in making investment decisions. As he told *The Wall Street Journal,* “Here at PIMCO, it doesn’t matter how much you have, whether it’s \$200 or \$1 trillion. You’ll see it throughout our portfolio. We don’t have more than 2 percent in any one credit. Professional blackjack is being played in this trading room from the standpoint of risk management, and that’s a big part of our success.”
 
 Three caveats: (1) The Kelly Criterion may lead to wide swings in the total wealth, so most users choose to bet some lesser fraction, typically one-half Kelly or less; (2) for investors with short time horizons or who are averse to risk, other approaches may be better; (3) an exact application of Kelly requires exact probabilities of payoffs such as those in most casino games; to the extent these are uncertain, which is generally the case in the investment world, the Kelly bet should be based on a conservative estimate of the outcome.
 
 
 
-As I pointed out in *Wilmott* magazine, Warren Buffett’s thinking is consistent with the Kelly Criterion. In a question and answer session with business students at Emory University, he was asked, in view of the popularity of *Fortune’s Formula* and the Kelly Criterion, to describe his process for choosing how much to invest in a situation. He and his associate Charlie Munger, when managing $200 million, put most of it into just five or so positions. Sometimes he was willing to bet 75 percent of his fortune on a single investment. Investing heavily in extremely favorable situations is characteristic of a Kelly bettor.
+As I pointed out in *Wilmott* magazine, Warren Buffett’s thinking is consistent with the Kelly Criterion. In a question and answer session with business students at Emory University, he was asked, in view of the popularity of *Fortune’s Formula* and the Kelly Criterion, to describe his process for choosing how much to invest in a situation. He and his associate Charlie Munger, when managing \$200 million, put most of it into just five or so positions. Sometimes he was willing to bet 75 percent of his fortune on a single investment. Investing heavily in extremely favorable situations is characteristic of a Kelly bettor.
 
 —
 
 In a typical life cycle, prior to adulthood we consume more than we produce. As we acquire education and training, we contribute more to society than it takes to support us. During this period, a prudent or fortunate investor will accumulate wealth from which to draw upon later as he ages and reduces his income from work.
 
-At this point, to support yourself entirely from your savings, how much can you spend each year without running short? There is no one answer, of course, because of the differences in our individual needs, desires, and circumstances. One retiree I know has $10 million. He lives well and believes that if his investments keep up with inflation, he can spend $400,000 a year for the next twenty-five years before he runs out, and that’s plenty for his purposes. This is the most “conservative” way to look at the problem: Invest in something like short-term US Treasury bonds, which have little risk and keep up with inflation, divide what you have by the greatest number of years you may live, and that is what you can safely spend each year.
+At this point, to support yourself entirely from your savings, how much can you spend each year without running short? There is no one answer, of course, because of the differences in our individual needs, desires, and circumstances. One retiree I know has \$10 million. He lives well and believes that if his investments keep up with inflation, he can spend \$400,000 a year for the next twenty-five years before he runs out, and that’s plenty for his purposes. This is the most “conservative” way to look at the problem: Invest in something like short-term US Treasury bonds, which have little risk and keep up with inflation, divide what you have by the greatest number of years you may live, and that is what you can safely spend each year.
 
 What if you want the payouts to continue “forever,” as you might for an endowment? Computer simulations showed me that with the best long-term investments, such as stocks and commercial real estate, annual future spending should be limited to the inflation-adjusted level of 2 percent of the original gift. This surprisingly conservative figure assumes that future investment results will be similar in risk and return to US historical experience. In that case, the chance that the endowment is never exhausted turns out to be 96 percent.
 
@@ -3405,11 +3137,7 @@ The 2 percent spending limit is so low because, if the fund is sharply reduced i
 
 
 
-# Chapter 28
-
-------
-
-# GIVING BACK
+## Chapter 28: GIVING BACK
 
 In 2003, Vivian and I offered to endow a chair in mathematics at the University of California, Irvine. We were guided by what we had learned from the charitable giving we had done over several decades. One principle was to make the gift transformative, with an impact well beyond what you’d expect from the monetary amount. We also wanted to fund projects that wouldn’t happen without our support. These conditions were met.
 
@@ -3421,7 +3149,7 @@ To meet our first objective, the endowment is to be used only to supplement the 
 
 Funds used for general departmental, campus, or university budgets, or for any purpose not directly in support of the research activities of the chair holder, are limited to 5 percent of the annual money drawn. We specified a distribution rate of 2 percent annually, which means 0.1 percent covers administration and 1.9 percent goes to the chair. We knew that limiting the annual draw from the endowment to 2 percent was crucial to our long-term compounding objective.
 
-We donated appreciated Class A shares of Berkshire Hathaway, which eliminated a possible long-term capital gain for us if, instead, we kept the shares and someday sold them. Stock is to be sold only as needed to fund the chair. However, just one Berkshire A share would create far more cash (over $200,000 in 2016) than the annual payment from the endowment. Therefore, when money is needed, we asked that an A share first be exchanged for fifteen hundred B shares, the specified conversion ratio. Worth about $140 each in mid-2016, the B shares could then be sold in precise amounts to create funds when required. The point is to keep the endowment fully invested in stock until cash is needed. When we are no longer alive, remaining shares will be exchanged for a broad, no-load, US stock index fund with a very low expense ratio, such as the Vanguard S&P 500 or the Vanguard Total US Stock Index.
+We donated appreciated Class A shares of Berkshire Hathaway, which eliminated a possible long-term capital gain for us if, instead, we kept the shares and someday sold them. Stock is to be sold only as needed to fund the chair. However, just one Berkshire A share would create far more cash (over \$200,000 in 2016) than the annual payment from the endowment. Therefore, when money is needed, we asked that an A share first be exchanged for fifteen hundred B shares, the specified conversion ratio. Worth about \$140 each in mid-2016, the B shares could then be sold in precise amounts to create funds when required. The point is to keep the endowment fully invested in stock until cash is needed. When we are no longer alive, remaining shares will be exchanged for a broad, no-load, US stock index fund with a very low expense ratio, such as the Vanguard S&P 500 or the Vanguard Total US Stock Index.
 
 What kind of growth in the value of the endowment might we expect? Over the last two hundred years, a broad US stock index has grown about 7 percent faster than inflation. No one knows whether the future will be equally good, but even if the increase exceeded inflation by only 5 percent, the net annual growth in purchasing power would be 3 percent. Doubling on average every twenty-four years, after a century the endowment and its annual payouts would have grown over nineteen times in today’s dollars. In two hundred years this rate of growth would increase it to 370 times what is was worth when the chair was funded in 2003. If the United States continues to prosper, if the university continues to exist, and if our investment and distribution policies continue to be implemented, the power of compounding may well lead to an endowment fund for our chair in mathematics that, valued in today’s dollars, exceeds that of the current endowment for any chair that now exists in the world.
 
@@ -3429,7 +3157,7 @@ What kind of growth in the value of the endowment might we expect? Over the last
 
 For those who wonder how likely this is to come to pass, we remind them of a similar plan by Benjamin Franklin to, in the words of biographer H. W. Brands, make a bequest that “would be immediately useful, yet it would gain in philanthropic power with passing years.”
 
-Upon his death in 1790, Franklin set aside two special revolving funds of 1,000 pounds each. One went to Boston, and the other to Philadelphia. They were to be lent in small portions at 5 percent per annum to help “young married artificers.” Franklin expected each fund compounding at 5 percent per annum to increase in a century to over 130,000 pounds, at which point 100,000 pounds was to be used for public works. In the second hundred years Franklin thought the remainder could, at 5 percent, increase to more than 4 million pounds, which then was to be divided between the cities and their states. In actuality, the Boston fund had grown to $4.5 million by 1990 and the Philadelphia fund to $2 million.
+Upon his death in 1790, Franklin set aside two special revolving funds of 1,000 pounds each. One went to Boston, and the other to Philadelphia. They were to be lent in small portions at 5 percent per annum to help “young married artificers.” Franklin expected each fund compounding at 5 percent per annum to increase in a century to over 130,000 pounds, at which point 100,000 pounds was to be used for public works. In the second hundred years Franklin thought the remainder could, at 5 percent, increase to more than 4 million pounds, which then was to be divided between the cities and their states. In actuality, the Boston fund had grown to \$4.5 million by 1990 and the Philadelphia fund to \$2 million.
 
 How have we done so far? In the first thirteen years, the principal of the endowment more than doubled after spending and despite the 2008–09 market collapse. Regarding the future existence of the university, former University of California chancellor Clark Kerr observed that “since 1520, only about 85 institutions have remained continuously in existence…about 70…[of these]…are universities…few things last longer or are more resilient than universities.”
 
@@ -3441,7 +3169,7 @@ We hope we have planned well and that our gift, like Ben Franklin’s, will accr
 
 Another charitable opportunity that fit our criteria arose in 2004. The George W. Bush administration had severely restricted the allowed federal funding of stem cell research. Further, labs doing proscribed research had to be absolutely separate from federally funded facilities. Theoretically, if a pencil paid for by government funds was used for forbidden work, the entire federal grant could and would be revoked.
 
-The nation faced a delay in the development of lifesaving therapies, a massive brain drain as our scientists moved overseas to continue their work, and the loss of our lead in stem cell technology. California voters stepped in, approving a $3 billion bond issue to create CIRM, the California Institute for Regenerative Medicine. The purpose was to provide ten years of support for stem cell research freed from the Bush restrictions.
+The nation faced a delay in the development of lifesaving therapies, a massive brain drain as our scientists moved overseas to continue their work, and the loss of our lead in stem cell technology. California voters stepped in, approving a \$3 billion bond issue to create CIRM, the California Institute for Regenerative Medicine. The purpose was to provide ten years of support for stem cell research freed from the Bush restrictions.
 
 CIRM intended to fund five or six centers at university campuses throughout the state, each one of which would eventually get hundreds of millions of dollars. The money would help construct research facilities entirely separate from any federal funding, as well as fund grants for faculty to develop new stem cell treatments for diseases. UCI already had an important group of stem cell experts and was strategically placed in biotech-rich Orange County. However, to qualify, the campus had to complete building the research center in two years, and significant portions of the funding had to come from both the university and private donors. Who in Orange County was rich enough and willing to be the lead private donor?
 
@@ -3449,15 +3177,15 @@ The next part of the story begins back in 1966 when a senior at Duke University 
 
 
 
-Using *Beat the Dealer* as a guide, he brought a bankroll of $200 and ran it up to $10,000. It took four months. The grueling days at the green felt tables often lasted sixteen hours. It was a hard way to earn money but the real value, as with so many before and after him, was in what the young man learned. As he later said, “I had no clue that my four months at the tables in Las Vegas were to lay the foundation for a successful career in Wall Street. [It] taught me several important principles that I’ve employed for the past twenty-five years…”
+Using *Beat the Dealer* as a guide, he brought a bankroll of \$200 and ran it up to \$10,000. It took four months. The grueling days at the green felt tables often lasted sixteen hours. It was a hard way to earn money but the real value, as with so many before and after him, was in what the young man learned. As he later said, “I had no clue that my four months at the tables in Las Vegas were to lay the foundation for a successful career in Wall Street. [It] taught me several important principles that I’ve employed for the past twenty-five years…”
 
 Returning from Vietnam in 1969, the card counter went to UCLA to get a master’s degree in business. He read about convertible bonds in *Beat the Market,* which influenced him to write his master’s thesis on that topic. Graduating two years later in 1971, he found that jobs for MBAs were scarce. But when he answered an ad for a junior credit analyst at Pacific Mutual, they liked both the man and the thesis topic.
 
-In the subsequent decades, he co-founded Pacific Investment Management Company, which would one day manage almost $2 trillion. The Duke senior had become a billionaire known worldwide as William H. Gross, the Bond King. Bill and his wife, Sue, had already donated tens of millions for medical causes, so a group at UCI arranged a lunch meeting with Bill to see if he and Sue would give $10 million and become the lead donors for a new CIRM-subsidized stem cell research center.
+In the subsequent decades, he co-founded Pacific Investment Management Company, which would one day manage almost \$2 trillion. The Duke senior had become a billionaire known worldwide as William H. Gross, the Bond King. Bill and his wife, Sue, had already donated tens of millions for medical causes, so a group at UCI arranged a lunch meeting with Bill to see if he and Sue would give \$10 million and become the lead donors for a new CIRM-subsidized stem cell research center.
 
-In the course of the conversation, I mentioned that a $10 million gift would lead to as much as $600 million in the years to come, leveraging their donation sixty times. I saw an instant flash in Bill’s eyes and thought: *Bill and Sue must value the chance to make an impact far greater than the value of the amount donated, just as Vivian and I do.* After careful consideration, they said yes.
+In the course of the conversation, I mentioned that a \$10 million gift would lead to as much as \$600 million in the years to come, leveraging their donation sixty times. I saw an instant flash in Bill’s eyes and thought: *Bill and Sue must value the chance to make an impact far greater than the value of the amount donated, just as Vivian and I do.* After careful consideration, they said yes.
 
-So far, so good. But CIRM also required, as evidence of community support, that significant gifts come from several private donors, not just one. Along with others, Vivian and I added our own contribution. CIRM followed through with $30 million in 2008 and the $70 million facility was completed in less than two years, under budget and ahead of schedule.
+So far, so good. But CIRM also required, as evidence of community support, that significant gifts come from several private donors, not just one. Along with others, Vivian and I added our own contribution. CIRM followed through with \$30 million in 2008 and the \$70 million facility was completed in less than two years, under budget and ahead of schedule.
 
 
 
@@ -3471,21 +3199,17 @@ The timing for funding the Sue and Bill Gross Stem Cell Research Center was fort
 
 
 
-# Chapter 29
+## Chapter 29: FINANCIAL CRISES: LESSONS NOT LEARNED
 
-------
-
-# FINANCIAL CRISES: LESSONS NOT LEARNED
-
-On October 9, 2007, the S&P 500 reached an all-time closing high of 1,565. Led by home prices, which began to fall from their inflated 2006 peak, it drifted downward, then accelerated to a low of 676 on March 9, 2009, a decline of 57 percent. A million dollars’ worth of the index at the high fell to $430,000 at the low. Single-family homes declined 30 percent. One bright spot was bonds. Borrowing declined and interest rates fell, pushing US government and higher-quality corporates up strongly. Despite an offset from this rise in bond prices, the net worth of US households, which peaked in June 2007 at $65.9 trillion, fell to $48.5 trillion during the first quarter of 2009, a loss of 26 percent. It was the worst blow to national wealth since the Great Depression eighty years earlier.
+On October 9, 2007, the S&P 500 reached an all-time closing high of 1,565. Led by home prices, which began to fall from their inflated 2006 peak, it drifted downward, then accelerated to a low of 676 on March 9, 2009, a decline of 57 percent. A million dollars’ worth of the index at the high fell to \$430,000 at the low. Single-family homes declined 30 percent. One bright spot was bonds. Borrowing declined and interest rates fell, pushing US government and higher-quality corporates up strongly. Despite an offset from this rise in bond prices, the net worth of US households, which peaked in June 2007 at \$65.9 trillion, fell to \$48.5 trillion during the first quarter of 2009, a loss of 26 percent. It was the worst blow to national wealth since the Great Depression eighty years earlier.
 
 The lessons learned then by our grandparents were forgotten after two generations. The stock market collapse that triggered that calamity was the climax to a speculative bubble. As stock prices rose in the 1920s, “investors” (mostly gamblers) came to believe that they would continue ever upward. A leading economist of the day encouragingly declared that stocks had permanently reached a new high plateau. But the key to the disaster that followed was easy money and leverage. Investors could buy stocks on as little as 10 percent margin, meaning that they could put up only 10 percent of the purchase price and borrow the other 90 percent. It sounds eerily familiar because it is. The 2008 collapse in housing prices had the same cause: unlimited unsound loans to create highly leveraged borrowers.
 
 
 
-Here’s how it worked in the stock market in 1929. If shares trading for $100 each were purchased for $10 down and a $90 loan per share and subsequently went to, say, $110, the happy investor then had $20 per share of equity, equal to $110 minus the $90 he originally borrowed from his broker. He doubled his money on a mere 10 percent rise in the stock. He can now borrow 90 percent against this $10-per-share profit to buy an additional $90 worth of stock, bringing the total value of his stock to twice what he originally bought. If the investor repeats this each time his stock goes up another 10 percent, both his equity and his loan will double again at each step. After five such increases of 10 percent over the previous price, the stock will trade at $161 per share, a 61 percent gain. Meanwhile our pyramiding investor will have doubled his equity five times, to thirty-two times the starting amount. Ten thousand dollars becomes $320,000. After ten steps up of 10 percent, during which the investor’s stake undergoes ten doublings, the stock will be at $259 and from the original purchase of $10,000 worth of stocks using only $1,000, the investor now has $10,240,000 of the same security. His equity is 10 percent of this. He’s a millionaire. Such is the hypnotically enticing power of leverage.
+Here’s how it worked in the stock market in 1929. If shares trading for \$100 each were purchased for \$10 down and a \$90 loan per share and subsequently went to, say, \$110, the happy investor then had \$20 per share of equity, equal to \$110 minus the \$90 he originally borrowed from his broker. He doubled his money on a mere 10 percent rise in the stock. He can now borrow 90 percent against this \$10-per-share profit to buy an additional \$90 worth of stock, bringing the total value of his stock to twice what he originally bought. If the investor repeats this each time his stock goes up another 10 percent, both his equity and his loan will double again at each step. After five such increases of 10 percent over the previous price, the stock will trade at \$161 per share, a 61 percent gain. Meanwhile our pyramiding investor will have doubled his equity five times, to thirty-two times the starting amount. Ten thousand dollars becomes \$320,000. After ten steps up of 10 percent, during which the investor’s stake undergoes ten doublings, the stock will be at \$259 and from the original purchase of \$10,000 worth of stocks using only \$1,000, the investor now has \$10,240,000 of the same security. His equity is 10 percent of this. He’s a millionaire. Such is the hypnotically enticing power of leverage.
 
-But what happens if the stock price then drops 10 percent? Our giddy investor loses his entire equity and his broker issues a margin call: Pay off the loan—which is now more than $9 million—or be sold out. As stock prices rose in 1929, investors leveraged themselves in this way to buy more, driving prices higher. The positive feedback loop led to an average total return on large-company stocks of 193 percent from the end of 1925 to the end of August 1929. A purchase of $100 on no borrowing grew to $293, and our 10 percent down investor who pyramided might have doubled his money more than ten times, gaining more than a thousand times his original investment. However, as prices eased in September and October 1929, the equity of the most highly leveraged investors vanished. When they were unable to meet margin calls, their brokers sold their stock. These sales drove prices down, wiping out investors who hadn’t been quite as leveraged, triggering a new round of margin calls and sales, driving prices down further. As the equity bubble burst, the greatest stock market decline in history began. Large-company stocks eventually dropped by 89 percent, to one-ninth of their earlier peak prices.
+But what happens if the stock price then drops 10 percent? Our giddy investor loses his entire equity and his broker issues a margin call: Pay off the loan—which is now more than \$9 million—or be sold out. As stock prices rose in 1929, investors leveraged themselves in this way to buy more, driving prices higher. The positive feedback loop led to an average total return on large-company stocks of 193 percent from the end of 1925 to the end of August 1929. A purchase of \$100 on no borrowing grew to \$293, and our 10 percent down investor who pyramided might have doubled his money more than ten times, gaining more than a thousand times his original investment. However, as prices eased in September and October 1929, the equity of the most highly leveraged investors vanished. When they were unable to meet margin calls, their brokers sold their stock. These sales drove prices down, wiping out investors who hadn’t been quite as leveraged, triggering a new round of margin calls and sales, driving prices down further. As the equity bubble burst, the greatest stock market decline in history began. Large-company stocks eventually dropped by 89 percent, to one-ninth of their earlier peak prices.
 
 
 
@@ -3493,7 +3217,7 @@ As waves of leveraged investors were ruined, bank and brokerage firms, saddled w
 
 To prevent a repeat of 1929, the Securities Exchange Act of 1934 empowered the board of governors of the Federal Reserve System to prescribe the part of the purchase price the investor has to put up to purchase a listed security. He may borrow any or all of the remainder. Since 1934 this has varied between 40 percent and 100 percent. A 100 percent margin means all purchases must be fully paid for with cash. In 2009, initial margin was 50 percent. Stock exchanges specify the minimum amount of margin that must be maintained as prices fluctuate, the so-called maintenance margin. For instance, at the maintenance margin rate of 30 percent, when the net worth of an investor’s account is less than 30 percent of the value of the stocks he owns, his broker calls for cash to pay off enough of the loan to bring the investor’s equity back to the 30 percent level. Otherwise, the broker will sell off stock until this is accomplished.
 
-The collapse of the banking system was fueled in part by depositors, who, seeing some banks fail, rushed to withdraw their money from the others while there was still time. To dispel such panics in the future, the Banking Act of 1933 (the second Glass-Steagall Act), separated commercial and investment banking in an effort to limit the impact of speculation. It also established the Federal Deposit Insurance Corporation (FDIC), which covered losses up to a certain limit. (In 2015 the amount insured was $250,000 per account.) This safety net was severely tested in the 1980s, when the savings and loan collapse cost the Federal Deposit Insurance Corporation—that is, US taxpayers—$250 billion, about $1,000 for every man, woman, and child in the country.
+The collapse of the banking system was fueled in part by depositors, who, seeing some banks fail, rushed to withdraw their money from the others while there was still time. To dispel such panics in the future, the Banking Act of 1933 (the second Glass-Steagall Act), separated commercial and investment banking in an effort to limit the impact of speculation. It also established the Federal Deposit Insurance Corporation (FDIC), which covered losses up to a certain limit. (In 2015 the amount insured was \$250,000 per account.) This safety net was severely tested in the 1980s, when the savings and loan collapse cost the Federal Deposit Insurance Corporation—that is, US taxpayers—\$250 billion, about \$1,000 for every man, woman, and child in the country.
 
 
 
@@ -3501,13 +3225,13 @@ Beginning in the 1980s, government, including presidents, Congress, and the Fede
 
 The first worldwide shock was the crash of October 1987, when the US market fell 23 percent in a single day. The cause was a massive feedback event driven by the recently invented quant product of portfolio insurance, leveraged through the new financial futures markets. Fortunately, equities and the economy recovered quickly. Unfortunately, little was learned about the perils of excess leverage.
 
-A second warning came in 1998 with the collapse of the hedge fund Long-Term Capital Management (LTCM). Run by a high-rolling trader and two winners of the Nobel Prize in Economics, this so-called dream team of the best traders and academic financial theorists in the world was on the verge of losing the fund’s entire $4 billion of net worth. In the deregulatory environment of the time, they were leveraged between thirty and one hundred times. Profits of less than 1 percent annualized were magnified with borrowed money into yearly returns of 40 percent or so. As long as the world of asset prices was normal, all was well, but just as in 1929 when investors on 10 percent margin were wiped out by a small reversal in prices, so LTCM, with its margin ranging from 1 to 3 percent, was ruined by a sea change in markets.
+A second warning came in 1998 with the collapse of the hedge fund Long-Term Capital Management (LTCM). Run by a high-rolling trader and two winners of the Nobel Prize in Economics, this so-called dream team of the best traders and academic financial theorists in the world was on the verge of losing the fund’s entire \$4 billion of net worth. In the deregulatory environment of the time, they were leveraged between thirty and one hundred times. Profits of less than 1 percent annualized were magnified with borrowed money into yearly returns of 40 percent or so. As long as the world of asset prices was normal, all was well, but just as in 1929 when investors on 10 percent margin were wiped out by a small reversal in prices, so LTCM, with its margin ranging from 1 to 3 percent, was ruined by a sea change in markets.
 
 As Nassim Taleb points out eloquently in his book *The Black Swan,* apparent excess returns like those for LTCM in normal times may be illusory as they may be more than offset by infrequent large losses from extreme events. Such “black swans” can be bad for some and good for others. Ironically, having passed in 1994 on the chance to invest in LTCM and temporarily get rich, I made money in 1998 by exploiting the distorted market prices left in the wake of their collapse. LTCM’s loss was our gain in Ridgeline Partners.
 
 
 
-LTCM’s collapse threatened to put $100 billion or so of bad assets on the books of other institutions. This would bankrupt some banks, brokerage houses, or hedge funds, in turn spreading around more bad assets and bankrupting more institutions. If allowed to happen, this domino effect might have led to a worldwide financial collapse, but a Federal Reserve–inspired consortium intervened, took over LTCM, supplied more funding, and conducted an orderly liquidation.
+LTCM’s collapse threatened to put \$100 billion or so of bad assets on the books of other institutions. This would bankrupt some banks, brokerage houses, or hedge funds, in turn spreading around more bad assets and bankrupting more institutions. If allowed to happen, this domino effect might have led to a worldwide financial collapse, but a Federal Reserve–inspired consortium intervened, took over LTCM, supplied more funding, and conducted an orderly liquidation.
 
 Nothing appears to have been learned from this. Spearheaded by Congress, the banking industry got what it wanted. The first Glass-Steagall Act, enacted in the Great Depression to separate commercial and investment banking, was repealed in 1999. This allowed big institutions to take on more risk with less regulation through the trading of massive amounts of unregulated derivative securities. When Commodity Futures Trading Commission chairperson (1996–99) Brooksley Born wanted to regulate the derivatives that would later be a major cause of disaster, the PBS program *Frontline* detailed how she was blocked in 1998 by the triumvirate of Federal Reserve chairman Alan Greenspan, US Treasury Secretary Robert Rubin, and Deputy US Treasury Secretary Lawrence Summers, all of whom would later advise government on the 2008–09 bailout. Nassim Taleb asked why, after a driver crashes his school bus, killing and injuring his passengers, he should be put in charge of another bus and asked to set up new safety rules.
 
@@ -3525,17 +3249,17 @@ These products cost the US economy several trillion dollars in forever-lost gros
 
 I encountered the first of these, called CMOs, or collateralized mortgage obligations, when they were developed in the mid-1980s. It helps first to analyze the individual home mortgages that were pooled as collateral for the CMOs.
 
-Suppose that your best friend, wanting to buy a home for $400,000, asks you to lend him 80 percent of the purchase price, or $320,000, with the other $80,000 provided by his savings. In return he agrees to repay the loan over thirty years and to pay you interest at the going rate of 6 percent annually. This is called a fixed-rate loan, because the interest will remain at 6 percent no matter how the market fluctuates. If this were an interest-only loan then your friend would pay you 6 percent of $320,000, or $19,200 a year, and would finally repay the entire principal in one balloon payment of $320,000 at the end of thirty years.
+Suppose that your best friend, wanting to buy a home for \$400,000, asks you to lend him 80 percent of the purchase price, or \$320,000, with the other \$80,000 provided by his savings. In return he agrees to repay the loan over thirty years and to pay you interest at the going rate of 6 percent annually. This is called a fixed-rate loan, because the interest will remain at 6 percent no matter how the market fluctuates. If this were an interest-only loan then your friend would pay you 6 percent of \$320,000, or \$19,200 a year, and would finally repay the entire principal in one balloon payment of \$320,000 at the end of thirty years.
 
 
 
-Instead you elect a level-payment scheme in which your friend pays a fixed amount at the end of each month. This payment is a little larger than the monthly interest-only payment of $1,600 ($19,200 ÷ 12) and, as computed from standard real estate formulas, turns out to be $1,918.59. The extra amount reduces the principal slightly after each payment, which in turn cuts the amount of interest charged on the next payment. Thus, as time passes, an increasing part of each payment goes toward reducing the principal. The principal declines slowly at first, but near the end of the thirty years, the loan has been mostly paid off and the interest due is small, so the payments then mainly reduce principal. Your security for the loan is your friend’s house. Your contract specifies that in the event your friend defaults on the loan, you can sell the house and use the proceeds to pay yourself part of, or hopefully all of, what he owes. But you have no further recourse.
+Instead you elect a level-payment scheme in which your friend pays a fixed amount at the end of each month. This payment is a little larger than the monthly interest-only payment of \$1,600 (\$19,200 ÷ 12) and, as computed from standard real estate formulas, turns out to be \$1,918.59. The extra amount reduces the principal slightly after each payment, which in turn cuts the amount of interest charged on the next payment. Thus, as time passes, an increasing part of each payment goes toward reducing the principal. The principal declines slowly at first, but near the end of the thirty years, the loan has been mostly paid off and the interest due is small, so the payments then mainly reduce principal. Your security for the loan is your friend’s house. Your contract specifies that in the event your friend defaults on the loan, you can sell the house and use the proceeds to pay yourself part of, or hopefully all of, what he owes. But you have no further recourse.
 
 If housing prices have never gone down by much, at least not for a long time, what’s your risk? Well, this question is about average prices, not those of individual houses. Your friend’s neighborhood could turn into a slum. Or he might have bought the house in New Orleans shortly before Hurricane Katrina. In any case there are risks that threaten you with the loss of some or all of the money you have lent.
 
 Life and casualty insurance companies deal with risks like this all the time. What they do is sell many insurance policies, any one of which may cost the insurance company more than it is paid in premiums—but their degree of risk, spread over the entire pool, is expected (on the basis of past experience) to leave the insurance company with a profit after it pays casualty losses and expenses.
 
-The same idea is behind collateralized mortgage obligations. Assemble hundreds or thousands of mortgages. Four thousand mortgages at $250,000 each creates a $1 billion pool! Collect the interest and principal payments from each of these mortgages and use them to pay people to whom you have sold shares of the pool. This stream of monthly payments is much like those from a bond, and shares of the CMO pools were priced like bonds.
+The same idea is behind collateralized mortgage obligations. Assemble hundreds or thousands of mortgages. Four thousand mortgages at \$250,000 each creates a \$1 billion pool! Collect the interest and principal payments from each of these mortgages and use them to pay people to whom you have sold shares of the pool. This stream of monthly payments is much like those from a bond, and shares of the CMO pools were priced like bonds.
 
 
 
@@ -3551,35 +3275,35 @@ Everybody got rich. The mortgage origination companies collected fees from the h
 
 The academic community made its contributions. As Nobel Prize winner Paul Krugman pointed out, macroeconomists assured us that, due to their greater understanding, catastrophic failures could no longer occur. Scott Patterson details in his book *The Quants* how all of this was facilitated by quants who, with calculations based on academic financial theory, assured everyone that their model prices were accurate and the risks small.
 
-Hundreds of billions of dollars’ worth of CMOs were sold to investors worldwide. The idea was so good that it was expanded to CDOs—collateralized debt obligations—where other kinds of debt like loans on autos or credit cards were used instead of home mortgages. Risky as these proved to be, an even more dangerous security, the credit default swap, or CDS, appeared on the scene, to the unconcern of sleeping regulators. A CDS is essentially an insurance policy that a lender can purchase to protect himself against a default by the borrower. Typically the insurance is bought for a certain number of years for a fixed annual payment. For instance, on the $320,000 loan to your home-buying friend, you might be worried about a default in the next five years so, if it were available, you might purchase insurance for the period at, say, $1,600 per year, or 0.5 percent of the initial loan amount.
+Hundreds of billions of dollars’ worth of CMOs were sold to investors worldwide. The idea was so good that it was expanded to CDOs—collateralized debt obligations—where other kinds of debt like loans on autos or credit cards were used instead of home mortgages. Risky as these proved to be, an even more dangerous security, the credit default swap, or CDS, appeared on the scene, to the unconcern of sleeping regulators. A CDS is essentially an insurance policy that a lender can purchase to protect himself against a default by the borrower. Typically the insurance is bought for a certain number of years for a fixed annual payment. For instance, on the \$320,000 loan to your home-buying friend, you might be worried about a default in the next five years so, if it were available, you might purchase insurance for the period at, say, \$1,600 per year, or 0.5 percent of the initial loan amount.
 
 
 
 Trillions of dollars’ worth of these credit default swaps were issued, and began trading like any other security. To buy or sell these contracts, you didn’t have to own the debt the CDS insured. That in itself wasn’t the problem, since the financial markets are simply one big casino, though one with economic benefits, and all investment positions are equivalent to bets. The problem was that the issuers of CDSs could issue them with no collateral other than their “full faith and credit,” meaning that if their bets lost they might not have the money to pay.
 
-The margin (collateral set aside to assure payment) was generally small to zero. These unregulated items often were held by subsidiaries, so they wouldn’t appear explicitly in the financial statement of the parent company. A case in point was American International Group (AIG), a huge worldwide insurance company, which—when the crisis hit in 2008—was threatened with collapse. During the US government handout of hundreds of billions to save the financial system, AIG was the largest single recipient—a whopping $165 billion. They had issued trillions of dollars in CDSs through a subsidiary, backed mainly by their name. As the bonds they insured dropped in price, they had to post collateral to back the (now losing) CDSs they had sold. Eventually, they couldn’t pay, threatening to create hundreds of billions in losses for banks and investment houses worldwide. Not only did the US bailout of AIG help domestic companies such as Goldman Sachs, which held $10 billion of bad paper assets from AIG that was absorbed by the taxpayers, but the largesse was distributed worldwide to cover AIG’s defaults.
+The margin (collateral set aside to assure payment) was generally small to zero. These unregulated items often were held by subsidiaries, so they wouldn’t appear explicitly in the financial statement of the parent company. A case in point was American International Group (AIG), a huge worldwide insurance company, which—when the crisis hit in 2008—was threatened with collapse. During the US government handout of hundreds of billions to save the financial system, AIG was the largest single recipient—a whopping \$165 billion. They had issued trillions of dollars in CDSs through a subsidiary, backed mainly by their name. As the bonds they insured dropped in price, they had to post collateral to back the (now losing) CDSs they had sold. Eventually, they couldn’t pay, threatening to create hundreds of billions in losses for banks and investment houses worldwide. Not only did the US bailout of AIG help domestic companies such as Goldman Sachs, which held \$10 billion of bad paper assets from AIG that was absorbed by the taxpayers, but the largesse was distributed worldwide to cover AIG’s defaults.
 
-To see how crazy this was, imagine that Joe Sixpack offered to sell you a CDS on your $320,000 loan to your friend for $1,600 a year for five years. Joe is doing well, has a million-dollar house with no debt, and is therefore “good for the money.” Happy with $1,600 a year in extra income, Joe continues to sell CDSs on residential mortgages. Unregulated, he sells a thousand just like the one he sold you, and his income grows to $1.6 million a year. If these loans average $320,000 each, he is insuring a total of $320 million, all backed by his million-dollar house. You object, arguing that Joe couldn’t sell this many CDSs because once he’s sold a few of them people would realize there was a good chance he couldn’t pay off in a crisis. Ah, but what if Joe did this in a subsidiary and didn’t disclose the vast scale of his operations? Welcome to AIG.
+To see how crazy this was, imagine that Joe Sixpack offered to sell you a CDS on your \$320,000 loan to your friend for \$1,600 a year for five years. Joe is doing well, has a million-dollar house with no debt, and is therefore “good for the money.” Happy with \$1,600 a year in extra income, Joe continues to sell CDSs on residential mortgages. Unregulated, he sells a thousand just like the one he sold you, and his income grows to \$1.6 million a year. If these loans average \$320,000 each, he is insuring a total of \$320 million, all backed by his million-dollar house. You object, arguing that Joe couldn’t sell this many CDSs because once he’s sold a few of them people would realize there was a good chance he couldn’t pay off in a crisis. Ah, but what if Joe did this in a subsidiary and didn’t disclose the vast scale of his operations? Welcome to AIG.
 
 
 
 Each CDS Joe Sixpack sells is a potential future liability. It should be carried as such on his books and will prove to be a good sale only if the premiums he receives, plus reinvestment income, are more than enough to cover the future claims against the credit default insurance he has sold. Just like the similar situation that arises for life insurance companies, Joe needs to set aside a reserve on his books to cover these future payouts, and he needs to increase those reserves as the likelihood of payouts increases. If instead Joe collects the income and doesn’t put aside a reserve, then he is running a Ponzi scheme like the one I described at XYZ Corporation in the 1970s, where they sold call options on precious metals far too cheaply, called the proceeds income, and did not set aside an appropriate amount for payouts they might have to make later to the option holders. How did AIG’s CDS operation differ from either Joe’s scheme or XYZ’s?
 
-In 2004, five major investment banks persuaded the US Securities and Exchange Commission to increase their allowable leverage. Previously, they could borrow $11 for every $1 of net worth. This meant they only had $1 out of every $12, or 8.33 percent, as a cushion against disaster. Under its chairman Christopher Cox, the SEC allowed Goldman Sachs, Morgan Stanley, Merrill Lynch, Bear Stearns, and Lehman Brothers to expand their leverage to something like 33:1, rivaling the levels that doomed the ill-fated hedge fund Long-Term Capital Management just six years earlier. With, say, $33 in assets and $32 of liabilities for each $1 of net worth, a decline of a little over 3 percent in assets would wipe out their equity. Once this happened and a bank was known to be technically insolvent, creditors would demand payment while they could still get it, triggering a classic run on the bank, just as in the 1930s.
+In 2004, five major investment banks persuaded the US Securities and Exchange Commission to increase their allowable leverage. Previously, they could borrow \$11 for every \$1 of net worth. This meant they only had \$1 out of every \$12, or 8.33 percent, as a cushion against disaster. Under its chairman Christopher Cox, the SEC allowed Goldman Sachs, Morgan Stanley, Merrill Lynch, Bear Stearns, and Lehman Brothers to expand their leverage to something like 33:1, rivaling the levels that doomed the ill-fated hedge fund Long-Term Capital Management just six years earlier. With, say, \$33 in assets and \$32 of liabilities for each \$1 of net worth, a decline of a little over 3 percent in assets would wipe out their equity. Once this happened and a bank was known to be technically insolvent, creditors would demand payment while they could still get it, triggering a classic run on the bank, just as in the 1930s.
 
-When the crisis hit four years later in 2008, the same length of time it took excess leverage to destroy LTCM, the run on the bank threatened to destroy all five of these geared-up Goliaths. Three of these five investment banks ceased to exist as independent entities; the other two, Morgan Stanley and Goldman Sachs, were saved by government intervention plus, for Goldman, a multibillion-dollar purchase of 10 percent preferred stock and warrants by Warren Buffett’s Berkshire Hathaway. Both returned to prosperity in 2009, with Goldman triumphant. Partners were on track to share near-record bonuses of between $20 billion and $30 billion. The elimination or marginalization of some rivals was not a bad thing. Appearing pixyish in his public appearances, when CEO Lloyd Blankfein was asked about the gigantic bonuses, he explained that the firm was “doing God’s work.” The argument is the standard academic one that more trading creates efficient capital markets, with better prices for buyers and sellers, for the benefit of all humankind. It came out later that part of God’s work was bankers knowingly selling mortgage-based junk securities while at the same time making massive bets that would pay off if their clients were ruined. When you compare the pay scale for God’s bankers with that for his clerics, you must conclude that the work of bankers is indeed divine.
+When the crisis hit four years later in 2008, the same length of time it took excess leverage to destroy LTCM, the run on the bank threatened to destroy all five of these geared-up Goliaths. Three of these five investment banks ceased to exist as independent entities; the other two, Morgan Stanley and Goldman Sachs, were saved by government intervention plus, for Goldman, a multibillion-dollar purchase of 10 percent preferred stock and warrants by Warren Buffett’s Berkshire Hathaway. Both returned to prosperity in 2009, with Goldman triumphant. Partners were on track to share near-record bonuses of between \$20 billion and \$30 billion. The elimination or marginalization of some rivals was not a bad thing. Appearing pixyish in his public appearances, when CEO Lloyd Blankfein was asked about the gigantic bonuses, he explained that the firm was “doing God’s work.” The argument is the standard academic one that more trading creates efficient capital markets, with better prices for buyers and sellers, for the benefit of all humankind. It came out later that part of God’s work was bankers knowingly selling mortgage-based junk securities while at the same time making massive bets that would pay off if their clients were ruined. When you compare the pay scale for God’s bankers with that for his clerics, you must conclude that the work of bankers is indeed divine.
 
 
 
-Though there were individual personal and institutional casualties among the financial establishment, the politically connected wealthy raided the public purse for a trillion dollars to save entities that were “too big to fail.” Expensive sops were disbursed to mollify and reward special-interest groups. Those who turned in a vehicle to be scrapped, and then bought another car, were paid up to $4,500 in a program known as Cash for Clunkers. Spun as good for the environment, the only requirement was that the new purchase get gas mileage of one to four miles a gallon more, depending on the category of vehicle. The environmental benefits of this small gain in mileage were more than offset by the extra pollution produced in the manufacture of a whole new automobile. Car dealers, however, cheered as the boost from replacement-car sales cleared inventory from their packed lots.
+Though there were individual personal and institutional casualties among the financial establishment, the politically connected wealthy raided the public purse for a trillion dollars to save entities that were “too big to fail.” Expensive sops were disbursed to mollify and reward special-interest groups. Those who turned in a vehicle to be scrapped, and then bought another car, were paid up to \$4,500 in a program known as Cash for Clunkers. Spun as good for the environment, the only requirement was that the new purchase get gas mileage of one to four miles a gallon more, depending on the category of vehicle. The environmental benefits of this small gain in mileage were more than offset by the extra pollution produced in the manufacture of a whole new automobile. Car dealers, however, cheered as the boost from replacement-car sales cleared inventory from their packed lots.
 
 As full-time and part-time unemployment rates continued to climb, unemployment insurance was repeatedly extended. This is good to the extent it is needed, but it would seem to be in the public interest to employ as many of those idle beneficiaries as possible in doing useful work. Programs like the Works Progress Administration (WPA) and the Civilian Conservation Corps (CCC), which I remember from my childhood, built roads, bridges, and public works during the 1930s, and the improvement in our infrastructure benefited us all for decades.
 
 
 
-The real estate industry got its political handout. First-time homebuyers got an $8,000 fully refundable tax credit—“fully refundable” means you can apply for and get the $8,000 check even if you never paid a penny of tax in your life. The deceptive language is typical of politicians. Under this poorly monitored program a four-year-old bought a house. At least it was his first time.
+The real estate industry got its political handout. First-time homebuyers got an \$8,000 fully refundable tax credit—“fully refundable” means you can apply for and get the \$8,000 check even if you never paid a penny of tax in your life. The deceptive language is typical of politicians. Under this poorly monitored program a four-year-old bought a house. At least it was his first time.
 
-In some cases, unrepentant mortgage lenders accepted the tax “refund” as the down payment, requiring no additional equity from the buyer. Congress further rewarded the real estate lobby by extending the program to those who hadn’t bought a house in the last three years. Inspired by Cash for Clunkers, why not pass a new program called Dollars for Demolition in which people who own run-down residences get paid a “fully refundable” tax credit of, say, $100,000 to tear down their house and build a new one? This would reenergize the construction industry—a key part of the American economy. There is no end to the possibilities.
+In some cases, unrepentant mortgage lenders accepted the tax “refund” as the down payment, requiring no additional equity from the buyer. Congress further rewarded the real estate lobby by extending the program to those who hadn’t bought a house in the last three years. Inspired by Cash for Clunkers, why not pass a new program called Dollars for Demolition in which people who own run-down residences get paid a “fully refundable” tax credit of, say, \$100,000 to tear down their house and build a new one? This would reenergize the construction industry—a key part of the American economy. There is no end to the possibilities.
 
 —
 
@@ -3617,11 +3341,7 @@ Our economy slowly recovered in the years following the 2008–09 crisis. Howeve
 
 
 
-# Chapter 30
-
-------
-
-# THOUGHTS
+## Chapter 30: THOUGHTS
 
 To end this story of my odyssey through science, mathematics, gambling, hedge funds, finance, and investing, I would like to share some of what I learned along the way.
 
@@ -3631,11 +3351,11 @@ Education builds software for your brain. When you’re born, think of yourself 
 
 
 
-I found that most people don’t understand the probability calculations needed to figure out gambling games or to solve problems in everyday life. We didn’t need that skill to survive as a species in the forests and jungles. When a lion roared, you instinctively climbed the nearest tree and thought later about what to do next. Today we often have the time to think, calculate, and plan ahead, and here’s where math can help us make decisions. For instance, are seatbelts and air bags “worth it”? Suppose we upgrade a hundred million vehicles at a cost of $300 each, a total of $30 billion, and have five thousand fewer traffic deaths per year. If these vehicles with their added safety features are around for ten years, that’s fifty thousand lives saved at a cost of $30 billion, or $600,000 per life. Though many in the auto industry disagreed, we spent the money and saved the lives.
+I found that most people don’t understand the probability calculations needed to figure out gambling games or to solve problems in everyday life. We didn’t need that skill to survive as a species in the forests and jungles. When a lion roared, you instinctively climbed the nearest tree and thought later about what to do next. Today we often have the time to think, calculate, and plan ahead, and here’s where math can help us make decisions. For instance, are seatbelts and air bags “worth it”? Suppose we upgrade a hundred million vehicles at a cost of \$300 each, a total of \$30 billion, and have five thousand fewer traffic deaths per year. If these vehicles with their added safety features are around for ten years, that’s fifty thousand lives saved at a cost of \$30 billion, or \$600,000 per life. Though many in the auto industry disagreed, we spent the money and saved the lives.
 
-What about the pack-a-day smoker? Forty years of this will make his life on average seven years shorter. Each cigarette not only brings death twelve minutes closer, but adds health problems to spoil one’s remaining years. Then there are the costs to the rest of us, namely, higher medical costs in the final years, more sick days during the working years, and secondhand smoke damage. But these are averages. Some smokers do not die of smoking-related diseases, whereas others die at an early age. It’s like gambling at roulette. On average you lose 5 cents when you bet $1. But this is an average. Some gamblers are wiped out quickly and others may hold their own for quite a while.
+What about the pack-a-day smoker? Forty years of this will make his life on average seven years shorter. Each cigarette not only brings death twelve minutes closer, but adds health problems to spoil one’s remaining years. Then there are the costs to the rest of us, namely, higher medical costs in the final years, more sick days during the working years, and secondhand smoke damage. But these are averages. Some smokers do not die of smoking-related diseases, whereas others die at an early age. It’s like gambling at roulette. On average you lose 5 cents when you bet \$1. But this is an average. Some gamblers are wiped out quickly and others may hold their own for quite a while.
 
-One of the major public policy issues today is the trade-off between the costs and the benefits of certain procedures. Some choices are stark. Is it better to spend $500,000 to save the life of someone with super-drug-resistant tuberculosis or to use the same amount to save fifty lives by delivering fifty thousand doses of flu vaccine at $10 each to schoolchildren? Statistical thinking can help us with choices like these.
+One of the major public policy issues today is the trade-off between the costs and the benefits of certain procedures. Some choices are stark. Is it better to spend \$500,000 to save the life of someone with super-drug-resistant tuberculosis or to use the same amount to save fifty lives by delivering fifty thousand doses of flu vaccine at \$10 each to schoolchildren? Statistical thinking can help us with choices like these.
 
 I believe that simple probability and statistics should be taught in grades kindergarten through twelve and that analyzing games of chance such as coin matching, dice, and roulette is one way we can learn enough to think through such issues. Understanding why casinos usually win might help us avoid gambling and teach us to limit our losses to their entertainment value. Gambling now is largely a socially corrosive tax on ignorance, draining money from those who cannot afford the losses.
 
@@ -3661,11 +3381,11 @@ Berkshire Hathaway’s Charlie Munger presents his list of such thinking tools i
 
 More insights come from a much bigger idea of fundamental importance for all investors, the recognition that the group I call the politically connected rich are the dominant economic and political power in the United States. This is a key concept for understanding what happens in our society and why it happens. They are the ones who buy politicians, using campaign contributions, career opportunities, investment profits, and more. As owners of wealth who also control power, they run the country and will continue to do so. We saw how they used the government to bail them out of the financial crisis of 2008–09.
 
-Let me be clear. I don’t object to some people being richer, even much richer, than others. I object to gain of wealth through political connections rather than earning it by merit. If a basketball franchise pays my neighbor Kobe Bryant $20 million a year because it takes that much to get him, fine. But if hedge fund managers bribe politicians to put a clause in the laws cutting the tax rate on much of their income to a fraction of the percentage the average worker pays, I object.
+Let me be clear. I don’t object to some people being richer, even much richer, than others. I object to gain of wealth through political connections rather than earning it by merit. If a basketball franchise pays my neighbor Kobe Bryant \$20 million a year because it takes that much to get him, fine. But if hedge fund managers bribe politicians to put a clause in the laws cutting the tax rate on much of their income to a fraction of the percentage the average worker pays, I object.
 
-Simplistically, there are two types of rich, those who use government to tilt the playing field in their favor and those who don’t. The former pay taxes at a rate well below the middle class and the latter pay at substantially higher rates. The blended rate of the two groups is similar to that paid by the upper middle class. But the politically connected rich typically point to the higher rates paid by their nonconnected rich fellows as a cover to demand still more tax breaks for themselves. The power in this group resides mostly in those who are in the upper 0.01 percent of wealth holders, currently worth $125 million or more.
+Simplistically, there are two types of rich, those who use government to tilt the playing field in their favor and those who don’t. The former pay taxes at a rate well below the middle class and the latter pay at substantially higher rates. The blended rate of the two groups is similar to that paid by the upper middle class. But the politically connected rich typically point to the higher rates paid by their nonconnected rich fellows as a cover to demand still more tax breaks for themselves. The power in this group resides mostly in those who are in the upper 0.01 percent of wealth holders, currently worth \$125 million or more.
 
-Another theme for dealing with public policy issues is to simplify rules, regulations, and laws. Get government out of the business of micromanaging. For example, California and many other states have their own income tax code, which resembles the federal tax code but is different enough so that a resident must complete and file a state return that is as detailed and complex as his federal return. Here’s my solution. Let the state tax for individuals simply be a fraction of the federal tax, to be set by the legislature, and chosen to raise the same total revenue as the current tax. The return would fit on a postcard, saving hours for each taxpayer and freeing several thousand unproductive state employees for useful work in the private sector. Eliminating three thousand state of California employees at a cost of $100,000 each, including salaries, benefits, and overhead, would save the hard-pressed state $300 million a year, not to mention all the time and money saved by citizens. So we have a revenue-neutral proposal that is a net gain for the state.
+Another theme for dealing with public policy issues is to simplify rules, regulations, and laws. Get government out of the business of micromanaging. For example, California and many other states have their own income tax code, which resembles the federal tax code but is different enough so that a resident must complete and file a state return that is as detailed and complex as his federal return. Here’s my solution. Let the state tax for individuals simply be a fraction of the federal tax, to be set by the legislature, and chosen to raise the same total revenue as the current tax. The return would fit on a postcard, saving hours for each taxpayer and freeing several thousand unproductive state employees for useful work in the private sector. Eliminating three thousand state of California employees at a cost of \$100,000 each, including salaries, benefits, and overhead, would save the hard-pressed state \$300 million a year, not to mention all the time and money saved by citizens. So we have a revenue-neutral proposal that is a net gain for the state.
 
 
 
@@ -3677,7 +3397,7 @@ History, arguably, has had just two great superpowers, the Roman Empire after th
 
 
 
-One of the most ominous and underappreciated threats to our future is in education and technology. My own state of California is a leader in the race to the bottom. The anti-tax movement has starved the state of revenue, especially the educational system. The ten campuses of the University of California, once among the finest public systems of higher education in the world, raised tuition to $12,000 a year by 2015. When I was a student in 1949 it was $70, which is like $700 today, adjusting for inflation. A good education was available to any qualified student. The university’s graduates went on to lead the technological revolution; but by 2014 the state contributed only about 10 percent of the total cost of all campus operations.
+One of the most ominous and underappreciated threats to our future is in education and technology. My own state of California is a leader in the race to the bottom. The anti-tax movement has starved the state of revenue, especially the educational system. The ten campuses of the University of California, once among the finest public systems of higher education in the world, raised tuition to \$12,000 a year by 2015. When I was a student in 1949 it was \$70, which is like \$700 today, adjusting for inflation. A good education was available to any qualified student. The university’s graduates went on to lead the technological revolution; but by 2014 the state contributed only about 10 percent of the total cost of all campus operations.
 
 If the UC system doubled tuition and fees it could drop state support altogether and go private! Since out-of-state and foreign students are charged three times the tuition paid by California residents, individual deans and administrators are raising more money by replacing the latter by the former. Meanwhile gifted foreign students, many of them Chinese, receive advanced degrees in the United States and return home, rather than struggle for postdoctoral funding and permission to become residents. Talented American-born scientists and engineers are joining them in a reverse brain drain. Economists have found that one factor has explained a nation’s future economic growth and prosperity more than any other: its output of scientists and engineers. To starve education is to eat our seed corn. No tax today, no technology tomorrow.
 
@@ -3685,7 +3405,7 @@ If the UC system doubled tuition and fees it could drop state support altogether
 
 
 
-# Epilogue
+## Epilogue
 
 ------
 
@@ -3709,23 +3429,23 @@ Best of all is the time I have spent with the people in my life that I care abou
 
 
 
-# Appendix A
+## Appendix A
 
 ------
 
-# THE IMPACT OF INFLATION ON THE DOLLAR
+## THE IMPACT OF INFLATION ON THE DOLLAR
 
-This table indicates how the buying power of a dollar has changed.[*](#calibre_link-369) To see what my $11,000 win at blackjack in 1961 with Manny Kimmel and Eddie Hand was equal to in 2013, we multiply $11,000 by the 2013 index and divide by the 1961 index: $11,000 × 233.0 ÷ 29.9 = $85,719. To convert dollars in year A to dollars in year B, multiply by the index for B and divide by the index for A.
+This table indicates how the buying power of a dollar has changed.[*](#calibre_link-369) To see what my \$11,000 win at blackjack in 1961 with Manny Kimmel and Eddie Hand was equal to in 2013, we multiply \$11,000 by the 2013 index and divide by the 1961 index: \$11,000 × 233.0 ÷ 29.9 = \$85,719. To convert dollars in year A to dollars in year B, multiply by the index for B and divide by the index for A.
 
 Overall, the index has increased by about 3.6 percent a year, but there are some unusual variations. The index falls (deflation!) after the 1929 crash and stays at a reduced level for the next decade. Then it increases rapidly during World War II and the first postwar years.
 
-Although inflation has been moderate in the United States and in most first-world countries most of the time, it is occasionally catastrophic. During the German hyperinflation of 1919–23, the currency declined to one hundred billionth of its starting value (divide by 100,000,000,000). Debtors were freed and lenders were ruined. This level of inflation would reduce the $18 trillion or so US national debt of 2015 to the equivalent of $180. In 2009, the African nation of Zimbabwe experienced a hyperinflation comparable to the German one, with Z-one-trillion bills commonplace.
+Although inflation has been moderate in the United States and in most first-world countries most of the time, it is occasionally catastrophic. During the German hyperinflation of 1919–23, the currency declined to one hundred billionth of its starting value (divide by 100,000,000,000). Debtors were freed and lenders were ruined. This level of inflation would reduce the \$18 trillion or so US national debt of 2015 to the equivalent of \$180. In 2009, the African nation of Zimbabwe experienced a hyperinflation comparable to the German one, with Z-one-trillion bills commonplace.
 
 
 
 From its peak in 1929, the S&P 500 total return index (dividends reinvested) had, at its low in 1932, fallen by 89 percent. However, these were deflationary times, so the nation had the cold comfort of knowing that after adjusting for inflation, the index had lost only 85 percent.
 
-# Table 9: Consumer Price Index
+## Table 9: Consumer Price Index
 
 | Year | Index | Year | Index | Year | Index |
 | ---- | ----- | ---- | ----- | ---- | ----- |
@@ -3792,13 +3512,13 @@ For updated Consumer Price Index numbers and for month-by-month values, go to [w
 
 
 
-# Appendix B
+## Appendix B
 
 ------
 
-# HISTORICAL RETURNS
+## HISTORICAL RETURNS
 
-# Table 10: Historical Returns on Asset Classes, 1926–2013
+## Table 10: Historical Returns on Asset Classes, 1926–2013
 
 | Series                             | Compound Annual Return[*](#calibre_link-2) | Average Annual Return[**](#calibre_link-3) | Standard Deviation | Real (after inflation) Compound Annual Return* | Sharpe Ratio[†](#calibre_link-4) |
 | ---------------------------------- | ------------------------------------------ | ------------------------------------------ | ------------------ | ---------------------------------------------- | -------------------------------- |
@@ -3820,15 +3540,15 @@ From: Ibbotson, *Stocks, Bonds, Bills and Inflation,* Yearbook, Morningstar, 201
 
 
 
-# Table 11: Historical Returns (%) to Investors, 1926–2013
+## Table 11: Historical Returns (%) to Investors, 1926–2013
 
-![Deduct Management Costs Before Tax; Deduct Trading Losses After Tax Real (After Inflation) Tax-Exempt Taxable Series Com](images/000017.jpg)
+![Deduct Management Costs Before Tax; Deduct Trading Losses After Tax Real (After Inflation) Tax-Exempt Taxable Series Com](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000017.jpg)
 
 \* Geometric Mean
 
 From: Ibbotson, *Stocks, Bonds, Bills and Inflation,* Yearbook, Morningstar, 2014. Siegal’s *Stocks for the Long Run* gives US returns from 1801. Dimson et al. give returns for sixteen countries and an analysis. The return series depends on the time period and on the specific index chosen. I have again used Ibbotson as my standard.
 
-# Table 12: Schedule of Assumed Costs Which Reduce Historical Returns (%)
+## Table 12: Schedule of Assumed Costs Which Reduce Historical Returns (%)
 
 |                                 | Stocks  | Bonds  | Bills   |        |         |        |
 | ------------------------------- | ------- | ------ | ------- | ------ | ------- | ------ |
@@ -3839,7 +3559,7 @@ From: Ibbotson, *Stocks, Bonds, Bills and Inflation,* Yearbook, Morningstar, 201
 
 
 
-# Table 13: Annual Returns (%), 1972–2013
+## Table 13: Annual Returns (%), 1972–2013
 
 |                                    | Compound Annual Return[*](#calibre_link-8) | Average Annual Return[**](#calibre_link-9) | Standard Deviation |
 | ---------------------------------- | ------------------------------------------ | ------------------------------------------ | ------------------ |
@@ -3864,11 +3584,11 @@ From: Ibbotson, *Stocks, Bonds, Bills and Inflation,* Yearbook, Morningstar, 201
 
 
 
-# Appendix C
+## Appendix C
 
 ------
 
-# THE RULE OF 72 AND MORE
+## THE RULE OF 72 AND MORE
 
 The rule of 72 gives quick approximate answers to compound interest and compound growth problems. The rule tells us how many periods it takes for wealth to double with a specified rate of return, and is exact for a rate of 7.85 percent. For smaller rates, doubling is a little quicker than what the rule calculates; for greater rates, it takes a little longer. The table compares the rule in column 2 with the exact value in column 3. The “exact rule” column shows the number that should replace 72 to calculate each rate of return. For an 8 percent return, the number, rounded to two decimal places, is 72.05, which shows how close the rule of 72 is. Notice that the number in column 4 for the exact rule should equal the column 1 return per period multiplied by the corresponding values in column 3 (actual number of periods to double), but that the column 4 figures don’t quite agree with this. That’s because the numbers in columns 3 and 4 are rounded off from the exact figures, correct to two decimal places.
 
@@ -3876,7 +3596,7 @@ The mental calculator may notice that the exact rule changes by about one-third 
 
 
 
-# Table for the Rule of 72
+## Table for the Rule of 72
 
 |                   | Number of Periods to Double |        |            |
 | ----------------- | --------------------------- | ------ | ---------- |
@@ -3900,19 +3620,19 @@ The mental calculator may notice that the exact rule changes by about one-third 
 
 The idea behind the rule works for other wealth multiples. For instance, to get a rule for multiplying by 10, divide all the numbers in the table by 0.30103 (which is log10 2). Thus for 8 percent we get approximately 240, so we have a “rule of 240” for multiples of 10. We conclude that a return of 8 percent multiplies wealth by 10 in about 240 ÷ 8 = 30 years.
 
-When Berkshire Hathaway offered to buy Shaw Industries for about $2 billion in cash, one manager mentioned that their earnings were up ten times from sixteen years before. By the rule of 240, we quickly find an approximate growth rate of 240 ÷ 16 = 15%. The actual figure is 15.48 percent.
+When Berkshire Hathaway offered to buy Shaw Industries for about \$2 billion in cash, one manager mentioned that their earnings were up ten times from sixteen years before. By the rule of 240, we quickly find an approximate growth rate of 240 ÷ 16 = 15%. The actual figure is 15.48 percent.
 
 
 
 
 
-# Appendix D
+## Appendix D
 
 ------
 
-# PERFORMANCE OF PRINCETON NEWPORT PARTNERS, LP
+## PERFORMANCE OF PRINCETON NEWPORT PARTNERS, LP
 
-# Table 14: Annual Return in Percent
+## Table 14: Annual Return in Percent
 
 | Period Beginning and Ending                    | Princeton Newport Partners, LP [(1)](#calibre_link-19) | Princeton Newport Partners, LP [(2)](#calibre_link-20) | S&P 500 Index [(3)](#calibre_link-21) | 3 Month US T-Bill Total Return |
 | ---------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------- | ------------------------------ |
@@ -3965,19 +3685,19 @@ The partnership was originally called Convertible Hedge Associates and changed i
 
 
 
-# Table 15: Princeton Newport Performance Comparison
+## Table 15: Princeton Newport Performance Comparison
 
-![img](images/000008.jpg)
-
-
+![img](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000008.jpg)
 
 
 
-# Appendix E
+
+
+## Appendix E
 
 ------
 
-# OUR STATISTICAL ARBITRAGE RESULTS FOR A FORTUNE 100 COMPANY
+## OUR STATISTICAL ARBITRAGE RESULTS FOR A FORTUNE 100 COMPANY
 
 The table XYZ Performance Summary gives basic statistics for just over ten years. These results are without the use of leverage and before fees. The actual returns were better for the investor because gains from using leverage exceeded the fees we charged.
 
@@ -3987,7 +3707,7 @@ The graph indicates a distinct increase in variability from August 1, 1998, thro
 
 
 
-# Table 16: XYZ Statistical Arbitrage Results
+## Table 16: XYZ Statistical Arbitrage Results
 
 |                                      | Start DateEnd DateMonths Traded | 08/12/199209/13/2002122 |
 | ------------------------------------ | ------------------------------- | ----------------------- |
@@ -3997,41 +3717,41 @@ The graph indicates a distinct increase in variability from August 1, 1998, thro
 | Return/Risk                          | 2.73                            | 0.52                    |
 | One Dollar Becomes                   | 5.48                            | 2.14                    |
 
-# Table 17: XYZ Performance Comparison
+## Table 17: XYZ Performance Comparison
 
-![img](images/000010.jpg)
-
-
+![img](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000010.jpg)
 
 
 
-![The author at age five.](images/000012.jpg)
+
+
+![The author at age five.](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000012.jpg)
 
 The author at age five.
 
 
 
-![The author with lab equipment. This photo was taken in Lomita, a town in Southern California where he lived and attended Narbonne High School.](images/000000.jpg)
+![The author with lab equipment. This photo was taken in Lomita, a town in Southern California where he lived and attended Narbonne High School.](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000000.jpg)
 
 *Lomita News* (this newspaper has since folded)
 
 The author with lab equipment. This photo was taken in Lomita, a town in Southern California where he lived and attended Narbonne High School.
 
-![The wearable computer that beat roulette. Completed in June 1961 by Claude Shannon and Edward Thorp and used successfully in Vegas. It is now in the MIT Museum.](images/000002.jpg)
+![The wearable computer that beat roulette. Completed in June 1961 by Claude Shannon and Edward Thorp and used successfully in Vegas. It is now in the MIT Museum.](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000002.jpg)
 
 The wearable computer that beat roulette. Completed in June 1961 by Claude Shannon and Edward Thorp and used successfully in Vegas. It is now in the MIT Museum.
 
-![Hedging warrants, 1966. From  Beat the Market.](images/000004.jpg)
+![Hedging warrants, 1966. From  Beat the Market.](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000004.jpg)
 
 Random House
 
 Hedging warrants, 1966. From *Beat the Market.*
 
-![A simple mechanical device for counting cards and calculating the advantage, built in 1964.](images/000005.jpg)
+![A simple mechanical device for counting cards and calculating the advantage, built in 1964.](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000005.jpg)
 
 A simple mechanical device for counting cards and calculating the advantage, built in 1964.
 
-![Counting cards at the Tropicana Hotel, 1964.](images/000006.jpg)
+![Counting cards at the Tropicana Hotel, 1964.](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000006.jpg)
 
 Don Cravens, *Life* magazine
 
@@ -4039,13 +3759,13 @@ Counting cards at the Tropicana Hotel, 1964.
 
 
 
-![Working with my PhD thesis students Dorothy Daybell and David Arterburn, New Mexico State University, 1964.](images/000009.jpg)
+![Working with my PhD thesis students Dorothy Daybell and David Arterburn, New Mexico State University, 1964.](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000009.jpg)
 
 George Kew, *Life* magazine
 
 Working with my PhD thesis students Dorothy Daybell and David Arterburn, New Mexico State University, 1964.
 
-![Chairing a session at a mathematics meeting, 1964.](images/000013.jpg)
+![Chairing a session at a mathematics meeting, 1964.](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000013.jpg)
 
 Don Cravens, *Life* magazine
 
@@ -4053,11 +3773,11 @@ Chairing a session at a mathematics meeting, 1964.
 
 
 
-![A standard European single zero roulette. Our wearable computer is on display in the background.](images/000014.jpg)
+![A standard European single zero roulette. Our wearable computer is on display in the background.](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000014.jpg)
 
 A standard European single zero roulette. Our wearable computer is on display in the background.
 
-![Playing blackjack at Lake Tahoe, Nevada, 1981, with Stanford Wong (left) and Peter Griffin (right).](images/000015.jpg)
+![Playing blackjack at Lake Tahoe, Nevada, 1981, with Stanford Wong (left) and Peter Griffin (right).](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000015.jpg)
 
 Gambler’s Book Club Press, Las Vegas, Nevada
 
@@ -4065,13 +3785,13 @@ Playing blackjack at Lake Tahoe, Nevada, 1981, with Stanford Wong (left) and Pet
 
 
 
-![UNITED STATES - CIRCA 1963:  Mathematician Claude E. Shannon, inventor of information theory, which may show science how to simulate workings of human brain.  (Photo by Alfred Eisenstaedt/The LIFE Picture Collection/Getty Images)](images/000016.jpg)
+![UNITED STATES - CIRCA 1963:  Mathematician Claude E. Shannon, inventor of information theory, which may show science how to simulate workings of human brain.  (Photo by Alfred Eisenstaedt/The LIFE Picture Collection/Getty Images)](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000016.jpg)
 
 Photo by Alfred Eisenstaedt/The LIFE Picture Collection/Getty Images
 
 Claude Shannon.
 
-![The cover of  Beat the Dealer.](images/000018.jpg)
+![The cover of  Beat the Dealer.](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000018.jpg)
 
 Cover design by Richard Adelson. Cover photograph by Tom Campbell/Alpha
 
@@ -4079,7 +3799,7 @@ The cover of *Beat the Dealer.*
 
 
 
-![Vivian and Edward Thorp at home, 2004.](images/000001.jpg)
+![Vivian and Edward Thorp at home, 2004.](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000001.jpg)
 
 Vivian and Edward Thorp at home, 2004.
 
@@ -4095,7 +3815,7 @@ Jeff, Lisa, Kylie, and Thomas.
 
 
 
-# ACKNOWLEDGMENTS
+## ACKNOWLEDGMENTS
 
 “All writing is rewriting” is a claim I came to appreciate as I worked and reworked the manuscript. I received innumerable helpful comments from those who read some or all of the manuscript at various stages of its evolution. Thank you, Catherine Baldwin, Richard Goul, Judy McCoy, Steve Mizusawa, Ellen Neal, Tom Rollinger, Raymond Sinetar, Jeff Thorp, Karen Thorp, Raun Thorp, Vivian Thorp, and Brian Tichenor.
 
@@ -4113,9 +3833,9 @@ From childhood to old age, I owe any success I have had to the wonderful people 
 
 
 
-# NOTES
+## NOTES
 
-# CHAPTER 1
+## CHAPTER 1
 
 **[a single word](#calibre_link-69)** Curiously, my son had the same experience. He didn’t say anything until he was about the same age. His sister, about a year and a half older, was his interpreter. They would go around as a little pair and when he indicated with body language and facial expressions what he wanted, she would get it done.
 
@@ -4133,7 +3853,7 @@ From childhood to old age, I owe any success I have had to the wonderful people 
 
 **[of the Alamo](#calibre_link-76)** The story of this epic battle and the subsequent ordeals of those held captive by the Japanese is told by Eric Morris in *Corregidor: The American Alamo of World War II,* Stein and Day, New York, 1981, reprinted paperback, Cooper Square Press, New York, 2000.
 
-# CHAPTER 2
+## CHAPTER 2
 
 **[surgical facilities](#calibre_link-77)** The horrors of life in such camps is eloquently rendered in *Three Came Home: A Woman’s Ordeal in a Japanese Prison Camp,* by Agnes Keith, 1949, paperback 1985, Eland Books, London and Hippocrene Books, New York.
 
@@ -4153,9 +3873,9 @@ From childhood to old age, I owe any success I have had to the wonderful people 
 
 **[dimensional analysis](#calibre_link-84)** I was familiar with the book *Dimensional Analysis* by Percy W. Bridgeman, Yale University Press, New Haven, CT, 1922.
 
-**[joined the rest](#calibre_link-85)** In 2015, my granddaughter Claire Goul was one of three hundred semifinalists in the same contest. It was now the Intel Science Talent Search and had become more competitive, with three top prizes of $150,000 each, compared to one top prize of $10,000 back in 1949.
+**[joined the rest](#calibre_link-85)** In 2015, my granddaughter Claire Goul was one of three hundred semifinalists in the same contest. It was now the Intel Science Talent Search and had become more competitive, with three top prizes of \$150,000 each, compared to one top prize of \$10,000 back in 1949.
 
-# CHAPTER 3
+## CHAPTER 3
 
 **[standard American wheel](#calibre_link-86)** European wheels had only one green number and further improvements in the odds, such as the player betting on red or black only losing half his stake if that number came up.
 
@@ -4167,13 +3887,13 @@ From childhood to old age, I owe any success I have had to the wonderful people 
 
 **[for every frame](#calibre_link-90)** You can see the film at [www.edwardothorp.com](http://www.edwardothorp.com).
 
-# CHAPTER 4
+## CHAPTER 4
 
 **[a new strategy](#calibre_link-91)** Baldwin, et al (1956).
 
 **[and even awe](#calibre_link-92)** For the rules of blackjack and my original report of this experience, see Thorp, *Beat The Dealer*, 1962, rev. ed. 1966.
 
-# CHAPTER 5
+## CHAPTER 5
 
 **[mathematics course](#calibre_link-93)** The course was measure theory, basic to probability and statistics.
 
@@ -4191,7 +3911,7 @@ From childhood to old age, I owe any success I have had to the wonderful people 
 
 **[type from the deck](#calibre_link-99)** Later exact calculations give numbers which are a bit more favorable to the player. These results also are affected by the many variations in casino rules. For details see Thorp (1962, 1966), Griffin (1999), Wong (1994).
 
-**[$200 bankroll](#calibre_link-100)** This book spans more than eighty years, during which the value of money has changed dramatically. For an accurate perspective the reader can convert money to current dollars using Appendix A.
+**[\$200 bankroll](#calibre_link-100)** This book spans more than eighty years, during which the value of money has changed dramatically. For an accurate perspective the reader can convert money to current dollars using Appendix A.
 
 **[my mathematical work](#calibre_link-101)** The discovery was an example in functional analysis, in which both Taylor and the mathematician were specialists.
 
@@ -4205,29 +3925,29 @@ From childhood to old age, I owe any success I have had to the wonderful people 
 
 **[across the country](#calibre_link-106)** For example, *Columbus Dispatch* (1961), *Las Vegas Sun* (1961), *Miami News* (1961), *New York Herald Tribune* (1961), *New York World Telegram* and *Sun* (1961), *Washington Post* and *Times Herald* (1961).
 
-# CHAPTER 6
+## CHAPTER 6
 
 **[ran his story](#calibre_link-107)** Thomas Wolfe, *Washington Post*, January 25, 1961, page A3.
 
-**[offered a strand](#calibre_link-108)** Paul O’Neil (*Life* magazine, 1964), in a generally accurate story, erroneously quotes me as saying of the string of pearls, “We had it appraised first thing in the morning. It was worth $16.” Neither statement is correct. This was repeated by Bruck (1994) even though I told her this part of the *Life* story was wrong. A good misquote is hard to kill.
+**[offered a strand](#calibre_link-108)** Paul O’Neil (*Life* magazine, 1964), in a generally accurate story, erroneously quotes me as saying of the string of pearls, “We had it appraised first thing in the morning. It was worth \$16.” Neither statement is correct. This was repeated by Bruck (1994) even though I told her this part of the *Life* story was wrong. A good misquote is hard to kill.
 
 **[the everyday gambler](#calibre_link-109)** Schwartz, David G., *Roll the Bones,* Gotham Books, New York, 2006.
 
 **[was a characteristic](#calibre_link-110)** Feller (1957), (1968).
 
-**[the investment worlds](#calibre_link-111)** The greatest bond investor ever, William H. Gross, also learned this lesson in the casinos of Las Vegas. Motivated by *Beat the Dealer,* he went there in the summer of 1966, turning a $200 bankroll into $10,000. See *Bill Gross on Investing,* William H. Gross, Wiley, New York, 1997, 1998. He would later use the ideas in co-managing two *trillion* dollars for PIMCO.
+**[the investment worlds](#calibre_link-111)** The greatest bond investor ever, William H. Gross, also learned this lesson in the casinos of Las Vegas. Motivated by *Beat the Dealer,* he went there in the summer of 1966, turning a \$200 bankroll into \$10,000. See *Bill Gross on Investing,* William H. Gross, Wiley, New York, 1997, 1998. He would later use the ideas in co-managing two *trillion* dollars for PIMCO.
 
 **[with the house](#calibre_link-112)** I realized later that I would have had an advantage if I had started each deal with big bets, maintaining them if the count was good and causing the dealer to shuffle when it wasn’t.
 
-**[a serious loss](#calibre_link-113)** Why might a bigger bankroll lead to more risk of losing it all? The reasons are partly technical, partly psychological. First the technical: To exploit the larger bankroll we would be likely to make maximum bets ($500 in those days) even in situations that were just slightly favorable. This would increase the size of the fluctuations in our stake and require a longer playing time than I had available to be fairly sure of coming out ahead.
+**[a serious loss](#calibre_link-113)** Why might a bigger bankroll lead to more risk of losing it all? The reasons are partly technical, partly psychological. First the technical: To exploit the larger bankroll we would be likely to make maximum bets (\$500 in those days) even in situations that were just slightly favorable. This would increase the size of the fluctuations in our stake and require a longer playing time than I had available to be fairly sure of coming out ahead.
 
-Now the psychological: X and Y didn’t have my level of understanding of, and confidence in, the system. If, with a $100,000 bankroll they would in fact quit when we were down say $60,000, then I would be playing and sizing bets and taking risks as though I had a $100,000 bankroll when, unknown to anyone, I really only had a $60,000 bankroll. This subtle distinction between the ostensible bankroll and the real bankroll has contributed to the downfall of many gamblers and investors, as we shall see.
+Now the psychological: X and Y didn’t have my level of understanding of, and confidence in, the system. If, with a \$100,000 bankroll they would in fact quit when we were down say \$60,000, then I would be playing and sizing bets and taking risks as though I had a \$100,000 bankroll when, unknown to anyone, I really only had a \$60,000 bankroll. This subtle distinction between the ostensible bankroll and the real bankroll has contributed to the downfall of many gamblers and investors, as we shall see.
 
 An additional psychological problem which I didn’t expect was Kimmel insisting playing his “pidgeon” version of my system, betting big, losing back much of the fruits of my labor, and then excitedly refusing to stop.
 
 **[afternoon in Boston](#calibre_link-114)** Ivi, her mother, and two sisters came to the US after World War II as refugees from Estonia.
 
-# CHAPTER 7
+## CHAPTER 7
 
 
 
@@ -4259,7 +3979,7 @@ An additional psychological problem which I didn’t expect was Kimmel insisting
 
 **[Players Too Smart](#calibre_link-128)** Carson City (UPI): *New York Journal-American,* April 3, 1964.
 
-# CHAPTER 8
+## CHAPTER 8
 
 **[High–Low System](#calibre_link-129)** I called this the Complete Point Count in *Beat the Dealer*.
 
@@ -4297,7 +4017,7 @@ An additional psychological problem which I didn’t expect was Kimmel insisting
 
 **[rate the games](#calibre_link-145)** Stanford Wong’s monthly newsletter is thorough.
 
-# CHAPTER 9
+## CHAPTER 9
 
 **[exploitable patterns](#calibre_link-146)** Pearson, Karl, *The chances of death and other studies in evolution*, London, New York, E. Arnold, 1897*.*
 
@@ -4327,7 +4047,7 @@ An additional psychological problem which I didn’t expect was Kimmel insisting
 
 
 
-# CHAPTER 10
+## CHAPTER 10
 
 **[thermonuclear weapons](#calibre_link-159)** Ulam, S. M., *Adventures of a Mathematician,* Scribner’s, New York, 1976.
 
@@ -4343,7 +4063,7 @@ An additional psychological problem which I didn’t expect was Kimmel insisting
 
 **[as many tables](#calibre_link-165)** Vancura (1996).
 
-# CHAPTER 11
+## CHAPTER 11
 
 **[can be ruinous](#calibre_link-166)** The Kelly Criterion highlights the perils of overbetting even when you have the edge.
 
@@ -4359,19 +4079,19 @@ An additional psychological problem which I didn’t expect was Kimmel insisting
 
 ***[Beat the Market](#calibre_link-172)*** You can read more about our theories and investments in *Beat the Market* at [www.edwardothorp.com](http://www.edwardothorp.com)*.*
 
-# CHAPTER 12
+## CHAPTER 12
 
 **[researcher and biologist](#calibre_link-173)** You can read about his remarkable scientific aptitude and career on The National Academics Press website, [www.nap.edu/books](http://www.nap.edu/books), in *Biographical Memoirs* v.53 (1982), National Academy of Sciences. In 1974 Gerard, who became one of my first investors using money paid out to him by Buffett, passed away. His wife, Frosty, survived him for several years. When she died, part of their Princeton Newport investment went to support the University of California, Irvine.
 
 **[analysis of common stocks](#calibre_link-174)** The classic 1940 second edition was reissued by McGraw-Hill in 2002.
 
-**[was his contribution](#calibre_link-175)** Some biographies of Buffett say $105,000. My figure, which I recall from conversations with Warren, is confirmed in the definitive biography of Buffett, *The Snowball,* by Alice Schroeder, Random House, New York, 2008.
+**[was his contribution](#calibre_link-175)** Some biographies of Buffett say \$105,000. My figure, which I recall from conversations with Warren, is confirmed in the definitive biography of Buffett, *The Snowball,* by Alice Schroeder, Random House, New York, 2008.
 
 **[a manic 150 percent](#calibre_link-176)** Returns on equities are from Ibbotson Associates (2007).
 
-**[Peter Minuit](#calibre_link-177)** Minuit, Peter (1580–1638), Dutch colonial governor in America, helped establish New Amsterdam, the settlement that became New York City. He joined the Dutch West India Company and set out for the company’s settlement in America. He reached Manhattan Island in 1626 and became the first director general of the colony. Minuit purchased the island from one of the Algonquian-speaking tribes with trinkets valued at 60 Dutch guilders, a sum later calculated at $24.
+**[Peter Minuit](#calibre_link-177)** Minuit, Peter (1580–1638), Dutch colonial governor in America, helped establish New Amsterdam, the settlement that became New York City. He joined the Dutch West India Company and set out for the company’s settlement in America. He reached Manhattan Island in 1626 and became the first director general of the colony. Minuit purchased the island from one of the Algonquian-speaking tribes with trinkets valued at 60 Dutch guilders, a sum later calculated at \$24.
 
-**[with all the improvements](#calibre_link-178)** From 1626 to 1968 is 342 years. Twenty-four dollars compounding at 8 percent would become $6.47 trillion, 1⁄8 or more of the net worth of the USA at that time. By 2013 this grows at 8 percent to $206 trillion, enough to buy half the world: estimating US 2013 net worth as $100 trillion ($77 billion for households plus $23 billion for government) and assuming the US has about 25 percent of the globe’s total net worth gives an estimate of $400 trillion for the market value of the world.
+**[with all the improvements](#calibre_link-178)** From 1626 to 1968 is 342 years. Twenty-four dollars compounding at 8 percent would become \$6.47 trillion, 1⁄8 or more of the net worth of the USA at that time. By 2013 this grows at 8 percent to \$206 trillion, enough to buy half the world: estimating US 2013 net worth as \$100 trillion (\$77 billion for households plus \$23 billion for government) and assuming the US has about 25 percent of the globe’s total net worth gives an estimate of \$400 trillion for the market value of the world.
 
 
 
@@ -4383,7 +4103,7 @@ An additional psychological problem which I didn’t expect was Kimmel insisting
 
 **[the last ten years](#calibre_link-182)** Loomis, Carol, “The Jones Nobody Keeps Up With,” Personal Investing, *Fortune,* April 1966.
 
-**[few existing hedge funds](#calibre_link-183)** The hedge fund world at the start of 1968 was tiny, almost insignificant. The combined capital in dollars was less than one one-thousandth of what it was in 2016. Back in 1968, the top twenty funds ranged in size from $80 million down to $12 million.
+**[few existing hedge funds](#calibre_link-183)** The hedge fund world at the start of 1968 was tiny, almost insignificant. The combined capital in dollars was less than one one-thousandth of what it was in 2016. Back in 1968, the top twenty funds ranged in size from \$80 million down to \$12 million.
 
 Altogether, there were about 150 funds, with aggregate capital of a billion or two. This grew to more than two trillion dollars a half a century later. Since the dollar value of GNP was about a tenth of what it was forty-eight years later, hedge funds compared to GNP grew more than a hundred times from 1968 to 2016.
 
@@ -4391,7 +4111,7 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 ***[Wall Street Letter](#calibre_link-185)*** *The Wall Street Letter,* Myron Kandel, Editor, Nov. 17, 1969.
 
-# CHAPTER 13
+## CHAPTER 13
 
 **[never before tried](#calibre_link-186)** The year before, Arbitrage Management Company was set up to exploit the hedging ideas in *Beat the Market*. Among others it involved Harry Markowitz, who later won a Nobel Prize in Economics, and John Shelton, a leading finance professor and warrant theorist. Though profitable, the gains were not enough to keep it from disappearing from the scene after three years.
 
@@ -4423,7 +4143,7 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[One of my stories](#calibre_link-199)** *Beat the Dealer*, 1966 edition, pp. 167ff.
 
-# CHAPTER 14
+## CHAPTER 14
 
 **[where I was speaking](#calibre_link-200)** “Extensions of the Black-Scholes Option Model,” Thorp, Edward O., Contributed Papers 39th Session of the International Statistical Institute, Vienna, Austria, August 1973, pp. 1029–36.
 
@@ -4433,19 +4153,19 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[were eventually published](#calibre_link-203)** See “Option Pricing: The American Put,” by Parkinson, Michael, *Journal of Business 1977,* v50(1), pp. 21–36, and “The Valuation of American Put Options,” by Brennan, Michael J. and Schwartz, Eduardo, *Journal of Finance 1977,* v32(2), pp. 449–62.
 
-**[than $1 million](#calibre_link-204)** Andrew Tobias used my account of this trade and several others we did in his book *Money Angles,* Simon and Schuster, New York, 1984, pp. 68–72.
+**[than \$1 million](#calibre_link-204)** Andrew Tobias used my account of this trade and several others we did in his book *Money Angles,* Simon and Schuster, New York, 1984, pp. 68–72.
 
-**[is a general rule](#calibre_link-205)** If you make 20 percent in year one and 30 percent in year two the wealth and relatives are 1.20 and 1.30. Multiplying gives 1.56, which is the wealth relative for the two successive years, the amount a dollar grows to if reinvested. Thus the two-year gain is 56 percent, *not* 20 percent+30 percent or 50 percent. If you simply *add* the numbers in the table you get +11.7 percent for the market, which isn’t nearly as bad. But to find out what a dollar invested at the start of 1973 grows to, or diminishes to, you need to *multiply* together the results for successive periods, which produces the –0.5 percent figure. The result from investing $1 for one period is called the “wealth relative” (wealth at the end of the period). For instance, if you make 12 percent during the year, the wealth relative for that twelve months is 1.12. When we *add* the numbers for the returns for PNP limited partners the result is 42.1 percent, significantly less, in this case, than the actual 48.9 percent figure obtained by *multiplying* successive wealth relatives.
+**[is a general rule](#calibre_link-205)** If you make 20 percent in year one and 30 percent in year two the wealth and relatives are 1.20 and 1.30. Multiplying gives 1.56, which is the wealth relative for the two successive years, the amount a dollar grows to if reinvested. Thus the two-year gain is 56 percent, *not* 20 percent+30 percent or 50 percent. If you simply *add* the numbers in the table you get +11.7 percent for the market, which isn’t nearly as bad. But to find out what a dollar invested at the start of 1973 grows to, or diminishes to, you need to *multiply* together the results for successive periods, which produces the –0.5 percent figure. The result from investing \$1 for one period is called the “wealth relative” (wealth at the end of the period). For instance, if you make 12 percent during the year, the wealth relative for that twelve months is 1.12. When we *add* the numbers for the returns for PNP limited partners the result is 42.1 percent, significantly less, in this case, than the actual 48.9 percent figure obtained by *multiplying* successive wealth relatives.
 
 **[only month-end values](#calibre_link-206)** Month-end figures for the S&P 500 are from Ibbotson. Because the Great Depression was, on average, deflationary, the results based on inflation adjusted or “real” returns are less extreme.
 
 **[quality and maturity](#calibre_link-207)** More precisely, “duration,” which is the discounted weighted average time for the payment stream.
 
-**[hundred billion dollars](#calibre_link-208)** During the early stages of the run-up in interest rates, S&Ls were raising money by selling puts at bargain prices on Government National Mortgage Association (GNMA) bonds. Bonds usually trade in thousand-dollar denominations or “par” amount and are quoted as a percent of par, so these bonds—quoted at 98—were currently selling at $980 each. The puts we bought from the S&L which issued them gave us the right to sell the bonds to that S&L at this price for the life of the put, which in our case ranged from twelve to eighteen months. If the bonds fell, we could buy the bonds below 98 and “put them” to the bank, which was required to pay us 98 under the terms of the contract. If the bonds rose instead, the puts would expire worthless. As the price of a put tends to move in a direction opposite to that of the underlying security, we hedged the risk of loss on the put by buying GNMA (“Ginnie Mae”) futures, i.e., contracts to buy GNMA bonds at a certain price and time in the future. In futures markets, contracts require daily settlement of gains and losses. If the bonds fell in price we would have temporarily to lay out cash for our losses in the futures markets, even though we would ultimately get the money back when we cashed in our puts. Since our cash and borrowing power was finite, this limited how big a hedge we could safely carry to completion. To estimate the maximum safe size for our hedge we needed to consider the lowest price anyone imagined GNMA bonds could drop to during the next eighteen months. The number was 85, a fall of 13 points. I said, let’s be super-cautious and double our margin of safety to cover a collapse of 26 points, or a price of 72. This prudence was rewarded when the unexpected happened and the bonds fell as low as 68 during the duration of our trade.
+**[hundred billion dollars](#calibre_link-208)** During the early stages of the run-up in interest rates, S&Ls were raising money by selling puts at bargain prices on Government National Mortgage Association (GNMA) bonds. Bonds usually trade in thousand-dollar denominations or “par” amount and are quoted as a percent of par, so these bonds—quoted at 98—were currently selling at \$980 each. The puts we bought from the S&L which issued them gave us the right to sell the bonds to that S&L at this price for the life of the put, which in our case ranged from twelve to eighteen months. If the bonds fell, we could buy the bonds below 98 and “put them” to the bank, which was required to pay us 98 under the terms of the contract. If the bonds rose instead, the puts would expire worthless. As the price of a put tends to move in a direction opposite to that of the underlying security, we hedged the risk of loss on the put by buying GNMA (“Ginnie Mae”) futures, i.e., contracts to buy GNMA bonds at a certain price and time in the future. In futures markets, contracts require daily settlement of gains and losses. If the bonds fell in price we would have temporarily to lay out cash for our losses in the futures markets, even though we would ultimately get the money back when we cashed in our puts. Since our cash and borrowing power was finite, this limited how big a hedge we could safely carry to completion. To estimate the maximum safe size for our hedge we needed to consider the lowest price anyone imagined GNMA bonds could drop to during the next eighteen months. The number was 85, a fall of 13 points. I said, let’s be super-cautious and double our margin of safety to cover a collapse of 26 points, or a price of 72. This prudence was rewarded when the unexpected happened and the bonds fell as low as 68 during the duration of our trade.
 
 
 
-# CHAPTER 15
+## CHAPTER 15
 
 **[at UC, Irvine](#calibre_link-209)** It was then the Graduate School of Management.
 
@@ -4467,7 +4187,7 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[or losing quarters](#calibre_link-218)** For comparison, the S&P 500 was down in eleven of the thirty-two full quarters and small company stocks lost in thirteen.
 
-# CHAPTER 16
+## CHAPTER 16
 
 **[associates, and clients](#calibre_link-219)** *Den of Thieves* by James B. Stewart, Simon and Schuster, New York, 1991.
 
@@ -4475,7 +4195,7 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[first limited partner](#calibre_link-221)** Conversation with Citadel’s Scott Rafferty.
 
-**[$5.6 billion](#calibre_link-222)** The *Forbes* 400 list likely misses people that should be on it, the numbers are estimates, and wealth fluctuates, so the rankings are not exact. For example, Warren Buffett qualified when the list was started in 1982 but they didn’t discover him until 1985! Also missing from the *Forbes* list are “The $13 Billion Mystery Angels,” of the article by Zachary Mider, *Bloomberg Businessweek,* May 8, 2014. Mider reveals that a group of former PNP employees made at least $13 billion in the twenty-five years after starting their own firm in 1989, with the aid of our quantitative methods and computer algorithms.
+**[\$5.6 billion](#calibre_link-222)** The *Forbes* 400 list likely misses people that should be on it, the numbers are estimates, and wealth fluctuates, so the rankings are not exact. For example, Warren Buffett qualified when the list was started in 1982 but they didn’t discover him until 1985! Also missing from the *Forbes* list are “The \$13 Billion Mystery Angels,” of the article by Zachary Mider, *Bloomberg Businessweek,* May 8, 2014. Mider reveals that a group of former PNP employees made at least \$13 billion in the twenty-five years after starting their own firm in 1989, with the aid of our quantitative methods and computer algorithms.
 
 **[Malibu, California](#calibre_link-223)** For some of his thoughts, see J. Paul Getty, *How to Be Rich: The Success of a Billionaire Businessman,* Playboy Press, New York, 1965.
 
@@ -4487,7 +4207,7 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[convertible bonds](#calibre_link-226)** The program had methods for incorporating quality deterioration and credit default risk which were, I believe, unique at the time.
 
-# CHAPTER 17
+## CHAPTER 17
 
 **[I’ve got enough](#calibre_link-227)** *The New Yorker,* May 16, 2005.
 
@@ -4503,9 +4223,9 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[in the early 1990s](#calibre_link-233)** “Bernard Madoff Gets 150 Years in Jail for Epic Fraud (Update 7), [Bloomberg.com](http://Bloomberg.com), June 29, 2009.
 
-**[$65 billion](#calibre_link-234)** News Release, “Bernard L. Madoff Charged in Eleven-Count Criminal Information,” U.S. Attorney for the Southern District of New York, March 10, 2009.
+**[\$65 billion](#calibre_link-234)** News Release, “Bernard L. Madoff Charged in Eleven-Count Criminal Information,” U.S. Attorney for the Southern District of New York, March 10, 2009.
 
-**[One individual reportedly](#calibre_link-235)** One Jeffry M. Picower, according to *The* *New York Times,* Sunday, July 5, 2009, page B2. According to a later report in *The New York Times* by Diana B. Henriques, October 2, 2009, page B5, the trustee liquidating the Madoff assets, Irving H. Picard, “reported that one Picower account had been overdrawn by $6 billion when Mr. Madoff was arrested.”
+**[One individual reportedly](#calibre_link-235)** One Jeffry M. Picower, according to *The* *New York Times,* Sunday, July 5, 2009, page B2. According to a later report in *The New York Times* by Diana B. Henriques, October 2, 2009, page B5, the trustee liquidating the Madoff assets, Irving H. Picard, “reported that one Picower account had been overdrawn by \$6 billion when Mr. Madoff was arrested.”
 
 **[the individual guesses](#calibre_link-236)** If half of the crowd’s guesses are on each side of the average it is a mathematical fact that the average will be closer to the correct value than at least half of the individual estimates. What is interesting is that the crowd consensus is often much better yet.
 
@@ -4513,15 +4233,15 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[so-called secretary or marriage problem](#calibre_link-238)** Today one might retitle it as “The Significant Other Problem.”
 
-# CHAPTER 18
+## CHAPTER 18
 
-**[to gain a profit](#calibre_link-239)** A couple of weeks after the EMLX hoax, the *Los Angeles Times* reported that the SEC, in a “web fraud sweep,” accused thirty-three companies and individuals of illegally using the Internet to make more than $10 million in profits by driving up the prices of more than seventy small thinly traded stocks, hyping them on chat rooms, websites, and in email messages.
+**[to gain a profit](#calibre_link-239)** A couple of weeks after the EMLX hoax, the *Los Angeles Times* reported that the SEC, in a “web fraud sweep,” accused thirty-three companies and individuals of illegally using the Internet to make more than \$10 million in profits by driving up the prices of more than seventy small thinly traded stocks, hyping them on chat rooms, websites, and in email messages.
 
 **[before the Internet](#calibre_link-240)** Two readable and entertaining accounts are the famous *Extraordinary Popular Delusions and the Madness of Crowds,* by Charles MacKay, and its more current sequel, *Ponzi Schemes, Invaders from Mars and Other Extraordinary Popular Delusions,* by Joseph Bulgatz.
 
 **[Hell on one’s feet](#calibre_link-241)** See page 71 of Haugen, *The New Finance: The Case Against Efficient Markets,* Second Edition (1999).
 
-**[Recent reports](#calibre_link-242)** “Toxic Equity Trading Order Flow on Wall Street,” by Arnuk, Sal and Saluzzi, Joseph, A Themis Trading LLC White Paper, [www.themistrading.com](http://www.themistrading.com), and “Algo Traders Take $21bn in Annual Profits,” by Tom Fairless of *Financial News,* quoting the research firm Tabb group.
+**[Recent reports](#calibre_link-242)** “Toxic Equity Trading Order Flow on Wall Street,” by Arnuk, Sal and Saluzzi, Joseph, A Themis Trading LLC White Paper, [www.themistrading.com](http://www.themistrading.com), and “Algo Traders Take \$21bn in Annual Profits,” by Tom Fairless of *Financial News,* quoting the research firm Tabb group.
 
 **[for the A shares](#calibre_link-243)** Reported as of 1:22 P.M. New York time on July 24, 2009.
 
@@ -4535,7 +4255,7 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[Business Day](#calibre_link-247)**[ **headline**](#calibre_link-247) *New York Times,* September 28, 2000.
 
-# CHAPTER 19
+## CHAPTER 19
 
 **[billion shares annually](#calibre_link-248)** The Medallion Fund, a hedge fund closed to new investors, run by mathematician James Simons, includes a similar and far larger trading operation than ours with a higher rate of turnover and a vast annual trading volume. Now an investment vehicle for Simons and his associates in his firm Renaissance Technologies Corporation, it is probably the most successful hedge fund in history.
 
@@ -4557,17 +4277,17 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[in statistical arbitrage](#calibre_link-257)** Firms doing statistical arbitrage, such as the hedge fund group Citadel, already had in place most of the technology, talent, and expertise needed later to create and implement high frequency trading (HFT). For an account of HFT, see the book *Flash Boys* by Michael Lewis; In 2005, three years after we went out of the statistical arbitrage business, Steve and I worked with Jerry Baesel, who was then at Morgan Stanley Asset Management, to see if it was worth restarting. We concluded it was marginal because simulation showed a recent unlevered return of 10 percent or so, not attractive enough when compared to other investment opportunities then available to us. Meanwhile, we put the “shrink-wrapped” software on our shelf with a tag saying “add people and data to reactivate.” Had we been running the program during the 2008–09 economic crisis, I suspect that we would have had a rerun of our “miraculous” 1998–99 results.
 
-# CHAPTER 20
+## CHAPTER 20
 
 **[or ten thousand shares](#calibre_link-258)** The number of shares for which a depositor can apply varies from one offering to another, but between ¼ percent and 1 percent of the issue is common.
 
-**[deals aren’t as good](#calibre_link-259)** If, for example, the business value in the MW deal were $5 instead of $10, management helped themselves to $3 of the final enterprise value, and selling costs were $1, buyers of the IPO would get a value of $5+$10−$3−$1=$11 for their $10. The market won’t recognize this value right away, so the stock will start trading below $11 a share. Meanwhile, market prices for the group of S&Ls as a whole could drop, taking the new stock’s price down, too. Or, if the market sees management as greedy—$3 is a lot to take out for themselves—or not competent to put the new capital to work, the stock will decline.
+**[deals aren’t as good](#calibre_link-259)** If, for example, the business value in the MW deal were \$5 instead of \$10, management helped themselves to \$3 of the final enterprise value, and selling costs were \$1, buyers of the IPO would get a value of \$5+\$10−\$3−\$1=\$11 for their \$10. The market won’t recognize this value right away, so the stock will start trading below \$11 a share. Meanwhile, market prices for the group of S&Ls as a whole could drop, taking the new stock’s price down, too. Or, if the market sees management as greedy—\$3 is a lot to take out for themselves—or not competent to put the new capital to work, the stock will decline.
 
 **[so-called opportunity cost](#calibre_link-260)** Opportunity cost refers to the cost of the opportunity that was given up. In addition to the cost of redirecting our capital from other investments, it includes the value of whatever didn’t get done because we redirected our personal time to the S&L project.
 
 
 
-# CHAPTER 21
+## CHAPTER 21
 
 **[never did, either](#calibre_link-261)** After BPL closed, Buffett accumulated Berkshire stock whenever he could, often from his friends, associates, and former partners. According to Schroeder, *The Snowball*, pp. 341–42, the stock was unregistered then so it had to be traded privately.
 
@@ -4577,7 +4297,7 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[made my first purchase](#calibre_link-264)** Buffett was so uninformative about his plans that his own children sold their stock fairly early. I started buying about the time his daughter Susie sold off the last of hers.
 
-**[$74,000 a share](#calibre_link-265)** “Ordinary” investors tend to switch their money from securities that drop in price to those that have gone up, a strategy sometimes described as chasing returns. An academic study of all domestic US equity mutual funds covering 1991 through 2004 showed that this behavior by the fund investors reduced their annual returns by an average of 1.6 percent; Friesen, Geoffrey C. and Sapp, Travis R.A., “Mutual Fund Flows and Investor Returns: An Empirical Examination of Fund Investor Timing Ability,” *Journal of Banking and Finance,* September 2007. Summarized in “Buying High and Selling Low,” Mark Hulbert, *New York Times,* July 12, 2009, Mutual Fund Report, page 18.
+**[\$74,000 a share](#calibre_link-265)** “Ordinary” investors tend to switch their money from securities that drop in price to those that have gone up, a strategy sometimes described as chasing returns. An academic study of all domestic US equity mutual funds covering 1991 through 2004 showed that this behavior by the fund investors reduced their annual returns by an average of 1.6 percent; Friesen, Geoffrey C. and Sapp, Travis R.A., “Mutual Fund Flows and Investor Returns: An Empirical Examination of Fund Investor Timing Ability,” *Journal of Banking and Finance,* September 2007. Summarized in “Buying High and Selling Low,” Mark Hulbert, *New York Times,* July 12, 2009, Mutual Fund Report, page 18.
 
 **[a famous interchange](#calibre_link-266)** Paul Marx told me this story.
 
@@ -4585,7 +4305,7 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[Three Successive Periods](#calibre_link-268)** I chose the dates for the first three periods because the price graphs suggested that they were natural divisions. The fourth and last period covers the aftermath of the Great Recession.
 
-# CHAPTER 22
+## CHAPTER 22
 
 **[fund in the country](#calibre_link-269)** The woes of Harvard’s endowment fund are chronicled in “Rich Harvard, Poor Harvard,” by Nina Munk, *Vanity Fair,* August 2009, pp. 106ff.
 
@@ -4615,43 +4335,43 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 
 
-# CHAPTER 23
+## CHAPTER 23
 
 **[good to him](#calibre_link-282)** Perhaps too good. He later stole millions from his firm and fled to Brazil.
 
 **[following classification](#calibre_link-283)** *Forbes,* October 11, 1999, page 60.
 
-**[$83 trillion](#calibre_link-284)** *Orange County Register,* March 7, 2014, Business, page 3.
+**[\$83 trillion](#calibre_link-284)** *Orange County Register,* March 7, 2014, Business, page 3.
 
 **[is not available](#calibre_link-285)** How big is the underground economy? What’s the value of privately held non-traded businesses? How much of the national wealth consisting of patents, copyrights, and innovation is being counted? Most household labor is not monetized, hence is not customarily counted in national income.
 
-**[$1.36 million](#calibre_link-286)** Source: *Money* magazine report on a University of Michigan study, the lead author being Fabian T. Pfeffer. Much of the increase in inequality comes from the fact that housing prices were about the same in 2014 as they were in 2003, whereas US stocks, as represented by the S&P 500, doubled. The rich have a higher proportion of their wealth in stocks and less in housing than poorer people.
+**[\$1.36 million](#calibre_link-286)** Source: *Money* magazine report on a University of Michigan study, the lead author being Fabian T. Pfeffer. Much of the increase in inequality comes from the fact that housing prices were about the same in 2014 as they were in 2003, whereas US stocks, as represented by the S&P 500, doubled. The rich have a higher proportion of their wealth in stocks and less in housing than poorer people.
 
 **[for large stocks](#calibre_link-287)** Ibbotson Associates yearbook.
 
-**[saves $6 each day](#calibre_link-288)** He saves more each day in later years assuming the price of cigarettes increases along with inflation.
+**[saves \$6 each day](#calibre_link-288)** He saves more each day in later years assuming the price of cigarettes increases along with inflation.
 
 **[An article](#calibre_link-289)** [http://quickenloans.quicken.com/Articles/fthbc_afford_budget.asp](http://quickenloans.quicken.com/Articles/fthbc_afford_budget.asp).
 
-**[$10,000 difference grows](#calibre_link-290)** Mentally calculated by the rule of 240 in Appendix C.
+**[\$10,000 difference grows](#calibre_link-290)** Mentally calculated by the rule of 240 in Appendix C.
 
-**[The formula](#calibre_link-291)** Assume the power law N = AW–B, where W is a high enough wealth level to exclude most people, and N is the number having wealth at least W, and A and B are unknowns. The two facts I used to find A and B were (1) when N = 400, W = $1.3 billion, and (2) the total wealth of the 400 was $1.2 trillion, giving an average value of three times the cutoff. The result is N = 400 [(1.3 billion)/W]4/3. The value 4/3 for B seems to be roughly the same from year to year, as the average wealth seems to be about three times the cutoff. So you can recalibrate the formula each year that this is true by simply replacing 1.3 billion by the current cutoff. Using 1999 data, in “How Rich Is Rich?—Part 1,” *Wilmott* magazine, July 2003, pp. 44–45, I found the slightly different value 1.43 instead of 4/3. Perhaps coincidentally, the 2009 *Forbes* 400 edition offers a calculator using this formula on page 20 at [forbes.com/baldwin](http://forbes.com/baldwin). *Forbes,* page 20, says the formula uses the exponent 0.7, which equals 1/B and, therefore, a value for B of 1.43. Their formula inverts mine and expresses W as a function of N. For an extended discussion of formulas for estimating wealth and income, including evidence for the Pareto equation, see Inhaber and Carroll (1992) and the many further references therein as well as Scafetta, Picozzi and West, “An out-of-equilibrium model of the distribution of wealth,” *Quantitative Finance,* Vol. 4 (2004) pp. 353–64.
+**[The formula](#calibre_link-291)** Assume the power law N = AW–B, where W is a high enough wealth level to exclude most people, and N is the number having wealth at least W, and A and B are unknowns. The two facts I used to find A and B were (1) when N = 400, W = \$1.3 billion, and (2) the total wealth of the 400 was \$1.2 trillion, giving an average value of three times the cutoff. The result is N = 400 [(1.3 billion)/W]4/3. The value 4/3 for B seems to be roughly the same from year to year, as the average wealth seems to be about three times the cutoff. So you can recalibrate the formula each year that this is true by simply replacing 1.3 billion by the current cutoff. Using 1999 data, in “How Rich Is Rich?—Part 1,” *Wilmott* magazine, July 2003, pp. 44–45, I found the slightly different value 1.43 instead of 4/3. Perhaps coincidentally, the 2009 *Forbes* 400 edition offers a calculator using this formula on page 20 at [forbes.com/baldwin](http://forbes.com/baldwin). *Forbes,* page 20, says the formula uses the exponent 0.7, which equals 1/B and, therefore, a value for B of 1.43. Their formula inverts mine and expresses W as a function of N. For an extended discussion of formulas for estimating wealth and income, including evidence for the Pareto equation, see Inhaber and Carroll (1992) and the many further references therein as well as Scafetta, Picozzi and West, “An out-of-equilibrium model of the distribution of wealth,” *Quantitative Finance,* Vol. 4 (2004) pp. 353–64.
 
-**[billion dollars or more](#calibre_link-292)** *The Orange County Business Journal* listed 36, with Lakers basketball star Kobe Bryant in 36th place at $250 million. Since I know of people they missed, the figure of 49 may be closer to the truth.
+**[billion dollars or more](#calibre_link-292)** *The Orange County Business Journal* listed 36, with Lakers basketball star Kobe Bryant in 36th place at \$250 million. Since I know of people they missed, the figure of 49 may be closer to the truth.
 
-**[$81 billion](#calibre_link-293)** The Gates household had as much wealth as 150 thousand average US households. In other words, one one-thousandth of *all* the private wealth in the United States.
+**[\$81 billion](#calibre_link-293)** The Gates household had as much wealth as 150 thousand average US households. In other words, one one-thousandth of *all* the private wealth in the United States.
 
 **[large increases in wealth](#calibre_link-294)** Carrying this a step further, you could guess someone’s future wealth, in current dollars, by estimating the present value of their future savings, plus their current net worth. This is similar to some methods used by analysts to calculate the value of a company in current dollars, and hence the fair price for its stock. Using an estimated future inflation rate you could then arrive at a value for their wealth on any future date.
 
-**[$37 million each](#calibre_link-295)** *Bloomberg,* August 17, 2009, citing UC–Berkeley economics professor Emmanuel Saez, noted for his continuing studies of, and statistics on, the distribution of income and wealth in America. Note that the average of $37 million, divided by the cutoff of $11.5 million, is 3.2, very close to the result of the same calculation for the wealth distribution of the *Forbes* 400, suggesting that 2007 superrich taxable income followed the same, or nearly the same, power law as that for wealth.
+**[\$37 million each](#calibre_link-295)** *Bloomberg,* August 17, 2009, citing UC–Berkeley economics professor Emmanuel Saez, noted for his continuing studies of, and statistics on, the distribution of income and wealth in America. Note that the average of \$37 million, divided by the cutoff of \$11.5 million, is 3.2, very close to the result of the same calculation for the wealth distribution of the *Forbes* 400, suggesting that 2007 superrich taxable income followed the same, or nearly the same, power law as that for wealth.
 
 
 
-# CHAPTER 24
+## CHAPTER 24
 
 **[disputed origin](#calibre_link-296)** The claimed sources include Benjamin Franklin, various Rothschilds, Albert Einstein, Bernard Baruch, and “unknown.”
 
-**[$22 million result](#calibre_link-297)** These figures do not include trading costs or income taxes. A buy-and-hold investor loses little to trading costs and is taxed only on dividends. Taxes, if any, vary with the investor.
+**[\$22 million result](#calibre_link-297)** These figures do not include trading costs or income taxes. A buy-and-hold investor loses little to trading costs and is taxed only on dividends. Taxes, if any, vary with the investor.
 
 **[less than the last](#calibre_link-298)** So-called decreasing marginal utility.
 
@@ -4661,7 +4381,7 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[a month to operate](#calibre_link-301)** Costs include fuel, maintenance, insurance, license fees, and depreciation, plus the owner’s time spent taking care of these.
 
-# CHAPTER 25
+## CHAPTER 25
 
 **[the US stocks](#calibre_link-302)** The Vanguard Total Stock Market Index Admiral Shares, ticker symbol VTSAX, does this. Actually, it invests in each stock proportionally to the market value of the so-called float, which is the estimated fraction of freely trading shares, as opposed to shares being held which are not available for trading. The difference in performance between the two methods has been negligible.
 
@@ -4675,9 +4395,9 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[corresponding economic loss](#calibre_link-307)** These extra taxable gains or losses will be offset later if you liquidate your investment.
 
-**[to catch up](#calibre_link-308)** Taxes leave me with 70 percent of my sales price. To get back to $100, $70 has to increase by $30 or 42.6 percent.
+**[to catch up](#calibre_link-308)** Taxes leave me with 70 percent of my sales price. To get back to \$100, \$70 has to increase by \$30 or 42.6 percent.
 
-# CHAPTER 26
+## CHAPTER 26
 
 **[beat the market](#calibre_link-309)** This sounds nonsensical at first. What it means is that no one has any information whatsoever that has predictive value.
 
@@ -4695,7 +4415,7 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 
 
-**[or 82 percent](#calibre_link-316)** I have omitted details such as how the actual cash required for the investment might vary from the $9,000 of the example because of the interaction of margin regulations with the investor’s preexisting portfolio, and also because of time-varying marks to the market on the short position.
+**[or 82 percent](#calibre_link-316)** I have omitted details such as how the actual cash required for the investment might vary from the \$9,000 of the example because of the interaction of margin regulations with the investor’s preexisting portfolio, and also because of time-varying marks to the market on the short position.
 
 ***[The Wall Street Journal](#calibre_link-317)*** *Wall Street Journal,* March 3, 2000, page C19, “Palm Soars As 3Com Unit Makes Its Trading Debut.”
 
@@ -4705,7 +4425,7 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[academic literature documents](#calibre_link-320)** It often takes weeks or months for the stock price to fully adjust after announcements of unexpected earnings, stock buybacks, and spin-offs.
 
-# CHAPTER 27
+## CHAPTER 27
 
 **[already been counted](#calibre_link-321)** Mutual fund management companies and hedge fund general partnership interests have a separate and often considerable market value but they have already been counted as part of the private equity subcategory.
 
@@ -4731,7 +4451,7 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[Computer simulations](#calibre_link-332)** The simulations were done by mathematician Art Quaife.
 
-# CHAPTER 28
+## CHAPTER 28
 
 **[stock index fund](#calibre_link-333)** Why not continue to hold Berkshire? One reason is that I can’t foresee who will be managing the endowment in the distant future and believe it best to lock them into the well-understood mechanical approach of indexing. This avoids the waste that occurs from active investing.
 
@@ -4749,15 +4469,15 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[causes, so a group](#calibre_link-339)** The idea of meeting with Bill Gross started with Professor Stern, then Dean of the School of Physical Sciences, and Greg Gissendanner, who was UCI’s University Advancement Officer at the School. My friend and attorney, Paul Marx, knew Bill and set up a lunch.
 
-**[ahead of schedule](#calibre_link-340)** Sue and Bill Gross later gave an additional $4 million to complete the fourth floor conference center and laboratories.
+**[ahead of schedule](#calibre_link-340)** Sue and Bill Gross later gave an additional \$4 million to complete the fourth floor conference center and laboratories.
 
-# CHAPTER 29
+## CHAPTER 29
 
 **[all-time closing high](#calibre_link-341)** Source: [www.finance.yahoo.com](http://www.finance.yahoo.com), daily closing prices, adjusted for splits and dividends. Figures are truncated from 1565.15 and 676.53.
 
-**[$48.5 trillion](#calibre_link-342)** The Federal Reserve, as reported in the *Los Angeles Times,* March 12, 2010.
+**[\$48.5 trillion](#calibre_link-342)** The Federal Reserve, as reported in the *Los Angeles Times,* March 12, 2010.
 
-**[$161 per share](#calibre_link-343)** The successive 10 percent increases over the previous stock price compound, moving the stock from $100 to $110, then to $121, $133.10, etc., reaching $161.05 after the fifth increase.
+**[\$161 per share](#calibre_link-343)** The successive 10 percent increases over the previous stock price compound, moving the stock from \$100 to \$110, then to \$121, \$133.10, etc., reaching \$161.05 after the fifth increase.
 
 **[more than ten times](#calibre_link-344)** Month-end returns from the end of 1925 to the end of August 1929 show no decline in the index from a previous peak of 10 percent, suggesting that conditions were encouraging for borrowing as stock prices increased.
 
@@ -4783,7 +4503,7 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[as Moshe Adler](#calibre_link-355)** Adler, Moshe, “Overthrowing the Overpaid,” *Los Angeles Times* Opinion, page A15, January 4, 2010.
 
-# CHAPTER 30
+## CHAPTER 30
 
 **[Garrett Hardin](#calibre_link-356)** Hardin, Garrett, “The Tragedy of the Commons,” *Science,* Vol. 162, No. 3859 December 13, 1968, pp. 1243–48.
 
@@ -4797,27 +4517,27 @@ Altogether, there were about 150 funds, with aggregate capital of a billion or t
 
 **[of national income](#calibre_link-360)** The top 1 percent have about a third of taxable income, the next 9 percent have another third, and the bottom 90 percent have the remaining third.
 
-**[20 percent or so](#calibre_link-361)** To get a simplistic feel for the numbers, government received $3.25 trillion in income in 2015 and GNP was $18 trillion. If we exempt $2 trillion for the very poorest citizens and tax the remaining $16 trillion of GNP at a single rate, the result is 3.25/16 or 20 percent.
+**[20 percent or so](#calibre_link-361)** To get a simplistic feel for the numbers, government received \$3.25 trillion in income in 2015 and GNP was \$18 trillion. If we exempt \$2 trillion for the very poorest citizens and tax the remaining \$16 trillion of GNP at a single rate, the result is 3.25/16 or 20 percent.
 
-**[a year by 2015](#calibre_link-362)** According to the UC Admissions Office, this is mitigated by the fact that more than half of undergraduates pay no tuition and more than two-thirds receive grants and scholarships averaging $16,300.
+**[a year by 2015](#calibre_link-362)** According to the UC Admissions Office, this is mitigated by the fact that more than half of undergraduates pay no tuition and more than two-thirds receive grants and scholarships averaging \$16,300.
 
 **[of them Chinese](#calibre_link-363)** My grandson Edward, while a high school senior, was taking an advanced mathematics class (partial differential equations) at UCI. Thirty-one of the thirty-six students were Chinese. As they were unaware that Edward speaks Mandarin fluently, he overheard many candid conversations.
 
-# APPENDIX A
+## APPENDIX A
 
 **[dollar has changed](#calibre_link-364)** For an insightful discussion of why the inflation index from the 1970s may be much too low as a result of a series of government revisions in the method of calculation, and the consequences to investors and consumers, see “Fooling With Inflation” by Bill Gross (June 2008) at [www.pimco.com](http://www.pimco.com).
 
 For updated Consumer Price Index numbers and for month-by-month values, go to [www.bls.gov/cpi](http://www.bls.gov/cpi) or do the usual Google search.
 
-# APPENDIX C
+## APPENDIX C
 
-**[$2 billion in cash](#calibre_link-365)** *Los Angeles Times*, Thursday, September 7, 2000, page C5.
-
-
+**[\$2 billion in cash](#calibre_link-365)** *Los Angeles Times*, Thursday, September 7, 2000, page C5.
 
 
 
-# BIBLIOGRAPHY
+
+
+## BIBLIOGRAPHY
 
 Bass, Thomas A. *The Endaemonic Pie*. New York: Houghton Mifflin, 1985.
 
@@ -4885,7 +4605,7 @@ Wong, Stanford. *Professional Blackjack*. La Jolla, CA: Pi Yee, 1994.
 
 
 
-# BY EDWARD O. THORP
+## BY EDWARD O. THORP
 
 A Man for All Markets
 
@@ -4901,7 +4621,7 @@ The Mathematics of Gambling
 
 
 
-# ABOUT THE AUTHOR
+## ABOUT THE AUTHOR
 
 EDWARD O. THORP is the author of the bestseller *Beat the Dealer: A Winning Strategy for the Game of Twenty-One* (Random House 1962, 1966). It presented the first scientific system ever devised for a major casino gambling game and revolutionized the game of blackjack. His book *Beat the Market* (Random House 1967, co-authored with Sheen T. Kassouf) helped start the derivatives revolution that transformed world securities markets. Based on his work, he launched the first market-neutral hedge fund in 1969. Dr. Thorp, with Claude Shannon, also invented the first wearable computer in 1961 to win at roulette. He has also written *Elementary Probability* (1966), *The Mathematics of Gambling* (1984), and numerous mathematical papers on probability, game theory, and functional analysis.
 
@@ -4911,9 +4631,9 @@ He completed undergraduate and graduate work at UCLA, receiving the BA and MA in
 
 [amanforallmarkets.com](http://amanforallmarkets.com)
 
-![Penguin Random House Back Ad logo](images/000019.jpg)
+![Penguin Random House Back Ad logo](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000019.jpg)
 
-# *What’s next on your reading list?*
+## *What’s next on your reading list?*
 
 [Discover your next
 great read!](http://links.penguinrandomhouse.com/type/prhebooklanding/isbn/9780812998740/display/1)
