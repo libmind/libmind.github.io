@@ -4733,15 +4733,3 @@ EDWARD O. THORP是畅销书Beat the Dealer的作者。二十一点游戏的制�
 edwardothorp.com
 
 amanforallmarkets.com
-
-![Penguin Random House Back Ad logo](https://libmind.github.io/img/b01_a_man_for_all_markets/images/000019.jpg)
-
-企鹅兰登书屋背部广告标志
-你的下一步是什么？
-你的阅读清单？
-发现你的下一个
-伟大的读物!
-
-获得个性化的选书和有关该作者的最新新闻。
-
-现在就报名。
