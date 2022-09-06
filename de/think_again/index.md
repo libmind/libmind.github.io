@@ -3,119 +3,9 @@
 
 # AUCH VON ADAM GRANT
 
-Geben und Nehmen
-
-Originale
-
-Option B
-
-
-
-![Book title, Think Again, Subtitle, The Power of Knowing What You Don't Know, author, Adam Grant, imprint, Viking](https://libmind.github.io/img/b90_think_again/images/000032.jpg)
-
-
-
-VIKING
-
-Ein Imprint von Penguin Random House LLC
-
-[penguinrandomhouse.com](http://www.penguinrandomhouse.com)
-
-Copyright © 2021 von Adam Grant
-
-Penguin unterstützt das Urheberrecht. Das Urheberrecht beflügelt die Kreativität, fördert die Meinungsfreiheit und schafft eine lebendige Kultur. Wir danken Ihnen, dass Sie eine autorisierte Ausgabe dieses Buches gekauft haben und das Urheberrecht einhalten, indem Sie es nicht ohne Erlaubnis vervielfältigen, einscannen oder in irgendeiner Form verbreiten. Sie unterstützen damit Autoren und ermöglichen es Penguin, weiterhin Bücher für jeden Leser zu veröffentlichen.
-
-Aus Platzgründen sind die Bildnachweise auf [dieser Seite](#calibre_link-939) zu finden.
-
-Wenn nicht anders angegeben, stammen die Grafiken von Matt Shirley.
-
-library of congress cataloging-in-publication-daten
-
-Namen: Grant, Adam M., Autor.
-
-Titel: Think again : die Macht des Wissens, was man nicht weiß / Adam Grant.
-
-Beschreibung: [New York, New York] : Viking, [2021] | Enthält bibliografische Angaben und einen Index.
-
-Identifikatoren: LCCN 2020035237 (Print) | LCCN 2020035238 (ebook) | ISBN 9781984878106 (Hardcover) | ISBN 9781984878113 (ebook) |
-
-ISBN 9780593298749 (internationale Ausgabe)
-
-Sachgebiete: LCSH: Denken und Denken. | Hinterfragen. | Wissen, Theorie der. | Glaube und Zweifel.
-
-Klassifizierung: LCC BF441 .G693 2021 (Druck) | LCC BF441 (ebook) | DDC 153.4/2-dc23
-
-LC-Datensatz verfügbar unter https://lccn.loc.gov/2020035237
-
-LC ebook Rekord verfügbar unter https://lccn.loc.gov/2020035238
-
-Buchgestaltung von Daniel Lagin
-
-Obwohl der Autor alle Anstrengungen unternommen hat, um genaue Telefonnummern, Internetadressen und andere Kontaktinformationen zum Zeitpunkt der Veröffentlichung bereitzustellen, übernehmen weder der Herausgeber noch der Autor die Verantwortung für Fehler oder für Änderungen, die nach der Veröffentlichung auftreten. Darüber hinaus hat der Herausgeber keine Kontrolle über die Websites des Autors oder Dritter und übernimmt keine Verantwortung für deren Inhalt.
-
-pid_prh_5.6.1_c0_r0
-
-
-
-An Kaan, Jeremy und Bill,
-
-Meine drei ältesten Freunde - eine Sache, die ich nicht überdenken werde
-
-# INHALT
-
-[Prolog](#calibre_link-499)
-
-[TEIL I. Individuelles Umdenken](#calibre_link-574)
-
-[Aktualisierung unserer eigenen Ansichten](#calibre_link-574)
-
-[**1.** Ein Prediger, ein Staatsanwalt, ein Politiker und ein Wissenschaftler kommen in deinen Kopf](#calibre_link-888)
-
-[**2.** Der Sessel-Quarterback und der Hochstapler: Den Sweet Spot des Vertrauens finden](#calibre_link-903)
-
-[**3.** The Joy of Being Wrong: Der Nervenkitzel, nicht alles zu glauben, was man denkt](#calibre_link-916)
-
-[**4.** Der gute Fight Club: Die Psychologie des konstruktiven Konflikts](#calibre_link-929)
-
-[TEIL II. Zwischenmenschliches Umdenken](#calibre_link-944)
-
-[Den Geist anderer Menschen öffnen](#calibre_link-944)
-
-[**5.** Tänze mit Feinden: Wie man Debatten gewinnt und Menschen beeinflusst](#calibre_link-956)
-
-[**6.** Böses Blut auf dem Diamanten: Abbau von Vorurteilen durch Destabilisierung von Stereotypen](#calibre_link-9)
-
-[**7.** Impfstoffflüsterer und sanftmütige Verhörer: Wie die richtige Art des Zuhörens Menschen zu Veränderungen motiviert](#calibre_link-504)
-
-[TEIL III. Kollektives Umdenken](#calibre_link-579)
-
-[Gemeinschaften von lebenslang Lernenden schaffen](#calibre_link-579)
-
-[**8.** Aufgeladene Konversationen: Depolarisierung unserer gespaltenen Debatten](#calibre_link-893)
-
-[**9.** Das Lehrbuch neu schreiben: Studenten lehren, Wissen zu hinterfragen](#calibre_link-911)
-
-[**10.** So haben wir es nicht immer gemacht: Aufbau von Lernkulturen am Arbeitsplatz](#calibre_link-922)
-
-[TEIL IV. Schlussfolgerung](#calibre_link-935)
-
-[**11**. Dem Tunnelblick entkommen: Unsere besten Karriere- und Lebenspläne neu überdenken](#calibre_link-947)
-
-[Epilog](#calibre_link-961)
-
-[**Aktionen für mehr Wirkung**](#calibre_link-976)
-
-[**Danksagungen**](#calibre_link-2)
-
-[**Anmerkungen**](#calibre_link-14)
-
-[**Abbildungsnachweis**](#calibre_link-508)
-
-[**Index**](#calibre_link-580)
-
 Prolog
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 Nach einem holprigen Flug fielen fünfzehn Männer aus dem Himmel über Montana. Sie waren keine Fallschirmspringer. Sie waren Smokejumper: Elitefeuerwehrleute, die mit dem Fallschirm absprangen, um einen Waldbrand zu löschen, der am Vortag durch einen Blitz ausgelöst worden war. In wenigen Minuten würden sie um ihr Leben rennen.
 
@@ -133,9 +23,7 @@ Tragischerweise kamen zwölf der Rauchspringer ums Leben. Eine Taschenuhr, die e
 
 Warum haben nur drei der Rauchspringer überlebt? Die körperliche Fitness könnte ein Faktor gewesen sein; die beiden anderen Überlebenden schafften es, dem Feuer zu entkommen und den Kamm des Berges zu erreichen. Aber Dodge setzte sich aufgrund seiner geistigen Fitness durch.
 
-------
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
 
 wenn man darüber nachdenkt, was man braucht, um geistig fit zu sein, ist der erste Gedanke, der einem in den Sinn kommt, meist Intelligenz. Je intelligenter man ist, desto komplexere Probleme kann man lösen - und desto schneller kann man sie lösen. Intelligenz wird traditionell als die Fähigkeit zu denken und zu lernen angesehen. Doch in einer turbulenten Welt ist eine andere kognitive Fähigkeit vielleicht noch wichtiger: die Fähigkeit, umzudenken und zu verlernen.
 
@@ -165,7 +53,7 @@ Es sind nicht die Frösche, die es versäumen, sich neu zu orientieren. Wir sind
 
 ------
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 als der waldbrand in der mann gulch auf sie zu raste, mussten die Smokejumper eine Entscheidung treffen. In einer idealen Welt hätten sie genug Zeit gehabt, innezuhalten, die Situation zu analysieren und ihre Optionen abzuwägen. Da das Feuer weniger als 100 Meter hinter ihnen wütete, gab es keine Gelegenheit zum Innehalten und Nachdenken. "Bei einem großen Feuer gibt es keine Zeit und keinen Baum, unter dessen Schatten der Chef und die Mannschaft sitzen und einen platonischen Dialog über eine Explosion führen können", schrieb der Wissenschaftler und ehemalige Feuerwehrmann Norman Maclean in *Young Men and Fire*, seiner preisgekrönten Chronik der Katastrophe. "Wäre Sokrates Vorarbeiter beim Mann-Gulch-Brand gewesen, wären er und seine Mannschaft eingeäschert worden, während sie dort saßen und darüber nachdachten."
 
@@ -239,7 +127,7 @@ Dieses Buch ist eine Einladung, Wissen und Meinungen loszulassen, die Ihnen nich
 
 ## Ein Prediger, ein Staatsanwalt, ein Politiker und ein Wissenschaftler kommen in Ihren Kopf
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Fortschritt ist ohne Veränderung nicht möglich; und wer seine Meinung nicht ändern kann, kann auch nichts ändern.
 >
@@ -375,7 +263,7 @@ Der Fluch des Wissens besteht darin, dass es uns den Blick für das verschließt
 
 ## Den Sweet Spot des Vertrauens finden
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Unwissenheit schafft häufiger Vertrauen als Wissen.
 >
@@ -559,7 +447,7 @@ Arroganz macht uns blind für unsere Schwächen. Demut ist eine reflektierende L
 
 ## Der Nervenkitzel, nicht alles zu glauben, was man denkt
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Ich habe einen Abschluss von Harvard. Immer wenn ich falsch liege, macht die Welt etwas weniger Sinn.
 >
@@ -739,7 +627,7 @@ Jedes Mal, wenn wir auf neue Informationen stoßen, haben wir die Wahl. Wir kön
 
 ## Die Psychologie des konstruktiven Konflikts
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Argumente sind äußerst vulgär, denn in einer guten Gesellschaft hat jeder genau dieselbe Meinung.
 >
@@ -881,7 +769,7 @@ Das ist das Schöne am Aufgabenkonflikt. In einer großartigen Auseinandersetzun
 
 ## Wie man Debatten gewinnt und Menschen beeinflusst
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Jemanden mit Argumenten zu erschöpfen, ist nicht dasselbe wie ihn zu überzeugen.
 >
@@ -1119,7 +1007,7 @@ Indem wir Fragen stellen, anstatt für die Zuhörer zu denken, laden wir sie ein
 
 ## Abbau von Vorurteilen durch Destabilisierung von Stereotypen
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Ich hasste die Yankees von ganzem Herzen und musste sogar in meiner ersten heiligen Beichte gestehen, dass ich anderen Schaden zufügen wollte - nämlich, dass ich mir wünschte, verschiedene New York Yankees würden Arme, Beine und Knöchel brechen...
 >
@@ -1321,7 +1209,7 @@ Nachdem er Daryl kennengelernt hatte, hörte ein Imperial Wizard nicht damit auf
 
 ## Wie die richtige Art des Zuhörens die Menschen zu Veränderungen motiviert
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Nur wenige Menschen wollen hören, was sie nicht hören wollen.
 >
@@ -1505,7 +1393,7 @@ Wenn wir eine Mutter davon überzeugen können, ihre gefährdeten Kinder zu impf
 
 ## Depolarisierung unserer gespaltenen Debatten
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Wenn Konflikte Klischees sind, ist Komplexität eine Neuigkeit.
 >
@@ -1687,7 +1575,7 @@ Aufgeladene Gespräche schreien nach Nuancen. Wenn wir predigen, anklagen oder P
 
 ## Studenten lehren, Wissen zu hinterfragen
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Keine Schulbildung durfte meine Ausbildung beeinträchtigen.
 >
@@ -1847,7 +1735,7 @@ Ich glaube, dass gute Lehrer neue Gedanken einführen, aber großartige Lehrer f
 
 ## Aufbau von Lernkulturen am Arbeitsplatz
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Wenn es nur die Menschen nicht gäbe... Die Erde wäre ein Paradies für Ingenieure.
 >
@@ -1997,7 +1885,7 @@ Wir können keine Experimente in der Vergangenheit durchführen; wir können uns
 
 ## Unsere besten Karriere- und Lebenspläne neu überdenken
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Ein paar Stunden nach meiner Ankunft machte sich Unbehagen breit. Ich dachte, ein Job könnte helfen. Es stellte sich heraus, dass ich viele Verwandte in der Hölle habe, und durch meine Beziehungen wurde ich der Assistent eines Dämons, der Menschen die Zähne zieht. Es war nicht wirklich ein Job, eher ein Praktikum. Aber ich war eifrig. Und anfangs war es auch ganz interessant. Aber nach einer Weile beginnt man sich zu fragen: Ist es das, wofür ich in die Hölle gekommen bin, um einem Dämon verschiedene Arten von Zangen zu geben?
 >
@@ -2139,7 +2027,7 @@ Bei der Arbeit und im Leben ist das Beste, was wir tun können, zu planen, was w
 
 ------
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 wir müssen nicht unseren gesamten Lebensweg umkrempeln, um einige unserer Pläne zu überdenken. Manche Menschen sind mit ihrem Arbeitsbereich vollkommen zufrieden, aber mit ihrer derzeitigen Rolle unzufrieden. Andere sind vielleicht zu risikoscheu, um für einen Job oder einen Partner einen geografischen Wechsel vorzunehmen. Und viele haben nicht den Luxus, sich umzuorientieren: Die wirtschaftliche Abhängigkeit von einem Arbeitsplatz oder die emotionale Bindung an eine Großfamilie können die verfügbaren Optionen einschränken. Unabhängig davon, ob wir die Möglichkeit oder Lust auf größere Veränderungen in unserem Leben haben oder nicht, ist es immer noch möglich, kleinere Anpassungen vorzunehmen, die unseren Tagen einen neuen Sinn geben.
 
@@ -2159,7 +2047,7 @@ Es braucht Demut, um unsere vergangenen Verpflichtungen zu überdenken, Zweifel,
 
 Epilog
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   "Was ich glaube" ist eher ein Prozess als eine Endgültigkeit.
 >
@@ -2209,7 +2097,7 @@ Wir alle können das Denken wieder verbessern. Zu welchem Schluss wir auch immer
 
 Aktionen für mehr Wirkung
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 Wenn Sie daran interessiert sind, Ihre Fähigkeiten zum Umdenken zu verbessern, finden Sie hier meine dreißig besten praktischen Ratschläge.
 

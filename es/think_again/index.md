@@ -1,121 +1,9 @@
 # Piensa de nuevo
 
 
-# TAMBIÉN POR ADAM GRANT
-
-Dar y recibir
-
-Originales
-
-Opción B
-
-
-
-![Book title, Think Again, Subtitle, The Power of Knowing What You Don't Know, author, Adam Grant, imprint, Viking](https://libmind.github.io/img/b90_think_again/images/000032.jpg)
-
-
-
-VIKING
-
-Un sello de Penguin Random House LLC
-
-[penguinrandomhouse.com](http://www.penguinrandomhouse.com)
-
-Copyright © 2021 por Adam Grant
-
-Penguin apoya los derechos de autor. Los derechos de autor alimentan la creatividad, fomentan la diversidad de voces, promueven la libertad de expresión y crean una cultura vibrante. Gracias por comprar una edición autorizada de este libro y por cumplir con las leyes de derechos de autor no reproduciendo, escaneando o distribuyendo cualquier parte del mismo en cualquier forma sin permiso. Está apoyando a los escritores y permitiendo que Penguin siga publicando libros para todos los lectores.
-
-Debido a las limitaciones de espacio, los créditos de las imágenes se encuentran en [esta página](#calibre_link-939).
-
-Salvo que se indique lo contrario, los gráficos están ilustrados por Matt Shirley.
-
-datos de catalogación de la biblioteca del congreso
-
-Nombres: Grant, Adam M., autor.
-
-Título: Piensa de nuevo : el poder de saber lo que no sabes / Adam Grant.
-
-Descripción: [Nueva York, Nueva York] : Viking, [2021] | Incluye referencias bibliográficas e índice.
-
-Identificadores: LCCN 2020035237 (impreso) | LCCN 2020035238 (ebook) | ISBN 9781984878106 (tapa dura) | ISBN 9781984878113 (ebook) |
-
-ISBN 9780593298749 (edición internacional)
-
-Temas: LCSH: Pensamiento y reflexión. | Cuestionamiento. | Teoría del conocimiento. | Creer y dudar.
-
-Clasificación: LCC BF441 .G693 2021 (impresión) | LCC BF441 (ebook) | DDC 153.4/2-dc23
-
-El registro de LC está disponible en https://lccn.loc.gov/2020035237
-
-El disco de LC ebook está disponible en https://lccn.loc.gov/2020035238
-
-Diseño del libro por Daniel Lagin
-
-Aunque el autor ha hecho todo lo posible por proporcionar números de teléfono, direcciones de Internet y otros datos de contacto exactos en el momento de la publicación, ni el editor ni el autor asumen ninguna responsabilidad por los errores o por los cambios que se produzcan después de la publicación. Además, el editor no tiene ningún control ni asume ninguna responsabilidad sobre los sitios web del autor o de terceros ni sobre su contenido.
-
-pid_prh_5.6.1_c0_r0
-
-
-
-Por Kaan, Jeremy y Bill,
-
-Mis tres amigos más antiguos-una cosa que no repensar
-
-# CONTENIDO
-
-[Prólogo](#calibre_link-499)
-
-[PARTE I. Replanteamiento individual](#calibre_link-574)
-
-[Actualizar nuestras propias opiniones](#calibre_link-574)
-
-[**1.** Un predicador, un fiscal, un político y un científico entran en tu mente](#calibre_link-888)
-
-[**2.** El mariscal de campo y el impostor: Cómo encontrar el punto dulce de la confianza](#calibre_link-903)
-
-[**3.** El placer de equivocarse: la emoción de no creer todo lo que se piensa](#calibre_link-916)
-
-[**4.** El Club de la Buena Pelea: La psicología del conflicto constructivo](#calibre_link-929)
-
-[PARTE II. Repensar las relaciones interpersonales](#calibre_link-944)
-
-[Abrir la mente de los demás](#calibre_link-944)
-
-[**5.** Bailes con los enemigos: Cómo ganar debates e influir en la gente](#calibre_link-956)
-
-[**6.** Mala sangre en el diamante: Disminuir los prejuicios desestabilizando los estereotipos](#calibre_link-9)
-
-[**7.** Susurradores de vacunas e interrogadores suaves: Cómo la forma correcta de escuchar motiva a la gente a cambiar](#calibre_link-504)
-
-[PARTE III. Reflexiones colectivas](#calibre_link-579)
-
-[Creación de Comunidades de Aprendizaje Permanente](#calibre_link-579)
-
-[**8.** Conversaciones cargadas: Despolarizar nuestros debates divididos](#calibre_link-893)
-
-[**9.** Reescribir el libro de texto: Enseñar a los alumnos a cuestionar los conocimientos](#calibre_link-911)
-
-[**10.** Así no es como siempre lo hemos hecho: Construir culturas de aprendizaje en el trabajo](#calibre_link-922)
-
-[PARTE IV. Conclusión](#calibre_link-935)
-
-[**11**. Escapar de la visión de túnel: Reconsiderar nuestros mejores planes profesionales y vitales](#calibre_link-947)
-
-[Epílogo](#calibre_link-961)
-
-[**Acciones de impacto**](#calibre_link-976)
-
-[**Agradecimientos**](#calibre_link-2)
-
-[**Notas**](#calibre_link-14)
-
-[**Créditos de las ilustraciones**](#calibre_link-508)
-
-[**Índice**](#calibre_link-580)
-
 Prólogo
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 Tras un vuelo accidentado, quince hombres cayeron del cielo de Montana. No eran paracaidistas. Eran saltadores de humo: bomberos de élite que se lanzaban en paracaídas para extinguir un incendio forestal provocado por un rayo el día anterior. En cuestión de minutos, correrían por sus vidas.
 
@@ -135,7 +23,7 @@ Trágicamente, doce de los saltadores de humo perecieron. Un reloj de bolsillo p
 
 ------
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 cuando la gente reflex iona sobre lo que se necesita para estar en forma mentalmente, la primera idea que viene a la mente suele ser la inteligencia. Cuanto más inteligente seas, más complejos serán los problemas que puedas resolver -y más rápido podrás resolverlos. Tradicionalmente se considera que la inteligencia es la capacidad de pensar y aprender. Sin embargo, en un mundo turbulento, hay otra serie de habilidades cognitivas que pueden ser más importantes: la capacidad de repensar y desaprender.
 
@@ -165,7 +53,7 @@ No son las ranas las que no se revalorizan. Somos nosotros. Una vez que escucham
 
 ------
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 a medida que el incendio forestal de mann gulch se acercaba a ellos, los paracaidistas tenían que tomar una decisión. En un mundo ideal, habrían tenido tiempo suficiente para detenerse, analizar la situación y evaluar sus opciones. Con el fuego arrasando a menos de 100 metros por detrás, no hubo oportunidad de pararse a pensar. "En un gran incendio no hay tiempo ni árbol bajo cuya sombra el jefe y la tripulación puedan sentarse a mantener un diálogo platónico sobre una explosión", escribió el académico y ex bombero Norman Maclean en *Young Men and* Fire, su premiada crónica del desastre. "Si Sócrates hubiera sido capataz en el incendio de Mann Gulch, él y su tripulación habrían sido incinerados mientras estaban sentados considerándolo".
 
@@ -239,7 +127,7 @@ Este libro es una invitación a desprenderse de conocimientos y opiniones que ya
 
 ## Un predicador, un fiscal, un político y un científico entran en tu mente
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   El progreso es imposible sin cambio; y quienes no pueden cambiar de opinión no pueden cambiar nada.
 >
@@ -375,7 +263,7 @@ La maldición del conocimiento es que cierra nuestras mentes a lo que no conocem
 
 ## Encontrar el punto óptimo de confianza
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   La ignorancia engendra con más frecuencia la confianza que el conocimiento.
 >
@@ -559,7 +447,7 @@ La arrogancia nos deja ciegos ante nuestras debilidades. La humildad es una lent
 
 ## La emoción de no creer todo lo que se piensa
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Tengo un título de Harvard. Siempre que me equivoco, el mundo tiene un poco menos de sentido.
 >
@@ -739,7 +627,7 @@ Cada vez que nos encontramos con nueva información, podemos elegir. Podemos uni
 
 ## La psicología del conflicto constructivo
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Las discusiones son extremadamente vulgares, ya que todo el mundo en la buena sociedad tiene exactamente las mismas opiniones.
 >
@@ -881,7 +769,7 @@ Esa es la belleza del conflicto de tareas. En una gran discusión, nuestro adver
 
 ## Cómo ganar debates e influir en la gente
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Agotar a alguien en una discusión no es lo mismo que convencerlo.
 >
@@ -1119,7 +1007,7 @@ Al hacer preguntas en lugar de pensar por el público, les invitamos a unirse a 
 
 ## Disminuir los prejuicios desestabilizando los estereotipos
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Odiaba a los Yankees con todo mi corazón, hasta el punto de tener que confesar en mi primera santa confesión que deseaba el daño a los demás, es decir, que deseaba que varios Yankees de Nueva York se rompieran los brazos, las piernas y los tobillos. . .
 >
@@ -1321,7 +1209,7 @@ Después de conocer a Daryl, un Mago Imperial no se limitó a dejar el KKK. Cerr
 
 ## Cómo la escucha adecuada motiva a la gente a cambiar
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Es raro el que quiere escuchar lo que no quiere escuchar.
 >
@@ -1505,7 +1393,7 @@ Si podemos convencer a una madre de que vacune a sus hijos vulnerables -o a un s
 
 ## Despolarizar nuestros debates divididos
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Cuando el conflicto es un cliché, la complejidad es una noticia de última hora.
 >
@@ -1687,7 +1575,7 @@ Las conversaciones cargadas piden a gritos matices. Cuando predicamos, perseguim
 
 ## Enseñar a los alumnos a cuestionar los conocimientos
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   No se permitía que la escolarización interfiriera en mi educación.
 >
@@ -1847,7 +1735,7 @@ Creo que los buenos profesores introducen nuevos pensamientos, pero los grandes 
 
 ## Construir culturas de aprendizaje en el trabajo
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Si no fuera por la gente... la tierra sería un paraíso para los ingenieros.
 >
@@ -1997,7 +1885,7 @@ No podemos hacer experimentos en el pasado; sólo podemos imaginar el contrafact
 
 ## Reconsiderar nuestros mejores planes profesionales y vitales
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   Un malestar se instaló en un par de horas después de mi llegada. Pensé que conseguir un trabajo podría ayudar. Resulta que tengo muchos parientes en el infierno y, gracias a mis contactos, me convertí en el ayudante de un demonio que arranca dientes a la gente. En realidad no era un trabajo, más bien unas prácticas. Pero tenía ganas. Y al principio fue bastante interesante. Después de un tiempo, sin embargo, empiezas a preguntarte: ¿Para esto he venido al infierno, para entregarle diferentes tipos de alicates a un demonio?
 >
@@ -2139,7 +2027,7 @@ En el trabajo y en la vida, lo mejor que podemos hacer es planificar lo que quer
 
 ------
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 no tenemos que dar un vuelco a toda nuestra trayectoria para replantearnos algunos de nuestros planes. Algunas personas están perfectamente contentas con sus campos de trabajo pero insatisfechas con sus funciones actuales. Otras pueden tener demasiada aversión al riesgo como para hacer un movimiento geográfico por un trabajo o una pareja. Y muchos no pueden permitirse el lujo de dar un giro: depender económicamente de un trabajo o estar emocionalmente unido a una familia extensa puede limitar las opciones disponibles. Tengamos o no la oportunidad o el apetito de hacer grandes cambios en nuestras vidas, todavía es posible hacer pequeños ajustes que den un nuevo significado a nuestros días.
 
@@ -2159,7 +2047,7 @@ Hace falta humildad para reconsiderar nuestros compromisos pasados, duda para cu
 
 Epílogo
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 >   "Lo que creo" es un proceso más que una finalidad.
 >
@@ -2209,7 +2097,7 @@ Todos podemos mejorar a la hora de pensar de nuevo. Sea cual sea la conclusión 
 
 Acciones de impacto
 
-![img](https://libmind.github.io/img/b90_think_again/images/000046.jpg)
+
 
 Si estás interesado en trabajar en tus habilidades de replanteamiento, aquí están mis treinta principales conclusiones prácticas.
 

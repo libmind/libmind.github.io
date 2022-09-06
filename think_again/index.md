@@ -1,123 +1,8 @@
 # Think Again
 
 
-Think Again
-
-ALSO BY ADAM GRANT
-
-Give and Take
-
-Originals
-
-Option B
-
-
-
-![Book title, Think Again, Subtitle, The Power of Knowing What You Don't Know, author, Adam Grant, imprint, Viking](https://cammel-yang.github.io/my_books/b90_think_again/images/000032.jpg)
-
-
-
-VIKING
-
-An imprint of Penguin Random House LLC
-
-[penguinrandomhouse.com](http://www.penguinrandomhouse.com)
-
-Copyright © 2021 by Adam Grant
-
-Penguin supports copyright. Copyright fuels creativity, encourages diverse voices, promotes free speech, and creates a vibrant culture. Thank you for buying an authorized edition of this book and for complying with copyright laws by not reproducing, scanning, or distributing any part of it in any form without permission. You are supporting writers and allowing Penguin to continue to publish books for every reader.
-
-Owing to limitations of space, image credits can be found on [this page](#calibre_link-939).
-
-Unless otherwise noted, charts illustrated by Matt Shirley.
-
-library of congress cataloging-in-publication data
-
-Names: Grant, Adam M., author.
-
-Title: Think again : the power of knowing what you don’t know / Adam Grant.
-
-Description: [New York, New York] : Viking, [2021] | Includes bibliographical references and index.
-
-Identifiers: LCCN 2020035237 (print) | LCCN 2020035238 (ebook) | ISBN 9781984878106 (hardcover) | ISBN 9781984878113 (ebook) |
-
-ISBN 9780593298749 (international edition)
-
-Subjects: LCSH: Thought and thinking. | Questioning. | Knowledge, Theory of. | Belief and doubt.
-
-Classification: LCC BF441 .G693 2021 (print) | LCC BF441 (ebook) | DDC 153.4/2—dc23
-
-LC record available at https://lccn.loc.gov/2020035237
-
-LC ebook record available at https://lccn.loc.gov/2020035238
-
-Book design by Daniel Lagin
-
-While the author has made every effort to provide accurate telephone numbers, internet addresses, and other contact information at the time of publication, neither the publisher nor the author assumes any responsibility for errors or for changes that occur after publication. Further, the publisher does not have any control over and does not assume any responsibility for author or third-party websites or their content.
-
-pid_prh_5.6.1_c0_r0
-
-
-
-To Kaan, Jeremy, and Bill,
-
-My three oldest friends—one thing I won’t rethink
-
-# CONTENTS
-
-[Prologue](#calibre_link-499)
-
-[PART I. Individual Rethinking](#calibre_link-574)
-
-[Updating Our Own Views](#calibre_link-574)
-
-[**1.** A Preacher, a Prosecutor, a Politician, and a Scientist Walk into Your Mind](#calibre_link-888)
-
-[**2.** The Armchair Quarterback and the Impostor: Finding the Sweet Spot of Confidence](#calibre_link-903)
-
-[**3.** The Joy of Being Wrong: The Thrill of Not Believing Everything You Think](#calibre_link-916)
-
-[**4.** The Good Fight Club: The Psychology of Constructive Conflict](#calibre_link-929)
-
-[PART II. Interpersonal Rethinking](#calibre_link-944)
-
-[Opening Other People’s Minds](#calibre_link-944)
-
-[**5.** Dances with Foes: How to Win Debates and Influence People](#calibre_link-956)
-
-[**6.** Bad Blood on the Diamond: Diminishing Prejudice by Destabilizing Stereotypes](#calibre_link-9)
-
-[**7.** Vaccine Whisperers and Mild-Mannered Interrogators: How the Right Kind of Listening Motivates People to Change](#calibre_link-504)
-
-[PART III. Collective Rethinking](#calibre_link-579)
-
-[Creating Communities of Lifelong Learners](#calibre_link-579)
-
-[**8.** Charged Conversations: Depolarizing Our Divided Discussions](#calibre_link-893)
-
-[**9.** Rewriting the Textbook: Teaching Students to Question Knowledge](#calibre_link-911)
-
-[**10.** That’s Not the Way We’ve Always Done It: Building Cultures of Learning at Work](#calibre_link-922)
-
-[PART IV. Conclusion](#calibre_link-935)
-
-[**11**. Escaping Tunnel Vision: Reconsidering Our Best-Laid Career and Life Plans](#calibre_link-947)
-
-[Epilogue](#calibre_link-961)
-
-[**Actions for Impact**](#calibre_link-976)
-
-[**Acknowledgments**](#calibre_link-2)
-
-[**Notes**](#calibre_link-14)
-
-[**Illustration Credits**](#calibre_link-508)
-
-[**Index**](#calibre_link-580)
-
 Prologue
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
 
 After a bumpy flight, fifteen men dropped from the Montana sky. They weren’t skydivers. They were smokejumpers: elite wildland firefighters parachuting in to extinguish a forest fire started by lightning the day before. In a matter of minutes, they would be racing for their lives.
 
@@ -137,7 +22,6 @@ Why did only three of the smokejumpers survive? Physical fitness might have been
 
 ------
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
 
 when people reflect on what it takes to be mentally fit, the first idea that comes to mind is usually intelligence. The smarter you are, the more complex the problems you can solve—and the faster you can solve them. Intelligence is traditionally viewed as the ability to think and learn. Yet in a turbulent world, there’s another set of cognitive skills that might matter more: the ability to rethink and unlearn.
 
@@ -167,7 +51,7 @@ It’s not the frogs who fail to reevaluate. It’s us. Once we hear the story a
 
 ------
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+
 
 as the mann gulch wildfire raced toward them, the smokejumpers had a decision to make. In an ideal world, they would have had enough time to pause, analyze the situation, and evaluate their options. With the fire raging less than 100 yards behind, there was no chance to stop and think. “On a big fire there is no time and no tree under whose shade the boss and the crew can sit and have a Platonic dialogue about a blowup,” scholar and former firefighter Norman Maclean wrote in *Young Men and Fire*, his award-winning chronicle of the disaster. “If Socrates had been foreman on the Mann Gulch fire, he and his crew would have been cremated while they were sitting there considering it.”
 
@@ -199,7 +83,7 @@ This book is about the value of rethinking. It’s about adopting the kind of me
 
 You may not carry an ax or a shovel, but you do have some cognitive tools that you use regularly. They might be things you know, assumptions you make, or opinions you hold. Some of them aren’t just part of your job—they’re part of your sense of self.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000029.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000029.jpg)
 
 Consider a group of students who built what has been called Harvard’s first online social network. Before they arrived at college, they had already connected more than an eighth of the entering freshman class in an “e-group.” But once they got to Cambridge, they abandoned the network and shut it down. Five years later Mark Zuckerberg started Facebook on the same campus.
 
@@ -241,7 +125,7 @@ This book is an invitation to let go of knowledge and opinions that are no longe
 
 ## A Preacher, a Prosecutor, a Politician, and a Scientist Walk into Your Mind
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+
 
 >   Progress is impossible without change; and those who cannot change their minds cannot change anything.
 >
@@ -293,13 +177,13 @@ The entrepreneurs arrived in Milan for a training program in entrepreneurship. O
 
 Over the following year, the startups in the control group averaged under $300 in revenue. The startups in the scientific thinking group averaged over $12,000 in revenue. They brought in revenue more than twice as fast—and attracted customers sooner, too. Why? The entrepreneurs in the control group tended to stay wedded to their original strategies and products. It was too easy to preach the virtues of their past decisions, prosecute the vices of alternative options, and politick by catering to advisers who favored the existing direction. The entrepreneurs who had been taught to think like scientists, in contrast, pivoted more than twice as often. When their hypotheses weren’t supported, they knew it was time to rethink their business models.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000037.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000037.jpg)
 
 What’s surprising about these results is that we typically celebrate great entrepreneurs and leaders for being strong-minded and clear-sighted. They’re supposed to be paragons of conviction: decisive and certain. Yet evidence reveals that when business executives compete in tournaments to price products, the best strategists are actually slow and unsure. Like careful scientists, they take their time so they have the flexibility to change their minds. *I’m beginning to think decisiveness is overrated . . . but I reserve the right to change my mind.*
 
 Just as you don’t have to be a professional scientist to reason like one, being a professional scientist doesn’t guarantee that someone will use the tools of their training. Scientists morph into preachers when they present their pet theories as gospel and treat thoughtful critiques as sacrilege. They veer into politician terrain when they allow their views to be swayed by popularity rather than accuracy. They enter prosecutor mode when they’re hell-bent on debunking and discrediting rather than discovering. After upending physics with his theories of relativity, Einstein opposed the quantum revolution: “To punish me for my contempt of authority, Fate has made me an authority myself.” Sometimes even great scientists need to think more like scientists.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000043.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000043.jpg)
 
 Decades before becoming a smartphone pioneer, Mike Lazaridis was recognized as a science prodigy. In middle school, he made the local news for building a solar panel at the science fair and won an award for reading every science book in the public library. If you open his eighth-grade yearbook, you’ll see a cartoon showing Mike as a mad scientist, with bolts of lightning shooting out of his head.
 
@@ -331,7 +215,7 @@ That rarely happens in the other mental modes. In preacher mode, changing our mi
 
 I’ve done my best to write this book in scientist mode.[*](#calibre_link-890) I’m a teacher, not a preacher. I can’t stand politics, and I hope a decade as a tenured professor has cured me of whatever temptation I once felt to appease my audience. Although I’ve spent more than my share of time in prosecutor mode, I’ve decided that in a courtroom I’d rather be the judge. I don’t expect you to agree with everything I think. My hope is that you’ll be intrigued by *how* I think—and that the studies, stories, and ideas covered here will lead you to do some rethinking of your own. After all, the purpose of learning isn’t to affirm our beliefs; it’s to evolve our beliefs.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000023.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000023.jpg)
 
 One of my beliefs is that we shouldn’t be open-minded in every circumstance. There are situations where it might make sense to preach, prosecute, and politick. That said, I think most of us would benefit from being more open more of the time, because it’s in scientist mode that we gain mental agility.
 
@@ -345,7 +229,7 @@ What set great presidents apart was their intellectual curiosity and openness. T
 
 As I’ve studied the process of rethinking, I’ve found that it often unfolds in a cycle. It starts with intellectual humility—knowing what we don’t know. We should all be able to make a long list of areas where we’re ignorant. *Mine include art, financial markets, fashion, chemistry, food, why British accents turn American in songs, and why it’s impossible to tickle yourself*. Recognizing our shortcomings opens the door to doubt. As we question our current understanding, we become curious about what information we’re missing. That search leads us to new discoveries, which in turn maintain our humility by reinforcing how much we still have to learn. If knowledge is power, knowing what we don’t know is wisdom.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000051.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000051.jpg)
 
 Scientific thinking favors humility over pride, doubt over certainty, curiosity over closure. When we shift out of scientist mode, the rethinking cycle breaks down, giving way to an overconfidence cycle. If we’re preaching, we can’t see gaps in our knowledge: we believe we’ve already found the truth. Pride breeds conviction rather than doubt, which makes us prosecutors: we might be laser-focused on changing other people’s minds, but ours is set in stone. That launches us into confirmation bias and desirability bias. We become politicians, ignoring or dismissing whatever doesn’t win the favor of our constituents—our parents, our bosses, or the high school classmates we’re still trying to impress. We become so busy putting on a show that the truth gets relegated to a backstage seat, and the resulting validation can make us arrogant. We fall victim to the fat-cat syndrome, resting on our laurels instead of pressure-testing our beliefs.
 
@@ -357,7 +241,7 @@ Our convictions can lock us in prisons of our own making. The solution is not to
 
 The legend of Apple’s renaissance revolves around the lone genius of Steve Jobs. It was his conviction and clarity of vision, the story goes, that gave birth to the iPhone. The reality is that he was dead-set against the mobile phone category. His employees had the vision for it, and it was their ability to change his mind that really revived Apple. Although Jobs knew how to “think different,” it was his team that did much of the rethinking.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000054.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000054.jpg)
 
 In 2004, a small group of engineers, designers, and marketers pitched Jobs on turning their hit product, the iPod, into a phone. “Why the f@*& would we want to do that?” Jobs snapped. “That is the dumbest idea I’ve ever heard.” The team had recognized that mobile phones were starting to feature the ability to play music, but Jobs was worried about cannibalizing Apple’s thriving iPod business. He hated cell-phone companies and didn’t want to design products within the constraints that carriers imposed. When his calls dropped or the software crashed, he would sometimes smash his phone to pieces in frustration. In private meetings and on public stages, he swore over and over that he would never make a phone.
 
@@ -377,7 +261,7 @@ The curse of knowledge is that it closes our minds to what we don’t know. Good
 
 ## Finding the Sweet Spot of Confidence
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+
 
 >   Ignorance more frequently begets confidence than does knowledge.
 >
@@ -415,7 +299,7 @@ In theory, confidence and competence go hand in hand. In practice, they often di
 
 You’ve probably met some football fans who are convinced they know more than the coaches on the sidelines. That’s the armchair quarterback syndrome, where confidence exceeds competence. Even after calling financial plays that destroyed an economy, Davíð Oddsson still refused to acknowledge that he wasn’t qualified to coach—let alone quarterback. He was blind to his weaknesses.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000061.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000061.jpg)
 
 Jason Adam Katzenstein/The New Yorker Collection/The Cartoon Bank; © Condé Nast
 
@@ -433,7 +317,7 @@ In the original Dunning-Kruger studies, people who scored the lowest on tests of
 
 This tendency matters because it compromises self-awareness, and it trips us up across all kinds of settings. Look what happened when economists evaluated the operations and management practices of thousands of companies across a wide range of industries and countries, and compared their assessments with managers’ self-ratings:
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000069.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000069.jpg)
 
 *Sources*: World Management Survey; Bloom and Van Reenen 2007; and Maloney 2017b.
 
@@ -453,7 +337,7 @@ On the questions above, if you felt you knew anything at all, think again. Ameri
 
 Although the Dunning-Kruger effect is often amusing in everyday life, it was no laughing matter in Iceland. Despite serving as governor of the central bank, Davíð Oddsson had no training in finance or economics. Before entering politics, he had created a radio comedy show, written plays and short stories, gone to law school, and worked as a journalist. During his reign as Iceland’s prime minister, Oddsson was so dismissive of experts that he disbanded the National Economic Institute. To force him out of his post at the central bank, Parliament had to pass an unconventional law: any governor would have to have at least a master’s degree in economics. That didn’t stop Oddsson from running for president a few years later. He seemed utterly blind to his blindness: he didn’t know what he didn’t know.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000030.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000030.jpg)
 
 ### STRANDED AT THE SUMMIT OF MOUNT STUPID
 
@@ -467,13 +351,13 @@ When we lack the knowledge and skills to achieve excellence, we sometimes lack t
 
 We’re all novices at many things, but we’re not always blind to that fact. We tend to overestimate ourselves on desirable skills, like the ability to carry on a riveting conversation. We’re also prone to overconfidence in situations where it’s easy to confuse experience for expertise, like driving, typing, trivia, and managing emotions. Yet we *underestimate* ourselves when we can easily recognize that we lack experience—like painting, driving a race car, and rapidly reciting the alphabet backward. Absolute beginners rarely fall into the Dunning-Kruger trap. If you don’t know a thing about football, you probably don’t walk around believing you know more than the coach.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000003.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000003.jpg)
 
 It’s when we progress from novice to amateur that we become overconfident. A bit of knowledge can be a dangerous thing. In too many domains of our lives, we never gain enough expertise to question our opinions or discover what we don’t know. We have just enough information to feel self-assured about making pronouncements and passing judgment, failing to realize that we’ve climbed to the top of Mount Stupid without making it over to the other side.
 
 You can see this phenomenon in one of Dunning’s experiments that involved people playing the role of doctors in a simulated zombie apocalypse. When they’ve seen only a handful of injured victims, their perceived and actual skills match. Unfortunately, as they gain experience, their confidence climbs faster than their competence, and confidence remains higher than competence from that point on.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000009.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000009.jpg)
 
 This might be one of the reasons that patient mortality rates in hospitals seem to spike in July, when new residents take over. It’s not their lack of skill alone that proves hazardous; it’s their overestimation of that skill.
 
@@ -483,7 +367,7 @@ That’s what happened in Iceland to Davíð Oddsson, whose arrogance was reinfo
 
 What he lacked is a crucial nutrient for the mind: humility. The antidote to getting stuck on Mount Stupid is taking a regular dose of it. “Arrogance is ignorance plus conviction,” blogger Tim Urban explains. “While humility is a permeable filter that absorbs life experience and converts it into knowledge and wisdom, arrogance is a rubber shield that life experience simply bounces off of.”
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000015.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000015.jpg)
 
 ### WHAT GOLDILOCKS GOT WRONG
 
@@ -495,7 +379,7 @@ Confidence is a measure of how much you believe in yourself. Evidence shows that
 
 We become blinded by arrogance when we’re utterly convinced of our strengths and our strategies. We get paralyzed by doubt when we lack conviction in both. We can be consumed by an inferiority complex when we know the right method but feel uncertain about our ability to execute it. What we want to attain is confident humility: having faith in our capability while appreciating that we may not have the right solution or even be addressing the right problem. That gives us enough doubt to reexamine our old knowledge and enough confidence to pursue new insights.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000038.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000038.jpg)
 
 When Spanx founder Sara Blakely had the idea for footless pantyhose, she believed in her ability to make the idea a reality, but she was full of doubt about her current tools. Her day job was selling fax machines door-to-door, and she was aware that she didn’t know anything about fashion, retail, or manufacturing. When she was designing the prototype, she spent a week driving around to hosiery mills to ask them for help. When she couldn’t afford a law firm to apply for a patent, she read a book on the topic and filled out the application herself. Her doubt wasn’t debilitating—she was confident she could overcome the challenges in front of her. Her confidence wasn’t in her existing knowledge—it was in her capacity to learn.
 
@@ -507,7 +391,7 @@ When adults have the confidence to acknowledge what they don’t know, they pay 
 
 If we care about accuracy, we can’t afford to have blind spots. To get an accurate picture of our knowledge and skills, it can help to assess ourselves like scientists looking through a microscope. But one of my newly formed beliefs is that we’re sometimes better off underestimating ourselves.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000044.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000044.jpg)
 
 ### THE BENEFITS OF DOUBT
 
@@ -525,7 +409,7 @@ A week earlier the students had answered a survey about how often they entertain
 
 This evidence is new, and we still have a lot to learn about when impostor syndrome is beneficial versus when it’s detrimental. Still, it leaves me wondering if we’ve been misjudging impostor syndrome by seeing it solely as a disorder.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000058.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000058.jpg)
 
 When our impostor fears crop up, the usual advice is to ignore them—give ourselves the benefit of the doubt. Instead, we might be better off embracing those fears, because they can give us three benefits of doubt.
 
@@ -561,7 +445,7 @@ Arrogance leaves us blind to our weaknesses. Humility is a reflective lens: it h
 
 ## The Thrill of Not Believing Everything You Think
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+
 
 >   I have a degree from Harvard. Whenever I’m wrong, the world makes a little less sense.
 >
@@ -585,7 +469,7 @@ Ever since I first read about the participants who reacted enthusiastically, I�
 
 Since the records of the study are still sealed and the vast majority of the participants haven’t revealed their identities, I did the next best thing: I went searching for people like them. I found a Nobel Prize–winning scientist and two of the world’s top election forecasters. They aren’t just comfortable being wrong; they actually seem to be thrilled by it. I think they can teach us something about how to be more graceful and accepting in moments when we discover that our beliefs might not be true. The goal is not to be wrong more often. It’s to recognize that we’re all wrong more often than we’d like to admit, and the more we deny it, the deeper the hole we dig for ourselves.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000066.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000066.jpg)
 
 ### THE DICTATOR POLICING YOUR THOUGHTS
 
@@ -629,7 +513,7 @@ Attachment. That’s what keeps us from recognizing when our opinions are off th
 
 Let’s start with detaching your present from your past. In psychology, one way of measuring the similarity between the person you are right now and your former self is to ask: which pair of circles best describes how you see yourself?
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000013.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000013.jpg)
 
 In the moment, separating your past self from your current self can be unsettling. Even positive changes can lead to negative emotions; evolving your identity can leave you feeling derailed and disconnected. Over time, though, rethinking who you are appears to become mentally healthy—as long as you can tell a coherent story about how you got from past to present you. In one study, when people felt detached from their past selves, they became less depressed over the course of the year. When you feel as if your life is changing direction, and you’re in the process of shifting who you are, it’s easier to walk away from foolish beliefs you once held.
 
@@ -641,7 +525,7 @@ Most of us are accustomed to defining ourselves in terms of our beliefs, ideas, 
 
 Who you are should be a question of what you value, not what you believe. Values are your core principles in life—they might be excellence and generosity, freedom and fairness, or security and integrity. Basing your identity on these kinds of principles enables you to remain open-minded about the best ways to advance them. You want the doctor whose identity is protecting health, the teacher whose identity is helping students learn, and the police chief whose identity is promoting safety and justice. When they define themselves by values rather than opinions, they buy themselves the flexibility to update their practices in light of new evidence.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000052.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000052.jpg)
 
 ### THE YODA EFFECT: “YOU MUST UNLEARN WHAT YOU HAVE LEARNED”
 
@@ -669,7 +553,7 @@ That’s where the best forecasters excelled: they were eager to think again. Th
 
 On *Seinfeld*, George Costanza famously said, “It’s not a lie if you believe it.” I might add that it doesn’t become the truth just because you believe it. It’s a sign of wisdom to avoid believing every thought that enters your mind. It’s a mark of emotional intelligence to avoid internalizing every feeling that enters your heart.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000059.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000059.jpg)
 
 Ellis Rosen/The New Yorker Collection/The Cartoon Bank
 
@@ -687,13 +571,13 @@ Detaching his opinions from his identity was harder. Jean-Pierre didn’t want T
 
 Research suggests that identifying even a single reason why we might be wrong can be enough to curb overconfidence. Jean-Pierre went further; he made a list of all the arguments that pundits were making about why Trump couldn’t win and went looking for evidence that they (and he) were wrong. He found that evidence within the polls: in contrast with widespread claims that Trump was a factional candidate with narrow appeal, Jean-Pierre saw that Trump was popular across key Republican demographic groups. By mid-September, Jean-Pierre was an outlier, putting Trump’s odds of becoming the nominee over 50 percent. “Accept the fact that you’re going to be wrong,” Jean-Pierre advises. “Try to disprove yourself. When you’re wrong, it’s not something to be depressed about. Say, ‘Hey, I discovered something!’”
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000067.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000067.jpg)
 
 ### MISTAKES WERE MADE . . . MOST LIKELY BY ME
 
 As prescient as Jean-Pierre’s bet on Trump was, he still had trouble sticking to it in the face of his feelings. In the spring of 2016, he identified the media coverage of Hillary Clinton’s emails as a red flag, and kept predicting a Trump victory for two months more. By the summer, though, as he contemplated the impending possibility of a Trump presidency, he found himself struggling to sleep at night. He changed his forecast to Clinton.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000001.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000001.jpg)
 
 Looking back, Jean-Pierre isn’t defensive about his decision. He freely admits that despite being an experienced forecaster, he made the rookie mistake of falling victim to desirability bias, allowing his preference to cloud his judgment. He focused on the forces that would enable him to predict a Clinton win because he desperately wanted a Trump loss. “That was just a way of me trying to deal with this unpleasant forecast I had issued,” he says. Then he does something unexpected: he laughs at himself.
 
@@ -715,7 +599,7 @@ In front of hundreds of colleagues, Andrew walked onto the ballroom stage and ad
 
 Andrew Lyne is not alone. Psychologists find that admitting we were wrong doesn’t make us look less competent. It’s a display of honesty and a willingness to learn. Although scientists believe it will damage their reputation to admit that their studies failed to replicate, the reverse is true: they’re judged more favorably if they acknowledge the new data rather than deny them. After all, it doesn’t matter “whose fault it is that something is broken if it’s your responsibility to fix it,” actor Will Smith has said. “Taking responsibility is taking your power back.”
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000007.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000007.jpg)
 
 When we find out we might be wrong, a standard defense is “I’m entitled to my opinion.” I’d like to modify that: yes, we’re entitled to hold opinions inside our own heads. If we choose to express them out loud, though, I think it’s our responsibility to ground them in logic and facts, share our reasoning with others, and change our minds when better evidence emerges.
 
@@ -741,7 +625,7 @@ Every time we encounter new information, we have a choice. We can attach our opi
 
 ## The Psychology of Constructive Conflict
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+
 
 >   Arguments are extremely vulgar, for everybody in good society holds exactly the same opinions.
 >
@@ -761,11 +645,11 @@ A few years ago I surveyed hundreds of new teams in Silicon Valley on conflict s
 
 The teams that performed poorly started with more relationship conflict than task conflict. They entered into personal feuds early on and were so busy disliking one another that they didn’t feel comfortable challenging one another. It took months for many of the teams to make real headway on their relationship issues, and by the time they did manage to debate key decisions, it was often too late to rethink their directions.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000018.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000018.jpg)
 
 What happened in the high-performing groups? As you might expect, they started with low relationship conflict and kept it low throughout their work together. That didn’t stop them from having task conflict at the outset: they didn’t hesitate to surface competing perspectives. As they resolved some of their differences of opinion, they were able to align on a direction and carry out their work until they ran into new issues to debate.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000024.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000024.jpg)
 
 All in all, more than a hundred studies have examined conflict types in over eight thousand teams. A meta-analysis of those studies showed that relationship conflict is generally bad for performance, but some task conflict can be beneficial: it’s been linked to higher creativity and smarter choices. For example, there’s evidence that when teams experience moderate task conflict early on, they generate more original ideas in Chinese technology companies, innovate more in Dutch delivery services, and make better decisions in American hospitals. As one research team concluded, “The absence of conflict is not harmony, it’s apathy.”
 
@@ -783,7 +667,7 @@ As long as I can remember, I’ve been determined to keep the peace. Maybe it’
 
 My first impulse is to avoid even the most trivial of conflicts. When I’m riding in an Uber and the air-conditioning is blasting, I struggle to bring myself to ask the driver to turn it down—I just sit there shivering in silence until my teeth start to chatter. When someone steps on my shoe, I’ve actually apologized for inconveniently leaving my foot in his path. When students fill out course evaluations, one of their most common complaints is that I’m “too supportive of stupid comments.”
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000031.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000031.jpg)
 
 Disagreeable people tend to be more critical, skeptical, and challenging—and they’re more likely than their peers to become engineers and lawyers. They’re not just comfortable with conflict; it energizes them. If you’re highly disagreeable, you might be happier in an argument than in a friendly conversation. That quality often comes with a bad rap: disagreeable people get stereotyped as curmudgeons who complain about every idea, or Dementors who suck the joy out of every meeting. When I studied Pixar, though, I came away with a dramatically different view.
 
@@ -803,7 +687,7 @@ Brad gathered the pirates in Pixar’s theater and told them that although a bun
 
 When I asked Brad how he recognized the value of pirates, he told me it was because he *is* one. Growing up, when he went to dinner at friends’ houses, he was taken aback by the polite questions their parents asked about their day at school. Bird family dinners were more like a food fight, where they all vented, debated, and spoke their minds. Brad found the exchanges contentious but fun, and he brought that mentality into his first dream job at Disney. From an early age, he had been mentored and trained by a group of old Disney masters to put quality first, and he was frustrated that their replacements—who now supervised the new generation at the studio—weren’t upholding the same standards. Within a few months of launching his animation career at Disney, Brad was criticizing senior leaders for taking on conventional projects and producing substandard work. They told him to be quiet and do his job. When he refused, they fired him.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000021.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000021.jpg)
 
 I’ve watched too many leaders shield themselves from task conflict. As they gain power, they tune out boat-rockers and listen to bootlickers. They become politicians, surrounding themselves with agreeable yes-men and becoming more susceptible to seduction by sycophants. Research reveals that when their firms perform poorly, CEOs who indulge flattery and conformity become overconfident. They stick to their existing strategic plans instead of changing course—which sets them on a collision course with failure.
 
@@ -841,7 +725,7 @@ That adaptability was also visible in the Wright brothers’ relationship. In Wi
 
 Disagreeable people don’t just challenge us to think again. They also make agreeable people comfortable arguing, too. Instead of fleeing from friction, our grumpy colleagues engage it directly. By making it clear that they can handle a tussle, they create a norm for the rest of us to follow. If we’re not careful, though, what starts as a scuffle can turn into a brawl. How can we avoid that slippery slope?
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000039.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000039.jpg)
 
 ### GETTING HOT WITHOUT GETTING MAD
 
@@ -883,7 +767,7 @@ That’s the beauty of task conflict. In a great argument, our adversary is not 
 
 ## How to Win Debates and Influence People
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+
 
 >   Exhausting someone in argument is not the same as convincing him.
 >
@@ -967,7 +851,7 @@ A what?
 
 At first I was delighted by the label. It felt like a solid description of one of my roles as a social scientist: to win debates with the best data. Then Jamie explained that my approach wasn’t actually helpful. The more forcefully I argued, the more she dug in her heels. Suddenly I realized I had instigated that same kind of resistance many times before.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000028.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000028.jpg)
 
 David Sipress/The New Yorker Collection/The Cartoon Bank; © Condé Nast
 
@@ -991,7 +875,7 @@ These habits led to a third contrast: the average negotiators were more likely t
 
 Questions were the fourth difference between the two groups. Of every five comments the experts made, at least one ended in a question mark. They appeared less assertive, but much like in a dance, they led by letting their partners step forward.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000012.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000012.jpg)
 
 Recent experiments show that having even one negotiator who brings a scientist’s level of humility and curiosity improves outcomes for both parties, because she will search for more information and discover ways to make both sides better off. She isn’t telling her counterparts what to think. She’s asking them to dance. Which is exactly what Harish Natarajan does in a debate.
 
@@ -1019,7 +903,7 @@ After studying 10 billion sentences, a computer was able to say something funny�
 
 When I asked Harish how to improve at finding common ground, he offered a surprisingly practical tip. Most people immediately start with a straw man, poking holes in the weakest version of the other side’s case. He does the reverse: he considers the strongest version of their case, which is known as the steel man. A politician might occasionally adopt that tactic to pander or persuade, but like a good scientist, Harish does it to learn. Instead of trying to dismantle the argument that preschool is good for kids, Harish accepted that the point was valid, which allowed him to relate to his opponent’s perspective—and to the audience’s. Then it was perfectly fair and balanced for him to express his concerns about whether a subsidy would give the most underprivileged kids access to preschool.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000045.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000045.jpg)
 
 Drawing attention to common ground and avoiding defend-attack spirals weren’t the only ways in which Harish resembled expert negotiators. He was also careful not to come on too strong.
 
@@ -1031,7 +915,7 @@ The computer piled on study after study to support a long list of reasons in fav
 
 Is this always the best way to approach a debate? The answer is—like pretty much everything else in social science—it depends. The ideal number of reasons varies from one circumstance to another.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000053.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000053.jpg)
 
 There are times when preaching and prosecuting can make us more persuasive. Research suggests that the effectiveness of these approaches hinges on three key factors: how much people care about the issue, how open they are to our particular argument, and how strong-willed they are in general. If they’re not invested in the issue or they’re receptive to our perspective, more reasons can help: people tend to see quantity as a sign of quality. The more the topic matters to them, the more the quality of reasons matters. It’s when audiences are skeptical of our view, have a stake in the issue, and tend to be stubborn that piling on justifications is most likely to backfire. If they’re resistant to rethinking, more reasons simply give them more ammunition to shoot our views down.
 
@@ -1067,7 +951,7 @@ The executive pushed back, insisting that his company was different, so I rattle
 
 In the hierarchy of disagreement created by computer scientist Paul Graham, the highest form of argument is refuting the central point, and the lowest is name-calling. In a matter of seconds I’d devolved from logic bully to playground bully.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000036.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000036.jpg)
 
 If I could do that session over, I’d start with common ground and fewer data points. Instead of attacking their beliefs with my research, I’d ask them what would open their minds to my data.
 
@@ -1101,7 +985,7 @@ A few years ago, I argued in my book *Originals* that if we want to fight groupt
 
 In 2014, a young woman named Michele Hansen came across a job opening for a product manager at an investment company. She was excited about the position but she wasn’t qualified for it: she had no background in finance and lacked the required number of years of experience. If you were in her shoes and you decided to go for it, what would you say in your cover letter?
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000060.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000060.jpg)
 
 The natural starting point would be to emphasize your strengths and downplay your weaknesses. As Michael Scott deadpanned on *The Office*, “I work too hard, I care too much, and sometimes I can be too invested in my job.” But Michele Hansen did the opposite, taking a page out of the George Costanza playbook on *Seinfeld*: “My name is George. I’m unemployed and I live with my parents.” Rather than trying to hide her shortcomings, Michele opened with them. “I’m probably not the candidate you’ve been envisioning,” her cover letter began. “I don’t have a decade of experience as a Product Manager nor am I a Certified Financial Planner.” After establishing the drawbacks of her case, she emphasized a few reasons to hire her anyway:
 
@@ -1121,7 +1005,7 @@ By asking questions rather than thinking for the audience, we invite them to joi
 
 ## Diminishing Prejudice by Destabilizing Stereotypes
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+
 
 >   I hated the Yankees with all my heart, even to the point of having to confess in my first holy confession that I wished harm to others—namely that I wished various New York Yankees would break arms, legs and ankles. . . .
 >
@@ -1151,7 +1035,7 @@ The Red Sox were playing against the Oakland A’s. The Boston fans were booing 
 
 I started to wonder if Red Sox fans hate the Yankees more than they love their own team. Boston parents have been known to teach their kids to flip the bird at the Yankees and detest anything in pinstripes, and yankees suck is apparently among the most popular T-shirts in Boston history. When asked how much money it would take to get them to taunt their own team, Red Sox fans requested an average of $503. To root for the Yankees, they wanted even more: $560. The feelings run so deep that neuroscientists can watch them light up people’s minds: when Red Sox fans see the Yankees fail, they show immediate activation in brain regions linked to reward and pleasure. Those feelings extend well beyond Boston: in a 2019 analysis of tweets, the Yankees were the most hated baseball team in twenty-eight of the fifty U.S. states, which may explain the popularity of this T-shirt:
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000019.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000019.jpg)
 
 I recently called a friend who’s a die-hard Red Sox fan with a simple question: what would it take to get him to root for the Yankees? Without pausing, he said, “If they were playing Al Qaeda . . . maybe.”
 
@@ -1167,7 +1051,7 @@ Why do people form stereotypes about rival groups in the first place, and what d
 
 For decades psychologists have found that people can feel animosity toward other groups even when the boundaries between them are trivial. Take a seemingly innocuous question: is a hot dog a sandwich? When students answered this question, most felt strongly enough that they were willing to sacrifice a dollar to those who agreed with them to make sure those who disagreed got less.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000068.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000068.jpg)
 
 In every human society, people are motivated to seek belonging and status. Identifying with a group checks both boxes at the same time: we become part of a tribe, and we take pride when our tribe wins. In classic studies on college campuses, psychologists found that after their team won a football game, students were more likely to walk around wearing school swag. From Arizona State to Notre Dame to USC, students basked in the reflected glory of Saturday victories, donning team shirts and hats and jackets on Sunday. If their team lost, they shunned school apparel, and distanced themselves by saying “they lost” instead of “we lost.” Some economists and finance experts have even found that the stock market rises if a country’s soccer team wins World Cup matches and falls if they lose.[*](#calibre_link-11)
 
@@ -1177,11 +1061,11 @@ I decided to test what it would take to get fans to rethink their beliefs about 
 
 WHY RED SOX FANS HATE YANKEES FANS
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000042.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000042.jpg)
 
 WHY YANKEES FANS HATE RED SOX FANS
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000002.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000002.jpg)
 
 Once we’ve formed those kinds of stereotypes, for both mental and social reasons it’s hard to undo them. Psychologist George Kelly observed that our beliefs are like pairs of reality goggles. We use them to make sense of the world and navigate our surroundings. A threat to our opinions cracks our goggles, leaving our vision blurred. It’s only natural to put up our guard in response—and Kelly noticed that we become especially hostile when trying to defend opinions that we know, deep down, are false. Rather than trying on a different pair of goggles, we become mental contortionists, twisting and turning until we find an angle of vision that keeps our current views intact.
 
@@ -1235,11 +1119,11 @@ For our third approach, Tim and I recruited fans of the Red Sox and Yankees. To 
 
 WHAT RED SOX FANS LIKE ABOUT YANKEES FANS
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000008.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000008.jpg)
 
 WHAT YANKEES FANS LIKE ABOUT RED SOX FANS
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000014.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000014.jpg)
 
 Then we randomly assigned half of them to go the extra step of reflecting on the arbitrariness of their animosity:
 
@@ -1257,7 +1141,7 @@ People weren’t just more sympathetic toward a single fan—they changed their 
 
 We’d finally made some progress. Our next step was to examine the key ingredients behind the shift in fans’ views. We found that it was thinking about the arbitrariness of their animosity—not the positive qualities of their rival—that mattered. Regardless of whether they generated reasons to like their rivals, fans showed less hostility when they reflected on how silly the rivalry was. Knowing what it felt like to be disliked for ridiculous reasons helped them see that this conflict had real implications, that hatred for opposing fans isn’t all fun and games.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000020.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000020.jpg)
 
 ### ENTERING A PARALLEL UNIVERSE
 
@@ -1323,7 +1207,7 @@ After getting to know Daryl, one Imperial Wizard didn’t stop at leaving the KK
 
 ## How the Right Kind of Listening Motivates People to Change
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+
 
 >   It’s a rare person who wants to hear what he doesn’t want to hear.
 >
@@ -1345,7 +1229,7 @@ Marie-Hélène Étienne-Rousseau had been through that journey. Visits to the do
 
 When tiny Tobie was finally cleared to leave after five months in the hospital, he was still extremely vulnerable. The nurses knew it was their last chance to have him vaccinated, so they called in a vaccine whisperer—a local doctor with a radical approach for helping young parents rethink their resistance to immunizations. He didn’t preach to parents or prosecute them. He didn’t get political. He put on his scientist hat and interviewed them.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000050.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000050.jpg)
 
 *Calvin & Hobbes* © 1993 Watterson. Reprinted with permission of andrews mcmeel syndication. All rights reserved.
 
@@ -1403,7 +1287,7 @@ Motivational interviewing isn’t limited to professional settings—it’s rele
 
 When people ignore advice, it isn’t always because they disagree with it. Sometimes they’re resisting the sense of pressure and the feeling that someone else is controlling their decision. To protect their freedom, instead of giving commands or offering recommendations, a motivational interviewer might say something along the lines of “Here are a few things that have helped me—do you think any of them might work for you?”
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000027.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000027.jpg)
 
 You’ve seen how asking questions can help with self-persuasion. Motivational interviewing goes a step further, guiding others to self-discovery. You got a glimpse of it in action when Daryl Davis asked KKK members how they could hate him when they didn’t even know him, and now I want to unpack the relevant techniques in depth. When we try to convince people to think again, our first instinct is usually to start talking. Yet the most effective way to help others open their minds is often to listen.
 
@@ -1455,7 +1339,7 @@ Part of the beauty of motivational interviewing is that it generates more openne
 
 It’s not hard to grasp how motivational interviewing can be effective for consultants, doctors, therapists, teachers, and coaches. When people have sought out our assistance—or accepted that it’s our job to help—we’re in a position to earn their trust. Yet we all face situations in which we’re tempted to steer people in the direction we prefer. Parents and mentors often believe they know what’s best for their children and protégés. Salespeople, fundraisers, and entrepreneurs have a vested interest in getting to yes.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000034.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000034.jpg)
 
 Motivational interviewing pioneers Miller and Rollnick have long warned that the technique shouldn’t be used manipulatively. Psychologists have found that when people detect an attempt at influence, they have sophisticated defense mechanisms. The moment people feel that we’re trying to persuade them, our behavior takes on a different meaning. A straightforward question is seen as a political tactic, a reflective listening statement comes across as a prosecutor’s maneuvering, an affirmation of their ability to change sounds like a preacher’s proselytizing.
 
@@ -1507,7 +1391,7 @@ If we can convince a mother to vaccinate her vulnerable children—or a warlord 
 
 ## Depolarizing Our Divided Discussions
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+
 
 >   When conflict is cliché, complexity is breaking news.
 >
@@ -1543,7 +1427,7 @@ For a long time, I struggled with how to handle politics in this book. I don’t
 
 Resisting the impulse to simplify is a step toward becoming more argument literate. Doing so has profound implications for how we communicate about polarizing issues. In the traditional media, it can help journalists open people’s minds to uncomfortable facts. On social media, it can help all of us have more productive Twitter tiffs and Facebook fights. At family gatherings, it might not land you on the same page as your least favorite uncle, but it could very well prevent a seemingly innocent conversation from exploding into an emotional inferno. And in discussions of policies that affect all of our lives, it might bring us better, more practical solutions sooner. That’s what this section of the book is about: applying rethinking to different parts of our lives, so that we can keep learning at every stage of our lives.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000057.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000057.jpg)
 
 *Non Sequitur* © 2016 Wiley Ink, Inc. Dist. by andrews mcmeel syndication. Reprinted with permission. All rights reserved.
 
@@ -1567,11 +1451,11 @@ To overcome binary bias, a good starting point is to become aware of the range o
 
 It’s especially important to distinguish skeptics from deniers. Skeptics have a healthy scientific stance: They don’t believe everything they see, hear, or read. They ask critical questions and update their thinking as they gain access to new information. Deniers are in the dismissive camp, locked in preacher, prosecutor, or politician mode: They don’t believe anything that comes from the other side. They ignore or twist facts to support their predetermined conclusions. As the Committee for Skeptical Inquiry put it in a plea to the media, skepticism is “foundational to the scientific method,” whereas denial is “the *a priori* rejection of ideas without objective consideration.”[*](#calibre_link-895)
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000064.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000064.jpg)
 
 The complexity of this spectrum of beliefs is often missing from coverage of climate change. Although no more than 10 percent of Americans are dismissive of climate change, it’s these rare deniers who get the most press. In an analysis of some hundred thousand media articles on climate change between 2000 and 2016, prominent climate contrarians received disproportionate coverage: they were featured 49 percent more often than expert scientists. As a result, people end up overestimating how common denial is—which in turn makes them more hesitant to advocate for policies that protect the environment. When the middle of the spectrum is invisible, the majority’s will to act vanishes with it. *If other people aren’t going to do anything about it, why should I bother?* When they become aware of just how many people are concerned about climate change, they’re more prepared to do something about it.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000041.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000041.jpg)
 
 As consumers of information, we have a role to play in embracing a more nuanced point of view. When we’re reading, listening, or watching, we can learn to recognize complexity as a signal of credibility. We can favor content and sources that present many sides of an issue rather than just one or two. When we come across simplifying headlines, we can fight our tendency to accept binaries by asking what additional perspectives are missing between the extremes.
 
@@ -1581,11 +1465,11 @@ Of course, a potential challenge of nuance is that it doesn’t seem to go viral
 
 A few years ago, the media reported on a study of the cognitive consequences of coffee consumption. Although their headlines were drawn from the same data, some newspapers praised the benefits of coffee, while other outlets warned about the costs:
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000004.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000004.jpg)
 
 The actual study showed that older adults who drank a daily cup or two of coffee had a lower risk of mild cognitive impairment, relative to abstainers, occasional consumers, and heavier consumers. If they increased their consumption by another cup or more per day, they had a higher risk than those who stayed at or below a single cup a day. Each of the one-sided headlines took seven to twelve words to mislead the reader about the effects of drinking coffee. A more accurate headline needed just twelve words to serve up a jolt of instant complexity:
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000065.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000065.jpg)
 
 Imagine if even this kind of minimal nod to complexity appeared in articles on climate change. Scientists overwhelmingly agree about its human causes, but even they have a range of views on the actual effects—and the potential remedies. It’s possible to be alarmed about the situation while recognizing the variety of ways to improve it.[*](#calibre_link-896)
 
@@ -1627,7 +1511,7 @@ Over a thousand comments poured in, and I was pleasantly surprised that many rea
 
 From time to time I’ve run into idea cults—groups that stir up a batch of oversimplified intellectual Kool-Aid and recruit followers to serve it widely. They preach the merits of their pet concept and prosecute anyone who calls for nuance or complexity. In the area of health, idea cults defend detox diets and cleanses long after they’ve been exposed as snake oil. In education, there are idea cults around learning styles—the notion that instruction should be tailored to each student’s preference for learning through auditory, visual, or kinesthetic modes. Some teachers are determined to tailor their instruction accordingly despite decades of evidence that although students might enjoy listening, reading, or doing, they don’t actually learn better that way. In psychology, I’ve inadvertently offended members of idea cults when I’ve shared evidence that meditation isn’t the only way to prevent stress or promote mindfulness; that when it comes to reliability and validity, the Myers-Briggs personality tool falls somewhere between a horoscope and a heart monitor; and that being more authentic can sometimes make us less successful. *If you find yourself saying ____ is always good or ____ is never bad, you may be a member of an idea cult.* Appreciating complexity reminds us that no behavior is always effective and that all cures have unintended consequences.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000017.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000017.jpg)
 
 xkcd.com
 
@@ -1649,13 +1533,13 @@ It can help to make that respect explicit at the start of a conversation. In one
 
 When Peter Coleman brings people together in his Difficult Conversations Lab, he plays them the recording of their discussions afterward. What he wants to learn is how they were feeling, moment by moment, as they listen to themselves. After studying over five hundred of these conversations, he found that the unproductive ones feature a more limited set of both positive and negative emotions, as illustrated below in the image on the left. People get trapped in emotional simplicity, with one or two dominant feelings.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000000.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000000.jpg)
 
 As you can see with the duo on the right, the productive conversations cover a much more varied spectrum of emotions. They’re not less emotional—they’re more emotionally complex. At one point, people might be angry about the other person’s views, but by the next minute they’re curious to learn more. Soon they could be shifting into anxiety and then excitement about considering a new perspective. Sometimes they even stumble into the joy of being wrong.
 
 In a productive conversation, people treat their feelings as a rough draft. Like art, emotions are works in progress. It rarely serves us well to frame our first sketch. As we gain perspective, we revise what we feel. Sometimes we even start over from scratch.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000048.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000048.jpg)
 
 What stands in the way of rethinking isn’t the expression of emotion; it’s a restricted range of emotion. So how do we infuse our charged conversations with greater emotional variety—and thereby greater potential for mutual understanding and rethinking?
 
@@ -1689,7 +1573,7 @@ Charged conversations cry out for nuance. When we’re preaching, prosecuting, o
 
 ## Teaching Students to Question Knowledge
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+
 
 >   No schooling was allowed to interfere with my education.
 >
@@ -1709,7 +1593,7 @@ My favorite assignment of Erin’s is her final one. As a passionate champion of
 
 One group took on the civil rights chapter for failing to cover the original March on Washington, which was called off at the last minute in the early 1940s but inspired Martin Luther King Jr.’s historic march two decades later. Other groups revised the chapter on World War II to include the infantry regiments of Hispanic soldiers and second-generation Japanese soldiers who fought for the U.S. Army. “It’s a huge light-bulb moment,” Erin told me.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000026.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000026.jpg)
 
 Even if you’re not a teacher by profession, you probably have roles in which you spend time educating others—whether as a parent, a mentor, a friend, or a colleague. In fact, every time we try to help someone think again, we’re doing a kind of education. Whether we do our instruction in a classroom or in a boardroom, in an office or at our kitchen table, there are ways to make rethinking central to what—and how—we teach.
 
@@ -1725,7 +1609,7 @@ I realize this thought experiment is wildly impractical. It’s hard enough to k
 
 Evidence shows that if false scientific beliefs aren’t addressed in elementary school, they become harder to change later. “Learning counterintuitive scientific ideas [is] akin to becoming a fluent speaker of a second language,” psychologist Deborah Kelemen writes. It’s “a task that becomes increasingly difficult the longer it is delayed, and one that is almost never achieved with only piecemeal instruction and infrequent practice.” That’s what kids really need: frequent practice at unlearning, especially when it comes to the mechanisms of how cause and effect work.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000056.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000056.jpg)
 
 In the field of history education, there’s a growing movement to ask questions that don’t have a single right answer. In a curriculum developed at Stanford, high school students are encouraged to critically examine what really caused the Spanish-American War, whether the New Deal was a success, and why the Montgomery bus boycott was a watershed moment. Some teachers even send students out to interview people with whom they disagree. The focus is less on being right, and more on building the skills to consider different views and argue productively about them.
 
@@ -1759,7 +1643,7 @@ To be clear, I’m not suggesting eliminating lectures altogether. I love watchi
 
 In North American universities, more than half of STEM professors spend at least 80 percent of their time lecturing, just over a quarter incorporate bits of interactivity, and fewer than a fifth use truly student-centered methods that involve active learning. In high schools it seems that half of teachers lecture most or all of the time.[*](#calibre_link-912) Lectures are not always the best method of learning, and they are not enough to develop students into lifelong learners. If you spend all of your school years being fed information and are never given the opportunity to question it, you won’t develop the tools for rethinking that you need in life.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000033.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000033.jpg)
 
 Steve Macone/The New Yorker Collection/The Cartoon Bank; © Condé Nast
 
@@ -1793,7 +1677,7 @@ It’s been demonstrated repeatedly that one of the best ways to learn is to tea
 
 The following year, the class’s favorite idea took that rethinking a step further: the students hosted a day of “passion talks” on which anyone could teach the class about something he or she loved. We learned how to beatbox and design buildings that mesh with nature and make the world more allergy safe. From that point on, sharing passions has been part of class participation. All the students give a passion talk as a way of introducing themselves to their peers. Year after year, they tell me that it injects a heightened level of curiosity into the room, leaving them eager to soak up insights from each of their classmates.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000040.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000040.jpg)
 
 [www.CartoonCollections.com](http://www.CartoonCollections.com)
 
@@ -1817,7 +1701,7 @@ Ron wanted to teach his students to revise their thinking based on input from ot
 
 The class didn’t just critique projects. Each day they would discuss what excellence looked like. With each new project they updated their criteria. Along with rethinking their own work, they were learning to continually rethink their standards. To help them further evolve those standards, Ron regularly brought in outside experts. Local architects and scientists would come in to offer their own critiques, and the class would incorporate their principles and vocabularies into future discussions. Long after they’d moved on to middle and high school, it was not uncommon for former students to visit Ron’s class and ask for a critique of their work.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000063.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000063.jpg)
 
 As soon as I connected with Ron Berger, I couldn’t help but wish I had been able to take one of his classes. It wasn’t because I had suffered from a lack of exceptional teachers. It was because I had never had the privilege of being in a classroom with a culture like his, with a whole room of students dedicated to questioning themselves and one another.
 
@@ -1825,15 +1709,15 @@ Ron now spends his days speaking, writing, teaching a course for teachers at Har
 
 At one of their schools in Idaho, a student named Austin was assigned to make a scientifically accurate drawing of a butterfly. This is his first draft:
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000047.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000047.jpg)
 
 Austin’s classmates formed a critique group. They gave him two rounds of suggestions for changing the shape of the wings, and he produced his second and third drafts. The critique group pointed out that the wings were uneven and that they’d become round again. Austin wasn’t discouraged. On his next revision, the group encouraged him to fill in the pattern on the wings.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000025.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000025.jpg)
 
 For the final draft, Austin was ready to color it in. When Ron showed the completed drawing to a roomful of elementary school students in Maine, they gasped in awe at his progress and his final product.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000055.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000055.jpg)
 
 I gasped, too, because Austin made these drawings when he was in first grade.
 
@@ -1849,7 +1733,7 @@ I believe that good teachers introduce new thoughts, but great teachers introduc
 
 ## Building Cultures of Learning at Work
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+
 
 >   If only it weren’t for the people . . . earth would be an engineer’s paradise.
 >
@@ -1895,7 +1779,7 @@ Over the past few years, psychological safety has become a buzzword in many work
 
 In performance cultures, the emphasis on results often undermines psychological safety. When we see people get punished for failures and mistakes, we become worried about proving our competence and protecting our careers. We learn to engage in self-limiting behavior, biting our tongues rather than voicing questions and concerns. Sometimes that’s due to power distance: we’re afraid of challenging the big boss at the top. The pressure to conform to authority is real, and those who dare to deviate run the risk of backlash. In performance cultures, we also censor ourselves in the presence of experts who seem to know all the answers—especially if we lack confidence in our own expertise.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000071.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000071.jpg)
 
 A lack of psychological safety was a persistent problem at NASA. Before the *Challenger* launch, some engineers did raise red flags but were silenced by managers; others were ignored and ended up silencing themselves. After the *Columbia* launch, an engineer asked for clearer photographs to inspect the damage to the wing, but managers didn’t supply them. In a critical meeting to evaluate the condition of the shuttle after takeoff, the engineer didn’t speak up.
 
@@ -1945,7 +1829,7 @@ It takes confident humility to admit that we’re a work in progress. It shows t
 
 But mindsets aren’t enough to transform a culture. Although psychological safety erases the fear of challenging authority, it doesn’t necessarily motivate us to question authority in the first place. To build a learning culture, we also need to create a specific kind of accountability—one that leads people to think again about the best practices in their workplaces.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000062.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000062.jpg)
 
 ### THE WORST THING ABOUT BEST PRACTICES
 
@@ -1963,7 +1847,7 @@ One of the most effective steps toward process accountability that I’ve seen i
 
 In learning cultures, people don’t stop keeping score. They expand the scorecard to consider processes as well as outcomes:
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000006.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000006.jpg)
 
 Even if the outcome of a decision is positive, it doesn’t necessarily qualify as a success. If the process was shallow, you were lucky. If the decision process was deep, you can count it as an improvement: you’ve discovered a better practice. If the outcome is negative, it’s a failure only if the decision process was shallow. If the result was negative but you evaluated the decision thoroughly, you’ve run a smart experiment.
 
@@ -1973,7 +1857,7 @@ Requiring proof is an enemy of progress. This is why companies like Amazon use a
 
 Process accountability isn’t just a matter of rewards and punishments. It’s also about who has decision authority. In a study of California banks, executives often kept approving additional loans to customers who’d already defaulted on a previous one. Since the bankers had signed off on the first loan, they were motivated to justify their initial decision. Interestingly, banks were more likely to identify and write off problem loans when they had high rates of executive turnover. If you’re not the person who greenlit the initial loan, you have every incentive to rethink the previous assessment of that customer. *If they’ve defaulted on the past nineteen loans, it’s probably time to adjust.* Rethinking is more likely when we separate the initial decision makers from the later decision evaluators.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000070.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000070.jpg)
 
 © Hayley Lewis, Sketchnote summary of *A Spectrum of Reasons for Failure.* Illustration drawn May 2020. London, United Kingdom. Copyright © 2020 by HALO Psychology Limited.
 
@@ -1999,7 +1883,7 @@ We can’t run experiments in the past; we can only imagine the counterfactual i
 
 ## Reconsidering Our Best-Laid Career and Life Plans
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+
 
 >   A malaise set in within a couple hours of my arriving. I thought getting a job might help. It turns out I have a lot of relatives in Hell, and, using connections, I became the assistant to a demon who pulls people’s teeth out. It wasn’t actually a job, more of an internship. But I was eager. And at first it was kind of interesting. After a while, though, you start asking yourself: Is this what I came to Hell for, to hand different kinds of pliers to a demon?
 >
@@ -2027,7 +1911,7 @@ Ryan decided that he couldn’t give up. He had gone too far to change course, s
 
 Today Ryan is a neurosurgeon at a major medical center. In his midthirties, he’s still in debt from student loans more than a decade after graduating from med school. Even though he enjoys helping people and caring for patients, the long hours and red tape undercut his enthusiasm. He tells me that if he could do it over, he would have gone a different route. I’ve often wondered what it would have taken to convince him to rethink his chosen line of work—and what he truly wanted out of a career.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000005.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000005.jpg)
 
 We all have notions of who we want to be and how we hope to lead our lives. They’re not limited to careers; from an early age, we develop ideas about where we’ll live, which school we’ll attend, what kind of person we’ll marry, and how many kids we’ll have. These images can inspire us to set bolder goals and guide us toward a path to achieve them. The danger of these plans is that they can give us tunnel vision, blinding us to alternative possibilities. We don’t know how time and circumstances will change what we want and even who we want to be, and locking our life GPS onto a single target can give us the right directions to the wrong destination.
 
@@ -2045,7 +1929,7 @@ Some kids dream too small. They foreclose on following in family footsteps and n
 
 Even if kids get excited about a career path that does prove realistic, what they thought was their dream job can turn out to be a nightmare. Kids might be better off learning about careers as actions to take rather than as identities to claim. When they see work as what they do rather than who they are, they become more open to exploring different possibilities.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000010.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000010.jpg)
 
 Although children are often fascinated by science from a young age, over the course of elementary school, they tend to lose interest and confidence in their potential to be scientists. Recent studies show that it’s possible to maintain their enthusiasm by introducing them to science differently. When second and third graders learned about “doing science” rather than “being scientists,” they were more excited about pursuing science. Becoming a scientist might seem out of reach, but the act of experimenting is something we can all try out. Even prekindergarten students express more interest in science when it’s presented as something we *do* rather than someone we *are*.
 
@@ -2065,7 +1949,7 @@ Sadly, they often know too little about the job—and too little about their evo
 
 My advice to students is to take a cue from health-care professions. Just as they make appointments with the doctor and the dentist even when nothing is wrong, they should schedule checkups on their careers. I encourage them to put a reminder in their calendars to ask some key questions twice a year. When did you form the aspirations you’re currently pursuing, and how have you changed since then? Have you reached a learning plateau in your role or your workplace, and is it time to consider a pivot? Answering these career checkup questions is a way to periodically activate rethinking cycles. It helps students maintain humility about their ability to predict the future, contemplate doubts about their plans, and stay curious enough to discover new possibilities or reconsider previously discarded ones.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000011.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000011.jpg)
 
 I had one student, Marissa Shandell, who scored a coveted job at a prestigious consulting firm and planned on climbing up the ladder. She kept getting promoted early but found herself working around the clock. Instead of continuing to just grit and bear it, she and her husband had a career checkup conversation every six months, talking not just about the growth trajectory of their companies but also about the growth trajectory of their jobs. After being promoted to associate partner well ahead of schedule, Marissa realized she had reached a learning plateau (and a lifestyle plateau) and decided to pursue a doctorate in management.[*](#calibre_link-950)
 
@@ -2085,7 +1969,7 @@ A successful relationship requires regular rethinking. Sometimes being considera
 
 Whether we do checkups with our partners, our parents, or our mentors, it’s worth pausing once or twice a year to reflect on how our aspirations have changed. As we identify past images of our lives that are no longer relevant to our future, we can start to rethink our plans. That can set us up for happiness—as long as we’re not too fixated on finding it.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000016.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000016.jpg)
 
 ### WHEN CHASING HAPPINESS CHASES IT AWAY
 
@@ -2107,7 +1991,7 @@ The scene stars Adam Sandler as a tour guide. In a mock commercial advertising h
 >
 >   Remember, you’re still gonna be *you* on vacation. If you are sad where you are, and then you get on a plane to Italy, the you in Italy will be the same sad you from before, just in a new place.
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000022.jpg)
+![img](https://libmind.github.io/img/b90_think_again/images/000022.jpg)
 
 © *Saturday Night Live*/NBC
 
@@ -2141,7 +2025,7 @@ At work and in life, the best we can do is plan for what we want to learn and co
 
 ------
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+
 
 we don’t have to upend our entire paths to rethink some of our plans. Some people are perfectly content with their fields of work but dissatisfied with their current roles. Others may be too risk averse to make a geographic move for a job or a partner. And many don’t have the luxury of making a pivot: being economically dependent on a job or emotionally attached to an extended family can limit the options available. Whether or not we have the opportunity or appetite for major changes in our lives, it’s still possible to make smaller adjustments that breathe new meaning into our days.
 
@@ -2161,7 +2045,7 @@ It takes humility to reconsider our past commitments, doubt to question our pres
 
 Epilogue
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+
 
 >   “What I believe” is a process rather than a finality.
 >
@@ -2211,7 +2095,7 @@ We can all improve at thinking again. Whatever conclusion we reach, I think the 
 
 Actions for Impact
 
-![img](https://cammel-yang.github.io/my_books/b90_think_again/images/000046.jpg)
+
 
 If you’re interested in working on your rethinking skills, here are my top thirty practical takeaways.
 
@@ -5085,7 +4969,7 @@ Zuckerberg, Mark, [8](#calibre_link-645)
 
 ADAM GRANT is an organizational psychologist at Wharton, where he has been the top-rated professor for seven straight years. He is one of TED's most popular speakers, his books have sold millions of copies, his talks have been viewed more than 25 million times, and his podcast *WorkLife with Adam Grant* has topped the charts. His pioneering research has inspired people to rethink fundamental assumptions about motivation, generosity, and creativity. He has been recognized as one of the world's 10 most influential management thinkers and *Fortune*'s 40 under 40, and has received distinguished scientific achievement awards from the American Psychological Association and the National Science Foundation. Adam received his B.A. from Harvard and his Ph.D. from the University of Michigan, and he is a former Junior Olympic springboard diver. He lives in Philadelphia with his wife and their three children.
 
-![Penguin Random House Next Reads logo](https://cammel-yang.github.io/my_books/b90_think_again/images/000049.jpg)
+![Penguin Random House Next Reads logo](https://libmind.github.io/img/b90_think_again/images/000049.jpg)
 
 # What’s next on your reading list?
 
