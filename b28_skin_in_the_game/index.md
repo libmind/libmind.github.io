@@ -3383,7 +3383,6 @@ The expectation of stopping time can be written as the probability of success un
 
 ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000055.jpg)
 
-We can express the stopping time condition in terms of uninterrupted success runs. Let Σ be the ordered set of consecutive success runs Σ 𝄘 {{*F* }, {SF}, {SSF},…, {(*M* − 1) consecutive *S,* *F*}}, where *S* is success and *F* is failure over period Δ*t*, with associated corresponding probabilities {(1 − *F**j*+), *F**j*+ (1 − *F**j*+), *F**j*+2 (1−*F**j*+) ,…., *F**j*+*M*−1 (1−*F**j*+)},
 
 ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000075.jpg)
 
