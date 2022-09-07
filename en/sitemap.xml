@@ -60,24 +60,8 @@
                     hreflang="en"
                     href="/"
                     /></url><url>
-            <loc>/categories/mythology/</loc><lastmod>2022-09-07T09:20:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="/zh-cn/categories/mythology/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/categories/mythology/"
-                    /></url><url>
-            <loc>/tags/mythology-and-modern-science/</loc><lastmod>2022-09-07T09:20:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="/zh-cn/tags/mythology-and-modern-science/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/tags/mythology-and-modern-science/"
-                    /></url><url>
+            <loc>/categories/mythology/</loc><lastmod>2022-09-07T09:20:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/tags/mythology-and-modern-science/</loc><lastmod>2022-09-07T09:20:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/posts/</loc><lastmod>2022-09-07T09:20:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
