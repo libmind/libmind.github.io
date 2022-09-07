@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/categories/</loc><lastmod>2022-09-07T12:24:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/categories/</loc><lastmod>2022-09-07T15:56:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="/ja/categories/"
@@ -31,7 +31,7 @@
                     hreflang="en"
                     href="/categories/"
                     /></url><url>
-            <loc>/</loc><lastmod>2022-09-07T12:24:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/</loc><lastmod>2022-09-07T15:56:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="/ja/"
@@ -60,7 +60,7 @@
                     hreflang="en"
                     href="/"
                     /></url><url>
-            <loc>/posts/</loc><lastmod>2022-09-07T12:24:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/posts/</loc><lastmod>2022-09-07T15:56:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="/ja/posts/"
@@ -89,57 +89,9 @@
                     hreflang="en"
                     href="/posts/"
                     /></url><url>
-            <loc>/tags/risk/</loc><lastmod>2022-09-07T12:24:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="ja"
-                        href="/ja/tags/risk/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="de"
-                        href="/de/tags/risk/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="es"
-                        href="/es/tags/risk/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="/fr/tags/risk/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="/ru/tags/risk/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/tags/risk/"
-                    /></url><url>
-            <loc>/categories/risk/</loc><lastmod>2022-09-07T12:24:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="ja"
-                        href="/ja/categories/risk/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="de"
-                        href="/de/categories/risk/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="es"
-                        href="/es/categories/risk/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="/fr/categories/risk/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="/ru/categories/risk/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/categories/risk/"
-                    /></url><url>
-            <loc>/b28_skin_in_the_game/</loc><lastmod>2022-09-07T12:24:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/tags/risk/</loc><lastmod>2022-09-07T15:56:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/categories/risk/</loc><lastmod>2022-09-07T15:56:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/b28_skin_in_the_game/</loc><lastmod>2022-09-07T15:56:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="/ja/b28_skin_in_the_game/"
@@ -168,7 +120,7 @@
                     hreflang="en"
                     href="/b28_skin_in_the_game/"
                     /></url><url>
-            <loc>/tags/</loc><lastmod>2022-09-07T12:24:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/tags/</loc><lastmod>2022-09-07T15:56:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="/ja/tags/"
