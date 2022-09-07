@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/de/categories/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/de/categories/</loc><lastmod>2022-09-07T15:18:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/categories/"
@@ -31,7 +31,36 @@
                     hreflang="de"
                     href="/de/categories/"
                     /></url><url>
-            <loc>/de/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/de/b28_skin_in_the_game/</loc><lastmod>2022-09-07T15:18:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/b28_skin_in_the_game/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/b28_skin_in_the_game/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/b28_skin_in_the_game/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/b28_skin_in_the_game/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="/ru/b28_skin_in_the_game/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/b28_skin_in_the_game/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="/de/b28_skin_in_the_game/"
+                    /></url><url>
+            <loc>/de/</loc><lastmod>2022-09-07T15:18:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/"
@@ -60,30 +89,7 @@
                     hreflang="de"
                     href="/de/"
                     /></url><url>
-            <loc>/de/tags/nachdenken/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/de/categories/nachdenken/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/de/b90_think_again/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="/b90_think_again/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="ja"
-                        href="/ja/b90_think_again/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="es"
-                        href="/es/b90_think_again/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="/zh-cn/b90_think_again/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="de"
-                    href="/de/b90_think_again/"
-                    /></url><url>
-            <loc>/de/posts/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/de/posts/</loc><lastmod>2022-09-07T15:18:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/posts/"
@@ -97,6 +103,14 @@
                         href="/es/posts/"
                         /><xhtml:link
                         rel="alternate"
+                        hreflang="fr"
+                        href="/fr/posts/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="/ru/posts/"
+                        /><xhtml:link
+                        rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/posts/"
                         /><xhtml:link
@@ -104,7 +118,57 @@
                     hreflang="de"
                     href="/de/posts/"
                     /></url><url>
-            <loc>/de/tags/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/de/tags/risk/</loc><lastmod>2022-09-07T15:18:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/tags/risk/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/tags/risk/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/tags/risk/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/tags/risk/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="/ru/tags/risk/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="/de/tags/risk/"
+                    /></url><url>
+            <loc>/de/categories/risk/</loc><lastmod>2022-09-07T15:18:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/categories/risk/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/categories/risk/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/categories/risk/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/categories/risk/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="/ru/categories/risk/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="/de/categories/risk/"
+                    /></url><url>
+            <loc>/de/tags/</loc><lastmod>2022-09-07T15:18:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/tags/"
@@ -132,6 +196,29 @@
                     rel="alternate"
                     hreflang="de"
                     href="/de/tags/"
+                    /></url><url>
+            <loc>/de/tags/nachdenken/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/de/categories/nachdenken/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/de/b90_think_again/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/b90_think_again/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/b90_think_again/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/b90_think_again/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/b90_think_again/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="/de/b90_think_again/"
                     /></url><url>
             <loc>/de/about/</loc><lastmod>2022-09-04T17:04:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"

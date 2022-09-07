@@ -3,9 +3,18 @@
         <title>libmind</title>
         <link>/de/</link>
         <description>libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Mon, 05 Sep 2022 14:21:53 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Wed, 07 Sep 2022 15:18:38 &#43;0800</lastBuildDate>
             <atom:link href="/de/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Die Hand im Spiel</title>
+    <link>/de/b28_skin_in_the_game/</link>
+    <pubDate>Wed, 07 Sep 2022 15:18:38 &#43;0800</pubDate>
+    <author>Autor</author>
+    <guid>/de/b28_skin_in_the_game/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/libmind.github.io/img/b28_skin_in_the_game/de.png" referrerpolicy="no-referrer">
+            </div>Versteckte Asymmetrien im täglichen Leben]]></description>
+</item><item>
     <title>Neu denken</title>
     <link>/de/b90_think_again/</link>
     <pubDate>Mon, 05 Sep 2022 14:21:53 &#43;0800</pubDate>

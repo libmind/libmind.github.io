@@ -77,6 +77,14 @@
                         hreflang="es"
                         href="/es/posts/"
                         /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/posts/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="/ru/posts/"
+                        /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="/zh-cn/posts/"
@@ -114,6 +122,26 @@
                         rel="alternate"
                         hreflang="en"
                         href="/b28_skin_in_the_game/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/b28_skin_in_the_game/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="de"
+                        href="/de/b28_skin_in_the_game/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/b28_skin_in_the_game/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/b28_skin_in_the_game/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="/ru/b28_skin_in_the_game/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
