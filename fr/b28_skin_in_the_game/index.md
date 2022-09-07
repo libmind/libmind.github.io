@@ -3341,7 +3341,7 @@ L'espérance du temps d'arrêt peut s'écrire comme la probabilité de succès s
 
 ![img](images/000055.jpg)
 
-Nous pouvons exprimer la condition de temps d'arrêt en termes de success runs ininterrompus. Soit Σ l'ensemble ordonné de succès consécutifs Σ 𝄘 {{F }, {SF}, {SSF},..., {*(M* - 1 ) consécutifs *S,* *F}}*, où *S* est un succès et *F* un échec sur la période Δt, avec les probabilités correspondantes associées {(1 - *F**j*+), *F**j*+ (1 - *F**j*+), *F**j*+2 (1-F*j*+) ,...., *F**j*+*M*-1 (1-F*j*+)},
+
 
 ![img](images/000075.jpg)
 

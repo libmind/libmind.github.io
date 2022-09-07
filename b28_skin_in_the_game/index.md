@@ -3384,6 +3384,7 @@ The expectation of stopping time can be written as the probability of success un
 ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000055.jpg)
 
 
+
 ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000075.jpg)
 
 For M large, since *F**j*+ ∈ (0,1) we can treat the previous as almost an equality, hence:

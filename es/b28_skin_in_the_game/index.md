@@ -3341,7 +3341,7 @@ La expectativa de tiempo de parada puede escribirse como la probabilidad de éxi
 
 ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000055.jpg)
 
-Podemos expresar la condición de tiempo de parada en términos de ejecuciones de éxito ininterrumpidas. Sea Σ el conjunto ordenado de ejecuciones de éxito consecutivas Σ 𝄘 {{F }, {SF}, {SSF},..., {*(M* - 1 ) consecutivas *S,* *F}}*, donde *S* es el éxito y *F* es el fracaso a lo largo del periodo Δt, con las correspondientes probabilidades asociadas {(1 - *F**j*+), *F**j*+ (1 - *F**j*+), *F**j*+2 (1-F*j*+) ,...., *F**j*+*M*-1 (1-F*j*+)},
+
 
 ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000075.jpg)
 

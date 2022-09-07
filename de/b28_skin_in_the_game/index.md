@@ -1,8 +1,6 @@
 # Die Hand im Spiel
 
 
-
-
 Dieses Buch steht zwar für sich allein, ist aber eine Fortsetzung der *Incerto-Sammlung*, die eine Kombination aus a) praktischen Diskussionen, b) philosophischen Erzählungen und c) wissenschaftlichen und analytischen Kommentaren zu den Problemen des Zufalls und dazu, wie man unter Unsicherheit lebt, isst, schläft, streitet, kämpft, sich anfreundet, arbeitet, Spaß hat und Entscheidungen trifft. Der *Incerto* ist zwar für eine breite Leserschaft zugänglich, aber lassen Sie sich nicht täuschen: Der *Incerto* ist ein Essay, keine Popularisierung von Arbeiten, die anderswo in langweiliger Form verfasst wurden (abgesehen vom technischen Begleiter des *Incerto*).
 
 In *"Skin in the Game* " geht es um vier Themen in einem: a) Ungewissheit und die Verlässlichkeit von Wissen (sowohl praktisch als auch wissenschaftlich, wenn man davon ausgeht, dass es einen Unterschied gibt), oder weniger höflich ausgedrückt: Bull***t Detection, b) Symmetrie in menschlichen Angelegenheiten, d. h. Fairness, Gerechtigkeit, Verantwortung und Gegenseitigkeit, c) Informationsaustausch bei Transaktionen und d) Rationalität in komplexen Systemen und in der realen Welt. Dass diese vier nicht voneinander getrennt werden können, ist offensichtlich, wenn man... selbst im Spiel ist.[*](#calibre_link-60)
@@ -57,7 +55,7 @@ Lassen Sie uns zunächst einige Punkte der obigen Liste mit zwei Vignetten verbi
 
 
 
-![Prologue, Part 1 Antaeus Whacked](images/000057.jpg)
+![Prologue, Part 1 Antaeus Whacked](https://libmind.github.io/img/b28_skin_in_the_game/images/000057.jpg)
 
 >   Never run away from Mamma-I keep finding warlords-Bob Rubin and his trade-Systeme wie Autounfälle
 
@@ -199,7 +197,7 @@ Lassen Sie uns nun den zweiten Teil des Prologs vertiefen und den Begriff der Sy
 
 
 
-![Prologue, Part 2 A Brief Tour of Symmetry](images/000060.jpg)
+![Prologue, Part 2 A Brief Tour of Symmetry](https://libmind.github.io/img/b28_skin_in_the_game/images/000060.jpg)
 
 >   Meta-Experten, die von Meta-Meta-Experten beurteilt werden - Prostituierte, Nicht-Prostituierte und Amateure - die Franzosen haben es mit Hammurabi - Dumas ist immer eine Ausnahme
 
@@ -235,7 +233,7 @@ Tabelle 1 zeigt die Entwicklung der Symmetrie-Regeln von Hammurabi an, also stei
 
 
 
-![Table 1 •  Evolution of Moral Symmetry From Taleb and Sandis, 2016 Hammurabi/Lex Talionis 15th Law of Holiness and Justi](images/000065.jpg)
+![Table 1 •  Evolution of Moral Symmetry From Taleb and Sandis, 2016 Hammurabi/Lex Talionis 15th Law of Holiness and Justi](https://libmind.github.io/img/b28_skin_in_the_game/images/000065.jpg)
 
 ## Silber übertrifft Gold
 
@@ -553,7 +551,7 @@ Manch einer mag sich fragen: Das Recht ist großartig, aber was soll man mit ein
 
 
 
-![Prologue, Part 3 T he Ribs of the Incerto](images/000072.jpg)
+![Prologue, Part 3 T he Ribs of the Incerto](https://libmind.github.io/img/b28_skin_in_the_game/images/000072.jpg)
 
 >   Sieben Seiten pro Sitzung, sieben Seiten pro Jahr ist das perfekte Tempo - Leser brauchen Wiederholer
 
@@ -629,19 +627,19 @@ Buch 8, "Risiko und Rationalität", enthält die beiden zentralen Kapitel, die i
 
 # Anhang: Asymmetrien im Leben und in den Dingen
 
-![Table 2 • Asymmetries in Society Where we left off in Antifragile No Skin in the Game Skin in the Game Skin in the Game ](images/000076.jpg)
+![Table 2 • Asymmetries in Society Where we left off in Antifragile No Skin in the Game Skin in the Game Skin in the Game ](https://libmind.github.io/img/b28_skin_in_the_game/images/000076.jpg)
 
 
 
 
 
-![Book 2 A First Look at Agency](images/000058.jpg)
+![Book 2 A First Look at Agency](https://libmind.github.io/img/b28_skin_in_the_game/images/000058.jpg)
 
 
 
 
 
-![Chapter 1 Why Each One Should Eat His Own Turtles: Equality in Uncertainty](images/000063.jpg)
+![Chapter 1 Why Each One Should Eat His Own Turtles: Equality in Uncertainty](https://libmind.github.io/img/b28_skin_in_the_game/images/000063.jpg)
 
 >   Geschmack der Schildkröte-Wo sind die neuen Kunden?-Scharia und Asymmetrie-Es gibt die Schweizer und andere Leute-Rav Safra und die Schweizer (aber andere Schweizer)
 
@@ -863,13 +861,13 @@ In diesem Kapitel haben wir uns mit dem Agenturproblem und der Risikoteilung bef
 
 
 
-![Book 3 That Greatest Asymmetry](images/000059.jpg)
+![Book 3 That Greatest Asymmetry](https://libmind.github.io/img/b28_skin_in_the_game/images/000059.jpg)
 
 
 
 
 
-![Chapter 2 The Most Intolerant Wins: T he Dominance of the Stubborn Minority](images/000069.jpg)
+![Chapter 2 The Most Intolerant Wins: T he Dominance of the Stubborn Minority](https://libmind.github.io/img/b28_skin_in_the_game/images/000069.jpg)
 
 >   Warum man in der Raucherabteilung nicht rauchen muss - Ihre Essensauswahl zum Sturz des saudischen Königs - Wie man einen Freund davon abhält, zu hart zu arbeiten - Marar Sharifs Bekehrung - Wie man einen Markt zum Einsturz bringt
 
@@ -881,7 +879,7 @@ Die Regel, die wir in diesem Kapitel behandeln, ist die *Minderheitenregel*, die
 
 Unter anderem wird uns die Minderheitenregel zeigen, dass es nur eine kleine Anzahl intoleranter, tugendhafter Menschen braucht, die sich mit Mut einbringen, damit die Gesellschaft funktioniert.
 
-![Figure 1.  The lemonade container with the circled U indicating it is (literally) kosher.](images/000079.jpg)
+![Figure 1.  The lemonade container with the circled U indicating it is (literally) kosher.](https://libmind.github.io/img/b28_skin_in_the_game/images/000079.jpg)
 
 **ABBILDUNG 1.** Der Limonadenbehälter mit dem eingekreisten U, das anzeigt, dass er (buchstäblich) koscher ist.
 
@@ -941,7 +939,7 @@ Die hier angewandte Analysemethode wird "Renormierungsgruppe" genannt, ein leist
 
 
 
-![Figure 2.  Renormalization group, steps one through three (start from the top): Four boxes containing four boxes, with one of the boxes dark at step one, with successive applications of the minority rule.](images/000089.jpg)
+![Figure 2.  Renormalization group, steps one through three (start from the top): Four boxes containing four boxes, with one of the boxes dark at step one, with successive applications of the minority rule.](https://libmind.github.io/img/b28_skin_in_the_game/images/000089.jpg)
 
 **ABBILDUNG 2.** Renormierungsgruppe, Schritte eins bis drei (beginnend von oben): Vier Kästchen mit vier Kästchen, wobei eines der Kästchen beim ersten Schritt dunkel ist, mit aufeinanderfolgenden Anwendungen der Minoritätsregel.
 
@@ -1119,7 +1117,7 @@ Wir haben im Prolog versprochen, zu erklären, dass die Sklaverei weiter verbrei
 
 
 
-![Appendix to book 3 A Few More Counterintuitive Things About the Collective](images/000005.jpg)
+![Appendix to book 3 A Few More Counterintuitive Things About the Collective](https://libmind.github.io/img/b28_skin_in_the_game/images/000005.jpg)
 
 Bei*Antifragile* ging es darum, dass der Durchschnitt bei Nichtlinearitäten und Asymmetrien, die der Minderheitenregel ähneln, nichts repräsentieren kann. Lassen Sie uns also noch weiter gehen:
 
@@ -1179,13 +1177,13 @@ Wenn man die Menschen in einer guten Struktur in Ruhe lässt, werden sie die Din
 
 
 
-![Book 4 Wolves Among Dogs](images/000014.jpg)
+![Book 4 Wolves Among Dogs](https://libmind.github.io/img/b28_skin_in_the_game/images/000014.jpg)
 
 
 
 
 
-![Chapter 3 How to Legally Own Another Person](images/000021.jpg)
+![Chapter 3 How to Legally Own Another Person](https://libmind.github.io/img/b28_skin_in_the_game/images/000021.jpg)
 
 >   Auch die Kirche hatte ihre Hippies-Koffer braucht kein Mathe-Vermeiden Sie Anwälte auf dem Oktoberfest-Das Expat-Leben endet eines Tages-Menschen, die Angestellte waren, signalisieren Domestizierung
 
@@ -1389,7 +1387,7 @@ Lassen Sie uns nun über die Achillesferse des Freien sprechen, der nicht so fre
 
 
 
-![Chapter 4 The Skin of Others in Your Game](images/000029.jpg)
+![Chapter 4 The Skin of Others in Your Game](https://libmind.github.io/img/b28_skin_in_the_game/images/000029.jpg)
 
 >   Wie man ein Whistleblower wird - James Bond ist kein Jesuitenpater, aber er ist Junggeselle - Professor Moriarty und Sherlock Holmes sind es auch - Totale Intelligenz in der PR-Firma Ketchum - Die Haut von Terroristen
 
@@ -1487,13 +1485,13 @@ In den letzten beiden Kapiteln haben wir uns mit dem Guten und dem Schlechten de
 
 
 
-![Book 5 Being Alive Means Taking Certain Risks](images/000037.jpg)
+![Book 5 Being Alive Means Taking Certain Risks](https://libmind.github.io/img/b28_skin_in_the_game/images/000037.jpg)
 
 
 
 
 
-![Chapter 5 Life in the Simulation Machine](images/000045.jpg)
+![Chapter 5 Life in the Simulation Machine](https://libmind.github.io/img/b28_skin_in_the_game/images/000045.jpg)
 
 >   Wie man sich anzieht, während man Borges und Proust liest - Es gibt viele Möglichkeiten, mit einem Eispickel zu überzeugen - Konzilien von zänkischen Bischöfen - Theosis - Warum Trump gewinnen wird (er hat tatsächlich gewonnen)
 
@@ -1559,7 +1557,7 @@ Andernfalls ähneln Sie der Person, die wir im nächsten Kapitel entlarven (was 
 
 
 
-![Chapter 6 The Intellectual Yet Idiot](images/000064.jpg)
+![Chapter 6 The Intellectual Yet Idiot](https://libmind.github.io/img/b28_skin_in_the_game/images/000064.jpg)
 
 >   Leute, die nicht mitspielen - Lipidphobien - Bring einem Professor das Kreuzheben bei
 
@@ -1627,7 +1625,7 @@ Als Nächstes hören wir mit der Satire auf und kehren zum Hauptthema des Buches
 
 
 
-![Chapter 7 Inequality and Skin in the Game](images/000074.jpg)
+![Chapter 7 Inequality and Skin in the Game](https://libmind.github.io/img/b28_skin_in_the_game/images/000074.jpg)
 
 >   Die Statik und die Dynamik - Wie man bankrott geht und von vielen geliebt wird - Pikettys Gleiche
 
@@ -1819,7 +1817,7 @@ Die Zeit ist der Experte. Oder besser gesagt, die temperamentvolle und rücksich
 
 
 
-![Chapter 8 An Expert Called Lindy](images/000084.jpg)
+![Chapter 8 An Expert Called Lindy](https://libmind.github.io/img/b28_skin_in_the_game/images/000084.jpg)
 
 >   Sie ist die einzige Expertin - Essen Sie nicht ihren Käsekuchen - Meta-Experten werden von Meta-Meta-Experten beurteilt - Prostituierte, Nicht-Prostituierte und Amateure
 
@@ -2021,13 +2019,13 @@ Die Geschichte war bereits in der Antike bekannt, allerdings in einer elegantere
 
 
 
-![Book 6 Deeper into Agency](images/000000.jpg)
+![Book 6 Deeper into Agency](https://libmind.github.io/img/b28_skin_in_the_game/images/000000.jpg)
 
 
 
 
 
-![Chapter 9 Surgeons Should Not Look Like Surgeons](images/000010.jpg)
+![Chapter 9 Surgeons Should Not Look Like Surgeons](https://libmind.github.io/img/b28_skin_in_the_game/images/000010.jpg)
 
 >   Literatur sieht nicht wie Literatur aus - Donaldo stellt Praktiker ein - Die Herrlichkeit der Bürokratie - Bringen Sie einem Professor bei, wie man sich tothebt - Wie man aussieht
 
@@ -2215,7 +2213,7 @@ In diesem Kapitel ist es gelungen, Gewichtheben und Grundlagenforschung unter de
 
 
 
-![Chapter 10 Only the Rich Are Poisoned: The Preferences of Others](images/000017.jpg)
+![Chapter 10 Only the Rich Are Poisoned: The Preferences of Others](https://libmind.github.io/img/b28_skin_in_the_game/images/000017.jpg)
 
 >   Der Verkäufer ist der Chef-Wie man Gift trinkt-Werbung und Manipulation-Die unerträgliche Stille großer Villen am Sonntagabend
 
@@ -2281,7 +2279,7 @@ Im nächsten Kapitel wird die Regel, *keine verbalen Drohungen aus* zusprechen, 
 
 
 
-![Chapter 11 Facta non Verba (Deeds Before Words)](images/000025.jpg)
+![Chapter 11 Facta non Verba (Deeds Before Words)](https://libmind.github.io/img/b28_skin_in_the_game/images/000025.jpg)
 
 >   Ein totes Pferd in deinem Bett - Freundschaft durch vergifteten Kuchen - Römische Kaiser und US-Präsidenten - Ein lebender Feind ist mehr wert als zehn tote
 
@@ -2361,7 +2359,7 @@ In Buch 2 von Platons *Republik* gibt es eine Diskussion zwischen Sokrates und P
 
 
 
-![Chapter 12 The Facts Are True, the News Is Fake](images/000032.jpg)
+![Chapter 12 The Facts Are True, the News Is Fake](https://libmind.github.io/img/b28_skin_in_the_game/images/000032.jpg)
 
 >   Ich habe nie gesagt, dass ich gesagt habe: Keine Nachrichten sind meistens Nachrichten - Informationen fließen in beide Richtungen.
 
@@ -2429,7 +2427,7 @@ Das nächste Kapitel wird uns zur Tugend als Teil des Spiels führen.
 
 
 
-![Chapter 13 The Merchandising of Virtue](images/000040.jpg)
+![Chapter 13 The Merchandising of Virtue](https://libmind.github.io/img/b28_skin_in_the_game/images/000040.jpg)
 
 >   Sontag ist über Sontag - Tugend ist das, was man tut, wenn niemand hinsieht - Trau dich, unpopulär zu sein - Begegnungen züchten Begegnungen - Ruf samstags nach dem Tennis jemanden an, der einsam ist
 
@@ -2549,7 +2547,7 @@ Mut (Risikobereitschaft) ist die höchste Tugend. Wir brauchen Unternehmer.
 
 
 
-![Chapter 14 Peace, Neither Ink nor Blood](images/000048.jpg)
+![Chapter 14 Peace, Neither Ink nor Blood](https://libmind.github.io/img/b28_skin_in_the_game/images/000048.jpg)
 
 >   Araber kämpfen bis zum letzten Palästinenser-Wo sind die Löwen?-Italiener sterben nicht so leicht-Historiker bauen Raketen-Handel macht Menschen gleich (oder ungleich, aber das ist ein anderes Thema)
 
@@ -2637,13 +2635,13 @@ Andere Bücher: James Davidsons *Courtesans and Fishcakes,* in dem man erfährt,
 
 
 
-![Book 7 Religion, Belief, and Skin in the Game](images/000067.jpg)
+![Book 7 Religion, Belief, and Skin in the Game](https://libmind.github.io/img/b28_skin_in_the_game/images/000067.jpg)
 
 
 
 
 
-![Chapter 15 They Don’t Know What They Are Talking About When They Talk about Religion](images/000077.jpg)
+![Chapter 15 They Don’t Know What They Are Talking About When They Talk about Religion](https://libmind.github.io/img/b28_skin_in_the_game/images/000077.jpg)
 
 >   Je mehr sie reden, desto weniger verstehst du - Gesetz oder nomous?- In der Religion, wie in anderen Dingen, bezahlst du für das Etikett
 
@@ -2709,7 +2707,7 @@ Abschließend möchte ich sagen, dass man sich vor Etiketten hüten sollte, wenn
 
 
 
-![Chapter 16 No Worship Without Skin in the Game](images/000087.jpg)
+![Chapter 16 No Worship Without Skin in the Game](https://libmind.github.io/img/b28_skin_in_the_game/images/000087.jpg)
 
 >   Symmetrie, Symmetrie überall - Glaube erfordert Eintrittsgeld
 
@@ -2771,7 +2769,7 @@ Die Stärke eines Glaubens beruht nicht auf "Beweisen" für die Macht seiner Gö
 
 
 
-![Chapter 17 Is the Pope Atheist?](images/000002.jpg)
+![Chapter 17 Is the Pope Atheist?](https://libmind.github.io/img/b28_skin_in_the_game/images/000002.jpg)
 
 >   Es ist gefährlich, Papst zu sein, aber man wird gut medizinisch versorgt - Reden ist nur Reden - Religion verwaltet Rituale
 
@@ -2815,13 +2813,13 @@ Dieses Kapitel erleichtert uns den Übergang zum nächsten Abschnitt: a) Rationa
 
 
 
-![Book 8 Risk and Rationality](images/000012.jpg)
+![Book 8 Risk and Rationality](https://libmind.github.io/img/b28_skin_in_the_game/images/000012.jpg)
 
 
 
 
 
-![Chapter 18 How to Be Rational About Rationality](images/000019.jpg)
+![Chapter 18 How to Be Rational About Rationality](https://libmind.github.io/img/b28_skin_in_the_game/images/000019.jpg)
 
 >   Restaurants ohne Küchen-Wissenschaft aus dem Grab-Do not shoot to left of piano players-Merchants of rationality
 
@@ -2855,7 +2853,7 @@ Mit anderen Worten: Man braucht die Wissenschaft nicht, um zu überleben (wir ha
 
 Und was verstehen wir unter "Überleben"? Das Überleben von wem? Von Ihnen? Eurer Familie? Eures Stammes? Der Menschheit? Beachten Sie zunächst, dass ich eine endliche Lebensdauer habe; mein Überleben ist nicht so wichtig wie das Überleben von Dingen, die keine begrenzte Lebenserwartung haben, wie die Menschheit oder der Planet Erde. Je "systemischer" die Dinge also sind, desto wichtiger ist das Überleben.
 
-![Figure 3.  An illustration of the bias-variance tradeoff. Assume two people (sober) shooting at a target in, say, Texas. The left shooter has a bias, a systematic “error,” but on balance gets closer to the target than the right shooter, who has no systematic bias but a high variance. Typically, you cannot reduce one without increasing the other. When fragile, the strategy at the left is the best: maintain a distance from ruin, that is, from hitting a point in the periphery should it be dangerous. This schema explains why if you want to minimize the probability of the plane crashing, you may make mistakes with impunity provided you lower your dispersion. ](images/000027.jpg)
+![Figure 3.  An illustration of the bias-variance tradeoff. Assume two people (sober) shooting at a target in, say, Texas. The left shooter has a bias, a systematic “error,” but on balance gets closer to the target than the right shooter, who has no systematic bias but a high variance. Typically, you cannot reduce one without increasing the other. When fragile, the strategy at the left is the best: maintain a distance from ruin, that is, from hitting a point in the periphery should it be dangerous. This schema explains why if you want to minimize the probability of the plane crashing, you may make mistakes with impunity provided you lower your dispersion. ](https://libmind.github.io/img/b28_skin_in_the_game/images/000027.jpg)
 
 **ABBILDUNG 3.** Eine Veranschaulichung des Kompromisses zwischen Verzerrung und Varianz. Angenommen, zwei Personen schießen (nüchtern) auf eine Zielscheibe in, sagen wir, Texas. Der linke Schütze hat eine Verzerrung, einen systematischen "Fehler", kommt aber unter dem Strich näher an das Ziel heran als der rechte Schütze, der keine systematische Verzerrung, aber eine hohe Varianz hat. Normalerweise kann man das eine nicht verringern, ohne das andere zu vergrößern. Bei Schwäche ist die Strategie auf der linken Seite die beste: Abstand halten vom Verderben, d. h. davon, einen Punkt in der Peripherie zu treffen, falls dies gefährlich sein sollte. Dieses Schema erklärt, warum man, wenn man die Wahrscheinlichkeit eines Absturzes minimieren will, ungestraft Fehler machen kann, wenn man die Streuung verringert.
 
@@ -2899,7 +2897,7 @@ Aberglauben kann ein Vektor für Risikomanagementregeln sein. Wir haben die Info
 
 
 
-![Figure 4.  The classical “large world vs small world” problem. Science is currently too incomplete to provide all answers—and says it itself. We have been so much under assault by vendors using “science” to sell products that many people, in their mind, confuse science and scientism. Science is mainly rigor in the process.](images/000034.jpg)
+![Figure 4.  The classical “large world vs small world” problem. Science is currently too incomplete to provide all answers—and says it itself. We have been so much under assault by vendors using “science” to sell products that many people, in their mind, confuse science and scientism. Science is mainly rigor in the process.](https://libmind.github.io/img/b28_skin_in_the_game/images/000034.jpg)
 
 **ABBILDUNG 4.** Das klassische Problem "große Welt gegen kleine Welt". Die Wissenschaft ist derzeit zu unvollständig, um alle Antworten zu geben - und sagt das auch selbst. Wir sind so sehr von Anbietern angegriffen worden, die die "Wissenschaft" nutzen, um Produkte zu verkaufen, dass viele Menschen in ihrem Denken Wissenschaft und Szientismus verwechseln. Wissenschaft ist vor allem Strenge im Prozess.
 
@@ -2969,11 +2967,11 @@ Rationalität ist Risikomanagement, Punkt. Das nächste Kapitel wird das letzte 
 
 
 
-![Chapter 19 The Logic of Risk Taking](images/000042.jpg)
+![Chapter 19 The Logic of Risk Taking](https://libmind.github.io/img/b28_skin_in_the_game/images/000042.jpg)
 
 >   Das zentrale Kapitel kommt immer zuletzt - Wetten Sie immer zweimal - Kennen Sie Ihren Onkel? - Wer ist "Sie"? - Die Griechen hatten fast immer Recht
 
-![Figure 5.  The difference between one hundred people going to a casino and one person going to a casino one hundred times, i.e. between path-dependent and conventionally understood probability. The mistake has persisted in economics and psychology since age immemorial.](images/000051.jpg)
+![Figure 5.  The difference between one hundred people going to a casino and one person going to a casino one hundred times, i.e. between path-dependent and conventionally understood probability. The mistake has persisted in economics and psychology since age immemorial.](https://libmind.github.io/img/b28_skin_in_the_game/images/000051.jpg)
 
 **ABBILDUNG 5**: Der Unterschied zwischen hundert Personen, die in ein Kasino gehen, und einer Person, die hundertmal in ein Kasino geht, d. h. zwischen pfadabhängiger und konventionell verstandener Wahrscheinlichkeit. Dieser Irrtum hat sich in der Wirtschaft und der Psychologie seit jeher gehalten.
 
@@ -3047,7 +3045,7 @@ Um den ergodischen Rahmen zu nutzen: Mein Tod beim russischen Roulette ist nicht
 
 
 
-![Figure 6.  Taking personal risks to save the collective are “courage” and “prudence” since you are lowering risks for the collective.](images/000070.jpg)
+![Figure 6.  Taking personal risks to save the collective are “courage” and “prudence” since you are lowering risks for the collective.](https://libmind.github.io/img/b28_skin_in_the_game/images/000070.jpg)
 
 **ABBILDUNG 6:** Persönliche Risiken einzugehen, um das Kollektiv zu retten, ist "Mut" und "Umsicht", da man die Risiken für das Kollektiv verringert.
 
@@ -3149,7 +3147,7 @@ Endlich:
 
 
 
-![Epilogue](images/000080.jpg)
+![Epilogue](https://libmind.github.io/img/b28_skin_in_the_game/images/000080.jpg)
 
 ## Was Lindy mir erzählt hat
 
@@ -3237,7 +3235,7 @@ Zwei Männer mit Mut:
 
 
 
-![Acknowledgments](images/000090.jpg)
+![Acknowledgments](https://libmind.github.io/img/b28_skin_in_the_game/images/000090.jpg)
 
 Ralph Nader; Ron Paul; Will Murphy (Redakteur, Berater, Korrekturleser, Syntaxexperte und -spezialist); Ben Greenberg (Redakteur); Casiana Ionita (Redakteurin); Molly Turpin; Mika Kasuga; Evan Camfield; Barbara Fillon; Will Goodlad; Peter Tanous; Xamer 'Bou Assaleh; Mark Baker (alias Guru Anaerobic); Armand d'Angour; Alexis Kirschbaum; Max Brockman; Russell Weinberger; Theodosius Mohsen Abdallah; David Boxenhorn; Marc Milanini; ETH-Teilnehmer in Zürich; Kevin Horgan; Paul Wehage; Baruch Gottesman, Gil Friend, Mark Champlain, Aaron Elliott, Rod Ripamonti und Zlatan Hadzic (alle über Religion und Opfer); David Graeber (Goldman Sachs); Neil Chriss; Amir-Reza Amini (automatische Autos); Ektrit Kris Manushi (Religion); Jazi Zilber (insbesondere Rav Safra); Farid Anvari (U.K. Skandal); Robert Shaw (Schifffahrt und Risikoteilung); Daniel Hogendoorn (Cambyses); Eugene Callahan; Jon Elster, David Chambliss Johnson, Gur Huberman, Raphael Douady, Robert Shaw, Barkley Rosser, James Franklin, Marc Abrahams, Andreas Lind, und Elias Korosis (alle auf Papier); John Durant; Zvika Afik; Robert Frey; Rami Zreik; Joe Audi; Guy Riviere; Matt Dubuque; Cesáreo González; Mark Spitznagel; Brandon Yarkin; Eric Briys; Joe Norman; Pascal Venier; Yaneer Bar-Yam; Thibault Lécuyer; Pierre Zalloua; Maximilian Hirner; Aaron Eliott; Jaffer Ali; Thomas Messina; Alexandru Panicci; Dan Coman; Nicholas Teague; Magued Iskander; Thibault Lécuyer; James Marsh; Arnie Schwarzvogel; Hayden Rei; John Mast-Finn; Rupert Read; Russell Roberts; Viktoria Martin; Ban Kanj Elsabeh; Vince Pomal; Graeme Michael Price; Karen Brennan; Jack Tohme; Marie-Christine Riachi; Jordan Thibodeau; Pietro Bonavita. Ich entschuldige mich für die fast vollständige Auslassung.
 
@@ -3245,7 +3243,7 @@ Ralph Nader; Ron Paul; Will Murphy (Redakteur, Berater, Korrekturleser, Syntaxex
 
 
 
-![Glossary](images/000006.jpg)
+![Glossary](https://libmind.github.io/img/b28_skin_in_the_game/images/000006.jpg)
 
 
 
@@ -3301,9 +3299,9 @@ Das Prinzip der Nächstenliebe: Üben Sie sich in intellektuellen Debatten in Sy
 
 
 
-![Technical Appendix](images/000015.jpg)
+![Technical Appendix](https://libmind.github.io/img/b28_skin_in_the_game/images/000015.jpg)
 
-![Figure 7.   The Bob Rubin trade.  Payoff in a skewed domain where the benefits are visible (and rewarded with some compensation) and the detriment is rare (and unpunished owing to absence of skin in the game). Can be generalized to politics, anything where the penalty is weak.](images/000022.jpg)
+![Figure 7.   The Bob Rubin trade.  Payoff in a skewed domain where the benefits are visible (and rewarded with some compensation) and the detriment is rare (and unpunished owing to absence of skin in the game). Can be generalized to politics, anything where the penalty is weak.](https://libmind.github.io/img/b28_skin_in_the_game/images/000022.jpg)
 
 **ABBILDUNG 7.** **Der Handel mit Bob Rubin.** Auszahlung in einem verzerrten Bereich, in dem die Vorteile sichtbar sind (und mit einer gewissen Entschädigung belohnt werden) und die Nachteile selten sind (und nicht bestraft werden, weil man nicht am Spiel teilnimmt). Kann auf die Politik verallgemeinert werden, auf alles, wo die Strafe schwach ist.
 
@@ -3317,49 +3315,47 @@ In diesem Abschnitt wird die probabilistische Fehlanpassung von Tail-Risiken und
 
 *P**(K, M*) sei die Auszahlung für den Betreiber über *M* Anreizperioden:
 
-![img](images/000081.jpg)
+![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000081.jpg)
 
-wobei ![img](images/000035.jpg) i.i.d. Zufallsvariablen, die die Verteilung der Gewinne über einen bestimmten Zeitraum*[t*, *t* + *iΔt*] darstellen, i ∈ ℕ, Δt ∈ ℝ+ und K eine "Hürde" ist ![img](images/000043.jpg) ist ein Indikator für den Zeitpunkt, an dem das Spiel endet, wenn die Bedingungen für die vergangene Leistung nicht erfüllt sind (d. h. die Bedingung, in einer bestimmten Anzahl von Vorjahren eine bestimmte Leistung erbracht zu haben, andernfalls endet der Strom der Auszahlungen, das Spiel endet und die Anzahl der positiven Anreize endet). Die Konstante 𝛾 ∈ (0,1) ist ein "Agentenauszahlungsbetrag" oder eine Kompensationsrate aus der Leistung, die nicht monetär sein muss (solange sie als "Nutzen" quantifiziert werden kann). Die Größe𝑞𝑡+(𝑖-𝟷)Δ𝑡 ∈ [1,∞) gibt den Umfang des Engagements zum Zeitpunkt *t+**(i-1* *)* Δt an (aufgrund einer Ito-Verzögerung, da die Leistung in der Periode *s* durch *q* in einer genau früheren Periode < *s* bestimmt wird).
+wobei ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000035.jpg) i.i.d. Zufallsvariablen, die die Verteilung der Gewinne über einen bestimmten Zeitraum*[t*, *t* + *iΔt*] darstellen, i ∈ ℕ, Δt ∈ ℝ+ und K eine "Hürde" ist ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000043.jpg) ist ein Indikator für den Zeitpunkt, an dem das Spiel endet, wenn die Bedingungen für die vergangene Leistung nicht erfüllt sind (d. h. die Bedingung, in einer bestimmten Anzahl von Vorjahren eine bestimmte Leistung erbracht zu haben, andernfalls endet der Strom der Auszahlungen, das Spiel endet und die Anzahl der positiven Anreize endet). Die Konstante 𝛾 ∈ (0,1) ist ein "Agentenauszahlungsbetrag" oder eine Kompensationsrate aus der Leistung, die nicht monetär sein muss (solange sie als "Nutzen" quantifiziert werden kann). Die Größe𝑞𝑡+(𝑖-𝟷)Δ𝑡 ∈ [1,∞) gibt den Umfang des Engagements zum Zeitpunkt *t+**(i-1* *)* Δt an (aufgrund einer Ito-Verzögerung, da die Leistung in der Periode *s* durch *q* in einer genau früheren Periode < *s* bestimmt wird).
 
-Sei {𝑓*j*} die Familie der Wahrscheinlichkeitsmaße 𝑓*j*von *X**j*, 𝑗 ∈ ℕ. Jedes Maß entspricht bestimmten Mittelwert-Schiefe-Merkmalen, und wir können ihre Eigenschaften auf beiden Seiten eines "Zentralitäts"-Parameters *K* als "obere" und "untere" Verteilungen in zwei Hälften aufteilen. Wir schreiben 𝑑𝐹*j*(𝑥) als 𝑓*j*(𝑥)𝑑𝑥, also ![img](images/000052.jpg) und ![img](images/000062.jpg)die "obere" und "untere" Verteilung, die jeweils einer bestimmten bedingten Erwartung entsprechen ![img](images/000082.jpg) und ![img](images/000091.jpg).
+Sei {𝑓*j*} die Familie der Wahrscheinlichkeitsmaße 𝑓*j*von *X**j*, 𝑗 ∈ ℕ. Jedes Maß entspricht bestimmten Mittelwert-Schiefe-Merkmalen, und wir können ihre Eigenschaften auf beiden Seiten eines "Zentralitäts"-Parameters *K* als "obere" und "untere" Verteilungen in zwei Hälften aufteilen. Wir schreiben 𝑑𝐹*j*(𝑥) als 𝑓*j*(𝑥)𝑑𝑥, also ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000052.jpg) und ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000062.jpg)die "obere" und "untere" Verteilung, die jeweils einer bestimmten bedingten Erwartung entsprechen ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000082.jpg) und ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000091.jpg).
 
-Definieren Sie nun 𝓿 ∈ ℝ+ als ein K-zentriertes nichtparametrisches Maß der Asymmetrie, ![img](images/000007.jpg)mit Werten >1 für positive Asymmetrie und <1 für negative Asymmetrie. Intuitiv hat die Schiefe zur Folge, dass sich Wahrscheinlichkeiten und Erwartungen in entgegengesetzte Richtungen bewegen: Je größer die negative Auszahlung ist, desto geringer ist die Wahrscheinlichkeit eines Ausgleichs.
+Definieren Sie nun 𝓿 ∈ ℝ+ als ein K-zentriertes nichtparametrisches Maß der Asymmetrie, ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000007.jpg)mit Werten >1 für positive Asymmetrie und <1 für negative Asymmetrie. Intuitiv hat die Schiefe zur Folge, dass sich Wahrscheinlichkeiten und Erwartungen in entgegengesetzte Richtungen bewegen: Je größer die negative Auszahlung ist, desto geringer ist die Wahrscheinlichkeit eines Ausgleichs.
 
 Wir gehen nicht von einem "fairen Spiel" aus, d. h. mit unbeschränkten Erträgen 𝑚 ∈ (-∞, ∞), *F**j*+ 𝔼*j*+ + *F**j*- 𝔼 *j*- = *m*, was wir als *m++m-=* *m* schreiben können *.*
 
 ## Vereinfachte Annahmen von konstantem q und einseitiger Stoppzeit
 
-Nehmen wir an, dass *q* konstant ist, *q* = 1, und vereinfachen wir die Bedingung, dass es in den vorangegangenen Perioden keine Verluste gab, ![img](images/000016.jpg)=inf{(𝑡+(𝑖-1)Δ𝑡)):𝑥Δ𝑡(𝑖-1)+𝑡 <𝐾} , was zu folgenden Ergebnissen führt
+Nehmen wir an, dass *q* konstant ist, *q* = 1, und vereinfachen wir die Bedingung, dass es in den vorangegangenen Perioden keine Verluste gab, ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000016.jpg)=inf{(𝑡+(𝑖-1)Δ𝑡)):𝑥Δ𝑡(𝑖-1)+𝑡 <𝐾} , was zu folgenden Ergebnissen führt
 
-![img](images/000023.jpg)
+![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000023.jpg)
 
 
 
-Da die Auszahlungen der Agenten unabhängig und identisch verteilt sind, entspricht der Erwartungswert zum Stoppzeitpunkt dem Erwartungswert zum Stoppzeitpunkt multipliziert mit der erwarteten Entschädigung für den Agenten 𝛾 𝔼*j*+. Und ![img](images/000030.jpg)![img](images/000038.jpg) ![img](images/000046.jpg).
+Da die Auszahlungen der Agenten unabhängig und identisch verteilt sind, entspricht der Erwartungswert zum Stoppzeitpunkt dem Erwartungswert zum Stoppzeitpunkt multipliziert mit der erwarteten Entschädigung für den Agenten 𝛾 𝔼*j*+. Und ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000030.jpg)![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000038.jpg) ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000046.jpg).
 
 Die Erwartung der Haltezeit kann als Erfolgswahrscheinlichkeit unter der Bedingung geschrieben werden, dass kein vorheriger Verlust vorliegt:
 
-![img](images/000055.jpg)
+![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000055.jpg)
 
-Wir können die Haltezeitbedingung in Form von ununterbrochenen Erfolgsläufen ausdrücken. Σ sei die geordnete Menge von aufeinanderfolgenden Erfolgsläufen Σ 𝄘 {{F }, {SF}, {SSF},..., {*(M* - 1 ) aufeinanderfolgende *S,* *F}}*, wobei *S* ein Erfolg und *F* ein Misserfolg im Zeitraum Δt ist, mit den zugehörigen entsprechenden Wahrscheinlichkeiten {(1 - *F**j*+), *F**j*+ (1 - *F**j*+), *F**j*+2 (1-F*j*+) ,...., *F**j*+*M*-1 (1-F*j*+)},
-
-![img](images/000075.jpg)
+![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000075.jpg)
 
 Für M groß, da *F**j*+ ∈ (0,1) können wir das Vorhergehende fast als Gleichheit behandeln, also:
 
-![img](images/000085.jpg)
+![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000085.jpg)
 
 Schließlich die erwartete Auszahlung für den Agenten:
 
-![img](images/000003.jpg)
+![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000003.jpg)
 
 die sich durch (i) Erhöhung von 𝔼*j*+, (ii) Minimierung der Wahrscheinlichkeit des Verlustes *F**j*-, aber, und das ist der Kernpunkt, selbst wenn (i) und (ii) auf Kosten von 𝑚 gehen*,* die Gesamterwartung aus dem Paket.
 
-![Figure 8.  Indy Mac, a failed firm during the subprime crisis (from Taleb 2009). It is a representative of risks that keep increasing in the absence of losses, until explosive blowup.](images/000061.jpg)
+![Figure 8.  Indy Mac, a failed firm during the subprime crisis (from Taleb 2009). It is a representative of risks that keep increasing in the absence of losses, until explosive blowup.](https://libmind.github.io/img/b28_skin_in_the_game/images/000061.jpg)
 
 **ABBILDUNG 8.** Indy Mac, ein gescheitertes Unternehmen während der Subprime-Krise (aus Taleb 2009). Es steht stellvertretend für Risiken, die bei ausbleibenden Verlusten immer weiter ansteigen, bis sie explosionsartig explodieren.
 
-Alarmierenderweise, da ![img](images/000071.jpg)ist dem Agenten eine Verschlechterung des erwarteten Gesamtertrags 𝑚 egal, wenn sie von der linken Seite der Verteilung, 𝑚-, kommt. Im Raum der Schiefe betrachtet, maximiert sich die erwartete Agentenauszahlung unter der Verteilung 𝑗 mit dem niedrigsten Wert von 𝓿*j* (maximale negative Asymmetrie). Der Gesamterwartungswert des positiven Anreizes ohne "Haut im Spiel" hängt von der negativen Schiefe ab, nicht von 𝑚.
+Alarmierenderweise, da ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000071.jpg)ist dem Agenten eine Verschlechterung des erwarteten Gesamtertrags 𝑚 egal, wenn sie von der linken Seite der Verteilung, 𝑚-, kommt. Im Raum der Schiefe betrachtet, maximiert sich die erwartete Agentenauszahlung unter der Verteilung 𝑗 mit dem niedrigsten Wert von 𝓿*j* (maximale negative Asymmetrie). Der Gesamterwartungswert des positiven Anreizes ohne "Haut im Spiel" hängt von der negativen Schiefe ab, nicht von 𝑚.
 
 
 
@@ -3379,9 +3375,9 @@ Weniger technische Übersetzung:
 
 ## Ein vereinfachter allgemeiner Fall
 
-Betrachten wir das extrem vereinfachte Beispiel einer Folge von unabhängigen Zufallsvariablen ![img](images/000001.jpg) mit Unterstützung der positiven reellen Zahlen(ℝ+). Die Konvergenztheoreme der klassischen Wahrscheinlichkeitstheorie befassen sich mit dem Verhalten der Summe oder des Durchschnitts: lim![img](images/000011.jpg) durch das (schwache) Gesetz der großen Zahlen (Konvergenz in der Wahrscheinlichkeitsrechnung). Wie in der Kasinogeschichte in Kapitel 19 gezeigt, führt *n* gegen unendlich zu einer wahrscheinlichen Konvergenz mit dem wahren Mittelwert *m*. Obwohl das Gesetz der großen Zahlen für Ziehungen *i* gilt, die zeitlich streng voneinander getrennt werden können, setzt es (eine gewisse) Unabhängigkeit voraus, insbesondere Pfadunabhängigkeit.
+Betrachten wir das extrem vereinfachte Beispiel einer Folge von unabhängigen Zufallsvariablen ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000001.jpg) mit Unterstützung der positiven reellen Zahlen(ℝ+). Die Konvergenztheoreme der klassischen Wahrscheinlichkeitstheorie befassen sich mit dem Verhalten der Summe oder des Durchschnitts: lim![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000011.jpg) durch das (schwache) Gesetz der großen Zahlen (Konvergenz in der Wahrscheinlichkeitsrechnung). Wie in der Kasinogeschichte in Kapitel 19 gezeigt, führt *n* gegen unendlich zu einer wahrscheinlichen Konvergenz mit dem wahren Mittelwert *m*. Obwohl das Gesetz der großen Zahlen für Ziehungen *i* gilt, die zeitlich streng voneinander getrennt werden können, setzt es (eine gewisse) Unabhängigkeit voraus, insbesondere Pfadunabhängigkeit.
 
-Betrachten Sie nun ![img](images/000018.jpg) wobei jede Zustandsvariable *X**i* durch eine Zeiteinheit *t* indexiert ist: 0 < *t* *< T.* Nehmen wir an, dass die "Zeitereignisse" aus genau derselben Wahrscheinlichkeitsverteilung gezogen werden: *P**(X**i*) = *P*(*X**i,t*).
+Betrachten Sie nun ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000018.jpg) wobei jede Zustandsvariable *X**i* durch eine Zeiteinheit *t* indexiert ist: 0 < *t* *< T.* Nehmen wir an, dass die "Zeitereignisse" aus genau derselben Wahrscheinlichkeitsverteilung gezogen werden: *P**(X**i*) = *P*(*X**i,t*).
 
 
 
@@ -3397,27 +3393,27 @@ Als nächstes folgt das, was wir als Versagen der Ergodizität bezeichnen:
 
 Der Beweis:
 
-![img](images/000031.jpg)
+![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000031.jpg)
 
-wobei ![img](images/000039.jpg) die Indikatorfunktion ist, die das Überleben in der vorangegangenen Periode voraussetzt. Daher zeigen die Grenzen von *n* für *t* eine abnehmende zeitliche Erwartung: 𝔼*Ν*(𝑋𝑡-1) ≤ 𝔼*Ν*(𝑋𝑡).
+wobei ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000039.jpg) die Indikatorfunktion ist, die das Überleben in der vorangegangenen Periode voraussetzt. Daher zeigen die Grenzen von *n* für *t* eine abnehmende zeitliche Erwartung: 𝔼*Ν*(𝑋𝑡-1) ≤ 𝔼*Ν*(𝑋𝑡).
 
 Wir können die Divergenz tatsächlich beweisen.
 
-![img](images/000047.jpg)
+![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000047.jpg)
 
 Wie wir sehen können, wenn wir *T* < *∞* machen*,* erhalten wir durch Rekursion des Gesetzes der iterierten Erwartungen die Ungleichung für alle *T.*
 
-Wir können sehen, dass die Gesamtheit der Risikoträger, die in jeder Periode t eine Rendite *m* ![img](images/000056.jpg) in *jeder* Periode *t* erwarten, während *jeder einzelne* Risikoträger garantiert irgendwann pleite geht.
+Wir können sehen, dass die Gesamtheit der Risikoträger, die in jeder Periode t eine Rendite *m* ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000056.jpg) in *jeder* Periode *t* erwarten, während *jeder einzelne* Risikoträger garantiert irgendwann pleite geht.
 
 Andere Ansätze: Wir können uns dem Beweis auch formaler auf maßtheoretische Weise nähern, indem wir zeigen, dass die Raummengen für "nonruin" 𝓐 zwar disjunkt sind, die Zeitmengen jedoch nicht. Der Ansatz beruht auf der Tatsache, dass für ein Maß 𝓿:
 
-![img](images/000066.jpg) ist nicht unbedingt gleich ![img](images/000086.jpg)
+![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000066.jpg) ist nicht unbedingt gleich ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000086.jpg)
 
 >   Fast alle Arbeiten, die sich mit der versicherungsmathematischen "Überschätzung" des Tail-Risikos durch Optionen befassen (siehe Übersicht in Barberis 2003), werden durch die Ungleichung in Theorem 1 hinfällig. Sie gehen eindeutig davon aus, dass ein Agent nur für eine einzige Entscheidung oder ein einziges Engagement existiert. Die Originalarbeiten, die den "Bias" dokumentieren, gehen einfach davon aus, dass die Agenten in ihrem verbleibenden Leben nie wieder eine andere Entscheidung treffen werden.
 
 
 
-Die übliche Lösung für diese Pfadabhängigkeit - wenn sie nur vom Ruin abhängt - erfolgt durch die Einführung einer Funktion von *X* , damit der (pfadunabhängige) Ensemble-Durchschnitt dieselben Eigenschaften wie der (pfadabhängige) Zeit-Durchschnitt - oder der überlebensbedingte Mittelwert - aufweist. Der natürliche Logarithmus scheint ein guter Kandidat zu sein. Daher ![img](images/000041.jpg) log*(X**i*) und ![img](images/000049.jpg) log*(X**t*) zur gleichen Wahrscheinlichkeitsklasse; daher ist ein Wahrscheinlichkeitsmaß für das eine invariant in Bezug auf das andere - was als Ergodizität bezeichnet wird. In diesem Sinne ist es bei der Analyse von Leistung und Risiko unter den Bedingungen des Ruins notwendig, eine logarithmische Transformation der Variablen (Peters 2011) oder die Begrenztheit des linken Endes (Kelly 1956) zu verwenden, während die Chancen im rechten Ende maximiert werden (Gell-Mann 2016) oder die Begrenztheit des linken Endes (Geman et al. 2015).
+Die übliche Lösung für diese Pfadabhängigkeit - wenn sie nur vom Ruin abhängt - erfolgt durch die Einführung einer Funktion von *X* , damit der (pfadunabhängige) Ensemble-Durchschnitt dieselben Eigenschaften wie der (pfadabhängige) Zeit-Durchschnitt - oder der überlebensbedingte Mittelwert - aufweist. Der natürliche Logarithmus scheint ein guter Kandidat zu sein. Daher ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000041.jpg) log*(X**i*) und ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000049.jpg) log*(X**t*) zur gleichen Wahrscheinlichkeitsklasse; daher ist ein Wahrscheinlichkeitsmaß für das eine invariant in Bezug auf das andere - was als Ergodizität bezeichnet wird. In diesem Sinne ist es bei der Analyse von Leistung und Risiko unter den Bedingungen des Ruins notwendig, eine logarithmische Transformation der Variablen (Peters 2011) oder die Begrenztheit des linken Endes (Kelly 1956) zu verwenden, während die Chancen im rechten Ende maximiert werden (Gell-Mann 2016) oder die Begrenztheit des linken Endes (Geman et al. 2015).
 
 >   Wir haben hier gezeigt, dass beide Erwartungen divergieren, es sei denn, man nimmt eine logarithmische Transformation (oder eine ähnlich glatte Funktion, die -∞ erzeugt, wobei der Ruin bei *X* = 0 liegt). Der ganze Sinn des Vorsorgeprinzips besteht darin, zu vermeiden, dass man sich auf Logarithmen oder Transformationen verlassen muss, indem man die Wahrscheinlichkeit des Ruins reduziert.
 >
@@ -3429,7 +3425,7 @@ Die übliche Lösung für diese Pfadabhängigkeit - wenn sie nur vom Ruin abhän
 
 \- Samuelson missbilligt den Logarithmus als aggressiv, da er nicht erkennt, dass ein Semilogarithmus (oder partieller Logarithmus), d. h. ein Teil des Reichtums, durchgeführt werden kann. Von Menger bis Arrow, über Chernoff und Samuelson wird gezeigt, dass viele Entscheidungstheoretiker den Fehler der Ergodizität begehen.
 
-\- Pitman zeigt 1975, dass eine Brownsche Bewegung, die einer absorbierenden Barriere bei 0 ausgesetzt ist, mit zensierten absorbierenden Pfaden zu einem dreidimensionalen Bessel-Prozess wird. Die Drift der überlebenden Pfade ist ![img](images/000068.jpg)die sich zu einem Logarithmus integriert.
+\- Pitman zeigt 1975, dass eine Brownsche Bewegung, die einer absorbierenden Barriere bei 0 ausgesetzt ist, mit zensierten absorbierenden Pfaden zu einem dreidimensionalen Bessel-Prozess wird. Die Drift der überlebenden Pfade ist ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000068.jpg)die sich zu einem Logarithmus integriert.
 
 \- Peters und Gell-Mann gewinnen den Logarithmus für die Ergodizität zurück und stellen darüber hinaus das Kelly-Thorpe-Ergebnis auf eine strenge physikalische Grundlage.
 
@@ -3447,19 +3443,19 @@ Das Problem ist im wirklichen Leben unveränderlich, wenn man einen stochastisch
 
 
 
-![otherwise](images/000026.jpg)
+![otherwise](https://libmind.github.io/img/b28_skin_in_the_game/images/000026.jpg)
 
 oder für ein geometrisches Verfahren:
 
 
 
-![otherwise](images/000033.jpg)
+![otherwise](https://libmind.github.io/img/b28_skin_in_the_game/images/000033.jpg)
 
 wobei *Z* eine Zufallsvariable ist.
 
-Für die kontinuierliche Zeit und den geometrischen Fall sei *![img](images/000016.jpg)*={inf 𝑡 : 𝑋 *i,t*> 𝐿} die Anhaltezeit sein. Die Idee ist, dass die einfache Erwartung der Haltezeit mit der verbleibenden Lebenszeit übereinstimmt - oder in der gleichen Reihenfolge bleibt.
+Für die kontinuierliche Zeit und den geometrischen Fall sei *![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000016.jpg)*={inf 𝑡 : 𝑋 *i,t*> 𝐿} die Anhaltezeit sein. Die Idee ist, dass die einfache Erwartung der Haltezeit mit der verbleibenden Lebenszeit übereinstimmt - oder in der gleichen Reihenfolge bleibt.
 
-Wir haben den Schwerpunkt von der Wahrscheinlichkeit auf die Diskrepanz zwischen der Abbruchzeit ![img](images/000016.jpg) für den Ruin und der verbleibenden Lebenszeit.
+Wir haben den Schwerpunkt von der Wahrscheinlichkeit auf die Diskrepanz zwischen der Abbruchzeit ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000016.jpg) für den Ruin und der verbleibenden Lebenszeit.
 
 # C. PRINZIP DER PROBABILISTISCHEN NACHHALTIGKEIT
 
@@ -3469,13 +3465,13 @@ Das Prinzip der Nachhaltigkeit ist für das folgende Argument notwendig. Währen
 
 
 
-![Figure 9.   Why ruin is not a renewable resource.  No matter how small the probability, in time, something bound to hit the ruin barrier is about guaranteed to hit it. No risk should be considered a “one-off” event.](images/000078.jpg)
+![Figure 9.   Why ruin is not a renewable resource.  No matter how small the probability, in time, something bound to hit the ruin barrier is about guaranteed to hit it. No risk should be considered a “one-off” event.](https://libmind.github.io/img/b28_skin_in_the_game/images/000078.jpg)
 
 **ABBILDUNG 9.** **Warum Ruinen keine erneuerbare Ressource sind.** Ganz gleich, wie gering die Wahrscheinlichkeit ist, mit der Zeit wird etwas, das die Ruinenbarriere treffen muss, diese mit ziemlicher Sicherheit treffen. Kein Risiko sollte als "einmaliges" Ereignis betrachtet werden.
 
 Jetzt müssen wir nicht mehr 𝑡 → ∞ nehmen, und es ist auch keine dauerhafte Nachhaltigkeit erforderlich. Wir können einfach die Haltbarkeitsdauer verlängern. Je länger *t* ist, desto mehr weichen die Erwartungsoperatoren voneinander ab.
 
-Betrachten wir die unbedingte erwartete Zeit bis zum Ruin in einem diskreten und vereinfachten Modell: ![img](images/000088.jpg), wobei ![img](images/000004.jpg) die Anzahl der Expositionen pro Zeitspanne, *T* die verbleibende Gesamtlebensdauer und *p* die Ruinwahrscheinlichkeit ist, jeweils über dieselbe Zeitspanne bei festem *p*. Da ![img](images/000013.jpg)ist, können wir das Risiko unter Wiederholung kalibrieren. Je länger die Lebenserwartung *T* (ausgedrückt in Zeiträumen) ist, desto gravierender ist das Ruinproblem. Menschen und Pflanzen haben eine kurze Haltbarkeitsdauer, die Natur nicht - zumindest für *t* in der Größenordnung von108 Jahren -, weshalb jährliche Ruinwahrscheinlichkeiten von *O*(10-8) und (für engere Abstufungen) lokale Ruinwahrscheinlichkeiten von höchstens *O*(10-50) gelten. Je höher in der Hierarchie Individuum-Arten-Ökosystem, desto gravierender das Ruinproblem. Diese Dualität hängt von 𝑡 → ∞ ab; daher ist die Anforderung nicht notwendig für Gegenstände, die nicht dauerhaft sind, die eine endliche Lebensdauer haben.
+Betrachten wir die unbedingte erwartete Zeit bis zum Ruin in einem diskreten und vereinfachten Modell: ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000088.jpg), wobei ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000004.jpg) die Anzahl der Expositionen pro Zeitspanne, *T* die verbleibende Gesamtlebensdauer und *p* die Ruinwahrscheinlichkeit ist, jeweils über dieselbe Zeitspanne bei festem *p*. Da ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000013.jpg)ist, können wir das Risiko unter Wiederholung kalibrieren. Je länger die Lebenserwartung *T* (ausgedrückt in Zeiträumen) ist, desto gravierender ist das Ruinproblem. Menschen und Pflanzen haben eine kurze Haltbarkeitsdauer, die Natur nicht - zumindest für *t* in der Größenordnung von108 Jahren -, weshalb jährliche Ruinwahrscheinlichkeiten von *O*(10-8) und (für engere Abstufungen) lokale Ruinwahrscheinlichkeiten von höchstens *O*(10-50) gelten. Je höher in der Hierarchie Individuum-Arten-Ökosystem, desto gravierender das Ruinproblem. Diese Dualität hängt von 𝑡 → ∞ ab; daher ist die Anforderung nicht notwendig für Gegenstände, die nicht dauerhaft sind, die eine endliche Lebensdauer haben.
 
 >   Das Argument der "fat tails": Je mehr ein System in der Lage ist, große Abweichungen zu liefern, desto schlimmer ist das Ruinenproblem.
 
@@ -3509,25 +3505,25 @@ Wahrscheinlichkeitsverteilungen reichen von extrem dünnschwänzigen (Bernoulli)
 
 Unser Interesse gilt der Unterscheidung zwischen Fällen, in denen Schwanzereignisse die Auswirkungen dominieren, als formale Definition der Grenze zwischen den Kategorien von Verteilungen, die als Mediokristan und Extremistan zu betrachten sind. Die natürliche Grenze zwischen diesen beiden Kategorien liegt in der subexponentiellen Klasse, die die folgende Eigenschaft hat:
 
-Sei **X** = ![img](images/000036.jpg) sei eine Folge unabhängiger und identisch verteilter Zufallsvariablen mit Unterstützung in (ℝ+), mit kumulativer Verteilungsfunktion *F*. Die subexponentielle Klasse von Verteilungen ist definiert durch (siehe Teugels 1975, Pitman 1980):
+Sei **X** = ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000036.jpg) sei eine Folge unabhängiger und identisch verteilter Zufallsvariablen mit Unterstützung in (ℝ+), mit kumulativer Verteilungsfunktion *F*. Die subexponentielle Klasse von Verteilungen ist definiert durch (siehe Teugels 1975, Pitman 1980):
 
-![img](images/000044.jpg)
+![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000044.jpg)
 
 wobei 𝐹*2 = 𝐹′ ∗ 𝐹 die kumulative Verteilung von *X1* + *X2* ist, der Summe zweier unabhängiger Kopien von *X*. Dies bedeutet, dass die Wahrscheinlichkeit, dass die Summe *X1* + *X2* einen Wert *x* überschreitet, doppelt so groß ist wie die Wahrscheinlichkeit, dass eine der beiden Variablen *x* überschreitet. Jedes Mal, wenn die Summe *x* übersteigt, ist der Wert der Summe bei ausreichend großen Werten von *x* also darauf zurückzuführen, dass entweder die eine oder die andere Variable *x - das* Maximum der beiden Variablen - übersteigt, und die andere Variable trägt nur unwesentlich dazu bei.
 
-Allgemeiner lässt sich zeigen, dass die Summe von *n* Variablen durch das Maximum der Werte über diese Variablen auf die gleiche Weise dominiert wird. Formal sind die folgenden beiden Eigenschaften äquivalent zur subexponentiellen Bedingung (siehe Chistyakov 1964, Embrechts et al. 1979). Für ein gegebenes *n* ≥ 2, seien ![img](images/000053.jpg) und *M**n* = max![img](images/000073.jpg)
+Allgemeiner lässt sich zeigen, dass die Summe von *n* Variablen durch das Maximum der Werte über diese Variablen auf die gleiche Weise dominiert wird. Formal sind die folgenden beiden Eigenschaften äquivalent zur subexponentiellen Bedingung (siehe Chistyakov 1964, Embrechts et al. 1979). Für ein gegebenes *n* ≥ 2, seien ![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000053.jpg) und *M**n* = max![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000073.jpg)
 
-a) lim![img](images/000083.jpg)
+a) lim![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000083.jpg)
 
 
 
-b) lim![img](images/000020.jpg)
+b) lim![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000020.jpg)
 
 Somit hat die Summe *S**n* die gleiche Größenordnung wie die größte Stichprobe *M**n*Dies ist eine andere Art zu sagen, dass die Schwänze die wichtigste Rolle spielen.
 
 Intuitiv sollten die Schwanzereignisse in subexponentiellen Verteilungen langsamer abnehmen als in einer Exponentialverteilung, für die große Schwanzereignisse irrelevant sein sollten. In der Tat kann man zeigen, dass subexponentielle Verteilungen keine exponentiellen Momente haben:
 
-![img](images/000028.jpg)
+![img](https://libmind.github.io/img/b28_skin_in_the_game/images/000028.jpg)
 
 für alle Werte von 𝜀 größer als Null. Der umgekehrte Fall ist jedoch nicht wahr, da Verteilungen keine exponentiellen Momente haben können, aber dennoch nicht die subexponentielle Bedingung erfüllen.
 
@@ -3541,7 +3537,7 @@ Wir weisen darauf hin, dass, wenn wir uns dafür entscheiden, Abweichungen als n
 
 
 
-![Notes](images/000092.jpg)
+![Notes](https://libmind.github.io/img/b28_skin_in_the_game/images/000092.jpg)
 
 ## Die Notizen sind nach Themen geordnet und nicht in der Reihenfolge ihrer Entstehung.
 
@@ -3607,7 +3603,7 @@ Gene und die Herrschaft von Minderheiten: Lazaridis (2017), Zalloua, private Ges
 
 
 
-![Bibliography](images/000008.jpg)
+![Bibliography](https://libmind.github.io/img/b28_skin_in_the_game/images/000008.jpg)
 
 Altham, J. E. J., 1984. "Ethics of Risk". *Proceedings of the Aristotelian Society,* neue Reihe, 84 (1983-1984): 15-29.
 
