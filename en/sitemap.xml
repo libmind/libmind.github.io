@@ -2,7 +2,36 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/categories/</loc><lastmod>2022-09-07T15:56:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/b01_a_man_for_all_markets/</loc><lastmod>2022-09-07T17:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/b01_a_man_for_all_markets/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="de"
+                        href="/de/b01_a_man_for_all_markets/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/b01_a_man_for_all_markets/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/b01_a_man_for_all_markets/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="/ru/b01_a_man_for_all_markets/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/b01_a_man_for_all_markets/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/b01_a_man_for_all_markets/"
+                    /></url><url>
+            <loc>/categories/</loc><lastmod>2022-09-07T17:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="/ja/categories/"
@@ -31,7 +60,7 @@
                     hreflang="en"
                     href="/categories/"
                     /></url><url>
-            <loc>/</loc><lastmod>2022-09-07T15:56:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/</loc><lastmod>2022-09-07T17:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="/ja/"
@@ -60,7 +89,7 @@
                     hreflang="en"
                     href="/"
                     /></url><url>
-            <loc>/posts/</loc><lastmod>2022-09-07T15:56:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/posts/</loc><lastmod>2022-09-07T17:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="/ja/posts/"
@@ -88,6 +117,37 @@
                     rel="alternate"
                     hreflang="en"
                     href="/posts/"
+                    /></url><url>
+            <loc>/tags/probability/</loc><lastmod>2022-09-07T17:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/categories/probability/</loc><lastmod>2022-09-07T17:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/tags/</loc><lastmod>2022-09-07T17:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="de"
+                        href="/de/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="/ru/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/tags/"
                     /></url><url>
             <loc>/tags/risk/</loc><lastmod>2022-09-07T15:56:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/categories/risk/</loc><lastmod>2022-09-07T15:56:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
@@ -120,38 +180,29 @@
                     hreflang="en"
                     href="/b28_skin_in_the_game/"
                     /></url><url>
-            <loc>/tags/</loc><lastmod>2022-09-07T15:56:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="ja"
-                        href="/ja/tags/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="de"
-                        href="/de/tags/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="es"
-                        href="/es/tags/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="/fr/tags/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="/ru/tags/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="/zh-cn/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/tags/"
-                    /></url><url>
             <loc>/categories/mythology/</loc><lastmod>2022-09-07T09:20:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/tags/mythology-and-modern-science/</loc><lastmod>2022-09-07T09:20:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/b27_the_magic_of_reality/</loc><lastmod>2022-09-07T09:20:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="ja"
+                        href="/ja/b27_the_magic_of_reality/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="de"
+                        href="/de/b27_the_magic_of_reality/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="es"
+                        href="/es/b27_the_magic_of_reality/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/b27_the_magic_of_reality/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="/ru/b27_the_magic_of_reality/"
+                        /><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/b27_the_magic_of_reality/"
@@ -160,17 +211,6 @@
                     hreflang="en"
                     href="/b27_the_magic_of_reality/"
                     /></url><url>
-            <loc>/b01_a_man_for_all_markets/</loc><lastmod>2022-09-06T16:29:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="/zh-cn/b01_a_man_for_all_markets/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/b01_a_man_for_all_markets/"
-                    /></url><url>
-            <loc>/tags/probability/</loc><lastmod>2022-09-06T16:29:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/categories/probability/</loc><lastmod>2022-09-06T16:29:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/b10_make_it_stick/</loc><lastmod>2022-09-05T17:35:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
