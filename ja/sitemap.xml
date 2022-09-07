@@ -178,14 +178,18 @@
                     hreflang="ja"
                     href="/ja/b27_the_magic_of_reality/"
                     /></url><url>
+            <loc>/ja/tags/%E7%A5%9E%E8%A9%B1/</loc><lastmod>2022-09-07T16:55:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/ja/categories/%E7%A5%9E%E8%A9%B1/</loc><lastmod>2022-09-07T16:55:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/ja/tags/%E7%A5%9E%E8%A9%B1%E3%81%A8%E7%8F%BE%E4%BB%A3%E7%A7%91%E5%AD%A6/</loc><lastmod>2022-09-07T16:55:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/ja/tags/%E3%83%AA%E3%82%B9%E3%82%AF/</loc><lastmod>2022-09-07T12:24:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/ja/categories/%E3%83%AA%E3%82%B9%E3%82%AF/</loc><lastmod>2022-09-07T12:24:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/ja/b28_skin_in_the_game/</loc><lastmod>2022-09-07T12:24:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/b28_skin_in_the_game/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="de"
+                        href="/de/b28_skin_in_the_game/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="es"

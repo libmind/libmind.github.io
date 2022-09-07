@@ -157,6 +157,10 @@
                         href="/ja/b28_skin_in_the_game/"
                         /><xhtml:link
                         rel="alternate"
+                        hreflang="de"
+                        href="/de/b28_skin_in_the_game/"
+                        /><xhtml:link
+                        rel="alternate"
                         hreflang="es"
                         href="/es/b28_skin_in_the_game/"
                         /><xhtml:link
@@ -176,8 +180,8 @@
                     hreflang="en"
                     href="/b28_skin_in_the_game/"
                     /></url><url>
+            <loc>/tags/mythology/</loc><lastmod>2022-09-07T09:20:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/categories/mythology/</loc><lastmod>2022-09-07T09:20:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/tags/mythology-and-modern-science/</loc><lastmod>2022-09-07T09:20:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/b27_the_magic_of_reality/</loc><lastmod>2022-09-07T09:20:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"

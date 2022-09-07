@@ -128,6 +128,10 @@
                         href="/ja/b28_skin_in_the_game/"
                         /><xhtml:link
                         rel="alternate"
+                        hreflang="de"
+                        href="/de/b28_skin_in_the_game/"
+                        /><xhtml:link
+                        rel="alternate"
                         hreflang="es"
                         href="/es/b28_skin_in_the_game/"
                         /><xhtml:link
@@ -174,8 +178,8 @@
                     hreflang="zh-cn"
                     href="/zh-cn/b27_the_magic_of_reality/"
                     /></url><url>
+            <loc>/zh-cn/tags/%E7%A5%9E%E8%AF%9D/</loc><lastmod>2022-09-07T09:55:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/zh-cn/categories/%E7%A5%9E%E8%AF%9D/</loc><lastmod>2022-09-07T09:55:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/zh-cn/tags/%E7%A5%9E%E8%AF%9D%E5%92%8C%E7%8E%B0%E4%BB%A3%E7%A7%91%E5%AD%A6/</loc><lastmod>2022-09-07T09:55:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/zh-cn/tags/%E6%A6%82%E7%8E%87/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/zh-cn/categories/%E6%A6%82%E7%8E%87/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/zh-cn/b01_a_man_for_all_markets/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link

@@ -178,8 +178,8 @@
                     hreflang="es"
                     href="/es/b27_the_magic_of_reality/"
                     /></url><url>
+            <loc>/es/tags/mitolog%C3%ADa/</loc><lastmod>2022-09-07T17:05:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/es/categories/mitolog%C3%ADa/</loc><lastmod>2022-09-07T17:05:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/es/tags/mitolog%C3%ADa-y-ciencia-moderna/</loc><lastmod>2022-09-07T17:05:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/es/b28_skin_in_the_game/</loc><lastmod>2022-09-07T15:52:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -188,6 +188,10 @@
                         rel="alternate"
                         hreflang="ja"
                         href="/ja/b28_skin_in_the_game/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="de"
+                        href="/de/b28_skin_in_the_game/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
