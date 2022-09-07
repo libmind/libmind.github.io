@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/zh-cn/categories/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/zh-cn/categories/</loc><lastmod>2022-09-07T09:35:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/categories/"
@@ -31,7 +31,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/categories/"
                     /></url><url>
-            <loc>/zh-cn/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/zh-cn/</loc><lastmod>2022-09-07T09:35:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/"
@@ -60,7 +60,25 @@
                     hreflang="zh-cn"
                     href="/zh-cn/"
                     /></url><url>
-            <loc>/zh-cn/posts/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/zh-cn/categories/mythology/</loc><lastmod>2022-09-07T09:35:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/categories/mythology/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/zh-cn/categories/mythology/"
+                    /></url><url>
+            <loc>/zh-cn/tags/mythology-and-modern-science/</loc><lastmod>2022-09-07T09:35:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/tags/mythology-and-modern-science/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/zh-cn/tags/mythology-and-modern-science/"
+                    /></url><url>
+            <loc>/zh-cn/posts/</loc><lastmod>2022-09-07T09:35:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/posts/"
@@ -81,7 +99,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/posts/"
                     /></url><url>
-            <loc>/zh-cn/tags/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/zh-cn/tags/</loc><lastmod>2022-09-07T09:35:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/tags/"
@@ -110,62 +128,71 @@
                     hreflang="zh-cn"
                     href="/zh-cn/tags/"
                     /></url><url>
-            <loc>/zh-cn/tags/%E6%A6%82%E7%8E%87/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/zh-cn/categories/%E6%A6%82%E7%8E%87/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/zh-cn/a_man_for_all_markets/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/zh-cn/b27_the_magic_of_reality/</loc><lastmod>2022-09-07T09:35:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/a_man_for_all_markets/"
+                        href="/b27_the_magic_of_reality/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/zh-cn/a_man_for_all_markets/"
+                    href="/zh-cn/b27_the_magic_of_reality/"
+                    /></url><url>
+            <loc>/zh-cn/tags/%E6%A6%82%E7%8E%87/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/zh-cn/categories/%E6%A6%82%E7%8E%87/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/zh-cn/b01_a_man_for_all_markets/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/b01_a_man_for_all_markets/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/zh-cn/b01_a_man_for_all_markets/"
                     /></url><url>
             <loc>/zh-cn/tags/%E8%87%AA%E5%AD%A6%E6%96%B9%E6%B3%95/</loc><lastmod>2022-09-05T17:34:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/zh-cn/categories/%E8%87%AA%E5%AD%A6%E6%96%B9%E6%B3%95/</loc><lastmod>2022-09-05T17:34:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/zh-cn/make_it_stick/</loc><lastmod>2022-09-05T17:34:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/zh-cn/b10_make_it_stick/</loc><lastmod>2022-09-05T17:34:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/make_it_stick/"
+                        href="/b10_make_it_stick/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/zh-cn/make_it_stick/"
+                    href="/zh-cn/b10_make_it_stick/"
                     /></url><url>
-            <loc>/zh-cn/other_peoples_money/</loc><lastmod>2022-09-05T17:30:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/zh-cn/b45_other_peoples_money/</loc><lastmod>2022-09-05T17:30:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/other_peoples_money/"
+                        href="/b45_other_peoples_money/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/zh-cn/other_peoples_money/"
+                    href="/zh-cn/b45_other_peoples_money/"
                     /></url><url>
             <loc>/zh-cn/tags/%E8%B5%84%E6%9C%AC/</loc><lastmod>2022-09-05T17:30:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/zh-cn/categories/%E8%B5%84%E6%9C%AC/</loc><lastmod>2022-09-05T17:30:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/zh-cn/tags/%E9%93%B6%E8%A1%8C%E5%AE%B6/</loc><lastmod>2022-09-05T17:30:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/zh-cn/tags/%E6%80%9D%E8%80%83/</loc><lastmod>2022-09-03T18:43:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>/zh-cn/categories/%E6%80%9D%E8%80%83/</loc><lastmod>2022-09-03T18:43:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/zh-cn/think_again/</loc><lastmod>2022-09-03T18:43:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>/zh-cn/b90_think_again/</loc><lastmod>2022-09-03T18:43:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/think_again/"
+                        href="/b90_think_again/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="ja"
-                        href="/ja/think_again/"
+                        href="/ja/b90_think_again/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="de"
-                        href="/de/think_again/"
+                        href="/de/b90_think_again/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="es"
-                        href="/es/think_again/"
+                        href="/es/b90_think_again/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="/zh-cn/think_again/"
+                    href="/zh-cn/b90_think_again/"
                     /></url><url>
             <loc>/zh-cn/about/</loc><lastmod>2022-07-13T09:52:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"

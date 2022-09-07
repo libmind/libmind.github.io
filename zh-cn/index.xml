@@ -3,37 +3,46 @@
         <title>libmind</title>
         <link>/zh-cn/</link>
         <description>libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 06 Sep 2022 17:04:20 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 07 Sep 2022 09:35:28 &#43;0800</lastBuildDate>
             <atom:link href="/zh-cn/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>The Magic of Reality</title>
+    <link>/zh-cn/b27_the_magic_of_reality/</link>
+    <pubDate>Wed, 07 Sep 2022 09:35:28 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/zh-cn/b27_the_magic_of_reality/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/libmind.github.io/img/b27_the_magic_of_reality/zh.png" referrerpolicy="no-referrer">
+            </div>How We Know What&rsquo;s Really True]]></description>
+</item><item>
     <title>通吃市场的人</title>
-    <link>/zh-cn/a_man_for_all_markets/</link>
+    <link>/zh-cn/b01_a_man_for_all_markets/</link>
     <pubDate>Tue, 06 Sep 2022 17:04:20 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/zh-cn/a_man_for_all_markets/</guid>
+    <guid>/zh-cn/b01_a_man_for_all_markets/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/https:/libmind.github.io/img/b01_a_man_for_all_markets/long_zh.png" referrerpolicy="no-referrer">
             </div>从拉斯维加斯到华尔街，如何击败庄家和市场]]></description>
 </item><item>
     <title>让所学和你相关</title>
-    <link>/zh-cn/make_it_stick/</link>
+    <link>/zh-cn/b10_make_it_stick/</link>
     <pubDate>Mon, 05 Sep 2022 17:34:15 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/zh-cn/make_it_stick/</guid>
+    <guid>/zh-cn/b10_make_it_stick/</guid>
     <description><![CDATA[学必有成的科学]]></description>
 </item><item>
     <title>别人的钱</title>
-    <link>/zh-cn/other_peoples_money/</link>
+    <link>/zh-cn/b45_other_peoples_money/</link>
     <pubDate>Mon, 05 Sep 2022 17:30:27 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/zh-cn/other_peoples_money/</guid>
+    <guid>/zh-cn/b45_other_peoples_money/</guid>
     <description><![CDATA[银行家们如何用别人的钱？]]></description>
 </item><item>
     <title>重新思考</title>
-    <link>/zh-cn/think_again/</link>
+    <link>/zh-cn/b90_think_again/</link>
     <pubDate>Sat, 03 Sep 2022 18:43:49 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/zh-cn/think_again/</guid>
+    <guid>/zh-cn/b90_think_again/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/https:/libmind.github.io/img/b90_think_again/think_again_long_zh.png" referrerpolicy="no-referrer">
             </div>了解你所未知事物的力量]]></description>
