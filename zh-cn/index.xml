@@ -3,9 +3,18 @@
         <title>libmind</title>
         <link>/zh-cn/</link>
         <description>libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 07 Sep 2022 12:25:40 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 10 Sep 2022 13:04:41 &#43;0800</lastBuildDate>
             <atom:link href="/zh-cn/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>有限游戏和无限游戏</title>
+    <link>/zh-cn/e03_finite_and_infinite_games/</link>
+    <pubDate>Sat, 10 Sep 2022 13:04:41 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/zh-cn/e03_finite_and_infinite_games/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/libmind.github.io/img/e03_finite_and_infinite_games/zh.png" referrerpolicy="no-referrer">
+            </div>将生命视为一种游戏和愿景]]></description>
+</item><item>
     <title>非对称风险</title>
     <link>/zh-cn/b28_skin_in_the_game/</link>
     <pubDate>Wed, 07 Sep 2022 12:25:40 &#43;0800</pubDate>
