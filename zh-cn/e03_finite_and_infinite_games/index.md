@@ -1,7 +1,7 @@
 # 有限游戏和无限游戏
 
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000003.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000003.jpg)
 
 ### 1
 
@@ -391,7 +391,7 @@
 
 邪恶不是将有限游戏纳入无限游戏，而是将所有游戏限制在一个或另一个有限游戏中。
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000001.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000001.jpg)
 
 ### 32
 
@@ -675,7 +675,7 @@
 
 诗人不能杀人；他们死了。形而上学不能死；它杀人。
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000006.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000006.jpg)
 
 ### 51
 
@@ -849,7 +849,7 @@
 
 无限的恋人符合他人的性期待，这种方式并没有暴露出一些隐藏的东西，而是揭开了一些显而易见的东西：性接触是自由人的诗意。在这种暴露中，他们作为他们自己的人出现。他们带着自己的局限去见别人，而不是在自己的局限中见别人。在这样做的过程中，他们期待着被改变--而且是被改变。
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000010.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000010.jpg)
 
 ### 63
 
@@ -941,7 +941,7 @@
 
 如果有限游戏的目标是为其永恒性赢得冠军，从而为自己赢得永恒的生命，那么无限游戏的本质是与时间性的矛盾接触，梅斯特-艾克哈特称之为 "永恒的诞生"。
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000007.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000007.jpg)
 
 ### 70
 
@@ -1087,7 +1087,7 @@
 
 当历史学家看到任何始于自由的东西都不可能以必然性结束时，他们就会成为无限的发言者。
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000009.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000009.jpg)
 
 ### 80
 
@@ -1271,7 +1271,7 @@
 
 大自然的无家可归，它对人类的存在完全漠不关心，向无限的玩家透露，大自然是戏剧性的天才。
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000004.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000004.jpg)
 
 ### 94
 
@@ -1369,11 +1369,11 @@
 
 只有一个无限的游戏。
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000011.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000011.jpg)
 
 ## 索引
 
-![images](https://libmind.github.io/img/e03_finite_and_infinite_gamesimages/000011.jpg)
+![images](https://libmind.github.io/img/e03_finite_and_infinite_games/images/000011.jpg)
 
 条目后面的数字指的是*章节。*
 
