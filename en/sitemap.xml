@@ -2,7 +2,34 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/categories/</loc><lastmod>2022-09-10T13:04:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>/e10_a_thousand_brains/</loc><lastmod>2022-09-18T16:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/e10_a_thousand_brains/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/e10_a_thousand_brains/"
+                    /></url><url>
+            <loc>/tags/brain/</loc><lastmod>2022-09-18T16:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/tags/brain/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/tags/brain/"
+                    /></url><url>
+            <loc>/categories/brain/</loc><lastmod>2022-09-18T16:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/categories/brain/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/categories/brain/"
+                    /></url><url>
+            <loc>/categories/</loc><lastmod>2022-09-18T16:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="/ja/categories/"
@@ -31,35 +58,7 @@
                     hreflang="en"
                     href="/categories/"
                     /></url><url>
-            <loc>/e03_finite_and_infinite_games/</loc><lastmod>2022-09-10T13:04:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="/zh-cn/e03_finite_and_infinite_games/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/e03_finite_and_infinite_games/"
-                    /></url><url>
-            <loc>/e10_a_thousand_brains/</loc><lastmod>2022-09-10T13:04:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>/tags/infinite/</loc><lastmod>2022-09-10T13:04:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="/zh-cn/tags/infinite/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/tags/infinite/"
-                    /></url><url>
-            <loc>/categories/infinite/</loc><lastmod>2022-09-10T13:04:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="/zh-cn/categories/infinite/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/categories/infinite/"
-                    /></url><url>
-            <loc>/</loc><lastmod>2022-09-10T13:04:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>/</loc><lastmod>2022-09-18T16:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="/ja/"
@@ -88,7 +87,7 @@
                     hreflang="en"
                     href="/"
                     /></url><url>
-            <loc>/posts/</loc><lastmod>2022-09-10T13:04:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>/posts/</loc><lastmod>2022-09-18T16:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="/ja/posts/"
@@ -117,7 +116,7 @@
                     hreflang="en"
                     href="/posts/"
                     /></url><url>
-            <loc>/tags/</loc><lastmod>2022-09-10T13:04:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>/tags/</loc><lastmod>2022-09-18T16:46:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="/ja/tags/"
@@ -145,6 +144,33 @@
                     rel="alternate"
                     hreflang="en"
                     href="/tags/"
+                    /></url><url>
+            <loc>/e03_finite_and_infinite_games/</loc><lastmod>2022-09-10T13:04:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/e03_finite_and_infinite_games/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/e03_finite_and_infinite_games/"
+                    /></url><url>
+            <loc>/tags/infinite/</loc><lastmod>2022-09-10T13:04:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/tags/infinite/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/tags/infinite/"
+                    /></url><url>
+            <loc>/categories/infinite/</loc><lastmod>2022-09-10T13:04:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/categories/infinite/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/categories/infinite/"
                     /></url><url>
             <loc>/b01_a_man_for_all_markets/</loc><lastmod>2022-09-07T17:24:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
                         rel="alternate"

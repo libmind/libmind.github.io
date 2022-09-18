@@ -3,9 +3,18 @@
         <title>libmind</title>
         <link>/</link>
         <description>libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 Sep 2022 13:04:41 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 18 Sep 2022 16:46:29 &#43;0800</lastBuildDate>
             <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>A Thousand Brains</title>
+    <link>/e10_a_thousand_brains/</link>
+    <pubDate>Sun, 18 Sep 2022 16:46:29 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/e10_a_thousand_brains/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/libmind.github.io/img/e10_a_thousand_brains/en.png" referrerpolicy="no-referrer">
+            </div>A New Theory of Intelligence]]></description>
+</item><item>
     <title>Finite and Infinite Games</title>
     <link>/e03_finite_and_infinite_games/</link>
     <pubDate>Sat, 10 Sep 2022 13:04:41 &#43;0800</pubDate>
@@ -13,15 +22,6 @@
     <guid>/e03_finite_and_infinite_games/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/https:/libmind.github.io/img/e03_finite_and_infinite_games/en.png" referrerpolicy="no-referrer">
-            </div>A Vision of Life as Play and Possibility]]></description>
-</item><item>
-    <title>Finite and Infinite Games</title>
-    <link>/e10_a_thousand_brains/</link>
-    <pubDate>Sat, 10 Sep 2022 13:04:41 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>/e10_a_thousand_brains/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/e10_a_thousand_brains/en.png" referrerpolicy="no-referrer">
             </div>A Vision of Life as Play and Possibility]]></description>
 </item><item>
     <title>A Man for All Markets</title>

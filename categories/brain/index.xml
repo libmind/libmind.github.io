@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>brain - Category - libmind</title>
+        <link>/categories/brain/</link>
+        <description>brain - Category - libmind</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 18 Sep 2022 16:46:29 &#43;0800</lastBuildDate><atom:link href="/categories/brain/" rel="self" type="application/rss+xml" /><item>
+    <title>A Thousand Brains</title>
+    <link>/e10_a_thousand_brains/</link>
+    <pubDate>Sun, 18 Sep 2022 16:46:29 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/e10_a_thousand_brains/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/libmind.github.io/img/e10_a_thousand_brains/en.png" referrerpolicy="no-referrer">
+            </div>A New Theory of Intelligence]]></description>
+</item></channel>
+</rss>

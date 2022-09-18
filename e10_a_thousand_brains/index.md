@@ -1,4 +1,4 @@
-# Finite and Infinite Games
+# A Thousand Brains
 
 
 

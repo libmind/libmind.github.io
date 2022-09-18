@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Todo Artículos - libmind-es</title>
+        <title>Todo Artículos - libmind</title>
         <link>/es/posts/</link>
-        <description>Todo Artículos | libmind-es</description>
+        <description>Todo Artículos | libmind</description>
         <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Wed, 07 Sep 2022 17:24:05 &#43;0800</lastBuildDate><atom:link href="/es/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Un hombre para todos los mercados</title>
     <link>/es/b01_a_man_for_all_markets/</link>

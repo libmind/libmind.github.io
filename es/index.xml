@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>libmind-es</title>
+        <title>libmind</title>
         <link>/es/</link>
         <description>libmind</description>
         <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Wed, 07 Sep 2022 17:24:05 &#43;0800</lastBuildDate>
