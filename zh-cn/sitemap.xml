@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://libmind.github.io/zh-cn/categories/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://libmind.github.io/zh-cn/categories/</loc><lastmod>2022-09-26T13:18:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/categories/"
@@ -31,7 +31,7 @@
                     hreflang="zh-cn"
                     href="https://libmind.github.io/zh-cn/categories/"
                     /></url><url>
-            <loc>https://libmind.github.io/zh-cn/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://libmind.github.io/zh-cn/</loc><lastmod>2022-09-26T13:18:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/"
@@ -60,7 +60,7 @@
                     hreflang="zh-cn"
                     href="https://libmind.github.io/zh-cn/"
                     /></url><url>
-            <loc>https://libmind.github.io/zh-cn/posts/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://libmind.github.io/zh-cn/posts/</loc><lastmod>2022-09-26T13:18:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/posts/"
@@ -89,7 +89,7 @@
                     hreflang="zh-cn"
                     href="https://libmind.github.io/zh-cn/posts/"
                     /></url><url>
-            <loc>https://libmind.github.io/zh-cn/tags/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://libmind.github.io/zh-cn/tags/</loc><lastmod>2022-09-26T13:18:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/tags/"
@@ -118,6 +118,17 @@
                     hreflang="zh-cn"
                     href="https://libmind.github.io/zh-cn/tags/"
                     /></url><url>
+            <loc>https://libmind.github.io/zh-cn/e14_becoming_your_own_banker/</loc><lastmod>2022-09-26T13:18:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://libmind.github.io/e14_becoming_your_own_banker/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://libmind.github.io/zh-cn/e14_becoming_your_own_banker/"
+                    /></url><url>
+            <loc>https://libmind.github.io/zh-cn/tags/%E9%93%B6%E8%A1%8C%E5%AE%B6/</loc><lastmod>2022-09-26T13:18:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://libmind.github.io/zh-cn/categories/%E9%93%B6%E8%A1%8C%E5%AE%B6/</loc><lastmod>2022-09-26T13:18:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://libmind.github.io/zh-cn/tags/%E5%A4%A7%E8%84%91/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://libmind.github.io/zh-cn/categories/%E5%A4%A7%E8%84%91/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://libmind.github.io/zh-cn/e13_unfuck_your_brain/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
@@ -298,7 +309,6 @@
                     /></url><url>
             <loc>https://libmind.github.io/zh-cn/tags/%E8%B5%84%E6%9C%AC/</loc><lastmod>2022-09-05T17:30:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>https://libmind.github.io/zh-cn/categories/%E8%B5%84%E6%9C%AC/</loc><lastmod>2022-09-05T17:30:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://libmind.github.io/zh-cn/tags/%E9%93%B6%E8%A1%8C%E5%AE%B6/</loc><lastmod>2022-09-05T17:30:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>https://libmind.github.io/zh-cn/tags/%E6%80%9D%E8%80%83/</loc><lastmod>2022-09-03T18:43:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>https://libmind.github.io/zh-cn/categories/%E6%80%9D%E8%80%83/</loc><lastmod>2022-09-03T18:43:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>https://libmind.github.io/zh-cn/b90_think_again/</loc><lastmod>2022-09-03T18:43:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority><xhtml:link
