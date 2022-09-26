@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>think - Category - libmind</title>
-        <link>/categories/think/</link>
+        <link>https://libmind.github.io/categories/think/</link>
         <description>think - Category - libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 03 Sep 2022 18:31:48 &#43;0800</lastBuildDate><atom:link href="/categories/think/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 03 Sep 2022 18:31:48 &#43;0800</lastBuildDate><atom:link href="https://libmind.github.io/categories/think/" rel="self" type="application/rss+xml" /><item>
     <title>Think Again</title>
-    <link>/b90_think_again/</link>
+    <link>https://libmind.github.io/b90_think_again/</link>
     <pubDate>Sat, 03 Sep 2022 18:31:48 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>/b90_think_again/</guid>
+    <guid>https://libmind.github.io/b90_think_again/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b90_think_again/think_again_long_ja.png" referrerpolicy="no-referrer">
+                <img src="/img/b90_think_again/think_again_long_ja.png" referrerpolicy="no-referrer">
             </div>The Power of Knowing What You Don&rsquo;t Know]]></description>
 </item></channel>
 </rss>

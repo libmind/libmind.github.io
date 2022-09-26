@@ -1,75 +1,82 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>全部藏书 - libmind</title>
-        <link>/zh-cn/posts/</link>
+        <link>https://libmind.github.io/zh-cn/posts/</link>
         <description>全部藏书 | libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 18 Sep 2022 16:46:29 &#43;0800</lastBuildDate><atom:link href="/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 25 Sep 2022 23:04:42 &#43;0800</lastBuildDate><atom:link href="https://libmind.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>解开你的大脑</title>
+    <link>https://libmind.github.io/zh-cn/e13_unfuck_your_brain/</link>
+    <pubDate>Sun, 25 Sep 2022 23:04:42 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://libmind.github.io/zh-cn/e13_unfuck_your_brain/</guid>
+    <description><![CDATA[用科学来克服焦虑、抑郁、愤怒、发狂和触发因素]]></description>
+</item><item>
     <title>千脑理论</title>
-    <link>/zh-cn/e10_a_thousand_brains/</link>
+    <link>https://libmind.github.io/zh-cn/e10_a_thousand_brains/</link>
     <pubDate>Sun, 18 Sep 2022 16:46:29 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/zh-cn/e10_a_thousand_brains/</guid>
+    <guid>https://libmind.github.io/zh-cn/e10_a_thousand_brains/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/e10_a_thousand_brains/zh.png" referrerpolicy="no-referrer">
+                <img src="/img/e10_a_thousand_brains/zh.png" referrerpolicy="no-referrer">
             </div>关于智能的新理论]]></description>
 </item><item>
     <title>有限游戏和无限游戏</title>
-    <link>/zh-cn/e03_finite_and_infinite_games/</link>
+    <link>https://libmind.github.io/zh-cn/e03_finite_and_infinite_games/</link>
     <pubDate>Sat, 10 Sep 2022 13:04:41 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/zh-cn/e03_finite_and_infinite_games/</guid>
+    <guid>https://libmind.github.io/zh-cn/e03_finite_and_infinite_games/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/e03_finite_and_infinite_games/zh.png" referrerpolicy="no-referrer">
+                <img src="/img/e03_finite_and_infinite_games/zh.png" referrerpolicy="no-referrer">
             </div>将生命视为一种游戏和愿景]]></description>
 </item><item>
     <title>非对称风险</title>
-    <link>/zh-cn/b28_skin_in_the_game/</link>
+    <link>https://libmind.github.io/zh-cn/b28_skin_in_the_game/</link>
     <pubDate>Wed, 07 Sep 2022 12:25:40 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/zh-cn/b28_skin_in_the_game/</guid>
+    <guid>https://libmind.github.io/zh-cn/b28_skin_in_the_game/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b28_skin_in_the_game/zh.png" referrerpolicy="no-referrer">
+                <img src="/img/b28_skin_in_the_game/zh.png" referrerpolicy="no-referrer">
             </div>日常生活中隐藏的非对称性]]></description>
 </item><item>
     <title>现实的魔力</title>
-    <link>/zh-cn/b27_the_magic_of_reality/</link>
+    <link>https://libmind.github.io/zh-cn/b27_the_magic_of_reality/</link>
     <pubDate>Wed, 07 Sep 2022 09:55:15 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/zh-cn/b27_the_magic_of_reality/</guid>
+    <guid>https://libmind.github.io/zh-cn/b27_the_magic_of_reality/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b27_the_magic_of_reality/zh.png" referrerpolicy="no-referrer">
+                <img src="/img/b27_the_magic_of_reality/zh.png" referrerpolicy="no-referrer">
             </div>我们如何知道真相是什么]]></description>
 </item><item>
     <title>通吃市场的人</title>
-    <link>/zh-cn/b01_a_man_for_all_markets/</link>
+    <link>https://libmind.github.io/zh-cn/b01_a_man_for_all_markets/</link>
     <pubDate>Tue, 06 Sep 2022 17:04:20 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/zh-cn/b01_a_man_for_all_markets/</guid>
+    <guid>https://libmind.github.io/zh-cn/b01_a_man_for_all_markets/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b01_a_man_for_all_markets/long_zh.png" referrerpolicy="no-referrer">
+                <img src="/img/b01_a_man_for_all_markets/long_zh.png" referrerpolicy="no-referrer">
             </div>从拉斯维加斯到华尔街，如何击败庄家和市场]]></description>
 </item><item>
     <title>让所学和你相关</title>
-    <link>/zh-cn/b10_make_it_stick/</link>
+    <link>https://libmind.github.io/zh-cn/b10_make_it_stick/</link>
     <pubDate>Mon, 05 Sep 2022 17:34:15 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/zh-cn/b10_make_it_stick/</guid>
+    <guid>https://libmind.github.io/zh-cn/b10_make_it_stick/</guid>
     <description><![CDATA[学必有成的科学]]></description>
 </item><item>
     <title>别人的钱</title>
-    <link>/zh-cn/b45_other_peoples_money/</link>
+    <link>https://libmind.github.io/zh-cn/b45_other_peoples_money/</link>
     <pubDate>Mon, 05 Sep 2022 17:30:27 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/zh-cn/b45_other_peoples_money/</guid>
+    <guid>https://libmind.github.io/zh-cn/b45_other_peoples_money/</guid>
     <description><![CDATA[银行家们如何用别人的钱？]]></description>
 </item><item>
     <title>重新思考</title>
-    <link>/zh-cn/b90_think_again/</link>
+    <link>https://libmind.github.io/zh-cn/b90_think_again/</link>
     <pubDate>Sat, 03 Sep 2022 18:43:49 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/zh-cn/b90_think_again/</guid>
+    <guid>https://libmind.github.io/zh-cn/b90_think_again/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b90_think_again/think_again_long_zh.png" referrerpolicy="no-referrer">
+                <img src="/img/b90_think_again/think_again_long_zh.png" referrerpolicy="no-referrer">
             </div>了解你所未知事物的力量]]></description>
 </item></channel>
 </rss>

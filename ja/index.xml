@@ -1,45 +1,45 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>libmind</title>
-        <link>/ja/</link>
+        <link>https://libmind.github.io/ja/</link>
         <description>libmind</description>
         <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Wed, 07 Sep 2022 17:17:19 &#43;0800</lastBuildDate>
-            <atom:link href="/ja/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://libmind.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>あらゆる市場に対応する男</title>
-    <link>/ja/b01_a_man_for_all_markets/</link>
+    <link>https://libmind.github.io/ja/b01_a_man_for_all_markets/</link>
     <pubDate>Wed, 07 Sep 2022 17:17:19 &#43;0800</pubDate>
     <author>著者名</author>
-    <guid>/ja/b01_a_man_for_all_markets/</guid>
+    <guid>https://libmind.github.io/ja/b01_a_man_for_all_markets/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b01_a_man_for_all_markets/long_ja.png" referrerpolicy="no-referrer">
+                <img src="/img/b01_a_man_for_all_markets/long_ja.png" referrerpolicy="no-referrer">
             </div>ラスベガスからウォール街まで 私はいかにしてディーラーとマーケットを打ち負かしたか]]></description>
 </item><item>
     <title>リアリティの魔法</title>
-    <link>/ja/b27_the_magic_of_reality/</link>
+    <link>https://libmind.github.io/ja/b27_the_magic_of_reality/</link>
     <pubDate>Wed, 07 Sep 2022 16:55:04 &#43;0800</pubDate>
     <author>著者名</author>
-    <guid>/ja/b27_the_magic_of_reality/</guid>
+    <guid>https://libmind.github.io/ja/b27_the_magic_of_reality/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b27_the_magic_of_reality/ja.png" referrerpolicy="no-referrer">
+                <img src="/img/b27_the_magic_of_reality/ja.png" referrerpolicy="no-referrer">
             </div>私たちはどのようにして本当のことを知るのか]]></description>
 </item><item>
     <title>リスクシェアリング</title>
-    <link>/ja/b28_skin_in_the_game/</link>
+    <link>https://libmind.github.io/ja/b28_skin_in_the_game/</link>
     <pubDate>Wed, 07 Sep 2022 12:24:11 &#43;0800</pubDate>
     <author>著者名</author>
-    <guid>/ja/b28_skin_in_the_game/</guid>
+    <guid>https://libmind.github.io/ja/b28_skin_in_the_game/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b28_skin_in_the_game/ja.png" referrerpolicy="no-referrer">
+                <img src="/img/b28_skin_in_the_game/ja.png" referrerpolicy="no-referrer">
             </div>日常生活における隠れた非対称性]]></description>
 </item><item>
     <title>考え直せ</title>
-    <link>/ja/b90_think_again/</link>
+    <link>https://libmind.github.io/ja/b90_think_again/</link>
     <pubDate>Sun, 04 Sep 2022 15:44:33 &#43;0800</pubDate>
     <author>著者名</author>
-    <guid>/ja/b90_think_again/</guid>
+    <guid>https://libmind.github.io/ja/b90_think_again/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b90_think_again/think_again_long_ja.png" referrerpolicy="no-referrer">
+                <img src="/img/b90_think_again/think_again_long_ja.png" referrerpolicy="no-referrer">
             </div>知らないことを知る力]]></description>
 </item></channel>
 </rss>

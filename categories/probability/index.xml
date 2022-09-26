@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>probability - Category - libmind</title>
-        <link>/categories/probability/</link>
+        <link>https://libmind.github.io/categories/probability/</link>
         <description>probability - Category - libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 07 Sep 2022 17:24:59 &#43;0800</lastBuildDate><atom:link href="/categories/probability/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 07 Sep 2022 17:24:59 &#43;0800</lastBuildDate><atom:link href="https://libmind.github.io/categories/probability/" rel="self" type="application/rss+xml" /><item>
     <title>A Man for All Markets</title>
-    <link>/b01_a_man_for_all_markets/</link>
+    <link>https://libmind.github.io/b01_a_man_for_all_markets/</link>
     <pubDate>Wed, 07 Sep 2022 17:24:59 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>/b01_a_man_for_all_markets/</guid>
+    <guid>https://libmind.github.io/b01_a_man_for_all_markets/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b01_a_man_for_all_markets/en.png" referrerpolicy="no-referrer">
+                <img src="/img/b01_a_man_for_all_markets/en.png" referrerpolicy="no-referrer">
             </div>from Las Vegas to Wall Street. How I Beat the Dealer and The Market]]></description>
 </item></channel>
 </rss>

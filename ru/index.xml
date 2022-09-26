@@ -1,36 +1,36 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>libmind</title>
-        <link>/ru/</link>
+        <link>https://libmind.github.io/ru/</link>
         <description>libmind</description>
         <generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Wed, 07 Sep 2022 17:36:43 &#43;0800</lastBuildDate>
-            <atom:link href="/ru/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://libmind.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Человек для всех рынков</title>
-    <link>/ru/b01_a_man_for_all_markets/</link>
+    <link>https://libmind.github.io/ru/b01_a_man_for_all_markets/</link>
     <pubDate>Wed, 07 Sep 2022 17:36:43 &#43;0800</pubDate>
     <author>Автор</author>
-    <guid>/ru/b01_a_man_for_all_markets/</guid>
+    <guid>https://libmind.github.io/ru/b01_a_man_for_all_markets/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b01_a_man_for_all_markets/ru.png" referrerpolicy="no-referrer">
+                <img src="/img/b01_a_man_for_all_markets/ru.png" referrerpolicy="no-referrer">
             </div>от Лас-Вегаса до Уолл-стрит. Как я обыграл дилера и рынок]]></description>
 </item><item>
     <title>Магия реальности</title>
-    <link>/ru/b27_the_magic_of_reality/</link>
+    <link>https://libmind.github.io/ru/b27_the_magic_of_reality/</link>
     <pubDate>Wed, 07 Sep 2022 17:10:28 &#43;0800</pubDate>
     <author>Автор</author>
-    <guid>/ru/b27_the_magic_of_reality/</guid>
+    <guid>https://libmind.github.io/ru/b27_the_magic_of_reality/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b27_the_magic_of_reality/ru.png" referrerpolicy="no-referrer">
+                <img src="/img/b27_the_magic_of_reality/ru.png" referrerpolicy="no-referrer">
             </div>Как мы узнаем, что на самом деле является правдой]]></description>
 </item><item>
     <title>Skin in the Game</title>
-    <link>/ru/b28_skin_in_the_game/</link>
+    <link>https://libmind.github.io/ru/b28_skin_in_the_game/</link>
     <pubDate>Wed, 07 Sep 2022 16:38:46 &#43;0800</pubDate>
     <author>Автор</author>
-    <guid>/ru/b28_skin_in_the_game/</guid>
+    <guid>https://libmind.github.io/ru/b28_skin_in_the_game/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b28_skin_in_the_game/ru.png" referrerpolicy="no-referrer">
+                <img src="/img/b28_skin_in_the_game/ru.png" referrerpolicy="no-referrer">
             </div>Скрытые асимметрии в повседневной жизни]]></description>
 </item></channel>
 </rss>

@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Mythology - Tag - libmind</title>
-        <link>/tags/mythology/</link>
+        <link>https://libmind.github.io/tags/mythology/</link>
         <description>Mythology - Tag - libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 07 Sep 2022 09:20:10 &#43;0800</lastBuildDate><atom:link href="/tags/mythology/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 07 Sep 2022 09:20:10 &#43;0800</lastBuildDate><atom:link href="https://libmind.github.io/tags/mythology/" rel="self" type="application/rss+xml" /><item>
     <title>The Magic of Reality</title>
-    <link>/b27_the_magic_of_reality/</link>
+    <link>https://libmind.github.io/b27_the_magic_of_reality/</link>
     <pubDate>Wed, 07 Sep 2022 09:20:10 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>/b27_the_magic_of_reality/</guid>
+    <guid>https://libmind.github.io/b27_the_magic_of_reality/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b27_the_magic_of_reality/en.png" referrerpolicy="no-referrer">
+                <img src="/img/b27_the_magic_of_reality/en.png" referrerpolicy="no-referrer">
             </div>How We Know What&rsquo;s Really True]]></description>
 </item></channel>
 </rss>

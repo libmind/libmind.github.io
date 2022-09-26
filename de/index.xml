@@ -1,45 +1,45 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>libmind</title>
-        <link>/de/</link>
+        <link>https://libmind.github.io/de/</link>
         <description>libmind</description>
         <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Wed, 07 Sep 2022 17:20:13 &#43;0800</lastBuildDate>
-            <atom:link href="/de/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://libmind.github.io/de/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Ein Mann für alle Märkte</title>
-    <link>/de/b01_a_man_for_all_markets/</link>
+    <link>https://libmind.github.io/de/b01_a_man_for_all_markets/</link>
     <pubDate>Wed, 07 Sep 2022 17:20:13 &#43;0800</pubDate>
     <author>Autor</author>
-    <guid>/de/b01_a_man_for_all_markets/</guid>
+    <guid>https://libmind.github.io/de/b01_a_man_for_all_markets/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b01_a_man_for_all_markets/de.png" referrerpolicy="no-referrer">
+                <img src="/img/b01_a_man_for_all_markets/de.png" referrerpolicy="no-referrer">
             </div>von Las Vegas bis zur Wall Street. Wie ich den Dealer und den Markt schlug]]></description>
 </item><item>
     <title>Die Magie der Wirklichkeit</title>
-    <link>/de/b27_the_magic_of_reality/</link>
+    <link>https://libmind.github.io/de/b27_the_magic_of_reality/</link>
     <pubDate>Wed, 07 Sep 2022 17:00:13 &#43;0800</pubDate>
     <author>Autor</author>
-    <guid>/de/b27_the_magic_of_reality/</guid>
+    <guid>https://libmind.github.io/de/b27_the_magic_of_reality/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b27_the_magic_of_reality/de.png" referrerpolicy="no-referrer">
+                <img src="/img/b27_the_magic_of_reality/de.png" referrerpolicy="no-referrer">
             </div>Wie wir wissen, was wirklich wahr ist]]></description>
 </item><item>
     <title>Die Hand im Spiel</title>
-    <link>/de/b28_skin_in_the_game/</link>
+    <link>https://libmind.github.io/de/b28_skin_in_the_game/</link>
     <pubDate>Wed, 07 Sep 2022 15:18:38 &#43;0800</pubDate>
     <author>Autor</author>
-    <guid>/de/b28_skin_in_the_game/</guid>
+    <guid>https://libmind.github.io/de/b28_skin_in_the_game/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b28_skin_in_the_game/de.png" referrerpolicy="no-referrer">
+                <img src="/img/b28_skin_in_the_game/de.png" referrerpolicy="no-referrer">
             </div>Versteckte Asymmetrien im täglichen Leben]]></description>
 </item><item>
     <title>Neu denken</title>
-    <link>/de/b90_think_again/</link>
+    <link>https://libmind.github.io/de/b90_think_again/</link>
     <pubDate>Mon, 05 Sep 2022 14:21:53 &#43;0800</pubDate>
     <author>Autor</author>
-    <guid>/de/b90_think_again/</guid>
+    <guid>https://libmind.github.io/de/b90_think_again/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b90_think_again/think_again_long_de.png" referrerpolicy="no-referrer">
+                <img src="/img/b90_think_again/think_again_long_de.png" referrerpolicy="no-referrer">
             </div>Woher wir wissen, was wirklich wahr ist]]></description>
 </item></channel>
 </rss>

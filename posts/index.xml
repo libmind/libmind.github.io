@@ -1,75 +1,82 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Books - libmind</title>
-        <link>/posts/</link>
+        <link>https://libmind.github.io/posts/</link>
         <description>All Books | libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 18 Sep 2022 16:46:29 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 25 Sep 2022 22:49:20 &#43;0800</lastBuildDate><atom:link href="https://libmind.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Unfuck_your_brain</title>
+    <link>https://libmind.github.io/e13_unfuck_your_brain/</link>
+    <pubDate>Sun, 25 Sep 2022 22:49:20 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://libmind.github.io/e13_unfuck_your_brain/</guid>
+    <description><![CDATA[Using Science to Get Over Anxiety, Depression, Anger, Freak-outs, and Triggers]]></description>
+</item><item>
     <title>A Thousand Brains</title>
-    <link>/e10_a_thousand_brains/</link>
+    <link>https://libmind.github.io/e10_a_thousand_brains/</link>
     <pubDate>Sun, 18 Sep 2022 16:46:29 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>/e10_a_thousand_brains/</guid>
+    <guid>https://libmind.github.io/e10_a_thousand_brains/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/e10_a_thousand_brains/en.png" referrerpolicy="no-referrer">
+                <img src="/img/e10_a_thousand_brains/en.png" referrerpolicy="no-referrer">
             </div>A New Theory of Intelligence]]></description>
 </item><item>
     <title>Finite and Infinite Games</title>
-    <link>/e03_finite_and_infinite_games/</link>
+    <link>https://libmind.github.io/e03_finite_and_infinite_games/</link>
     <pubDate>Sat, 10 Sep 2022 13:04:41 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>/e03_finite_and_infinite_games/</guid>
+    <guid>https://libmind.github.io/e03_finite_and_infinite_games/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/e03_finite_and_infinite_games/en.png" referrerpolicy="no-referrer">
+                <img src="/img/e03_finite_and_infinite_games/en.png" referrerpolicy="no-referrer">
             </div>A Vision of Life as Play and Possibility]]></description>
 </item><item>
     <title>A Man for All Markets</title>
-    <link>/b01_a_man_for_all_markets/</link>
+    <link>https://libmind.github.io/b01_a_man_for_all_markets/</link>
     <pubDate>Wed, 07 Sep 2022 17:24:59 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>/b01_a_man_for_all_markets/</guid>
+    <guid>https://libmind.github.io/b01_a_man_for_all_markets/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b01_a_man_for_all_markets/en.png" referrerpolicy="no-referrer">
+                <img src="/img/b01_a_man_for_all_markets/en.png" referrerpolicy="no-referrer">
             </div>from Las Vegas to Wall Street. How I Beat the Dealer and The Market]]></description>
 </item><item>
     <title>Skin in the Game</title>
-    <link>/b28_skin_in_the_game/</link>
+    <link>https://libmind.github.io/b28_skin_in_the_game/</link>
     <pubDate>Wed, 07 Sep 2022 15:56:00 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>/b28_skin_in_the_game/</guid>
+    <guid>https://libmind.github.io/b28_skin_in_the_game/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b28_skin_in_the_game/en.png" referrerpolicy="no-referrer">
+                <img src="/img/b28_skin_in_the_game/en.png" referrerpolicy="no-referrer">
             </div>Hidden Asymmetries in Daily Life]]></description>
 </item><item>
     <title>The Magic of Reality</title>
-    <link>/b27_the_magic_of_reality/</link>
+    <link>https://libmind.github.io/b27_the_magic_of_reality/</link>
     <pubDate>Wed, 07 Sep 2022 09:20:10 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>/b27_the_magic_of_reality/</guid>
+    <guid>https://libmind.github.io/b27_the_magic_of_reality/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b27_the_magic_of_reality/en.png" referrerpolicy="no-referrer">
+                <img src="/img/b27_the_magic_of_reality/en.png" referrerpolicy="no-referrer">
             </div>How We Know What&rsquo;s Really True]]></description>
 </item><item>
     <title>Make it Stick</title>
-    <link>/b10_make_it_stick/</link>
+    <link>https://libmind.github.io/b10_make_it_stick/</link>
     <pubDate>Mon, 05 Sep 2022 17:35:57 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>/b10_make_it_stick/</guid>
+    <guid>https://libmind.github.io/b10_make_it_stick/</guid>
     <description><![CDATA[The Science of Successful Learning]]></description>
 </item><item>
     <title>Other People&#39;s Money</title>
-    <link>/b45_other_peoples_money/</link>
+    <link>https://libmind.github.io/b45_other_peoples_money/</link>
     <pubDate>Mon, 05 Sep 2022 17:32:16 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>/b45_other_peoples_money/</guid>
+    <guid>https://libmind.github.io/b45_other_peoples_money/</guid>
     <description><![CDATA[and How the Bankers Use it]]></description>
 </item><item>
     <title>Think Again</title>
-    <link>/b90_think_again/</link>
+    <link>https://libmind.github.io/b90_think_again/</link>
     <pubDate>Sat, 03 Sep 2022 18:31:48 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>/b90_think_again/</guid>
+    <guid>https://libmind.github.io/b90_think_again/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/https:/libmind.github.io/img/b90_think_again/think_again_long_ja.png" referrerpolicy="no-referrer">
+                <img src="/img/b90_think_again/think_again_long_ja.png" referrerpolicy="no-referrer">
             </div>The Power of Knowing What You Don&rsquo;t Know]]></description>
 </item></channel>
 </rss>
