@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://libmind.github.io/es/categories/</loc><lastmod>2022-09-07T17:24:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/es/categories/</loc><lastmod>2022-09-07T17:24:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/categories/"
@@ -31,7 +31,7 @@
                     hreflang="es"
                     href="https://libmind.github.io/es/categories/"
                     /></url><url>
-            <loc>https://libmind.github.io/es/</loc><lastmod>2022-09-07T17:24:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/es/</loc><lastmod>2022-09-07T17:24:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/"
@@ -60,7 +60,7 @@
                     hreflang="es"
                     href="https://libmind.github.io/es/"
                     /></url><url>
-            <loc>https://libmind.github.io/es/posts/</loc><lastmod>2022-09-07T17:24:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/es/posts/</loc><lastmod>2022-09-07T17:24:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/posts/"
@@ -89,9 +89,9 @@
                     hreflang="es"
                     href="https://libmind.github.io/es/posts/"
                     /></url><url>
-            <loc>https://libmind.github.io/es/tags/probabilidad/</loc><lastmod>2022-09-07T17:24:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://libmind.github.io/es/categories/probabilidad/</loc><lastmod>2022-09-07T17:24:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://libmind.github.io/es/tags/</loc><lastmod>2022-09-07T17:24:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/es/tags/probabilidad/</loc><lastmod>2022-09-07T17:24:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://libmind.github.io/es/categories/probabilidad/</loc><lastmod>2022-09-07T17:24:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://libmind.github.io/es/tags/</loc><lastmod>2022-09-07T17:24:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/tags/"
@@ -120,7 +120,7 @@
                     hreflang="es"
                     href="https://libmind.github.io/es/tags/"
                     /></url><url>
-            <loc>https://libmind.github.io/es/b01_a_man_for_all_markets/</loc><lastmod>2022-09-07T17:24:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/es/b01_a_man_for_all_markets/</loc><lastmod>2022-09-07T17:24:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/b01_a_man_for_all_markets/"
@@ -149,7 +149,7 @@
                     hreflang="es"
                     href="https://libmind.github.io/es/b01_a_man_for_all_markets/"
                     /></url><url>
-            <loc>https://libmind.github.io/es/b27_the_magic_of_reality/</loc><lastmod>2022-09-07T17:05:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/es/b27_the_magic_of_reality/</loc><lastmod>2022-09-07T17:05:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/b27_the_magic_of_reality/"
@@ -178,9 +178,9 @@
                     hreflang="es"
                     href="https://libmind.github.io/es/b27_the_magic_of_reality/"
                     /></url><url>
-            <loc>https://libmind.github.io/es/tags/mitolog%C3%ADa/</loc><lastmod>2022-09-07T17:05:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://libmind.github.io/es/categories/mitolog%C3%ADa/</loc><lastmod>2022-09-07T17:05:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://libmind.github.io/es/b28_skin_in_the_game/</loc><lastmod>2022-09-07T15:52:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/es/tags/mitolog%C3%ADa/</loc><lastmod>2022-09-07T17:05:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://libmind.github.io/es/categories/mitolog%C3%ADa/</loc><lastmod>2022-09-07T17:05:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://libmind.github.io/es/b28_skin_in_the_game/</loc><lastmod>2022-09-07T15:52:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/b28_skin_in_the_game/"
@@ -209,11 +209,11 @@
                     hreflang="es"
                     href="https://libmind.github.io/es/b28_skin_in_the_game/"
                     /></url><url>
-            <loc>https://libmind.github.io/es/tags/riesgo/</loc><lastmod>2022-09-07T15:52:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://libmind.github.io/es/categories/riesgo/</loc><lastmod>2022-09-07T15:52:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://libmind.github.io/es/tags/piensa/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://libmind.github.io/es/categories/piensa/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://libmind.github.io/es/b90_think_again/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/es/tags/riesgo/</loc><lastmod>2022-09-07T15:52:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://libmind.github.io/es/categories/riesgo/</loc><lastmod>2022-09-07T15:52:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://libmind.github.io/es/tags/piensa/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://libmind.github.io/es/categories/piensa/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://libmind.github.io/es/b90_think_again/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/b90_think_again/"
@@ -234,7 +234,7 @@
                     hreflang="es"
                     href="https://libmind.github.io/es/b90_think_again/"
                     /></url><url>
-            <loc>https://libmind.github.io/es/about/</loc><lastmod>2022-09-04T17:04:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority><xhtml:link
+            <loc>https://libmind.github.io/es/about/</loc><lastmod>2022-09-04T17:04:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/about/"

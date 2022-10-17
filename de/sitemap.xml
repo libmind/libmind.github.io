@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://libmind.github.io/de/categories/</loc><lastmod>2022-09-07T17:20:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/de/categories/</loc><lastmod>2022-09-07T17:20:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/categories/"
@@ -31,7 +31,7 @@
                     hreflang="de"
                     href="https://libmind.github.io/de/categories/"
                     /></url><url>
-            <loc>https://libmind.github.io/de/b01_a_man_for_all_markets/</loc><lastmod>2022-09-07T17:20:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/de/b01_a_man_for_all_markets/</loc><lastmod>2022-09-07T17:20:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/b01_a_man_for_all_markets/"
@@ -60,7 +60,7 @@
                     hreflang="de"
                     href="https://libmind.github.io/de/b01_a_man_for_all_markets/"
                     /></url><url>
-            <loc>https://libmind.github.io/de/</loc><lastmod>2022-09-07T17:20:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/de/</loc><lastmod>2022-09-07T17:20:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/"
@@ -89,7 +89,7 @@
                     hreflang="de"
                     href="https://libmind.github.io/de/"
                     /></url><url>
-            <loc>https://libmind.github.io/de/posts/</loc><lastmod>2022-09-07T17:20:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/de/posts/</loc><lastmod>2022-09-07T17:20:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/posts/"
@@ -118,7 +118,7 @@
                     hreflang="de"
                     href="https://libmind.github.io/de/posts/"
                     /></url><url>
-            <loc>https://libmind.github.io/de/tags/</loc><lastmod>2022-09-07T17:20:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/de/tags/</loc><lastmod>2022-09-07T17:20:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/tags/"
@@ -147,9 +147,9 @@
                     hreflang="de"
                     href="https://libmind.github.io/de/tags/"
                     /></url><url>
-            <loc>https://libmind.github.io/de/tags/wahrscheinlichkeit/</loc><lastmod>2022-09-07T17:20:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://libmind.github.io/de/categories/wahrscheinlichkeit/</loc><lastmod>2022-09-07T17:20:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://libmind.github.io/de/b27_the_magic_of_reality/</loc><lastmod>2022-09-07T17:00:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/de/tags/wahrscheinlichkeit/</loc><lastmod>2022-09-07T17:20:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://libmind.github.io/de/categories/wahrscheinlichkeit/</loc><lastmod>2022-09-07T17:20:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://libmind.github.io/de/b27_the_magic_of_reality/</loc><lastmod>2022-09-07T17:00:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/b27_the_magic_of_reality/"
@@ -178,7 +178,7 @@
                     hreflang="de"
                     href="https://libmind.github.io/de/b27_the_magic_of_reality/"
                     /></url><url>
-            <loc>https://libmind.github.io/de/tags/mythologie/</loc><lastmod>2022-09-07T17:00:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/de/tags/mythologie/</loc><lastmod>2022-09-07T17:00:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="fr"
                         href="https://libmind.github.io/fr/tags/mythologie/"
@@ -187,7 +187,7 @@
                     hreflang="de"
                     href="https://libmind.github.io/de/tags/mythologie/"
                     /></url><url>
-            <loc>https://libmind.github.io/de/categories/mythologie/</loc><lastmod>2022-09-07T17:00:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/de/categories/mythologie/</loc><lastmod>2022-09-07T17:00:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="fr"
                         href="https://libmind.github.io/fr/categories/mythologie/"
@@ -196,7 +196,7 @@
                     hreflang="de"
                     href="https://libmind.github.io/de/categories/mythologie/"
                     /></url><url>
-            <loc>https://libmind.github.io/de/b28_skin_in_the_game/</loc><lastmod>2022-09-07T15:18:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/de/b28_skin_in_the_game/</loc><lastmod>2022-09-07T15:18:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/b28_skin_in_the_game/"
@@ -225,11 +225,11 @@
                     hreflang="de"
                     href="https://libmind.github.io/de/b28_skin_in_the_game/"
                     /></url><url>
-            <loc>https://libmind.github.io/de/tags/risiko/</loc><lastmod>2022-09-07T15:18:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://libmind.github.io/de/categories/risiko/</loc><lastmod>2022-09-07T15:18:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://libmind.github.io/de/tags/nachdenken/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://libmind.github.io/de/categories/nachdenken/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>https://libmind.github.io/de/b90_think_again/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>https://libmind.github.io/de/tags/risiko/</loc><lastmod>2022-09-07T15:18:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://libmind.github.io/de/categories/risiko/</loc><lastmod>2022-09-07T15:18:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://libmind.github.io/de/tags/nachdenken/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://libmind.github.io/de/categories/nachdenken/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://libmind.github.io/de/b90_think_again/</loc><lastmod>2022-09-05T14:21:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/b90_think_again/"
@@ -250,7 +250,7 @@
                     hreflang="de"
                     href="https://libmind.github.io/de/b90_think_again/"
                     /></url><url>
-            <loc>https://libmind.github.io/de/about/</loc><lastmod>2022-09-04T17:04:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority><xhtml:link
+            <loc>https://libmind.github.io/de/about/</loc><lastmod>2022-09-04T17:04:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/about/"
