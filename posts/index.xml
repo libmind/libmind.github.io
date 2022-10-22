@@ -3,7 +3,16 @@
         <title>All Books - libmind</title>
         <link>https://libmind.github.io/posts/</link>
         <description>All Books | libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 26 Sep 2022 12:58:11 &#43;0800</lastBuildDate><atom:link href="https://libmind.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 22 Oct 2022 19:29:59 &#43;0800</lastBuildDate><atom:link href="https://libmind.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Inner Master, Outer Impact</title>
+    <link>https://libmind.github.io/j03_inner_master_outer_impact_en/</link>
+    <pubDate>Sat, 22 Oct 2022 19:29:59 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://libmind.github.io/j03_inner_master_outer_impact_en/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/j03_inner_master_outer_impact/long/1.png" referrerpolicy="no-referrer">
+            </div>how your five core energies hold the key to success]]></description>
+</item><item>
     <title>Becomming Your Own Banker</title>
     <link>https://libmind.github.io/e14_becoming_your_own_banker/</link>
     <pubDate>Mon, 26 Sep 2022 12:58:11 &#43;0800</pubDate>
@@ -78,14 +87,5 @@
     <author>Author</author>
     <guid>https://libmind.github.io/b45_other_peoples_money/</guid>
     <description><![CDATA[and How the Bankers Use it]]></description>
-</item><item>
-    <title>Think Again</title>
-    <link>https://libmind.github.io/b90_think_again/</link>
-    <pubDate>Sat, 03 Sep 2022 18:31:48 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://libmind.github.io/b90_think_again/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/b90_think_again/think_again_long_ja.png" referrerpolicy="no-referrer">
-            </div>The Power of Knowing What You Don&rsquo;t Know]]></description>
 </item></channel>
 </rss>
