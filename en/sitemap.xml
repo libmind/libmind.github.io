@@ -2,7 +2,16 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://libmind.github.io/categories/</loc><lastmod>2022-10-22T19:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://libmind.github.io/e37_365_days_with_self_discipline/</loc><lastmod>2022-10-22T19:48:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://libmind.github.io/zh-cn/e37_365_days_with_self_discipline/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://libmind.github.io/e37_365_days_with_self_discipline/"
+                    /></url><url>
+            <loc>https://libmind.github.io/categories/</loc><lastmod>2022-10-22T19:48:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="https://libmind.github.io/ja/categories/"
@@ -31,8 +40,7 @@
                     hreflang="en"
                     href="https://libmind.github.io/categories/"
                     /></url><url>
-            <loc>https://libmind.github.io/j03_inner_master_outer_impact_en/</loc><lastmod>2022-10-22T19:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://libmind.github.io/</loc><lastmod>2022-10-22T19:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://libmind.github.io/</loc><lastmod>2022-10-22T19:48:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="https://libmind.github.io/ja/"
@@ -61,9 +69,7 @@
                     hreflang="en"
                     href="https://libmind.github.io/"
                     /></url><url>
-            <loc>https://libmind.github.io/tags/mind/</loc><lastmod>2022-10-22T19:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://libmind.github.io/categories/mind/</loc><lastmod>2022-10-22T19:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://libmind.github.io/posts/</loc><lastmod>2022-10-22T19:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://libmind.github.io/posts/</loc><lastmod>2022-10-22T19:48:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="https://libmind.github.io/ja/posts/"
@@ -92,7 +98,9 @@
                     hreflang="en"
                     href="https://libmind.github.io/posts/"
                     /></url><url>
-            <loc>https://libmind.github.io/tags/</loc><lastmod>2022-10-22T19:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://libmind.github.io/tags/self-discipline/</loc><lastmod>2022-10-22T19:48:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://libmind.github.io/categories/self-discipline/</loc><lastmod>2022-10-22T19:48:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://libmind.github.io/tags/</loc><lastmod>2022-10-22T19:48:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="ja"
                         href="https://libmind.github.io/ja/tags/"
@@ -121,6 +129,9 @@
                     hreflang="en"
                     href="https://libmind.github.io/tags/"
                     /></url><url>
+            <loc>https://libmind.github.io/j03_inner_master_outer_impact_en/</loc><lastmod>2022-10-22T19:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://libmind.github.io/tags/mind/</loc><lastmod>2022-10-22T19:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://libmind.github.io/categories/mind/</loc><lastmod>2022-10-22T19:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://libmind.github.io/tags/banker/</loc><lastmod>2022-09-26T12:58:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>https://libmind.github.io/categories/banker/</loc><lastmod>2022-09-26T12:58:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>https://libmind.github.io/e14_becoming_your_own_banker/</loc><lastmod>2022-09-26T12:58:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority><xhtml:link

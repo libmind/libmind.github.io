@@ -3,9 +3,18 @@
         <title>libmind</title>
         <link>https://libmind.github.io/</link>
         <description>libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 22 Oct 2022 19:29:59 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 22 Oct 2022 19:48:42 &#43;0800</lastBuildDate>
             <atom:link href="https://libmind.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>365 Days With Self-Discipline</title>
+    <link>https://libmind.github.io/e37_365_days_with_self_discipline/</link>
+    <pubDate>Sat, 22 Oct 2022 19:48:42 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://libmind.github.io/e37_365_days_with_self_discipline/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/e37_365_days_with_self_discipline/long/1.png" referrerpolicy="no-referrer">
+            </div>365  Life-altering Thoughts on Self-Control Mental Resilience, and Success]]></description>
+</item><item>
     <title>Inner Master, Outer Impact</title>
     <link>https://libmind.github.io/j03_inner_master_outer_impact_en/</link>
     <pubDate>Sat, 22 Oct 2022 19:29:59 &#43;0800</pubDate>
@@ -82,12 +91,5 @@
     <author>Author</author>
     <guid>https://libmind.github.io/b10_make_it_stick/</guid>
     <description><![CDATA[The Science of Successful Learning]]></description>
-</item><item>
-    <title>Other People&#39;s Money</title>
-    <link>https://libmind.github.io/b45_other_peoples_money/</link>
-    <pubDate>Mon, 05 Sep 2022 17:32:16 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://libmind.github.io/b45_other_peoples_money/</guid>
-    <description><![CDATA[and How the Bankers Use it]]></description>
 </item></channel>
 </rss>

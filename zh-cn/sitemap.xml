@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://libmind.github.io/zh-cn/categories/</loc><lastmod>2022-10-22T19:43:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://libmind.github.io/zh-cn/categories/</loc><lastmod>2022-10-22T19:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/categories/"
@@ -31,7 +31,7 @@
                     hreflang="zh-cn"
                     href="https://libmind.github.io/zh-cn/categories/"
                     /></url><url>
-            <loc>https://libmind.github.io/zh-cn/</loc><lastmod>2022-10-22T19:43:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://libmind.github.io/zh-cn/</loc><lastmod>2022-10-22T19:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/"
@@ -60,7 +60,7 @@
                     hreflang="zh-cn"
                     href="https://libmind.github.io/zh-cn/"
                     /></url><url>
-            <loc>https://libmind.github.io/zh-cn/posts/</loc><lastmod>2022-10-22T19:43:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://libmind.github.io/zh-cn/posts/</loc><lastmod>2022-10-22T19:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/posts/"
@@ -89,7 +89,7 @@
                     hreflang="zh-cn"
                     href="https://libmind.github.io/zh-cn/posts/"
                     /></url><url>
-            <loc>https://libmind.github.io/zh-cn/tags/</loc><lastmod>2022-10-22T19:43:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://libmind.github.io/zh-cn/tags/</loc><lastmod>2022-10-22T19:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://libmind.github.io/tags/"
@@ -117,6 +117,17 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://libmind.github.io/zh-cn/tags/"
+                    /></url><url>
+            <loc>https://libmind.github.io/zh-cn/tags/%E8%87%AA%E5%BE%8B/</loc><lastmod>2022-10-22T19:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://libmind.github.io/zh-cn/categories/%E8%87%AA%E5%BE%8B/</loc><lastmod>2022-10-22T19:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://libmind.github.io/zh-cn/e37_365_days_with_self_discipline/</loc><lastmod>2022-10-22T19:56:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://libmind.github.io/e37_365_days_with_self_discipline/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://libmind.github.io/zh-cn/e37_365_days_with_self_discipline/"
                     /></url><url>
             <loc>https://libmind.github.io/zh-cn/j03_inner_master_outer_impact/</loc><lastmod>2022-10-22T19:43:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://libmind.github.io/zh-cn/tags/%E6%80%9D%E7%BB%B4/</loc><lastmod>2022-10-22T19:43:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
