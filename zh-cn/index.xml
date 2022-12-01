@@ -7,15 +7,6 @@
             <atom:link href="https://libmind.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>书名</title>
-    <link>https://libmind.github.io/zh-cn/000_temp/</link>
-    <pubDate>Thu, 01 Dec 2022 13:04:20 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://libmind.github.io/zh-cn/000_temp/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/e37_365_days_with_self_discipline/long/2.png" referrerpolicy="no-referrer">
-            </div>摘要]]></description>
-</item><item>
-    <title>书名</title>
     <link>https://libmind.github.io/zh-cn/j30_dopamine_nation/</link>
     <pubDate>Thu, 01 Dec 2022 13:04:20 &#43;0800</pubDate>
     <author>作者</author>
@@ -30,16 +21,16 @@
     <author>作者</author>
     <guid>https://libmind.github.io/zh-cn/j41_deep_work/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/img/e37_365_days_with_self_discipline/long/2.png" referrerpolicy="no-referrer">
+                <img src="/img/j41_deep_work/long/2.png" referrerpolicy="no-referrer">
             </div>摘要]]></description>
 </item><item>
-    <title>书名</title>
+    <title>约翰·劳</title>
     <link>https://libmind.github.io/zh-cn/j45_john_law/</link>
     <pubDate>Thu, 01 Dec 2022 13:04:20 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://libmind.github.io/zh-cn/j45_john_law/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/img/e37_365_days_with_self_discipline/long/2.png" referrerpolicy="no-referrer">
+                <img src="/img/j45_john_law/long/2.png" referrerpolicy="no-referrer">
             </div>摘要]]></description>
 </item><item>
     <title>自律的365天</title>
@@ -93,5 +84,14 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/e03_finite_and_infinite_games/zh.png" referrerpolicy="no-referrer">
             </div>将生命视为一种游戏和愿景]]></description>
+</item><item>
+    <title>非对称风险</title>
+    <link>https://libmind.github.io/zh-cn/b28_skin_in_the_game/</link>
+    <pubDate>Wed, 07 Sep 2022 12:25:40 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://libmind.github.io/zh-cn/b28_skin_in_the_game/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/b28_skin_in_the_game/zh.png" referrerpolicy="no-referrer">
+            </div>日常生活中隐藏的非对称性]]></description>
 </item></channel>
 </rss>

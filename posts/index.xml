@@ -3,7 +3,16 @@
         <title>All Books - libmind</title>
         <link>https://libmind.github.io/posts/</link>
         <description>All Books | libmind</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 01 Dec 2022 14:11:45 &#43;0800</lastBuildDate><atom:link href="https://libmind.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 01 Dec 2022 14:18:13 &#43;0800</lastBuildDate><atom:link href="https://libmind.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Dopamine Nation</title>
+    <link>https://libmind.github.io/j30_dopamine_nation/</link>
+    <pubDate>Thu, 01 Dec 2022 14:18:13 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://libmind.github.io/j30_dopamine_nation/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/j30_dopamine_nation/long/1.png" referrerpolicy="no-referrer">
+            </div>Finding Balance in the Age of Indulgence]]></description>
+</item><item>
     <title>John Law</title>
     <link>https://libmind.github.io/j45_john_law/</link>
     <pubDate>Thu, 01 Dec 2022 14:11:45 &#43;0800</pubDate>
@@ -13,23 +22,14 @@
                 <img src="/img/j45_john_law/long/1.png" referrerpolicy="no-referrer">
             </div>A Scottish Adventurer of the Eighteenth Century]]></description>
 </item><item>
-    <title>English_book_name</title>
-    <link>https://libmind.github.io/j30_dopamine_nation/</link>
-    <pubDate>Thu, 01 Dec 2022 13:07:06 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://libmind.github.io/j30_dopamine_nation/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/e37_365_days_with_self_discipline/long/2.png" referrerpolicy="no-referrer">
-            </div>summary]]></description>
-</item><item>
-    <title>English_book_name</title>
+    <title>Deep Work</title>
     <link>https://libmind.github.io/j41_deep_work/</link>
     <pubDate>Thu, 01 Dec 2022 13:07:06 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://libmind.github.io/j41_deep_work/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/j41_deep_work/long/1.png" referrerpolicy="no-referrer">
-            </div>summary]]></description>
+            </div>Rules for Focused Success in a Distracted Workd]]></description>
 </item><item>
     <title>365 Days With Self-Discipline</title>
     <link>https://libmind.github.io/e37_365_days_with_self_discipline/</link>
